@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>A</title>
-    </head>
+<?xml version="1.0" encoding="UTF-8"?>
     <body>
         <h3 id="sx1">First Mission</h3>
         <blockquote>
@@ -11,8 +7,8 @@
             <blockquote class="o">
                 <p class="t">
                     <span class="c">Check fallen guards, you can do this twice to get two
-                        items</span>
-                <p class="a">Received "Potion"! 
+                        items</span></p>
+                <p class="a">Received "Potion"! </p>
             </blockquote>
             <p class="t">
                 <span class="c">Go forward</span>
@@ -25,31 +21,31 @@
             <table>
                 <tr>
                     <td>
-                        <p class="n">Biggs: 
+                        <p class="n">Biggs:</p> 
                     </td>
                     <td>
                         <p>Wow! You used to be in SOLDIER all right! ...Not everyday ya find one in
-                            a group like AVALANCHE. 
+                            a group like AVALANCHE. </p>
                     </td>
                 </tr>
             </table>
             <table>
                 <tr>
                     <td>
-                        <p class="n">Jessie: 
+                        <p class="n">Jessie:</p> 
                     </td>
                     <td>
-                        <p>SOLDIER? Aren't they the enemy? 
+                        <p>SOLDIER? Aren't they the enemy?</p> 
                     </td>
                 </tr>
             </table>
             <table>
                 <tr>
                     <td>
-                        <p class="n">Jessie: 
+                        <p class="n">Jessie: </p>
                     </td>
                     <td>
-                        <p>What's he doing with us in AVALANCHE? 
+                        <p>What's he doing with us in AVALANCHE?</p> 
                     </td>
                 </tr>
             </table>
@@ -1660,7 +1656,7 @@
                 </table>
             </blockquote>
             <blockquote class="o">
-                <p class="t">
+                <p class="t"></p>
                     <span class="c">Talk to Wedge</span>
                 <table>
                     <tr>
@@ -1674,7 +1670,7 @@
                 </table>
             </blockquote>
             <blockquote class="o">
-                <p class="t">
+                <p class="t"></p>
                     <span class="c">Talk to Jessie</span>
                 <table>
                     <tr>
@@ -4103,4 +4099,4 @@
             </li>
         </ul>
     </body>
-</html>
+
