@@ -1,0 +1,2468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<part n="1">
+   First Mission
+
+    [MD1STIN: Platform] Sector 1 train station
+
+    C'mon newcomer. Follow me.
+
+        Check fallen guards, you can do this twice to get two items
+
+        Received "Potion"!
+
+    Go forward
+
+    Battle: MP x2
+
+    Who goes there!?
+
+    Join group through doorway
+
+    [MD1_1: Sector 1 Station] In front of gate
+
+    Biggs:
+    	
+
+    Wow! You used to be in SOLDIER all right! ...Not everyday ya find one in a group like AVALANCHE.
+
+    Jessie:
+    	
+
+    SOLDIER? Aren't they the enemy?
+
+    Jessie:
+    	
+
+    What's he doing with us in AVALANCHE?
+
+    Biggs:
+    	
+
+    Hold it, Jessie. He WAS in SOLDIER.
+
+    He quit them and now is one of us.
+
+    Biggs:
+    	
+
+    Didn't catch your name...
+
+    Name Cloud
+
+    Cloud:
+    	
+
+    ...Cloud.
+
+    Biggs:
+    	
+
+    Cloud, eh? I'm...
+
+    Cloud:
+    	
+
+    I don't care what your names are. Once this job's over...I'm outta here.
+
+    The hell you all doin'!? I thought I told you never to move in a group!
+
+    Our target's the North Mako Reactor. We'll meet on the bridge in front of it.
+
+    Ex-SOLDIER, huh? Don't trust ya!
+
+    Name Barret
+
+    Barret:
+    	
+
+    If you push the Directional button while pushing the [CANCEL] button to run. (earlier marked [X])
+
+    Follow group through the gate and continue inside
+
+    [MD1_2: Sector 1] Streets leading up to the reactor. No dialogue.
+
+    [NRTHMK: No.1 Reactor] T-shaped walkway
+
+        Talk to Wedge
+
+        Wedge:
+        	
+
+        I'll secure the escape passage. Concentrate on the mission, Cloud.
+
+        Wedge:
+        	
+
+        Geez, we're really gonna blow this huge furnace up? This'll be somethin' to see!
+
+    [NMKIN_1: No.1 Reactor] Control room with locked doors
+
+    Barret:
+    	
+
+    Yo! This your first time in a reactor?
+
+    Cloud:
+    	
+
+    No. After all, I did work for Shinra, y'know.
+
+    Barret:
+    	
+
+    The planet's full of Mako energy. People here use it every day.
+
+    But none of 'em know what it really is. How 'bout you?
+
+    Barret:
+    	
+
+    It's the life blood of this planet. But Shinra keeps suckin' the blood out with these weird machines.
+
+    Cloud:
+    	
+
+    I'm not here for a lecture. Let's just hurry.
+
+    Barret:
+    	
+
+    That's it! You're comin' with me from now on.
+
+    Barret:
+    	
+
+    Now let's go into the reactor! From here on out, you stick with me.
+
+    Leave this to me!
+
+    Don't mess up SOLDIER-boy!
+
+    Bring Barret back alive!
+
+    Put Barret in back row, talk to Biggs
+
+    If first door has not been deciphered
+
+        Biggs:
+        	
+
+        Code deciphered
+
+    Otherwise
+
+        Biggs:
+        	
+
+        Think how many of our people risked their lives, just for this code...
+
+    Talk to Jessie
+
+    If first door has not been deciphered
+
+        Jessie:
+        	
+
+        Biggs and I got the code for this door.
+
+    If first door has been deciphered, but second door has not
+
+        Jessie:
+        	
+
+        Code deciphered
+
+        Check chest in lower right room
+
+        Received "Phoenix Down"!
+
+    Talk to Jessie, follow her into elevator
+
+    [ELEVTR1: No.1 Reactor] Inside the elevator
+
+    Jessie:
+    	
+
+    Push that button over there!
+
+    Push switch
+
+    Switch On.
+
+    Barret:
+    	
+
+    Little by little the reactors'll drain out all the life. And that'll be that.
+
+    Cloud:
+    	
+
+    It's not my problem.
+
+    Barret:
+    	
+
+    The planet's dyin', Cloud!
+
+    Cloud:
+    	
+
+    The only thing I care about is finishin' this job before security and the Roboguards come.
+
+    Follow Jessie, talk to her
+
+    [NMKIN_3: No.1 Reactor] Service access area with ladders
+
+    Jessie:
+    	
+
+    Push the [OK] button in front of a ladder to grab on to it. After that, use the [Directional button] to move up and down.
+
+    Go down ladder, continue down
+
+    [NMKIN_5: No.1 Reactor] Reactor core
+
+    Check the item on the ground
+
+    Received "Restore" Materia!
+
+    Cloud:
+    	
+
+    This is...... Materia...
+
+    Continue forward
+
+    Barret:
+    	
+
+    When we blow this place, this ain't gonna be nothin' more than a hunka junk.
+
+    Barret:
+    	
+
+    Cloud, you set the bomb.
+
+    Cloud:
+    	
+
+    Shouldn't you do it?
+
+    Barret:
+    	
+
+    Jus' do it! I gotta watch to make sure you don't pull nothin'.
+
+    Cloud:
+    	
+
+    Fine, be my guest.
+
+    Watch out! This isn't just a reactor!!
+
+    Barret:
+    	
+
+    ......What's wrong?
+
+    Cloud:
+    	
+
+    Huh?
+
+    Barret:
+    	
+
+    What's wrong, Cloud? Hurry it up!
+
+    Cloud:
+    	
+
+    ...Yeah, sorry.
+
+    Barret:
+    	
+
+    Heads up, here they come!
+
+    Boss is weak against lightning but immune to gravity. It has a strong counterattack when its tail is raised. Win Assault Gun.
+
+    Battle: Guard Scorpion
+
+        First and third turns
+
+            Locked On Target
+
+        After 4 turns
+
+            If Cloud is alive
+
+                If Barret is also alive
+
+                    Cloud "Barret, be careful!"
+
+                If Barret is dead
+
+                    Cloud "It's gonna fire that laser..."
+
+                Attack while it's tail's up!
+
+                It's gonna counterattack with its laser.
+
+            If Cloud is dead
+
+                Barret "I dunno what's goin' on, but..."
+
+                it looks pretty bad.
+
+                Let's see what it does when it's tail's up...
+
+    Cloud:
+    	
+
+    Come on, let's get outta here!
+
+    Ten minutes to detonation!
+
+    Cloud:
+    	
+
+    The alarm!
+
+    Two minutes remaining
+
+    One minute remaining
+
+    Thirty seconds remaining
+
+    Ten seconds remaining
+
+    Five seconds remaining
+
+    Four seconds remaining
+
+    Three seconds remaining
+
+    Two seconds remaining
+
+    One second remaining
+
+    Equip Barret with Assault Gun, retrace path up
+
+The Way Back
+
+    [NMKIN_3: No.1 Reactor] Service access area with ladders
+
+    Check item in front of Jessie
+
+    Received "Potion"!
+
+    Talk to Jessie
+
+    Cloud:
+    	
+
+    You all right?
+
+    Jessie:
+    	
+
+    My leg got stuck.
+
+    Jessie:
+    	
+
+    Thanks!
+
+    Go back to the top and talk to Jessie
+
+    [NMKIN_1: No.1 Reactor] Control room with locked doors
+
+    If second door has not been deciphered
+
+        Jessie:
+        	
+
+        Code deciphered
+
+    Otherwise
+
+        Jessie:
+        	
+
+        Alright, be careful.
+
+    Talk to Biggs
+
+    If you didn't help free Jessie's leg
+
+        Biggs:
+        	
+
+        Jessie still hasn't come up yet!
+
+    If second door has been deciphered, but first door has not
+
+        Biggs:
+        	
+
+        Code deciphered
+
+    Otherwise
+
+        Biggs:
+        	
+
+        Let's go!
+
+    Biggs:
+    	
+
+    Just let my guard down for a minute... And the enemy got behind me...
+
+    Can't decipher code without Jessie
+
+    Can't decipher code without Biggs
+
+    Get out of the reactor
+
+    [MD8_4] Inside tunnel sealed by debris
+
+    Biggs:
+    	
+
+    That should keep the planet going... at least a little longer.
+
+    Wedge:
+    	
+
+    Yeah.
+
+    Barret:
+    	
+
+    .........
+
+    Jessie:
+    	
+
+    OK! Now everyone get back.
+
+    [MD8_1: Sector 8] Outside tunnel
+
+    Barret:
+    	
+
+    All right, now let's get out of here.
+
+    Barret:
+    	
+
+    Rendezvous at Sector 8 station! Split up and get on the train!
+
+    Cloud:
+    	
+
+    H, hey!
+
+    Barret:
+    	
+
+    If it's about your money Save it 'til we're back at the hideout.
+
+    Follow Barret up stairs
+
+    [MD8_2] Streets
+
+    Flower girl:
+    	
+
+    Excuse me.
+
+    Flower girl:
+    	
+
+    What happened?
+
+        You'd better get out of here
+
+            Flower girl:
+            	
+
+            Really? I don't know what's going on, but all right.
+
+        Nothing...hey, listen...
+
+            Cloud:
+            	
+
+            ............
+
+                Don't see many flowers around here
+
+                    Flower girl:
+                    	
+
+                    Oh, these? Do you like them? They're only a gil...?
+
+                Never mind
+
+                    Flower girl:
+                    	
+
+                    What! Tell me!
+
+                    Flower girl:
+                    	
+
+                    Uh,excuse me,would you like to buy some flowers? They're only one gil.
+
+                Buy one
+
+                    Choose this if you want to date Tifa/Barret
+
+                    Flower girl:
+                    	
+
+                    Oh, thank you!
+
+                    Flower girl:
+                    	
+
+                    Here you are!
+
+                Forget it
+
+                    Choose this if you want to date Aeris/Yuffie
+
+                    Flower girl:
+                    	
+
+                    Ahh...not again.
+
+    What an explosion!
+
+    Think it's another Mako reactor accident?
+
+    Continue down
+
+    [MD8_3] Square with a fountain in the middle
+
+        Talk to the person walking
+
+        Just what the hell's going on!?
+
+        Talk to the person standing
+
+        Wonder what that is on the wall over there. Let's see...
+
+        Don't be fooled by Shinra! Mako energy doesn't last forever! Mako is the planet's lifesource! The end is in sight!
+
+        Protectors of the planet: AVALANCHE
+
+        Check item on the left side
+
+        Received "Potion"!
+
+    A paper hung on the wall
+
+    Continue down street. Quickly choose "Later!" if you don't want to fight the battles.
+
+    [MD8BRDG: Sector 8] Street overlooking train tracks
+
+    Soldier:
+    	
+
+    Hey! You there!!
+
+    Cloud:
+    	
+
+    Shinra Soldiers......
+
+        Fight them!
+
+            Battle: MP x2
+
+            What the?
+
+            Cloud:
+            	
+
+            hmph!
+
+        Later!
+
+            Soldier:
+            	
+
+            Halt!!
+
+        Fight them!
+
+            Battle: MP x3
+
+            Soldier:
+            	
+
+            That's him!!
+
+            Cloud:
+            	
+
+            hmph!
+
+        Later!
+
+        Fight them!
+
+            Battle: MP x3 (from both sides)
+
+            Soldier:
+            	
+
+            Over here!!
+
+            Cloud:
+            	
+
+            hmph!
+
+        Later!
+
+    Soldier:
+    	
+
+    That's as far as you go.
+
+    Cloud:
+    	
+
+    I don't have time to be messin' around with you guys.
+
+    Soldier:
+    	
+
+    Enough babbling...... Grab him!!
+
+    Cloud:
+    	
+
+    What a pain......
+
+Train Ride
+
+    [CARGOIN: Last Train from Midgar] Cargo car on the train
+
+    Wedge:
+    	
+
+    Cloud never came.
+
+    Biggs:
+    	
+
+    Cloud...... Wonder if he was killed?
+
+    Barret:
+    	
+
+    No way!!
+
+    Ain't no way he'd ever disappear without getting his money!!
+
+    Jessie:
+    	
+
+    Cloud......
+
+    Biggs:
+    	
+
+    Say, do you think Cloud's......
+
+    Going to fight to the end for AVALANCHE!?
+
+    Barret:
+    	
+
+    The hell would I know!? Do I look like a mind reader?
+
+    Hmph!! If y'all weren't such screw-ups...
+
+    We wouldn't be needin' to hire guys like him......
+
+    Wedge:
+    	
+
+    Hey, Barret! What about our money...?
+
+    Uh, nothin'...sorry.
+
+    Ahhh......
+
+    Wedge:
+    	
+
+    Cloud!!
+
+    Biggs:
+    	
+
+    Cloud!!
+
+    Jessie:
+    	
+
+    Cloud......
+
+    Cloud:
+    	
+
+    Looks like I'm a little late.
+
+    Barret:
+    	
+
+    You damn right, you're late!!
+
+    Come waltzin' in here makin' a big scene!
+
+    Cloud:
+    	
+
+    It's no big deal. Just what I always do.
+
+    Barret:
+    	
+
+    Shi't!
+
+    Havin' everyone worried like that you don't give a damn 'bout no one but yourself!
+
+    Cloud:
+    	
+
+    Hmm...... You were worried about me!
+
+    Barret:
+    	
+
+    Wha!?
+
+    I'm takin' it outta your money, hot stuff!
+
+    Barret:
+    	
+
+    Wake up!
+
+    We're movin' out! Follow me!
+
+    Wedge:
+    	
+
+    Hey, Cloud!! You were great back there!
+
+    Biggs:
+    	
+
+    Heh heh......Cloud! We'll do even better next time.
+
+    Jessie:
+    	
+
+    Be careful, I'll shut this.
+
+    Jessie:
+    	
+
+    Oh, Cloud!! Your face is pitch-black......
+
+    Jessie:
+    	
+
+    There you go!
+
+    Jessie:
+    	
+
+    Say, thanks for helping me back there at the Reactor!
+
+    Cloud:
+    	
+
+    Yeah......
+
+        That's OK
+
+            Cloud:
+            	
+
+            Don't mention it.
+
+            Jessie:
+            	
+
+            But, I...... I was just glad...
+
+        Quit thanking me
+
+            Cloud:
+            	
+
+            It bugs me when you thank me. It's just a part of my job.
+
+            Jessie:
+            	
+
+            Cloud......
+
+            You're right. We're just work friends...
+
+    Cloud:
+    	
+
+    It's not ready yet...... Whoa......!!
+
+    Shut-off the switch in this position.
+
+    We can escape from the train event...... Did it!! 4th failure 3rd failure 2nd failure 1st failure Escaped
+
+    Follow Jessie
+
+    [TIN_1: Last Train from Midgar] Passenger car on the train
+
+    This is the end of the Test Play.
+
+    Last train out of Sector 8 Station. Last stop is Sector 7, Train Graveyard. Expected time of arrival is 12:23AM, Midgar Standard Time...
+
+    This is why I hate the last train. Hoo-boy...
+
+        Talk to the man sleeping on the right
+
+        Huh...? This is my house, so make yourselves at home.
+
+        Talk to the man sitting on the left
+
+        You see the headlines in the Shinra Times?
+
+        The terrorists that bombed the No. 1 Reactor are based somewhere in the slums.
+
+        ...blowing up a Reactor... they sure put some thought into this one.
+
+        They must have a real calculating leader. I wonder what they'll do next?
+
+        Talk to Barret
+
+        Barret:
+        	
+
+        Stop actin' like a damn kid. Si'down an' shu'up!
+
+        Talk to Biggs
+
+        Biggs:
+        	
+
+        It seems this train hasn't switched to security mode yet.
+
+        I'm sure that will change by tomorrow.
+
+        Talk to Biggs again
+
+        Biggs:
+        	
+
+        ...YAWN...that sure took its toll on me. I'm gonna sleep till we get to the station.
+
+        Talk to Wedge
+
+        Wedge:
+        	
+
+        Someday AVALANCHE's gonna be famous ...and me, too!
+
+        Talk to Wedge again
+
+        Wedge:
+        	
+
+        Cloud!!
+
+        Don't ya think I got a bright future ahead of me?
+
+            What do you have in mind?
+
+                Wedge:
+                	
+
+                All my life, I felt like nothin' but a sidekick.
+
+                But, after joinin' AVALANCHE and tryin' to save the Planet, I feel like I can do lots of things.
+
+            I wouldn't hold my breath
+
+                Wedge:
+                	
+
+                Oh man, that's pretty harsh, Cloud. You really think I won't?
+
+        Try to go into next car
+
+        Please!! You're bothering the other passengers.
+
+    Hey!! What's going on here...!?
+
+    Oops, uh, n, nothing...
+
+    Please don't make any trouble.
+
+    ...mumble...grumble... (...Reactor's blown to bits... ...Bad things just never seem to stop... ...What a day!)
+
+    To the Route Map Screen
+
+    Talk to Jessie
+
+    Jessie:
+    	
+
+    Hey, Cloud. You want to look at this with me?
+
+    It's a map of the Midgar Rail System. Let's look at it together. I'll explain it to you.
+
+    Jessie:
+    	
+
+    I like this kinda stuff. Bombs and monitors...you know, flashy stuff.
+
+    [ROOTMAP: Last Train from Midgar] Screen showing an animation of Midgar's structure
+
+    Jessie:
+    	
+
+    Okay, it's about to start.
+
+    Jessie:
+    	
+
+    This is a complete model of the city of Midgar.
+
+    It's about a 1/10000 scale.
+
+    The top plate is about 50 meters above ground.
+
+    A main support structure holds the plate up in the center, and there are other support structures built in each section...
+
+    psst...whisper...whisper... (The No. 1 Reactor we blew up was in the northern section.)
+
+    Then there's No.2, No.3 all the way up to the No.8 Reactor.
+
+    The 8 Reactors provide Midgar with electricity.
+
+    Each town used to have a name, but no one in Midgar remembers them.
+
+    Instead of names, we refer to them by numbered sectors. That's the kind of place this is.
+
+    Jessie:
+    	
+
+    Phew..., this is next! Look.
+
+    Jessie:
+    	
+
+    This is the route this train is on.
+
+    The route spirals around the main support structure.
+
+    We should be coming around the center area, right now.
+
+    At each checkpoint, an ID sensor device is set up.
+
+    It can check the identities and background on each and every passenger on the train by linking it up to the central data bank at Shinra headquarters.
+
+    whisper...whisper... (Anyone could tell that we look suspicious, so we're using fake ID's.)
+
+    Jessie:
+    	
+
+    Cloud! Look this way.
+
+    [TIN_1: Last Train from Midgar] Passenger car
+
+    Jessie:
+    	
+
+    Speak of the devil...
+
+    That light means that we're in the ID Security Check area.
+
+    ...whisper...whisper... (When the lights go off, you never know what kind of creeps'll come out.)
+
+    ...anyhow, we're almost back now. That's a relief.
+
+        Talk to Biggs
+
+        Biggs:
+        	
+
+        ...snore...heebeebeeheebee...snore... (Don't act so damn big, Barret...snooze...)
+
+        Talk to Wedge
+
+        Wedge:
+        	
+
+        I'm seein' stars. This sucks. I hate the dark.
+
+        Talk to Jessie
+
+        Jessie:
+        	
+
+        I know!
+
+        Next time, I'll give you one I made myself.
+
+            Thanks anyway
+
+                Jessie:
+                	
+
+                Oh yeah, you might regret it. I'm the type who takes things personal.
+
+            Looking forward to it
+
+                Choose this if you want to date Aeris/Yuffie/Barret
+
+                Jessie:
+                	
+
+                Okay, then I'll put a little extra effort in and make it with a BANG.
+
+        Talk to Jessie again
+
+        Jessie:
+        	
+
+        We're almost there. After talking with you, I really want to do it!
+
+        I think you've lit my fuse!
+
+    Walk toward Barret
+
+    Barret:
+    	
+
+    Look...you can see the surface now. This city don't have no day or night.
+
+    If that plate weren't there... we could see the sky.
+
+    Cloud:
+    	
+
+    A floating city... Pretty unsettling scenery.
+
+    Barret:
+    	
+
+    Huh?
+
+    Never expect ta hear that outta someone like you.
+
+    ...you jes' full of surprises.
+
+    Barret:
+    	
+
+    The upper world...a city on a plate...
+
+    It's 'cuz of that &^#$# 'pizza', that people underneath are sufferin'!
+
+    Barret:
+    	
+
+    All the pollution from Mako energy above falls down on the world below.
+
+    Barret:
+    	
+
+    And the city below is full of polluted air.
+
+    Barret:
+    	
+
+    On topa that, the Reactor keeps drainin' up all the energy.
+
+    'Cuz of that, the land withers away. It ain't even got the power to clean up the air.
+
+    Cloud:
+    	
+
+    Then why doesn't everyone move onto the Plate?
+
+    Barret:
+    	
+
+    Dunno. Probably 'cuz they ain't got no money. Or, maybe...
+
+    'Cuz they love their land, no matter how polluted it gets.
+
+    Cloud:
+    	
+
+    I know... no one lives in the slums because they want to.
+
+    It's like this train. It can't run anywhere except where its rails take it.
+
+Arrival
+
+    [MDS7ST3: Sector 7 Station]
+
+    Barret:
+    	
+
+    Yo!! Get over here, all'ya!!
+
+        Walk toward the right side
+
+        Barret:
+        	
+
+        Yo, Cloud! You lissen up!
+
+    Barret:
+    	
+
+    Yo! What'chu doin' now!
+
+    Walk down toward Barret
+
+    Barret:
+    	
+
+    This mission was a success. But don't get lazy now.
+
+    The hard part's still to come! Don't y'all be scared of that explosion!
+
+    Barret:
+    	
+
+    Cause the next one's gonna be bigger than that!
+
+    Barret:
+    	
+
+    Meet back at the hideout!! Move out!
+
+    Tifa:
+    	
+
+    Cloud... Don't be so distant. Everyone wants to be your friend. I'm sure...
+
+    Barret:
+    	
+
+    Damn, man!! I'm here to fight! Don't care 'bout bein' nobody's friend.
+
+    Barret:
+    	
+
+    Let's go! Don't be late!
+
+    Biggs:
+    	
+
+    uh, Barret... We, uh...
+
+    Wedge:
+    	
+
+    We can't do it. We just can't do it.
+
+    Jessie:
+    	
+
+    Don't worry! Don't get all worried!
+
+    Jessie:
+    	
+
+    Cloud! Let's make the mission work!
+
+    Jessie:
+    	
+
+    Cloud...? When this mission's over...
+
+    Why don't all of us take a long vacation. I don't know......
+
+        Maybe we could go to a hot springs somewhere?
+
+            Cloud:
+            	
+
+            Yeah...... If I feel like it.
+
+            Jessie:
+            	
+
+            Alrighty then! It's a date!
+
+        Yeah......
+
+            Cloud:
+            	
+
+            You never know what lies ahead.
+
+            Jessie:
+            	
+
+            ...how lovely. I might just have to tempt you, then.
+
+    Barret:
+    	
+
+    Yo, you all done flappin' your gums!? Go! Get on that train!
+
+    More optional dialogue is available in Sector 7. Follow group, talk to Barret when ready.
+
+    [MDS7: Sector 7 Slums] Main area of Sector 7 with houses
+
+    If Tifa hasn't gone inside yet
+
+        First time
+
+            Barret:
+            	
+
+            Heh heh...
+
+            You wanna meet your little baby?
+
+                Little baby?
+
+                    Barret:
+                    	
+
+                    Hey! Don' act like you don't know what I mean!
+
+                    I'm tellin' you...
+
+                Out of my way!
+
+                    Barret:
+                    	
+
+                    Heh! Jes calm down.
+
+                    Can't have people suspectin' us.
+
+        Afterwards
+
+            Barret:
+            	
+
+            Heh! Jes calm down.
+
+            Can't have people suspectin' us.
+
+    After Tifa goes inside
+
+        Barret:
+        	
+
+        Ok! Go on ahead.
+
+        Talk to Barret again after he lets you in, or just wait a few seconds
+
+        Barret:
+        	
+
+        You! Cloud!! Get off your slow-movin' ass!!
+
+    Barret:
+    	
+
+    All right!! You losers go on ahead!!
+
+    Barret:
+    	
+
+    The hell're you doin', boy? The operation's already started!!
+
+    Go into bar
+
+7th Heaven
+
+    [MDS7PB_1: 7th Heaven] Inside the bar
+
+    Papa!!
+
+    Marlene! Aren't you going to say anything to Cloud?
+
+    Welcome home, Cloud. Looks like everything went well.
+
+    Did you fight with Barret?
+
+        Yeah
+
+            I should have known.
+
+            He's always pushing people around, and you've always been in fights ever since you were little.
+
+            I was worried.
+
+        Not this time
+
+            Hmm. You've grown up.
+
+            When you were little you used to get into fights at the drop of a hat.
+
+    Name Tifa
+
+    If you bought flower from Aeris
+
+        Tifa:
+        	
+
+        Flowers? How nice...
+
+        You almost never see them here in the slums.
+
+        Tifa:
+        	
+
+        But...
+
+        A flower for me? Oh Cloud, you shouldn't have...
+
+        Cloud:
+        	
+
+        No big.
+
+            Give it to Tifa
+
+                Choose this if you want to date Tifa
+
+                Tifa:
+                	
+
+                Thank you, Cloud. It smells wonderful.
+
+                Maybe I should fill the store with flowers.
+
+                Tifa:
+                	
+
+                Cloud, this one still has roots. I can probably start others from it.
+
+            Give it to Marlene
+
+                Choose this if you want to date Barret
+
+    Otherwise
+
+        Tifa:
+        	
+
+        I'm so glad everyone's safe.
+
+        Talk to Biggs
+
+        Biggs:
+        	
+
+        Aaah!! Nothin' like that first drink after a job.
+
+        Biggs:
+        	
+
+        Hic!!
+
+        Why don't you have one too?
+
+            No
+
+                What!? You tellin' me you're too good to drink with me?
+
+                Don't act big-headed jus' because you were in SOLDIER!
+
+            Yeah, why not?
+
+                Biggs:
+                	
+
+                Oh!! That's more like it!!
+
+                Even if you were with SOLDIER, you're still a rookie here. So you'd better listen to whatever I tell ya!
+
+        Talk to Biggs again
+
+        Biggs:
+        	
+
+        Hic...!!
+
+        Oh...... Don't tell Barret what I jus said.
+
+    Biggs:
+    	
+
+    You know, Cloud. Barret says those things, but......
+
+    We're really unstable right now. If SOLDIER were to show up, they'd whup us.
+
+        Talk to Wedge
+
+        Wedge:
+        	
+
+        Oh, Cloud!
+
+        Tifa really knows how to cook. Mmm, mmm......
+
+        Anyway, let me tell you somethin'
+
+            About what?
+
+                Tifa always lets me taste her cooking.
+
+                And look at me now, I'm rolly-polly.
+
+                Don't know whether I should be happy or sad. But it's the good food and drinks that make this shop famous.
+
+            I'm not interested in your stories
+
+                Cloud...... ......forget it.
+
+    Wedge:
+    	
+
+    Cloud, ya gotta help us. I'm really scared.
+
+        Talk to Jessie
+
+        Jessie:
+        	
+
+        Careless...... You're getting all excited.
+
+        Wonder what for......?
+
+    Jessie:
+    	
+
+    Cloud...... It's painful.
+
+    Why is that?
+
+        Talk to Marlene
+
+        Marlene:
+        	
+
+        ............
+
+        Talk to Tifa
+
+        Tifa:
+        	
+
+        Sorry, Cloud. Marlene seems a little shy.
+
+    enter name
+
+    Try to go outside
+
+    Marlene:
+    	
+
+    Papa, welcome home!
+
+    If Marlene got flower
+
+        Barret:
+        	
+
+        Yeah.
+
+        Barret:
+        	
+
+        Huh? Where'd you get that flower?
+
+        Marlene:
+        	
+
+        Cloud gave it to me.
+
+        Barret:
+        	
+
+        Oh......
+
+        Barret:
+        	
+
+        Did you thank him?
+
+        ............
+
+        Marlene:
+        	
+
+        Thank you, Cloud.
+
+        We'll take care of you.
+
+    Tifa:
+    	
+
+    You all right, Barret?
+
+    Barret:
+    	
+
+    Great!!
+
+    Barret:
+    	
+
+    Get in here, fools!! We're startin' the meetin'!!
+
+        Approach bar stools
+
+        Tifa:
+        	
+
+        Sit down.
+
+        Tifa:
+        	
+
+        How about...
+
+        ...something to drink?
+
+            I don't feel like it
+
+                Tifa:
+                	
+
+                OHH!!
+
+                I can make a drink just as good as anyone else.
+
+                Everyone says, my drinks taste the best!
+
+            Give me something hard
+
+                Choose this if you want to date Tifa
+
+                Tifa:
+                	
+
+                Just a minute. I'll make one for you.
+
+                Tifa:
+                	
+
+                You know, I'm relieved you made it back safely.
+
+                Cloud:
+                	
+
+                What's with you all of a sudden? That wasn't even a tough job.
+
+                Tifa:
+                	
+
+                I guess not...
+
+                You were in SOLDIER.
+
+                Tifa:
+                	
+
+                Make sure you get your pay from Barret.
+
+                Cloud:
+                	
+
+                Don't worry. Once I get that money, I'm outta here.
+
+        Tifa:
+        	
+
+        Cloud. Are you feeling all right?
+
+        Cloud:
+        	
+
+        ...yeah... Why?
+
+        Tifa:
+        	
+
+        No reason. You just look a little tired I guess.
+
+        Talk to Tifa
+
+        If she hasn't offered you a drink yet
+
+            Tifa:
+            	
+
+            Cloud... come over here.
+
+        Otherwise
+
+            Tifa:
+            	
+
+            You'd better go down below.
+
+    Tifa:
+    	
+
+    Everyone is down below.
+
+    Marlene:
+    	
+
+    ..................
+
+    New optional dialogue is available in Sector 7. Ride the pinball machine downstairs when ready.
+
+Debriefing
+
+    [MDS7PB_2: AVALANCHE Hideout] Basement of the bar
+
+        Check TV
+
+        President Shinra:
+        	
+
+        .........today the No.1 Reactor was bombed. The terrorist group AVALANCHE has claimed responsibility for the bombing.
+
+        It is expected that AVALANCHE will continue its reign of terror.
+
+        But citizens of Midgar, there is no need to fear.
+
+        I have immediately mobilized SOLDIER to protect our citizenry against this senseless violence. Thank you and good night.
+
+        Talk to Wedge
+
+        Wedge:
+        	
+
+        You think I'm a little too uptight?
+
+            Yeah...
+
+                The next mission will be to blow up the Sector 5 Reactor.
+
+                Cloud, you're great! Don't you ever get nervous?
+
+                Or are you like, impervious to feelings? Naw, that couldn't be it.
+
+            No...
+
+                Well, that's ok. Don't worry about me. I don't look like it, but I'm a coward at heart.
+
+        Talk to Jessie
+
+        Jessie:
+        	
+
+        Oops...
+
+        Hey, look at the news... What a blast.
+
+        Think it was all because of my bomb? But all I really did was just make it like the computer told me.
+
+        Oh no! I must've made a miscalculation somewhere.
+
+        Talk to Jessie again
+
+        Jessie:
+        	
+
+        Hey, that was my bomb's debut. Makes me kinda proud.
+
+    Approach Barret
+
+    Barret:
+    	
+
+    Yo, Cloud! There's somethin' I wanna ask ya.
+
+    Was there anyone from SOLDIER fighting us today?
+
+    Cloud:
+    	
+
+    None. I'm positive.
+
+    Barret:
+    	
+
+    You sound pretty sure.
+
+    Cloud:
+    	
+
+    If there was anyone from SOLDIER you wouldn't be standing here now.
+
+    Barret:
+    	
+
+    Don't go thinkin' you so bad jes cuz you was in SOLDIER.
+
+    Cloud:
+    	
+
+    ............
+
+    Barret:
+    	
+
+    Yeah, you're strong.
+
+    Probably all them guys in SOLDIER are.
+
+    But don't forget that your skinny ass's workin' for AVALANCHE now!
+
+    Don't get no ideas 'bout hangin' on to Shinra.
+
+    Cloud:
+    	
+
+    Stayin' with Shinra?
+
+    You asked me a question and I answered it...that's all.
+
+    Cloud:
+    	
+
+    I'm going upstairs. I want to talk about my money.
+
+        Talk to Barret
+
+        Barret:
+        	
+
+        Shucks!! ............money...
+
+        Talk to Marlene
+
+        Marlene:
+        	
+
+        Papa, you're so great!
+
+    Go back toward pinball machine
+
+    Tifa:
+    	
+
+    Wait, Cloud!
+
+    Barret:
+    	
+
+    Tifa! Let him go!
+
+    Looks like he still misses the Shinra!
+
+    Cloud:
+    	
+
+    Shut up!
+
+    I don't care about either Shinra or SOLDIER!
+
+    But don't get me wrong!
+
+    I don't care about AVALANCHE or the Planet for that matter!
+
+        Talk to Wedge
+
+        Wedge:
+        	
+
+        .......Cloud.
+
+        You say you don't care, but you came to talk to me.
+
+        Cloud... You just want friends.
+
+        Isn't that right?
+
+            Blow off
+
+                Yeah, well. You look kind of lonely to me.
+
+                If you ever got anything you want to get off your chest, you can always talk to me.
+
+            I really don't care
+
+                You're terrible. Real cold blooded.
+
+        Talk to Jessie
+
+        Jessie:
+        	
+
+        Money...
+
+        Oh my. It must have been for a lot of it.
+
+        Sure! Well, what the hell? It's a verbal agreement. Now let me figure this out.
+
+        Oh stop it, Cloud! Did you hear me?
+
+        Talk to Tifa
+
+        Tifa:
+        	
+
+        Straighten things up with everyone for me.
+
+    Go upstairs, try to leave
+
+Childhood Promise
+
+    [MDS7PB_1: 7th Heaven]
+
+    Tifa:
+    	
+
+    Listen, Cloud. I'm asking you. Please join us.
+
+    Cloud:
+    	
+
+    Sorry Tifa...
+
+    Tifa:
+    	
+
+    The Planet is dying. Slowly but surely it's dying.
+
+    Someone has to do something.
+
+    Cloud:
+    	
+
+    So let Barret and his buddies do something about it.
+
+    It's got nothin' to do with me.
+
+    Barret:
+    	
+
+    You damn right we'll do something about it. N' you stay outta this Tifa!
+
+    Tifa:
+    	
+
+    So! You're really leaving !?
+
+    Tifa:
+    	
+
+    You're just going to walk right out ignoring your childhood friend !?
+
+    Cloud:
+    	
+
+    What......?
+
+        How can you say that!
+
+            Choose this if you want to date Tifa
+
+        ......Sorry
+
+            Choose this if you want to date Aeris/Yuffie/Barret
+
+    Tifa:
+    	
+
+    Please Cloud...
+
+    Tifa:
+    	
+
+    Cloud... I can't believe this is goodbye.
+
+    Tifa:
+    	
+
+    ......You forgot the promise, too.
+
+    Cloud:
+    	
+
+    Promise?
+
+    Tifa:
+    	
+
+    So you DID forget.
+
+    Tifa:
+    	
+
+    Remember......Cloud. It was seven years ago...
+
+    [NIVL_E1] Flashback scene by the well in Nibelheim
+
+    Tifa:
+    	
+
+    Look, the well.
+
+    Do you remember?
+
+    Cloud:
+    	
+
+    Yeah...back then.
+
+    Cloud:
+    	
+
+    I thought you would never come, and I was getting a little cold.
+
+    Tifa:
+    	
+
+    Sorry I'm late.
+
+    Tifa:
+    	
+
+    You said you wanted to talk to me about something?
+
+    Cloud:
+    	
+
+    Come this spring...I'm leaving this town for Midgar.
+
+    Tifa:
+    	
+
+    ...All boys are leaving our town.
+
+    Cloud:
+    	
+
+    But I'm different from all of them. I'm not just going to find a job.
+
+    Cloud:
+    	
+
+    I want to join SOLDIER.
+
+    Cloud:
+    	
+
+    I'm going to be the best there is, just like Sephiroth!
+
+    Tifa:
+    	
+
+    Sephiroth... The Great Sephiroth.
+
+    Cloud:
+    	
+
+    I thought about Sephiroth all the time. Even in my sleep. My mom just gave up on me.
+
+    Tifa:
+    	
+
+    I had no idea you were thinking that way...
+
+    Tifa:
+    	
+
+    But, what about our promise?
+
+    Tifa:
+    	
+
+    Isn't it hard to join SOLDIER?
+
+    Cloud:
+    	
+
+    ...I probably won't be able to come back to this town for a while.
+
+    Cloud:
+    	
+
+    ...huh?
+
+    Tifa:
+    	
+
+    Will you be in the newspapers if you do well?
+
+    Cloud:
+    	
+
+    I'll try.
+
+    Tifa:
+    	
+
+    Hey, why don't we make a promise?
+
+    Tifa:
+    	
+
+    Umm, if you get really famous and I'm ever in a bind......
+
+    You come save me, all right?
+
+    Cloud:
+    	
+
+    What?
+
+    Tifa:
+    	
+
+    Whenever I'm in trouble, my hero will come and rescue me.
+
+    I want to at least experience that once.
+
+    Cloud:
+    	
+
+    What?
+
+    Cloud:
+    	
+
+    Ha, ha, ha! What's that!
+
+    Tifa:
+    	
+
+    You're laughing at me!
+
+    Tifa:
+    	
+
+    Come on--! Promise me----!
+
+    Cloud:
+    	
+
+    All right......I promise.
+
+    [MDS7PB_1: 7th Heaven] End flashback
+
+    Tifa:
+    	
+
+    You remember now, don't you... our promise?
+
+    Cloud:
+    	
+
+    I'm not a hero and I'm not famous. I can't keep......the promise.
+
+    Tifa:
+    	
+
+    But you got your childhood dream, didn't you? You joined SOLDIER.
+
+    Tifa:
+    	
+
+    So come on! You've got to keep your promise......
+
+    Barret:
+    	
+
+    Wait a sec big-time SOLDIER!
+
+    Barret:
+    	
+
+    Whoa, wait a damn minute. Cloud!!
+
+    Barret:
+    	
+
+    A promise is a promise! Here!!
+
+    Barret:
+    	
+
+    There's your money. Now get the hell out!!
+
+    Received Barret's stash, 1500 gil!
+
+    Cloud:
+    	
+
+    This is my pay? Don't make me laugh.
+
+    Tifa:
+    	
+
+    What? Then you'll...!!
+
+    Cloud:
+    	
+
+    You got the next mission lined up? I'll do it for 3000.
+
+    Barret:
+    	
+
+    What......!?
+
+    Tifa:
+    	
+
+    It's ok, it's ok.
+
+    Tifa:
+    	
+
+    psst, psst...... (We're really hurting for help, right?)
+
+    Barret:
+    	
+
+    Uh......ugh...... (That money's for Marlene's schoolin'......)
+
+    Barret:
+    	
+
+    2000!
+
+    Tifa:
+    	
+
+    Thanks, Cloud.
+
+    Tifa:
+    	
+
+    Will you please come back? Ah, wait. Please wait.
+
+    The president of Shinra is going to read a statement.
+
+    President Shinra:
+    	
+
+    The terrorist group called AVALANCHE has claimed responsibility for today's bombing of the No.1 Mako Reactor.
+
+    It is also predicted that they will continue with similar terrorist activities in the future.
+
+    But I want the citizens of Midgar to be assured.
+
+    Shinra, Inc. has mobilized SOLDIER to protect you from any violence and thereby......
+
+    Tifa:
+    	
+
+    The next time we'll be up against...SOLDIER.
+
+    Tifa:
+    	
+
+    Cloud, then you'll help us?
+
+        A promise is a promise
+
+            Tifa:
+            	
+
+            I hate Barret.
+
+        But I still hate Barret
+
+            If this is the first time you answer this
+
+                Tifa:
+                	
+
+                You came to tell me that?
+
+            If this is the second time you answer this
+
+                Tifa:
+                	
+
+                He's not a bad person.
+
+            If this is the third time you answer this
+
+                Tifa:
+                	
+
+                Don't worry. I'll talk to him.
+
+            The first two times you pick this answer, Tifa will ask you the same question again
+
+    Tifa:
+    	
+
+    Come on. Let's go below!
+
+    Go back upstairs after sleeping
+
+The Next Morning
+
+    [MDS7PB_1: 7th Heaven]
+
+        Talk to Tifa. Don't do this if you want to date Aeris or Yuffie.
+
+        Tifa:
+        	
+
+        Good Morning! Cloud!
+
+        Did you sleep well?
+
+            Barret's snoring kept me up......
+
+                Choose this if you want to date Barret
+
+                Tifa:
+                	
+
+                psstpsst...
+
+                (keep it down, they'll hear you. Barret's always edgy before an operation.)
+
+            Next to you, who wouldn't?
+
+                Choose this if you want to date Tifa
+
+                Tifa:
+                	
+
+                I don't know what you mean.
+
+        Tifa:
+        	
+
+        I'm going this time.
+
+    Talk to Barret
+
+    Barret:
+    	
+
+    Our target's the Sector 5 Reactor. Head for the station first.
+
+    I'll fill you in on the train.
+
+    Barret:
+    	
+
+    Yo! Cloud!
+
+    Before the next mission, I got somethin' I wanna ask you!
+
+    I, uh,...... I don't really know how to use Materia!
+
+    I'll give you that Materia you found. Just teach me how to use it!
+
+    Cloud:
+    	
+
+    ...sigh...
+
+        Ok, I'll explain it
+
+            Sure, I'll explain how Materia works.
+
+            First, access the menu.
+
+            You know the basic functions.
+
+            The triangle button brings up the menu.
+
+            Directional buttons move the cursor,
+
+            like this.
+
+            Select each menu by using the OK button.
+
+            If you want to leave the menu,
+
+            just push the CANCEL button.
+
+            See? Let's go ahead.
+
+            Now you're in this menu.
+
+            Select [Materia] sub menu.
+
+            Select who you want to use it.
+
+            Now look at my weapon here.
+
+            Each weapon and armor has slots in it.
+
+            Choose which slot you want to put Materia in.
+
+            Now select the Materia you want to use.
+
+            This is curative Materia.
+
+            If you want to know what its effect is,
+
+            line the cursor up with [Check],
+
+            and push the OK button.
+
+            It's just like selecting battle commands.
+
+            Just line the cursor up to [Magic],
+
+            you can see that the available magic has increased.
+
+            Now you can use new magic [Cure].
+
+            And that's all there is to equipping Materia.
+
+            See? It wasn't that tough!
+
+            When you want to remove any Materia,
+
+            it's as easy as pointing to the materia slot,
+
+            and pushing the triangle button.
+
+            There's just one thing you have to be careful of.
+
+            Whenever you equip Materia,
+
+            your situation changes.
+
+            Parts of you may become stronger...
+
+            while others get weaker.
+
+            Normally, when you equip [Magic] Materia,
+
+            your magic power will get stronger.
+
+            But your physical strength weakens.
+
+            So, Materia's kind of a double-edged sword.
+
+            On the left side of the screen,
+
+            you can see the Materia's effect on you.
+
+            It's wise not to overuse Magic Materia.
+
+            But try out various things.
+
+            Push the CANCEL button to exit the sub menu.
+
+            Ok, that's about it.
+
+            I'll give you some advanced tips later.
+
+            Barret:
+            	
+
+            Shi......! What's this 'It wasn't that tough!' crap!
+
+            I'm clueless......
+
+            Well, you handle the Materia then!
+
+        You wouldn't understand
+
+            Barret:
+            	
+
+            So this is what makes them guys in SOLDIER so great, huh!?
+
+            Ok. I'll ask Jessie again later. But you're in charge of the Materia!
+
+    [Materia System] Access the menu and select [Materia] to equip Materia.
+
+    If you have not talked to Tifa in the morning
+
+        Tifa:
+        	
+
+        I'm going this time.
+
+    Tifa:
+    	
+
+    Cloud! I got a message from the Weapon Shop man upstairs.
+
+    He has something he wants to give you. Don't forget!
+
+    Tifa:
+    	
+
+    Marlene, you watch the store while we're gone!
+
+    Marlene:
+    	
+
+    All right!! Good Luck.
+
+    Barret:
+    	
+
+    Yo, Cloud.
+
+    Got a message from the old man at the weapon shop upstairs!
+
+    Said he's got somethin' special so come and get it!
+
+    Yo! If you pull somethin' funny... You now what I'll do to ya, right?
+
+    Yo! Try somethin' funny... An' you know what I'm gonna do, right!?
+
+        Talk to Marlene
+
+        Marlene:
+        	
+
+        Take care!
+
+    Thudthudthud!! That ???? is supposed to come in.
+
+    Cloud:
+    	
+
+    What's goin' on...? It's really shakin' a lot......
+
+    Cloud:
+    	
+
+    Tifa......? Tifa...? Where?
+
+    Cloud:
+    	
+
+    ...I'm going out......
+
+    New optional dialogue is available in Sector 7 and Beginner's Hall. New optional items can be picked up in Beginner's Hall. Do some shopping, and board the train when ready.
+    
+ </part>
