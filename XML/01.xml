@@ -1,12 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<html>
-<head>
-<title>Yinza.com - Final Fantasy VII Complete Script - Disc 1</title>
-<meta http-equiv="Content-Language" content="en">
-<script src="https://www.yinza.com/jquery.js"></script>
-<script src="https://www.yinza.com/scripts.js" type="text/javascript"></script>
-<link rel="stylesheet" type="text/css" href="https://www.yinza.com/styles.css">
-</head>
 
 <body>
 
@@ -221,7 +213,7 @@
 <p class="italic">Cloud walks over to join Barret in looking out the window.</p>
 <p class="indent"><b>Cloud</b><br/>A floating city... Pretty unsettling scenery.</p>
 <p class="italic">Barret gets up.</p>
-<p class="indent"><b>Barret</b><br/>Huh?<br/>Never expect ta hear that outta someone like you.<br/>...you jes' full of surprises.<br/>The upper world... a city on a plate...<br/>It's 'cuz of that &^#$# 'pizza', that people underneath are sufferin'!<br/>And the city below is full of polluted air.<br/>On topa that, the Reactor keeps drainin' up all the energy.</p>
+<p class="indent"><b>Barret</b><br/>Huh?<br/>Never expect ta hear that outta someone like you.<br/>...you jes' full of surprises.<br/>The upper world... a city on a plate...<br/>It's 'cuz of that &amp;^#$# 'pizza', that people underneath are sufferin'!<br/>And the city below is full of polluted air.<br/>On topa that, the Reactor keeps drainin' up all the energy.</p>
 <p class="indent"><b>Cloud</b><br/>Then why doesn't everyone move onto the Plate?</p>
 <p class="indent"><b>Barret</b><br/>Dunno. Probably 'cuz they ain't got no money. Or, maybe...<br/>'Cuz they love their land, no matter how polluted it gets.</p>
 <p class="indent"><b>Cloud</b><br/>I know... no one lives in the slums because they want to.<br/>It's like this train. It can't run anywhere except where its rails take it.</p>
@@ -231,4 +223,3 @@
 <p class="center"><span class="highlight"><a href="https://www.yinza.com/Fandom/Script.html">Back to Script</a></span></p>
 
 </body>
-</html>
