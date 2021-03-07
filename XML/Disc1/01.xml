@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<body>
+<scene name="Reactor1">
 
 <div class="menu"></div>
 
@@ -12,7 +12,7 @@
 <h4><a href="#train">Last Train Home</a></h4>
 
 <hr></hr>
-<p class="italic"><a name="mission"></a>The opening sequence: A whirl of stars, humming softly, the view slowly drifting downwards and changing to show Aeris's face lit by Mako. She stands and walks out into the streets of Midgar as the camera pans back to show the city in full before again diving in, this time following a train as it pulls into a station in Sector 8. Biggs and Jessie leap off first, taking out the two guards stationed there. Wedge follows, and the three of them run ahead. Barret and Cloud leap down last.</p>
+<p class="italic"><a name="mission"></a>The opening sequence: A whirl of stars, humming softly, the view slowly drifting downwards and changing to show Aerith's face lit by Mako. She stands and walks out into the streets of Midgar as the camera pans back to show the city in full before again diving in, this time following a train as it pulls into a station in Sector 8. Biggs and Jessie leap off first, taking out the two guards stationed there. Wedge follows, and the three of them run ahead. Barret and Cloud leap down last.</p>
 <p class="indent"><b>Barret</b><br/>C'mon newcomer. Follow me.</p>
 <p class="italic">Barret runs ahead. Cloud follows, taking out two guards who stand in his path. He joins Biggs, Wedge, and Jessie at the gate to the reactor complex, where Jessie is working to open the door.</p>
 <p class="indent"><b>Biggs</b><br/>Wow! You used to be in SOLDIER all right! ...Not everyday ya find one in a group like AVALANCHE.</p>
@@ -85,7 +85,7 @@
 <p class="italic">Biggs, Wedge, and Jessie nod and run off in separate directions. Barret starts to leave.</p>
 <p class="indent"><b>Cloud</b><br/>H, hey!</p>
 <p class="indent"><b>Barret</b><br/>If it's about your money Save it 'til we're back at the hideout.</p>
-<p class="italic">Barret runs off, and Cloud is left to make his own way to the station. Heading up into a city square, he sees a flower girl (Aeris), who gets knocked down by some people running about in a panic. She gets up, dusts herself off, and walks over to him.</p>
+<p class="italic">Barret runs off, and Cloud is left to make his own way to the station. Heading up into a city square, he sees a flower girl (Aerith), who gets knocked down by some people running about in a panic. She gets up, dusts herself off, and walks over to him.</p>
 <p class="indent"><b>Flower Girl</b><br/>Excuse me.<br/>What happened?</p>
 <p class="indent"><b>Cloud</b><br/>- You'd better get out of here<br/>- Nothing... hey, listen...</p>
 <div class="block">
@@ -222,4 +222,4 @@
 </div>
 <p class="center"><span class="highlight"><a href="https://www.yinza.com/Fandom/Script.html">Back to Script</a></span></p>
 
-</body>
+</scene>
