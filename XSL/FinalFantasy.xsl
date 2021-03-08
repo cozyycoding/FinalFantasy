@@ -3,7 +3,7 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     exclude-result-prefixes="xs"
     version="2.0">
-    <xsl:template match="//body"> <!-- starts at body to remove head -->
+    <xsl:template match="//scene">
         <part n="1">
             <xsl:apply-templates/>
         </part>
