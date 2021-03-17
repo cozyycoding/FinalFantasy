@@ -9,9 +9,10 @@
         </scene>
     </xsl:template>
     
-    <xsl:template match="descendant::p[@italic]"><!-- stage directions-->
+    <xsl:template match="descendant::p[@class='italic']"><!-- stage directions-->
         <stage><xsl:apply-templates/></stage>
     </xsl:template>
+    
     <xsl:template match="descendant::br"><!-- signify boxes-->
         <xsl:apply-templates/>
         <boxstart/>
@@ -22,6 +23,7 @@
             <xsl:attribute name="name" select="text()"/>
             <xsl:apply-templates/></speaker>     
     </xsl:template>
+    
     <xsl:template match="descendant::div[@class]">
         <speaker name="Cloud">
             <xsl:apply-templates/>
