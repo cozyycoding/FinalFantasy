@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><scene name="BoneVillage">
+
+
+
+Bone Village - A Town of Excavators
+
+<stage>Cloud and the others arrive at Bone Village.</stage>
+<speaker name="Excavator">Excavator</speaker><boxstart/>Welcome to Bone Village, a town for nature lovers.<boxstart/>What do you want?
+<speaker name="Cloud">Cloud</speaker><boxstart/>- Where is the City of the Ancients?<boxstart/>- Do you know where Aerith is?<boxstart/>- What are you doing?
+
+  <speaker name="Cloud"><boxstart/>Where is the City of the Ancients?</speaker>
+  <speaker name="Excavator">Excavator</speaker><boxstart/>The City of the Ancients? Oh, you must mean the Forgotten City.
+
+
+  <speaker name="Cloud"><boxstart/>Do you know where Aerith is?</speaker>
+  <speaker name="Excavator">Excavator</speaker><boxstart/>Are you talking about that girl? I warned her, but she went into the Sleeping Forest anyway.
+
+
+  <speaker name="Cloud"><boxstart/>What are you doing?</speaker>
+  <speaker name="Excavator">Excavator</speaker><boxstart/>We're excavating. It's like the land's telling a history of the planet.
+
+<speaker name="Excavator 2">Excavator 2</speaker><boxstart/>Excavating is a slow process. The treasures we excavate are stored in the box next to the tent. Remember that.
+<speaker name="Excavator 3">Excavator 3</speaker><boxstart/>You can awaken the Sleeping Forest if you have the Lunar Harp.<boxstart/>Once awake, they say the forest will open a road for you.<boxstart/>The girl in pink that just went in also used a Lunar Harp to get through.
+<speaker name="Cloud">Cloud</speaker><boxstart/>- I want a Lunar Harp
+<speaker name="Excavator 3">Excavator 3</speaker><boxstart/>Ask the guy in the tent below.
+<speaker name="Excavator 4">Excavator 4</speaker><boxstart/>We use the newest system to find buried treasure. We simulate earthquakes by using bombs, and then check the sound waves given off by the tremors.
+<speaker name="Excavator near Forest">Excavator near Forest</speaker><boxstart/>The forest just beyond here is called the Sleeping Forest. Right now the forest is asleep and anyone who wanders in while it's asleep, it confuses. You can go in, but you may never come out...<boxstart/>But just now, a girl in pink and a man in a Black Cape went in. You think they'll be all right?
+<speaker name="Head Excavator">Head Excavator</speaker><boxstart/>The Lunar Harp is somewhere in the ground here. We could excavate it for you if you want us to.
+<speaker name="Cloud">Cloud</speaker><boxstart/>- Start diggin'
+<speaker name="Head Excavator">Head Excavator</speaker><boxstart/>It's not just the Lunar Harp you're after. What else are you having us dig for?
+<speaker name="Cloud">Cloud</speaker><boxstart/>- Lunar Harp<boxstart/>- Good treasure<boxstart/>- Normal treasure
+<speaker name="Head Excavator">Head Excavator</speaker><boxstart/>All right! Then I'll lend you some of my staff. Show us where you want us to dig!
+<stage>The excavators eventually retrieve the Lunar Harp, and Cloud heads into the Forest.</stage>
+
+</scene>

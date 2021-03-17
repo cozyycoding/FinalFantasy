@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><scene name="FortCondor2">
+
+
+
+Fort Condor - Huge Materia
+
+<stage>Because Fort Condor is optional until this point, it is possible for this to be the party's first visit.</stage>
+
+<stage><speaker name="Cloud"><boxstart/>If this is the party's first visit to Fort Condor...</speaker></stage>
+	<speaker name="Man">Man</speaker><boxstart/>We've been fighting the Shinra for a long time at this battlefield.<boxstart/>Even now, we're still settled in for a long war with them.<boxstart/>If you aren't in a hurry, would you help us fight them?<boxstart/>Listen, we don't want to push you but, if you're in the middle of something, why don't you finish that first?
+	<speaker name="Cid">Cid</speaker><boxstart/>- Like to help but...<boxstart/>- I guess we'll help you
+	
+	  <speaker name="Cloud"><boxstart/>Like to help but...</speaker>
+	  <speaker name="Man">Man</speaker><boxstart/>All right then...... Take care of yourselves...
+	
+	
+	  <speaker name="Cloud"><boxstart/>I guess we'll help you</speaker>
+	  <speaker name="Man">Man</speaker><boxstart/>Really!? Then go on up and they'll fill you in on the details.
+	
+	<stage>Cid and the others go inside. They find the man by himself in the shed at the top of the fort, looking out the window.</stage>
+	<speaker name="Man">Man</speaker><boxstart/>Do you guys want to see it, too?
+	<speaker name="Cid">Cid</speaker><boxstart/>What is it?
+	<speaker name="Man">Man</speaker><boxstart/>The condors. They're huge. Come on, have a look.
+	<stage>Cid has a look out the window, seeing a huge condor nesting close to the Mako reactor that sits atop Fort Condor's hill.</stage>
+	<speaker name="Man">Man</speaker><boxstart/>What do ya think? Awesome, huh?
+	<speaker name="Man with Hat">Man with Hat</speaker><boxstart/>Hmmn, now this is something, I never thought anyone would ever climb up here.<boxstart/>Any minute now, this will be a battlefield against Shinra. You'd better get down before you get involved.
+	
+		<speaker name="Barret">Barret</speaker><boxstart/>Shinra? The hell those jackasses doing here?
+		<speaker name="Nanaki">Nanaki</speaker><boxstart/>Shinra again.
+		<speaker name="Yuffie">Yuffie</speaker><boxstart/>The Shinra? Here too?
+		<speaker name="Cait Sith">Cait Sith</speaker><boxstart/>......
+		<speaker name="Vincent">Vincent</speaker><boxstart/>What do you mean by that?
+	
+	<speaker name="Cid">Cid</speaker><boxstart/>A battlefield, we can't overlook that.
+	<speaker name="Man with Hat">Man with Hat</speaker><boxstart/>It appears you have a problem with Shinra, too. After all, you climbed up here.<boxstart/>Why not listen to what I have to say for a moment?
+	<speaker name="Cid">Cid</speaker><boxstart/>All right, talk on!
+	<speaker name="Man with Hat">Man with Hat</speaker><boxstart/>Do you know what's at the top of this mountain?
+	
+		<speaker name="Barret">Barret</speaker><boxstart/>Huh? Something's up there?
+		<speaker name="Yuffie">Yuffie</speaker><boxstart/>Look close, old man.
+		<speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Yeah, come to think of it there was something.
+	
+	<speaker name="Cid">Cid</speaker><boxstart/>No matter how you look at it, that's a reactor. And on top of it, is that the Condor?
+	<speaker name="Man with Hat">Man with Hat</speaker><boxstart/>I can see you're very perceptive. Yes, it's a reactor and a condor.<boxstart/>Looks like there's a special materia up in the Mako reactor.<boxstart/>Then came the condor, so Shinra dispatched the troops to get rid of it.<boxstart/>Their plan is to get rid of the condor and the people on this mountain and to get the materia from the Mako Reactor.<boxstart/>Unfortunately, we don't have the ability to fight Shinra ourselves.<boxstart/>That's why we have hired soldiers to help us.<boxstart/>As our sponsor you can help us with a contribution or by fighting along side of us...<boxstart/>What do you think? You want to join us in our fight?
+	<speaker name="Cid">Cid</speaker><boxstart/>If you go that far, what can I say. Well, we'll be able to do something if you leave it up to us.
+	
+		<speaker name="Barret">Barret</speaker><boxstart/>Hey! We'll come to the rescue.
+		<speaker name="Nanaki">Nanaki</speaker><boxstart/>Got it. I'm gonna lend a hand, too.
+		<speaker name="Yuffie">Yuffie</speaker><boxstart/>Okay, it's settled. We're gonna get the materia, right?
+		<speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Well then, let's do our best.
+		<speaker name="Vincent">Vincent</speaker><boxstart/>That's the right decision.
+	
+	<speaker name="Man with Hat">Man with Hat</speaker><boxstart/>I'm begging you. Please prevent the reactor from being destroyed and the condors from being killed.
+	<stage>They go on up to the shack.</stage>
+	<speaker name="Man">Man</speaker><boxstart/>So shall I let you in on our strategy?<boxstart/>The enemy is targeting this mountain's reactor and will be climbing to reach it.<boxstart/>We must set a trap and hire soldiers to protect this place.<boxstart/>Well, this is all we have...... this village doesn't have any money. Even if we wanted to fight, our hands are tied 'cause we're broke.<boxstart/>To hire one soldier, we need 400 gil. So, if we hire 20 soldiers, we must have 8000 gil.<boxstart/>That is, we would like you to use your own money to hire these soldiers, buy the trap, set it up and give the commands.<boxstart/>We know that we're asking is selfish. We sent our wives and kids to another village. We are resigned to our fate.<boxstart/>Let's get back to square one. If the enemy penetrates this shed, you'll have to fight them off immediately.<boxstart/>I know it's a one shot deal, but I'm asking for your help.<boxstart/>Now then, is there anything you wish to ask?
+	<speaker name="Cid">Cid</speaker><boxstart/>- Enough
+	<speaker name="Man">Man</speaker><boxstart/>Ready?
+	<speaker name="Cid">Cid</speaker><boxstart/>- Wait<boxstart/>- Okay, ready<boxstart/>- Hear more
+
+
+<stage><speaker name="Cloud"><boxstart/>If the party has visited Fort Condor before...</speaker></stage>
+	<speaker name="Man with Hat">Man with Hat</speaker><boxstart/>You've come at a good time. Shinra's changing its strategy now.<boxstart/>It seems that Shinra will destroy the reactor and then take out the materia that's inside.
+	
+		<speaker name="Barret">Barret</speaker><boxstart/>Man, we're walking on dangerous ground. We can't lose now!
+		<speaker name="Nanaki">Nanaki</speaker><boxstart/>We can't afford to be beaten!
+		<speaker name="Yuffie">Yuffie</speaker><boxstart/>If we lose here, all the materia we gathered will be for nothing.
+		<speaker name="Cait Sith">Cait Sith</speaker><boxstart/>You're right. If we lose here, we'll be in great danger.
+		<speaker name="Vincent">Vincent</speaker><boxstart/>We must protect this area.
+	
+	<speaker name="Cid">Cid</speaker><boxstart/>Damn! I guess we have to protect this area, too.
+	<stage>They go on up to the shack.</stage>
+	<speaker name="Man">Man</speaker><boxstart/>The situation has changed. Looks like the enemy is set to attack. If we lose here, it's over.<boxstart/>Our lives are in your hands. We're counting on you.<boxstart/>Ready?
+	<speaker name="Cid">Cid</speaker><boxstart/>- Wait<boxstart/>- Okay, ready<boxstart/>- Hear more
+
+<stage>Once the party agrees to fight...</stage>
+<speaker name="Man">Man</speaker><boxstart/>This is the deciding battle. The enemy numbers more than ever before.
+<stage>A lengthy battle with Shinra troops ensues.</stage>
+
+<stage><speaker name="Cloud"><boxstart/>If Cid and the others defeat the Shinra...</speaker></stage>
+	<speaker name="Man">Man</speaker><boxstart/>YES! We did it! That was wonderful! Thank you!! I doubt Shinra will attack now.
+	He laughs, then looks outside.
+	A, arrgghh......
+	<stage>Outside, the condor's egg begins to crack, there is a blaze of light, and the condor falls from atop the reactor. The egg hatches.</stage>
+	<speaker name="Man">Man</speaker><boxstart/>Th, that light just now......<boxstart/>The condor......<boxstart/>The eggs......<boxstart/>What!?<boxstart/>Would you go outside and see what it was?
+	<stage>Cid goes outside to investigate. He picks up the Phoenix materia and watches the hatchling condor fly off. Cid goes back inside.</stage>
+	<speaker name="Man">Man</speaker><boxstart/>Gone...<boxstart/>Be sure and report to my father, too.<boxstart/>Oh, it's you. Thanks a lot.
+	<stage>Cid goes down to report to the father.</stage>
+	<speaker name="Man with Hat">Man with Hat</speaker><boxstart/>Everyone, thanks. I really mean it. Thanks.<boxstart/>Although there isn't anything we can give you, we'll make sure you can stop in and stay any time, so be sure to drop by.<boxstart/>Yes, yes, and there's one thing I forgot to tell you......<boxstart/>
+	Received key item "Huge Materia"!
+	<speaker name="Cid">Cid</speaker><boxstart/>Huh? What's this?
+	
+		<speaker name="Barret">Barret</speaker><boxstart/>Damn man, it's Huge Materia.
+		<speaker name="Yuffie">Yuffie</speaker><boxstart/>Gotta have that materia!
+		<speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Hmm, you mean this?
+		<speaker name="Vincent">Vincent</speaker><boxstart/>This is......
+	
+	<speaker name="Man with Hat">Man with Hat</speaker><boxstart/>The truth is, this is the materia inside the reactor.
+	<speaker name="Cid">Cid</speaker><boxstart/>What the hell did we fight for?
+	<speaker name="Man with Hat">Man with Hat</speaker><boxstart/>We weren't protectin' the reactor, we were protectin' the condors.<boxstart/>When that reactor was built, they forced us to help. That's how we knew what was inside the reactor.<boxstart/>I knew this day would come, so after the Shinra left, I sneaked in and took the materia.<boxstart/>I didn't mean to fool you, but I guess that's how it ended up. I'm really sorry.
+	<speaker name="Cid">Cid</speaker><boxstart/>Just forget about it. Anyway, we're still alive.
+	<speaker name="Man with Hat">Man with Hat</speaker><boxstart/>I see. If you put it that way...... we're really grateful.
+	<speaker name="Cid">Cid</speaker><boxstart/>So the last Huge Materia that Shinra's after's in the underwater reactor in Junon?
+	
+		<speaker name="Barret">Barret</speaker><boxstart/>We gotta get there first and beat 'em no matter what!
+		<speaker name="Nanaki">Nanaki</speaker><boxstart/>We must get there before them and stop them!
+		<speaker name="Yuffie">Yuffie</speaker><boxstart/>We gotta get there and stop 'em...
+		<speaker name="Vincent">Vincent</speaker><boxstart/>Getting to the reactor before them...
+	
+	<speaker name="Cid">Cid</speaker><boxstart/>But ya know, Shinra's probably on high alert since we always mess with 'em.<boxstart/>How 'bout we take a break and go see that little fella for a bit?
+	
+		<speaker name="Barret">Barret</speaker><boxstart/>You mus' mean Cloud......
+		<speaker name="Nanaki">Nanaki</speaker><boxstart/>You mean, Cloud...?
+		<speaker name="Yuffie">Yuffie</speaker><boxstart/>Cloud, right...?
+		<speaker name="Cait Sith">Cait Sith</speaker><boxstart/>You must mean Mr. Cloud......
+	
+	<speaker name="Cid">Cid</speaker><boxstart/>Yeah, I'm worried 'bout Tifa; she may've collapsed takin' care of the guy.<boxstart/>How 'bout checkin' in on 'em! Down to Mideel!
+
+
+<stage><speaker name="Cloud"><boxstart/>If the party loses the battle...</speaker></stage>
+	<stage>Cid comes back inside the shack and falls over.</stage>
+	<speaker name="Man">Man</speaker><boxstart/>...... Even if you could only spare them......
+	<stage>The party comes to at the bottom of Fort Condor and slowly gets up.</stage>
+	<speaker name="Cid">Cid</speaker><boxstart/>God! What the hell happened here!?
+	
+		<speaker name="Barret">Barret</speaker><boxstart/>He's still alive.
+		<speaker name="Nanaki">Nanaki</speaker><boxstart/>Where are we?
+		<speaker name="Yuffie">Yuffie</speaker><boxstart/>Oh good, they're still alive.
+		<speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Oy! What on earth happened?
+		<speaker name="Vincent">Vincent</speaker><boxstart/>Seems like we survived.
+	
+	<speaker name="Cid">Cid</speaker><boxstart/>Damn!! I can't stand this!
+	
+		<speaker name="Barret">Barret</speaker><boxstart/>Oh man...... You look like hell.
+		<speaker name="Nanaki">Nanaki</speaker><boxstart/>......not enough strength.
+		<speaker name="Yuffie">Yuffie</speaker><boxstart/>Well, I'm just glad we're all alive.
+		<speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Things sure don't go smoothly.
+		<speaker name="Vincent">Vincent</speaker><boxstart/>We might have understimated the situation.
+	
+	<speaker name="Cid">Cid</speaker><boxstart/>This ain't no joke, Jack.
+	
+		<speaker name="Barret">Barret</speaker><boxstart/>Oh man, this is real bad.
+		<speaker name="Nanaki">Nanaki</speaker><boxstart/>Things don't seem too favorable.
+		<speaker name="Yuffie">Yuffie</speaker><boxstart/>I told you I'm not kidding!
+		<speaker name="Cait Sith">Cait Sith</speaker><boxstart/>It'd be one thing if it was a joke, but this's the truth.
+		<speaker name="Vincent">Vincent</speaker><boxstart/>This is a rather harsh reality.
+	
+	<speaker name="Cid">Cid</speaker><boxstart/>It's Huge Materia that the Shinra's after...... The only one left is in the underwater reactor in Junon.
+	
+		<speaker name="Barret">Barret</speaker><boxstart/>We gotta get there first and protect it!!
+		<speaker name="Nanaki">Nanaki</speaker><boxstart/>We must get there first and stop them.
+		<speaker name="Yuffie">Yuffie</speaker><boxstart/>We got to get there first and stop them......
+		<speaker name="Vincent">Vincent</speaker><boxstart/>We've got to get there first and stop them.
+	
+	<speaker name="Cid">Cid</speaker><boxstart/>Yeah, but ever since we got in their way the last time, they should've gotten a little more cautious.<boxstart/>I doubt they'll fly right into action. I'm more concerned about him that anything else.
+	
+		<speaker name="Barret">Barret</speaker><boxstart/>Cloud, it's you......
+		<speaker name="Nanaki">Nanaki</speaker><boxstart/>Yes, it's you Cloud......
+		<speaker name="Yuffie">Yuffie</speaker><boxstart/>It is you Cloud......
+		<speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Cloud......
+		<speaker name="Vincent">Vincent</speaker><boxstart/>Cloud, it's you......
+	
+	<speaker name="Cid">Cid</speaker><boxstart/>Yeah, and I'm worried that even Tifa's gonna fall over on her butt.<boxstart/>Let's go back and see what's happening?...... to Mideel...
+	<stage>The others nod.</stage>
+
+
+</scene>

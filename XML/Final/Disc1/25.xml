@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?><scene name="temple">
+
+
+
+The Temple of the Ancients
+
+The Entrance to the Temple
+The Viewing Pool: Tseng's Run-in with Sephiroth
+The Room of Murals
+Cait Sith's Sacrifice
+Retrieving the Black Materia
+Aerith's Farewell
+
+<stage>When they arrive at the Temple, Aerith walks to the center of the bridge and lays down, pressing her ear against it.</stage>
+<speaker name="Aerith">Aerith</speaker><boxstart/>This is... the Temple of the Ancients...<boxstart/>I... I know... I feel it... The knowledge of the Ancients... floating...<boxstart/>You could become one with the Planet, but you're stopping it with the strength of will.<boxstart/>For the future? For us?
+<speaker name="Cloud">Cloud</speaker><boxstart/>What are you saying? Do you understand?
+<stage>Aerith gets up and starts up the stairs, shaking her head.</stage>
+<speaker name="Aerith">Aerith</speaker><boxstart/>You're uneasy... But happy?<boxstart/>Because I'm here? I'm sorry... I don't understand.
+She runs back to Cloud.
+<boxstart/>I want to go inside!
+<stage>They go up the stairs, where another clone slouches in front of the entrance.</stage>
+<speaker name="Clone #9">Clone #9</speaker><boxstart/>Key...... stone......<boxstart/>Open... the door... of the Temple...
+<speaker name="Aerith">Aerith</speaker><boxstart/>Look......
+
+	<speaker name="Barret">Barret</speaker><boxstart/>It says number 9. He has a tattoo on his neck.
+	<speaker name="Tifa">Tifa</speaker><boxstart/>Number 9. Another man with a tattoo.
+	<speaker name="Nanaki">Nanaki</speaker><boxstart/>He's number 9. There's a tattoo.
+	<speaker name="Yuffie">Yuffie</speaker><boxstart/>He has a tattoo too! Ummm, I think it's number 9.
+	<speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Oh!? It's an number 9 tattoo.
+	<speaker name="Vincent">Vincent</speaker><boxstart/>It's a number 9 tattoo.
+	<speaker name="Cid">Cid</speaker><boxstart/>Hey, he's got a tattoo. It says number 9.
+
+<stage>They enter the Temple to find Tseng slumped at the altar.</stage>
+<speaker name="Aerith">Aerith</speaker><boxstart/>Hey! It's Tseng!
+<speaker name="Cloud">Cloud</speaker><boxstart/>Tseng? Of the Turks!?
+<speaker name="Tseng">Tseng</speaker><boxstart/>Uh... I've been had.<boxstart/>It's not the Promised Land... Sephiroth's searching for...
+<speaker name="Cloud">Cloud</speaker><boxstart/>Sephiroth? He's inside!?
+<speaker name="Tseng">Tseng</speaker><boxstart/>Look... for yourself...
+He slams his fist against the floor.
+<boxstart/>Damn...<boxstart/>Letting Aerith go was the start... of my... bad luck...<boxstart/>The President... was wrong...
+<speaker name="Aerith">Aerith</speaker><boxstart/>You're wrong.<boxstart/>The Promised Land isn't like what you imagined.<boxstart/>And, I'm not going to help.<boxstart/>Either way, there was no way Shinra could have won.
+She runs over and stands near a pillar with her back to the others.
+<speaker name="Tseng">Tseng</speaker><boxstart/>...pretty harsh. Sounds like something... you'd say.
+He gets to his feet and limps towards Cloud.
+<boxstart/>The Keystone... Place it... on... the altar...
+Received Key Item "Keystone"!
+<stage>Tseng moves out of the way and sits down against another pillar. Cloud walks to Aerith, scratches his head and turns away.</stage>
+<speaker name="Cloud">Cloud</speaker><boxstart/>You crying?
+<stage>Aerith shakes her head.</stage>
+<speaker name="Aerith">Aerith</speaker><boxstart/>...Tseng's with our enemy, the Turks, but I've known him since we were little...<boxstart/>There's not a lot of people I can say that about. In fact, there are probably only a handful of people in the world who really know me.
+<speaker name="Tseng">Tseng</speaker><boxstart/>I am...... still alive...
+<stage>Cloud walks up to the altar.</stage>
+<speaker name="Cloud">Cloud</speaker><boxstart/>Let's put the Keystone in.
+<stage>He does so, and sinks through the floor into the Temple.</stage>
+<speaker name="Aerith">Aerith</speaker><boxstart/>Words... feelings... So many of them here.
+
+	<speaker name="Barret">Barret</speaker><boxstart/>Damn--! So this is the Temple of the Ancients!<boxstart/>Oh man, you gotta be kiddin'. This is makin' me dizzy!
+	<speaker name="Tifa">Tifa</speaker><boxstart/>What a strange place. Do you think we're welcome here?
+	<speaker name="Nanaki">Nanaki</speaker><boxstart/>...sniff... sniff... This place smells good.<boxstart/>It smells the same as Cosmo Canyon.
+	<speaker name="Yuffie">Yuffie</speaker><boxstart/>Geeeez! We got our work cut out for us.<boxstart/>This is starting to get me really dizzy...
+	<speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Wow, this place is huge! I'm starting to get bored.
+	<speaker name="Vincent">Vincent</speaker><boxstart/>No exits... We can't turn back.
+	<speaker name="Cid">Cid</speaker><boxstart/>Shit! Shit! Shit! What the hell's with this place!
+
+<speaker name="Aerith">Aerith</speaker><boxstart/>...Cloud! I know it's going to be tough, but...<boxstart/>Don't give up! We can do it!
+<stage>Trying to enter a room along the way...</stage>
+<speaker name="Cloud">Cloud</speaker><boxstart/>Sealed......? That sound brings back memories.
+<stage>Ahead is a humanoid being which turns and runs farther into the temple. Cloud and the others follow it to a small room.</stage>
+<speaker name="Spirit Body">Spirit Body</speaker><boxstart/>Nyum... nyum...
+<speaker name="Aerith">Aerith</speaker><boxstart/>Whew! We finally caught up to you.<boxstart/>I'm sorry. You waited for me.<boxstart/>Those are the spirit bodies of the Ancients.<boxstart/>They've been away from their Planet for a long time to protect this Temple.<boxstart/>Over the many years, they've lost the ability to talk.<boxstart/>Actually, they didn't need words from the beginning because there was only one objective for those left in the Temple.<boxstart/>Please, talk to me!<boxstart/>No good. I don't understand the rest. Are you afraid...?<boxstart/>Is it because Sephiroth is in the Temple? Or something else?
+<stage>They follow a second Spirit Body into a room farther down, and it sets off a trap of odd-shaped boulders. Once they make it past, the trap deactivates.</stage>
+<speaker name="Aerith">Aerith</speaker><boxstart/>Phew--- We did it!
+<speaker name="Cloud">Cloud</speaker><boxstart/>Everyone all right? That sure took a lot out of us.
+<stage>There is a flash and Aerith gasps.</stage>
+<speaker name="Aerith">Aerith</speaker><boxstart/>Oh no... Cloud. Come quick!!<boxstart/>Hurry, this way!
+<stage>She runs off and the others follow her to a glowing pool.</stage>
+<speaker name="Aerith">Aerith</speaker><boxstart/>It's full of the knowledge of the Ancients.<boxstart/>No... not knowledge... consciousness... a living soul...<boxstart/>It's trying to say something.<boxstart/>I'm sorry, I don't understand.
+She leans down towards the pool.
+<boxstart/>What?<boxstart/>What is it?
+She gets back to her feet.
+<boxstart/>...Danger? An evil... consciousness?<boxstart/>...show? You're going to show me?
+<stage>The scene changes to another room where Tseng is observing a mural. Cloud and the others stand translucent in the foreground.</stage>
+<speaker name="Cloud">Cloud</speaker><boxstart/>...What's going on?
+<speaker name="Aerith">Aerith</speaker><boxstart/>Wait! Look! It's showing us!
+<speaker name="Elena">Elena</speaker><boxstart/>Tseng, what's this? Can we find the Promised Land with this?
+<speaker name="Tseng">Tseng</speaker><boxstart/>...I wonder. Anyway, we have to report to the President.
+<speaker name="Elena">Elena</speaker><boxstart/>Be careful, Tseng.
+<speaker name="Tseng">Tseng</speaker><boxstart/>Yeah...<boxstart/>Hey Elena, how 'bout dinner after this job's over?
+<speaker name="Elena">Elena</speaker><boxstart/>Th... Thank you very much.<boxstart/>If I may be excused...
+She runs off, leaving Tseng alone.
+<speaker name="Tseng">Tseng</speaker><boxstart/>Is this the Promised Land? No, it can't be...
+<stage>Sephiroth appears in the foreground with Cloud and the others. He seems to look at them, then solidifies in the mural room with Tseng.</stage>
+<speaker name="Tseng">Tseng</speaker><boxstart/>Sephiroth!!
+<speaker name="Sephiroth">Sephiroth</speaker><boxstart/>So you opened the door. Well done.
+<speaker name="Tseng">Tseng</speaker><boxstart/>This place... what is it?
+<speaker name="Sephiroth">Sephiroth</speaker><boxstart/>A lost treasure house of knowledge. The wisdom of the Ancients...<boxstart/>I am becoming one with the Planet.
+<speaker name="Tseng">Tseng</speaker><boxstart/>One with the Planet?
+<speaker name="Sephiroth">Sephiroth</speaker><boxstart/>You stupid fools. You have never even thought about it.<boxstart/>All the spirit energy of this Planet. All its wisdom... knowledge...<boxstart/>I will meld with it all. I will become one with it... it will become one with me.
+<speaker name="Tseng">Tseng</speaker><boxstart/>...you can do that?
+<speaker name="Sephiroth">Sephiroth</speaker><boxstart/>The way...... lies here.
+He darts forward and slashes Tseng.
+Only death awaits you all. But do not fear.<boxstart/>For it is through death that a new spirit energy is born. Soon, you will live again as a part of me.
+<stage>The scene returns to the viewing pool. Aerith runs around to rejoin the others.</stage>
+<speaker name="Aerith">Aerith</speaker><boxstart/>Did you see it?
+
+	<speaker name="Barret">Barret</speaker><boxstart/>Yeah, I saw it.
+	<speaker name="Tifa">Tifa</speaker><boxstart/>...I saw it.
+	<speaker name="Nanaki">Nanaki</speaker><boxstart/>I... I saw it.
+	<speaker name="Yuffie">Yuffie</speaker><boxstart/>Oh grossness!
+	<speaker name="Cait Sith">Cait Sith</speaker><boxstart/>...I saw it. Tseng was in bad shape.
+	<speaker name="Vincent">Vincent</speaker><boxstart/>An illusion that the Ancients showed...
+	<speaker name="Cid">Cid</speaker><boxstart/>Hey hey! What's the catch?
+
+<speaker name="Cloud">Cloud</speaker><boxstart/>...Where is the room with the pictures on the walls?
+<speaker name="Aerith">Aerith</speaker><boxstart/>Almost there...
+<speaker name="Cloud">Cloud</speaker><boxstart/>Sephiroth is here, right?<boxstart/>No matter what he thinks, it's going to end here.<boxstart/>I'm taking him out!
+
+	<speaker name="Barret">Barret</speaker><boxstart/>You mean WE are, right?
+	<speaker name="Tifa">Tifa</speaker><boxstart/>We're here too, you know.
+	<speaker name="Nanaki">Nanaki</speaker><boxstart/>Don't forget about us!
+	<speaker name="Yuffie">Yuffie</speaker><boxstart/>I have nothing to do with it. But, I guess I'll lend a hand.
+	<speaker name="Cait Sith">Cait Sith</speaker><boxstart/>I wonder if he'll go down that easy?
+	<speaker name="Vincent">Vincent</speaker><boxstart/>......
+	<speaker name="Cid">Cid</speaker><boxstart/>All right! Guess you youngsters gotta be enthusiastic like that!
+
+<stage>Cloud and the others continue on to the chamber of the Time Guardian, a circular, almost bottomless room with hands like a clock face. Around it are the entrances to twelve rooms.</stage>
+<speaker name="Time Guardian">Time Guardian</speaker><boxstart/>I am the Time Guardian. Ye who seek the knowledge of the Ancients. I control the time, select your path.<boxstart/>...it is time... You may proceed.
+<stage>If the second hand knocks them off as they try to cross, Cloud and the others land in a torch-lit chamber below.</stage>
+<speaker name="Aerith">Aerith</speaker><boxstart/>This atmosphere...
+
+	<speaker name="Barret">Barret</speaker><boxstart/>Feels like a battle!
+	<speaker name="Tifa">Tifa</speaker><boxstart/>Here it comes!
+	<speaker name="Nanaki">Nanaki</speaker><boxstart/>I'm tingling with excitement.
+	<speaker name="Yuffie">Yuffie</speaker><boxstart/>Oh man! I should've stayed at home.
+	<speaker name="Cait Sith">Cait Sith</speaker><boxstart/>It's a battle!
+	<speaker name="Vincent">Vincent</speaker><boxstart/>A battle...
+	<speaker name="Cid">Cid</speaker><boxstart/>Let's do it!
+
+<stage>Cloud and the others come out through the sealed entrance and make their way back to the Time Guardian. Passages II, IX, and XI are blocked by rubble. Most of the other passages contain valuable items or monsters. Passage XII is the way out, but it seems to be locked.</stage>
+<speaker name="Cloud">Cloud</speaker><boxstart/>I guess there's no way we can open it... We'll come back later.
+<stage>Passage VI leads to a room with three levels of doorways, the topmost of which has a more ornate-looking door. Upon seeing Cloud, a Spirit Body locks this door and runs off.</stage>
+<speaker name="Aerith">Aerith</speaker><boxstart/>Hey! It's locked.<boxstart/>No good. We have to catch it!<boxstart/>You must be tired.
+<speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah<boxstart/>- I want to go home
+
+  <speaker name="Cloud"><boxstart/>Yeah</speaker>
+  <speaker name="Aerith">Aerith</speaker><boxstart/>Just hang in there. Someday we'll look back at these hard times and laugh.
+
+
+  <speaker name="Cloud"><boxstart/>I want to go home</speaker>
+  <speaker name="Aerith">Aerith</speaker><boxstart/>Yeah. But it'll all be over soon!
+
+<stage>Cloud catches the Spirit Body and unlocks the door. The three of them enter the room of murals. The murals seem to show a progression:<boxstart/>
+In the first, people are depicted standing outside the Temple.<boxstart/>
+In the second, people may be walking in a procession.<boxstart/>
+In the third, they are standing around the altar in the Temple.<boxstart/>
+In the fourth, they stand near a low table with two jar-like objects on it.<boxstart/>
+In the fifth, a woman holds the Black Materia while Meteor falls from the sky.<boxstart/>
+In the sixth, people are looking about in confusion.<boxstart/>
+In the seventh, people are dying in flames.</stage>
+<speaker name="Aerith">Aerith</speaker><boxstart/>This is the room with the murals...
+<speaker name="Cloud">Cloud</speaker><boxstart/>Where are you!? Sephiroth!!
+<stage>Sephiroth appears a ways in front of them.</stage>
+<speaker name="Sephiroth">Sephiroth</speaker><boxstart/>So cold.<boxstart/>I am always by your side.<boxstart/>Come.
+He flies up to the ceiling and disappears. He reappears in front of one of the murals.
+<boxstart/>Splendid.<boxstart/>A treasure house of knowledge...
+<speaker name="Cloud">Cloud</speaker><boxstart/>I don't understand what you're saying!
+<stage>Sephiroth laughs and flies off again. Cloud finds him again before the mural depicting Meteor.</stage>
+<speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Look well.
+<speaker name="Cloud">Cloud</speaker><boxstart/>At what!?
+<speaker name="Sephiroth">Sephiroth</speaker><boxstart/>At that which adds to the knowledge of...<boxstart/>I am becoming one with the Planet.
+<stage>He laughs, flies off, and Cloud finds him slumped the altar.</stage>
+<speaker name="Sephiroth">Sephiroth</speaker><boxstart/>...Mother... ...It's almost time.<boxstart/>Soon... we will become one.
+<stage>He gets to his feet as Cloud and the others reach him. Aerith steps forward with fists raised.</stage>
+<speaker name="Aerith">Aerith</speaker><boxstart/>How do you intend to become one with the Planet?
+<speaker name="Sephiroth">Sephiroth</speaker> (swinging the Masamune)<boxstart/>It's simple.<boxstart/>Once the Planet is hurt, it gathers Spirit Energy to heal the injury.<boxstart/>The amount of energy gathered depends on the size of the injury.
+He stabs the Masamune into the floor.
+<boxstart/>...What would happen if there was an injury that threatened the very life of the Planet?<boxstart/>Think how much energy would be gathered!
+He pulls the Masamune from the ground.
+<boxstart/>Ha ha ha. And at the center of that injury, will be me.<boxstart/>All that boundless energy will be mine.<boxstart/>By merging with all the energy of the Planet, I will become a new life form, a new existence.<boxstart/>Melding with the Planet... I will cease to exist as I am now...<boxstart/>Only to be reborn as a 'God' to rule over every soul.
+<speaker name="Aerith">Aerith</speaker><boxstart/>An injury powerful enough to destroy the Planet?<boxstart/>Injure... the Planet?
+<speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Behold that mural. The Ultimate Destructive Magic... Meteor.
+<speaker name="Cloud">Cloud</speaker><boxstart/>That'll never happen!
+<stage>Sephiroth flies off over Cloud's head.</stage>
+Wake up!!
+<stage>Cloud runs off after him.</stage>
+<speaker name="Cloud">Cloud</speaker><boxstart/>Where are you!? Sephiroth!!
+<speaker name="Aerith">Aerith</speaker><boxstart/>Wait, Cloud!
+<stage>She runs after Cloud and finds him standing before the mural depicting Meteor, his body shaking in a double image.</stage>
+<speaker name="Aerith">Aerith</speaker><boxstart/>Cloud!!
+
+	<speaker name="Barret">Barret</speaker><boxstart/>Hey!! Cloud!!
+	<speaker name="Tifa">Tifa</speaker><boxstart/>Hey, Cloud!
+	<speaker name="Nanaki">Nanaki</speaker><boxstart/>Cloud! What's wrong!
+	<speaker name="Yuffie">Yuffie</speaker><boxstart/>Cloud! What are you doing?
+	<speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Cloud! What's wrong with you!?
+	<speaker name="Vincent">Vincent</speaker><boxstart/>What are you doing?
+	<speaker name="Cid">Cid</speaker><boxstart/>What the hell is going on!
+
+<speaker name="Cloud">Cloud</speaker><boxstart/>Ha ha ha... Black Materia.<boxstart/>Ha ha ha... Call Meteor.
+<speaker name="Aerith">Aerith</speaker><boxstart/>Cloud!! Get a hold of yourself!
+<stage>Cloud starts clutching his head.</stage>
+<speaker name="Cloud">Cloud</speaker><boxstart/>Cloud...<boxstart/>I'm... Cloud...<boxstart/>How should I?
+He goes through a number of motions typical of Cloud, an afterimage of himself trying to fit together with him. Eventually they merge.
+<boxstart/>...I remember! I remember my way.
+He turns to Aerith, trying to look nonchalant.
+<speaker name="Aerith">Aerith</speaker><boxstart/>...Cloud.
+<speaker name="Cloud">Cloud</speaker><boxstart/>Mm? What's wrong? Is something wrong?
+<speaker name="Aerith">Aerith</speaker><boxstart/>...It's nothing so don't worry about it.<boxstart/>Right, Cloud! It's nothing.
+<stage>Barret looks at her oddly, but says nothing. Tifa nods. Nanaki and Vincent look pensive. Yuffie and Cait Sith shrug. Cid scratches his head.</stage>
+<speaker name="Aerith">Aerith</speaker><boxstart/>Sephiroth got away.
+<speaker name="Cloud">Cloud</speaker><boxstart/>...Don't worry about it. I understood what he was saying.<boxstart/>So this must be Meteor, right?
+<stage>They all look at the mural.</stage>
+
+	<speaker name="Barret">Barret</speaker><boxstart/>Is it some sort of a disaster?<boxstart/>It looks like something's gonna fall from the sky.
+	<speaker name="Tifa">Tifa</speaker><boxstart/>Is something going to fall from the sky?
+	<speaker name="Nanaki">Nanaki</speaker><boxstart/>Something's going to fall down?
+	<speaker name="Yuffie">Yuffie</speaker><boxstart/>I don't know what it is but...<boxstart/>It looks like it's going to make a mess...
+	<speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Then, we got trouble.<boxstart/>Oh, so something's going to fall from the sky? It's going to be something big.
+	<speaker name="Vincent">Vincent</speaker><boxstart/>Something huge is falling from the sky?
+	<speaker name="Cid">Cid</speaker><boxstart/>I don't know what the hell it is but it's falling from the sky?<boxstart/>Hmpf! It's not even an omen.
+
+<speaker name="Aerith">Aerith</speaker><boxstart/>...this must be magic. Just what Sephiroth was saying.<boxstart/>The Ultimate Destructive Magic, Meteor.<boxstart/>It finds small drifting planets with its magic.<boxstart/>And then collides with them. This Planet might get wiped out entirely...
+<stage>The Temple starts quaking.</stage>
+<speaker name="Cloud">Cloud</speaker><boxstart/>Sephiroth!?
+<speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Ha ha ha... It is not me.
+<stage>Cloud and the others fight off a Red Dragon.</stage>
+<speaker name="Cloud">Cloud</speaker><boxstart/>Any sign of Sephiroth?
+<speaker name="Aerith">Aerith</speaker><boxstart/>He disappeared.
+<stage>If they try to leave the room...</stage>
+<speaker name="Cloud">Cloud</speaker><boxstart/>We're locked in.
+<stage>They approach the altar.</stage>
+<speaker name="Cloud">Cloud</speaker><boxstart/>What is this?
+<speaker name="Aerith">Aerith</speaker><boxstart/>...There's something written on it.<boxstart/>...B.l.a.c.k...... M.a.t.e.r.i.a.
+<speaker name="Cloud">Cloud</speaker><boxstart/>Black Materia!!
+<speaker name="Aerith">Aerith</speaker><boxstart/>Hey!<boxstart/>...Black Materia.<boxstart/>What should we do, Cloud?
+<speaker name="Cloud">Cloud</speaker><boxstart/>- Shake it<boxstart/>- Take it<boxstart/>- Leave it
+
+  <speaker name="Cloud"><boxstart/>Shake it</speaker>
+  <stage>The Temple quakes.</stage>
+
+
+  <speaker name="Cloud"><boxstart/>Take it</speaker>
+  <stage>The Temple quakes.</stage>
+
+
+  <speaker name="Cloud"><boxstart/>Leave it</speaker>
+  <stage>Cloud shrugs.</stage>
+
+<speaker name="Aerith">Aerith</speaker><boxstart/>Wait a minute. I'll ask!
+She runs a little ways away from the others.
+<boxstart/>I don't understand......<boxstart/>What?<boxstart/>Really!?
+She rejoins Cloud.
+<boxstart/>They said that the Temple itself is the Black Materia.
+<speaker name="Cloud">Cloud</speaker><boxstart/>What do they mean?
+<speaker name="Aerith">Aerith</speaker><boxstart/>So, this whole building is the Black Materia?
+<speaker name="Cloud">Cloud</speaker><boxstart/>This huge Temple? This is the Black Materia!?<boxstart/>Then no one could take it.
+<speaker name="Aerith">Aerith</speaker><boxstart/>Hmm, it's pretty hard. You see this is a model of the Temple.<boxstart/>And inside it is a device which gets smaller each time you solve a puzzle.<boxstart/>As the model becomes smaller, you become smaller too.<boxstart/>Until it's small enough to fit in the palm of your hand.
+<speaker name="Cloud">Cloud</speaker><boxstart/>So, if we solve the puzzles, the Black Materia will get smaller and smaller and we can take it out?
+<speaker name="Aerith">Aerith</speaker><boxstart/>Yes, but there's one thing...<boxstart/>You can only answer the puzzles inside the Temple.<boxstart/>So, anyone who solves the puzzle will be crushed by the Temple.
+<speaker name="Cloud">Cloud</speaker><boxstart/>I see... the Ancients didn't want dangerous magic to be taken out of the Temple so easily...
+
+	<speaker name="Barret">Barret</speaker><boxstart/>Then just leave it.<boxstart/>If we can't take it, then neither can Sephiroth, right?
+	<speaker name="Tifa">Tifa</speaker><boxstart/>Let's just leave it, OK?
+	<speaker name="Nanaki">Nanaki</speaker><boxstart/>That'll be safer. If no one can else take it......<boxstart/>Then Sephiroth can't either, right?
+	<speaker name="Yuffie">Yuffie</speaker><boxstart/>Let's just leave it and get the hell out of here!
+	<speaker name="Cait Sith">Cait Sith</speaker><boxstart/>The Ancients were a mean bunch. This way, no one'll be able to get it.
+	<speaker name="Vincent">Vincent</speaker><boxstart/>I guess that means it's safe here.
+	<speaker name="Cid">Cid</speaker><boxstart/>Guess stuff this dangerous is best left alone?
+
+<speaker name="Cloud">Cloud</speaker><boxstart/>No. We've got to think of a way to get it out.<boxstart/>Because Sephiroth has lots of different flunkies.<boxstart/>It's nothing to him to throw their lives away to get the Black Materia.<boxstart/>This place isn't safe.
+He taps the altar, and the Temple shakes.
+<speaker name="Aerith">Aerith</speaker><boxstart/>So what are we going to do?
+
+  <stage><speaker name="Cloud"><boxstart/>If Cait Sith is in the party...</speaker></stage>
+  <stage>Cait Sith steps forward.</stage>
+  <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>I heard your situation!<boxstart/>Don't forget about me.<boxstart/>Everything you said makes perfect sense!<boxstart/>You can use my stuffed body for the future of the Planet.
+  <speaker name="Cloud">Cloud</speaker><boxstart/>We can't let Sephiroth get his hands on the Black Materia.<boxstart/>And we can't let the Shinra get theirs on it either.
+  <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>So that means you don't trust me?<boxstart/>But Cloud. There's really nothing else you can do.<boxstart/>Everyone, please trust me.
+  <speaker name="Cloud">Cloud</speaker><boxstart/>- I guess we have no choice<boxstart/>- No way
+  
+    <speaker name="Cloud"><boxstart/>I guess we have no choice</speaker>
+    <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>All righty then! Leave it all to me!<boxstart/>Everyone, hurry up and get outside!<boxstart/>I'll go with you to a safe place.
+  
+  
+    <speaker name="Cloud"><boxstart/>No way</speaker>
+    <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>You sure are stubborn, Cloud.<boxstart/>Please believe me, Cloud.
+    <speaker name="Cloud">Cloud</speaker><boxstart/>- Hmmm, I guess I have to<boxstart/>- How can I?
+  
+
+
+  <stage><speaker name="Cloud"><boxstart/>If Cait Sith is not in the party...</speaker></stage>
+  <stage>Cloud's PHS rings, and after a moment of confusion he answers it.</stage>
+  <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Hi, Cloud. This is Cait Sith.<boxstart/>I overheard the whole story!<boxstart/>Don't forget about me.<boxstart/>Everything you said makes perfect sense!<boxstart/>You can use my stuffed body for the future of the Planet.
+  <speaker name="Cloud">Cloud</speaker><boxstart/>We can't let Sephiroth get his hands on the Black Materia.<boxstart/>And we can't let the Shinra get theirs on it either.
+  <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>But Cloud. There's really nothing else you can do.<boxstart/>Everyone, please trust me.
+  <speaker name="Cloud">Cloud</speaker><boxstart/>- I guess we have no choice<boxstart/>- No way
+  
+    <speaker name="Cloud"><boxstart/>I guess we have no choice</speaker>
+    <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>All righty then! Leave it all to me!<boxstart/>Please hurry, you've got to get out of here!<boxstart/>I'll be waiting at the exit!
+  
+  
+    <speaker name="Cloud"><boxstart/>No way</speaker>
+    <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>You sure are stubborn, Cloud.<boxstart/>Please believe me, Cloud.
+    <speaker name="Cloud">Cloud</speaker><boxstart/>- Hmmm, I guess I have to<boxstart/>- How can I?
+  
+
+<stage>Eventually Cloud has to agree. They make for the exit through the XII passage. Cloud knocks on the door, then turns around and shrugs.</stage>
+<speaker name="Cloud">Cloud</speaker><boxstart/>It's warm...<boxstart/>This isn't good...
+<stage>The others back up as a monster comes through the wall.</stage>
+<speaker name="Aerith">Aerith</speaker><boxstart/>Cloud...... behind you.
+<stage>Cloud turns to look and then runs to join them. They fight the Demons Gate, and afterward, the door opens.</stage>
+<speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Sorry to keep you waiting!! It's Me!! [He doesn't say this line if you had him in your party.]<boxstart/>I'll handle the rest!<boxstart/>Well, everyone... Take care of yourselves!
+<speaker name="Aerith">Aerith</speaker><boxstart/>Cait Sith...<boxstart/>Come on, Cloud... Say something.
+<speaker name="Cloud">Cloud</speaker><boxstart/>I'm not good at this.
+<speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Mmm, I understand. I feel the same too.
+<speaker name="Aerith">Aerith</speaker><boxstart/>Why don't you read our fortunes?
+<speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Say, that's right... I haven't done it in a while, huh?<boxstart/>I'm so exited. Right or wrong, I'm still the same 'ol me.<boxstart/>Now, what should I predict?
+<stage>Aerith moves to stand close beside Cloud.</stage>
+<speaker name="Aerith">Aerith</speaker><boxstart/>Hmm, let's see how compatible Cloud and I are!
+<stage>Tifa turns away with a hmph and then turns back.</stage>
+<speaker name="Cait Sith">Cait Sith</speaker><boxstart/>That'll cost ya. Exactly one date!<boxstart/>Here I go!
+He turns away.
+<boxstart/>This isn't good. I can't say it.<boxstart/>Poor Tifa.
+<stage>Aerith runs up to him.</stage>
+<speaker name="Aerith">Aerith</speaker><boxstart/>No! Tell me!<boxstart/>I promise I won't get mad!
+<speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Is that so? Then I'll tell you.<boxstart/>Looks good. You are perfect for each other!<boxstart/>Aerith's star and Cloud's star! They show a great future!<boxstart/>Cloud, I'll be your matchmaker, preacher... I'll do whatever you want me to!<boxstart/>You just call me when it all happens!<boxstart/>Thank you for believing in me, knowing that I was a spy.<boxstart/>This is the final, final farewell!
+<stage>He bounces off.</stage>
+<speaker name="Aerith">Aerith</speaker><boxstart/>Be strong Cait Sith!!
+<stage>Cait Sith returns alone to the room with the murals.</stage>
+<speaker name="Cait Sith">Cait Sith</speaker><boxstart/>She told me to 'Be strong.' I feel so happy.
+He trips and falls.
+<boxstart/>Owwww......
+He carefully gets back up and waves his arms.
+<boxstart/>What happened?
+He bounces around.
+<boxstart/>I can still move more.
+He continues to the altar.
+<boxstart/>This must be it!<boxstart/>The Ancients sure did a great job making this.<boxstart/>I can protect the Planet too! I'm kinda embarrassed...<boxstart/>There's plenty of stuffed toys like my body around, but there's only one me!<boxstart/>Don't forget me even if another Cait Sith comes along.<boxstart/>Good bye, then! I guess I'm off to save the Planet...
+
+<stage>Outside the Temple, Cloud and the others watch as it rumbles and shrinks. They run to the deep pit where the Temple used to be, and down at the bottom is a black orb.</stage>
+<speaker name="Cloud">Cloud</speaker><boxstart/>That's the Black Materia...
+
+	<speaker name="Barret">Barret</speaker><boxstart/>Hey! I'll keep watch here!
+	<speaker name="Tifa">Tifa</speaker><boxstart/>I'll wait here.
+	<speaker name="Nanaki">Nanaki</speaker><boxstart/>I'll be sittin' out here.
+	<speaker name="Yuffie">Yuffie</speaker><boxstart/>Heh heh... this looks majorly boring, so I'll stay here.
+	<speaker name="Vincent">Vincent</speaker><boxstart/>I'll be looking around here.
+	<speaker name="Cid">Cid</speaker><boxstart/>I'm gonna have a smoke out here!<boxstart/>Ahhh!! It's really something, having a smoke at a place like this.
+
+<stage>Cloud nods and starts down. Aerith follows behind him.</stage>
+<speaker name="Cloud">Cloud</speaker><boxstart/>As long as we have this, Sephiroth won't be able to use Meteor.
+Got Key Item "Black Materia!"
+<speaker name="Cloud">Cloud</speaker><boxstart/>Mmm?<boxstart/>Can you guys use it?
+<speaker name="Aerith">Aerith</speaker><boxstart/>Nope, we can't use it right now. You need great spiritual power to use it.
+<speaker name="Cloud">Cloud</speaker><boxstart/>You mean lots of Spiritual energy?
+<speaker name="Aerith">Aerith</speaker><boxstart/>That's right.<boxstart/>One person's power alone won't do it.<boxstart/>Somewhere special. Where there's plenty of the Planet's energy...<boxstart/>Oh yeah!<boxstart/>The Promised Land!!
+<speaker name="Cloud">Cloud</speaker><boxstart/>The Promised Land!!<boxstart/>No, but...
+<speaker name="Aerith">Aerith</speaker><boxstart/>Sephiroth is different. He's not an Ancient.
+<speaker name="Cloud">Cloud</speaker><boxstart/>He shouldn't be able to find the Promised Land.
+<stage>Sephiroth appears hovering above the pit.</stage>
+<speaker name="Sephiroth">Sephiroth</speaker><boxstart/>...Ah, but I have.<boxstart/>I'm far superior to the Ancients.<boxstart/>I became a traveler of the Lifestream and gained the knowledge and wisdom of the Ancients.<boxstart/>I also gained the knowledge and wisdom of those after the extinction of the Ancients.<boxstart/>And soon, I will create the future.
+<speaker name="Aerith">Aerith</speaker><boxstart/>I won't let you do it! The future is not only yours!
+<speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Ha, ha, ha... I wonder?<boxstart/>Wake up!
+<speaker name="Cloud">Cloud</speaker><boxstart/>Sh... shut up!
+<stage>Sephiroth joins them at the bottom of the pit.</stage>
+<speaker name="Sephiroth">Sephiroth</speaker><boxstart/>There, Cloud... good boy.
+<speaker name="Cloud">Cloud</speaker><boxstart/>The... Noise...
+<stage>Cloud falls to his knees, then gets up. Time slows as he runs towards Sephiroth. A child Cloud appears there with them and tries to stop Cloud, to no avail.</stage>
+<speaker name="Cloud">Cloud</speaker><boxstart/>Wa...... aaaa...... aaa...
+<speaker name="Little Cloud">Little Cloud</speaker><boxstart/>No......!<boxstart/>Don't be afraid--!
+Gave "Black Materia" to Sephiroth!
+<speaker name="Sephiroth">Sephiroth</speaker><boxstart/>......Well done.
+He flies off.
+<speaker name="Aerith">Aerith</speaker><boxstart/>Cloud, are you all right?
+<speaker name="Cloud">Cloud</speaker><boxstart/>...I gave the Black Materia to Sephiroth...?
+He falls at Aerith's feet.
+<boxstart/>Wha... what did I do... tell me, Aerith.
+<speaker name="Aerith">Aerith</speaker><boxstart/>Cloud... be strong, OK?
+<stage>He writhes and clutches his head.</stage>
+<speaker name="Cloud">Cloud</speaker><boxstart/>Urrrrrrgh... What have I done!?
+<speaker name="Aerith">Aerith</speaker><boxstart/>Cloud... you haven't done anything.<boxstart/>It's not your fault.
+<speaker name="Cloud">Cloud</speaker><boxstart/>I...! I'm-----!
+He shoves Aerith to the ground and starts attacking her.
+
+	<speaker name="Barret">Barret</speaker><boxstart/>Urrggggggh!!!! Cloud!!
+	<speaker name="Tifa">Tifa</speaker><boxstart/>Cloud!!
+	<speaker name="Nanaki">Nanaki</speaker><boxstart/>Cloud!!
+	<speaker name="Yuffie">Yuffie</speaker><boxstart/>What!? Cloud!
+	<speaker name="Vincent">Vincent</speaker><boxstart/>......!
+	<speaker name="Cid">Cid</speaker><boxstart/>Hey! EY!
+
+<stage>The one on watch starts down into the pit just as another Cait Sith arrives.</stage>
+<speaker name="Little Cloud">Little Cloud</speaker><boxstart/>Waaaa~!!<boxstart/>What are you doing!?
+<speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Oops! This looks like I came at a bad time!<boxstart/>I'm Cait Sith No. 2. Right pleased to meet you all!
+If no one else is there, he goes down into the pit.
+
+	<speaker name="Barret">Barret</speaker><boxstart/>HEY! Cloud, you #$#&amp;@!
+	<speaker name="Tifa">Tifa</speaker><boxstart/>Cloud, what are you doing!?
+	<speaker name="Nanaki">Nanaki</speaker><boxstart/>Aerith, are you all right!?
+	<speaker name="Yuffie">Yuffie</speaker><boxstart/>Aerith! Cloud, what're you doing!?
+	<speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Cloud!! What are you doin'!!
+	<speaker name="Vincent">Vincent</speaker><boxstart/>Cloud!
+	<speaker name="Cid">Cid</speaker><boxstart/>Cloud! What the hell are you doing?
+
+<stage>They knock Cloud out.</stage>
+
+<stage>The screen goes white.</stage>
+<speaker name="Cloud">Cloud</speaker><boxstart/>Everything is white...<boxstart/>What did I do? I don't remember anything...<boxstart/>My memory... since when...? If everything's a dream, don't wake me.
+<stage>The scene changes to the Sleeping Forest. Aerith peeks out from behind a tree.</stage>
+<speaker name="Aerith">Aerith</speaker><boxstart/>Cloud, can you hear me?
+<speaker name="Cloud">Cloud</speaker><boxstart/>Yeah, I hear you. Sorry for what happened.
+<speaker name="Aerith">Aerith</speaker><boxstart/>Don't worry about it.
+<speaker name="Cloud">Cloud</speaker><boxstart/>...I can't help it...
+<speaker name="Aerith">Aerith</speaker><boxstart/>Oh...<boxstart/>Then, why don't you REALLY worry about it?<boxstart/>And let me handle Sephiroth.
+She laughs.
+<boxstart/>And Cloud, you take care of yourself.<boxstart/>So you don't have a breakdown, okay?
+<stage>She walks back behind the tree, and then both of them drop down from the canopy. Cloud looks around.</stage>
+<speaker name="Cloud">Cloud</speaker><boxstart/>What is this place?
+<speaker name="Aerith">Aerith</speaker><boxstart/>This forest leads to the City of the Ancients... and is called the Sleeping Forest.<boxstart/>It's only a matter of time before Sephiroth uses Meteor.<boxstart/>That's why I'm going to protect it. Only a survivor of the Cetra, like me, can do it.
+She walks a ways down the path.
+<boxstart/>The secret is just up here.<boxstart/>At least it should be. ...I feel it. It feels like I'm being led by something.
+She waves.
+<boxstart/>Then, I'll be going now. I'll come back when it's all over.
+<speaker name="Cloud">Cloud</speaker><boxstart/>Aerith?
+<stage>She runs off. Cloud tries to follow, but only runs in place. Aerith disappears into the light.</stage>
+<speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Hmm...... She's thinking of interfering? She will be a difficult one, don't you think?
+<stage>He drops down from the canopy.</stage>
+<speaker name="Sephorith">Sephorith</speaker><boxstart/>We must stop that girl soon.
+<stage>Cloud wakes to find himself in the Gongaga inn.</stage>
+
+</scene>
