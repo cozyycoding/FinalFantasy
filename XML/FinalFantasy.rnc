@@ -1,3 +1,18 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 start = element part {speech+, text}
 speech = element speech{text}
+
+# WHC 3/17/21: Presumably you'll also have <speaker> elements within the <speech> elements.
+# To identify the speakers, you have some options.
+# You could use attribute values: <speaker id="Bob">Bob</speaker>
+# That would make the XPaths easier, as you only have to descend to the attribute axis.
+# You could easily achieve that using Regex capturing groups.
+# Also, you can then use your schema to limit the allowable names of the speakers.
+# This is advantageous in case there is a typo or difference at some point; it would flag that.
+# I would recommend you do that.
+# However, if you are absolutely sure that the speakers' names are identical every time, 
+# and you don't mind having to descend to the text() node in your XPaths and using the matches() function,,
+# you do have the option of just doing <speaker>Bob</speaker>.
+
+# What are your plans so far for tagging the "option" speeches that depend on input?
+# Just start with something; you can always change it later, with XSLT, Regex, etc.
