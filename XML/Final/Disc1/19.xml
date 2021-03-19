@@ -29,11 +29,11 @@ Leaving Cosmo Canyon
 <speaker name="Gatekeeper">Gatekeeper</speaker><boxstart/>Welcome to Cosmo Canyon. Are you familiar with this land?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Yes<boxstart/>- No
 
-  <speaker name="Cloud"><boxstart/>Yes</speaker>
+  <speaker name="Cloud"/><boxstart/>Yes
   <speaker name="Gatekeeper">Gatekeeper</speaker><boxstart/>You lied. That is something that is not treated lightly here in Cosmo Canyon.
 
 
-  <speaker name="Cloud"><boxstart/>No</speaker>
+  <speaker name="Cloud"/><boxstart/>No
   <speaker name="Gatekeeper">Gatekeeper</speaker><boxstart/>Let me explain.<boxstart/>People from all over the world gather here to seek the Study of Planet Life.
 
 <speaker name="Barret">Barret</speaker><boxstart/>Wooooooooo!<boxstart/>I always wanted to come here!
@@ -70,13 +70,13 @@ He dashes off up the stairs.
 <speaker name="Innkeeper">Innkeeper</speaker><boxstart/>Welcome to 'Shildra Inn'.<boxstart/>It'll be 100 gil a night. Would you like to stay?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Yes<boxstart/>- No thanks
 
-  <speaker name="Cloud"><boxstart/>Yes</speaker>
+  <speaker name="Cloud"/><boxstart/>Yes
   <speaker name="Innkeeper">Innkeeper</speaker><boxstart/>Have a great dream of the stars...
   <stage>After spending the night...</stage>
   <speaker name="Innkeeper">Innkeeper</speaker><boxstart/>Were you able to hear the stars whispers?<boxstart/>Well then, please come again.
 
 
-  <speaker name="Cloud"><boxstart/>No thanks</speaker>
+  <speaker name="Cloud"/><boxstart/>No thanks
   <speaker name="Innkeeper">Innkeeper</speaker><boxstart/>Well then, please come again.
 
 <speaker name="Flyer on Wall">Flyer on Wall</speaker><boxstart/>[Turtle's Paradise] No. 5<boxstart/>Our cocktails are good but our wine is the best!<boxstart/>Please stop in to "Turtle's Paradise"!!
@@ -84,18 +84,18 @@ He dashes off up the stairs.
 <speaker name="Man">Man</speaker><boxstart/>So this is Cosmo Canyon... Quite a mysterious place.<boxstart/>Have you come to seek the 'Study of Planet Life'?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- That's it<boxstart/>- No
 
-  <speaker name="Cloud"><boxstart/>That's it</speaker>
+  <speaker name="Cloud"/><boxstart/>That's it
   <speaker name="Man">Man</speaker><boxstart/>Yeah? I heard there's an awesome observatory here. I'd like to see it if I have a chance.
 
 
-  <speaker name="Cloud"><boxstart/>No</speaker>
+  <speaker name="Cloud"/><boxstart/>No
   
-    <stage><speaker name="Cloud"><boxstart/>If the buggy broke down...</speaker></stage>
+    <stage><speaker name="Cloud"/><boxstart/>If the buggy broke down...</stage>
     <speaker name="Man">Man</speaker><boxstart/>Oh yeah? What? The car broke down!?<boxstart/>Why don't you look around Cosmo Canyon, while I fix the car?
     <stage>He walks out through the gate.</stage>
   
   
-    <stage><speaker name="Cloud"><boxstart/>If Cloud and the others chose to stop...</speaker></stage>
+    <stage><speaker name="Cloud"/><boxstart/>If Cloud and the others chose to stop...</stage>
     <speaker name="Man">Man</speaker><boxstart/>Oh, really?<boxstart/>There really isn't much else to see here.
   
 
@@ -116,13 +116,13 @@ He dashes off up the stairs.
 <speaker name="Materia Shopkeeper">Materia Shopkeeper</speaker><boxstart/>...num... yawn... Sir,... You... forgot...... your...... change.<boxstart/>...num... Yes, I'm coming...<boxstart/>Are you here to shop?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- That's right<boxstart/>- No, what's your problem?
 
-  <speaker name="Cloud"><boxstart/>That's right</speaker>
+  <speaker name="Cloud"/><boxstart/>That's right
   <speaker name="Materia Shopkeeper">Materia Shopkeeper</speaker><boxstart/>Oh... is that so... You're here to shop?
   He jumps up.
   I'm sorry! We hardly ever get any customers so...... Oh, but I DO have confidence in our materia!<boxstart/>I'm... I'm so sorry! It seems as though I've become so used to being lazy...
 
 
-  <speaker name="Cloud"><boxstart/>No, what's your problem?</speaker>
+  <speaker name="Cloud"/><boxstart/>No, what's your problem?
   <speaker name="Shopkeeper">Shopkeeper</speaker><boxstart/>Oh... is that so... then leave me alone and let me... yawn... sleep...
 
 <stage>Inside a woman's living quarters...</stage>
@@ -207,11 +207,11 @@ He turns off the machine.
 <speaker name="Elder Hargo">Elder Hargo</speaker><boxstart/>Ahh, here it is.<boxstart/>My job is to gather all the legends and the knowledge of the planet and to make a book.<boxstart/>Then, even when I return to the planet, the children may still be taught about many things...<boxstart/>Mmm? Oh, we have guests. Good, good.<boxstart/>I know, I know.<boxstart/>You came to ask me something, right? Am I right?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- It's about the Promised Land<boxstart/>- Not really
 
-  <speaker name="Cloud"><boxstart/>It's about the Promised Land</speaker>
+  <speaker name="Cloud"/><boxstart/>It's about the Promised Land
   <speaker name="Elder Hargo">Elder Hargo</speaker><boxstart/>...The Promised Land. So you want to know...?<boxstart/>There is no one place called the Promised Land. That's what I believe.<boxstart/>No no, it does exist. Hmmm...... you can say that too.<boxstart/>In other words, it doesn't exist for us, but it did for the Ancients.<boxstart/>The Promised Land is the resting place of the Ancients.<boxstart/>The life of the Ancients is one continuous journey. A journey to grow trees and plants, produce animals, and to raise Mako energy.<boxstart/>Their harsh journeys continued throughout their lives...<boxstart/>The place they returned to after their long journey... Their burial land is the Promised Land.<boxstart/>Huh? Supreme Happiness? I believe that, for the Ancients, it was the moment that they were able to return to their Planet,<boxstart/>At that moment they were released from their fate, and gained their supreme happiness...<boxstart/>At least that's what I believe. I really don't know whether or not it's the truth now.
 
 
-  <speaker name="Cloud"><boxstart/>Not really</speaker>
+  <speaker name="Cloud"/><boxstart/>Not really
   <speaker name="Elder Hargo">Elder Hargo</speaker><boxstart/>Oh, that's not what you're here for?<boxstart/>I'd appreciate it if you don't talk to me about such foolish things as legends and old wives tales.
 
 <speaker name="Elder Hargo">Elder Hargo</speaker><boxstart/>By the way, those that came with you are all at the Cosmo Candle.<boxstart/>Are you leaving?
@@ -220,11 +220,11 @@ He turns off the machine.
 <speaker name="Elder Bugah">Elder Bugah</speaker><boxstart/>Mmm...<boxstart/>What is it?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- The story of the Ancients...<boxstart/>- Nothing
 
-  <speaker name="Cloud"><boxstart/>The story of the Ancients...</speaker>
+  <speaker name="Cloud"/><boxstart/>The story of the Ancients...
   <speaker name="Elder Bugah">Elder Bugah</speaker><boxstart/>You can't talk of the Ancients, without mentioning Professor Gast.<boxstart/>He used to come here sometimes.<boxstart/>He was a Shinra scholar who spent his life studying the Ancients.<boxstart/>He was a serious person, never would have figured he'd be with the Shinra.<boxstart/>Must've been about 30 years ago, when he found the corpse of an Ancient. He was elated!<boxstart/>If I recall... he named it 'Jenova' and was doing a lot of research...<boxstart/>One day, he showed up here, looking real distressed.<boxstart/>He was mumbling something about Jenova not being an Ancient and that he'd done a terrible thing...<boxstart/>He's been missing since then. I heard that he never went back to Shinra<boxstart/>So, if you ever see Professor Gast, I want you to tell him...<boxstart/>That the old man that likes to drink in Cosmo Canyon, wanted to hear about the Ancients.<boxstart/>Well, there's lots to talk about,<boxstart/>but most things about the Ancients are all legend and folk tales, and no one knows the truth.
 
 
-  <speaker name="Cloud"><boxstart/>Nothing</speaker>
+  <speaker name="Cloud"/><boxstart/>Nothing
   <speaker name="Elder Bugah">Elder Bugah</speaker><boxstart/>...hmm. That's no fun... I wanna tell a story.
 
 <speaker name="Elder Bugah">Elder Bugah</speaker><boxstart/>By the way, your friends are all in front of the 'Cosmo Candle'<boxstart/>Are you all leaving now?
@@ -324,20 +324,20 @@ He leaps up higher and lets out a keening howl.
 <speaker name="Man">Man</speaker><boxstart/>The repair on your car is completed.<boxstart/>Now you should be able to go where ever you want.
 <speaker name="Cloud">Cloud</speaker><boxstart/>- How much do I owe...?<boxstart/>- Much obliged
 
-  <speaker name="Cloud"><boxstart/>How much do I owe...?</speaker>
+  <speaker name="Cloud"/><boxstart/>How much do I owe...?
   <speaker name="Man">Man</speaker><boxstart/>No charge! You'd do the same for me, right?
   <speaker name="Cloud">Cloud</speaker><boxstart/>- Please, take 1000 gil<boxstart/>- I guess you're right
 	
-	  <speaker name="Cloud"><boxstart/>Please, take 1000 gil</speaker>
+	  <speaker name="Cloud"/><boxstart/>Please, take 1000 gil
 	  <speaker name="Man">Man</speaker><boxstart/>Are you sure...? Well, all right. Thank you.<boxstart/>Oh yeah. Did you stay at the inn already?<boxstart/>There was a bottle on the sofa there a couple of days ago... was it yours?
 	
 	
-	  <speaker name="Cloud"><boxstart/>I guess you're right</speaker>
+	  <speaker name="Cloud"/><boxstart/>I guess you're right
 	  <stage>Nothing happens.</stage>
 	
 
 
-  <speaker name="Cloud"><boxstart/>Much obliged</speaker>
+  <speaker name="Cloud"/><boxstart/>Much obliged
   <stage>Nothing happens.</stage>
 
 <speaker name="Man">Man</speaker><boxstart/>Mmm...... I think the teachings of the 'Study of Planet Life' are true.<boxstart/>But can people used to Mako energy ever go back...?

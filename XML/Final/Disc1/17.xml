@@ -52,11 +52,11 @@ He runs off.
 <speaker name="Big Man">Big Man</speaker><boxstart/>Want to enter the Chocobo Race?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Not interested<boxstart/>- Yeah, I want to enter
 
-  <speaker name="Cloud"><boxstart/>Not interested</speaker>
+  <speaker name="Cloud"/><boxstart/>Not interested
   <speaker name="Big Man">Big Man</speaker><boxstart/>You thinkin' of livin' here forever? Then live a long life!
 
 
-  <speaker name="Cloud"><boxstart/>Yeah, I want to enter</speaker>
+  <speaker name="Cloud"/><boxstart/>Yeah, I want to enter
   <speaker name="Big Man">Big Man</speaker><boxstart/>Then go get permission with the boss of this place.
   <speaker name="Cloud">Cloud</speaker><boxstart/>Who's the boss?
   <speaker name="Big Man">Big Man</speaker><boxstart/>You don't even know that? Oh man.
@@ -66,11 +66,11 @@ He runs off.
 <speaker name="Mr. Coates">Mr. Coates</speaker><boxstart/>Never seen your face 'round here before. Goin' up?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Not interested<boxstart/>- Yeah, up
 
-  <speaker name="Cloud"><boxstart/>Not interested</speaker>
+  <speaker name="Cloud"/><boxstart/>Not interested
   <speaker name="Mr. Coates">Mr. Coates</speaker><boxstart/>Heh heh! You sure got guts!
 
 
-  <speaker name="Cloud"><boxstart/>Yeah, up</speaker>
+  <speaker name="Cloud"/><boxstart/>Yeah, up
   <speaker name="Mr. Coates">Mr. Coates</speaker><boxstart/>You don't seem to understand how things work down here.<boxstart/>This is the Gold Saucer's garbage dump. And that makes alluv ya scrubs.<boxstart/>The only way to get back up there is to win the Chocobo Race.<boxstart/>But, it's not as easy as you rookies think.<boxstart/>Of course, if you got the boss's permission it'd be a different story but, YOU'll never get that!<boxstart/>Ha ha ha ha.
 
 <stage>At the prison pub...</stage>
@@ -252,7 +252,7 @@ The race will start in a few moments. Will the jockeys for the next race, please
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Uh, how was it again?<boxstart/>- Yeah, I got it
 <speaker name="Ester">Ester</speaker><boxstart/>Then, good luck.
 
-	<stage><speaker name="Cloud"><boxstart/>If Cloud loses the race...</speaker></stage>
+	<stage><speaker name="Cloud"/><boxstart/>If Cloud loses the race...</stage>
 	<speaker name="Ester">Ester</speaker><boxstart/>Too bad.
 	If Cloud comes in 4th place or worse:
 	You had a tough situation there.
@@ -261,15 +261,15 @@ The race will start in a few moments. Will the jockeys for the next race, please
 	If Cloud comes in 2nd place:
 	You were so close.
 	
-		<stage><speaker name="Cloud"><boxstart/>If it is Cloud's 1st or 2nd loss...</speaker></stage>
+		<stage><speaker name="Cloud"/><boxstart/>If it is Cloud's 1st or 2nd loss...</stage>
 		<speaker name="Ester">Ester</speaker><boxstart/>Let me find a better Chocobo for you. Wait here for a while, OK?
 	
 	
-		<stage><speaker name="Cloud"><boxstart/>If Cloud has lost 3 times...</speaker></stage>
+		<stage><speaker name="Cloud"/><boxstart/>If Cloud has lost 3 times...</stage>
 		<speaker name="Ester">Ester</speaker><boxstart/>If you couldn't win with that last Chocobo...<boxstart/>All right, I'll go get the best Chocobo there is!
 	
 	
-		<stage><speaker name="Cloud"><boxstart/>If Cloud has lost 4 or more times...</speaker></stage>
+		<stage><speaker name="Cloud"/><boxstart/>If Cloud has lost 4 or more times...</stage>
 		<speaker name="Ester">Ester</speaker><boxstart/>You gotta be kidding me!? There aren't any other Chocobos better than the last one!<boxstart/>Well, if you really want to win, just push the 'SELECT'<boxstart/>and try the 'AUTO' mode.
 	
 

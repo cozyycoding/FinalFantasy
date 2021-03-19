@@ -21,22 +21,22 @@ He looks up to see the rocket.
 <speaker name="Barkeeper">Barkeeper</speaker><boxstart/>Would you like something to drink?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Let me hear your story<boxstart/>- Not interested
 
-  <speaker name="Cloud"><boxstart/>Let me hear your story</speaker>
+  <speaker name="Cloud"/><boxstart/>Let me hear your story
   <speaker name="Barkeeper">Barkeeper</speaker><boxstart/>Did you meet the Captain already? He's really the town's representative, so you should really talk with him.
 
 
-  <speaker name="Cloud"><boxstart/>Not interested</speaker>
+  <speaker name="Cloud"/><boxstart/>Not interested
   <speaker name="Barkeeper">Barkeeper</speaker><boxstart/>......that's too bad. Please come again.
 
 <speaker name="Man at Table">Man at Table</speaker><boxstart/>Better ask the Captain about this town. He's the one in charge of it.
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Captain?<boxstart/>- Did you see a man in a Black Cape?
 
-  <speaker name="Cloud"><boxstart/>Captain?</speaker>
+  <speaker name="Cloud"/><boxstart/>Captain?
   Who's the 'Captain'?
   <speaker name="Man at Table">Man at Table</speaker><boxstart/>The Captain was a pilot when Shinra was still interested in their Space Program.<boxstart/>He was going to be the world's first astronaut, but there was an accident...<boxstart/>Ever since then, he's been wasting his life away here dreaming about going into outer space.
 
 
-  <speaker name="Cloud"><boxstart/>Did you see a man in a Black Cape?</speaker>
+  <speaker name="Cloud"/><boxstart/>Did you see a man in a Black Cape?
   <speaker name="Man at Table">Man at Table</speaker><boxstart/>A man in a Black Cape? Nope... don't know a thing about it.
 
 <speaker name="Man at Table">Man at Table</speaker><boxstart/>A drink will ease your heart...
@@ -50,13 +50,13 @@ He looks up to see the rocket.
 <speaker name="Old Man outside Item Shop">Old Man outside Item Shop</speaker><boxstart/>This used to be a Shinra base where they used to launch rockets.<boxstart/>You saw the leaning rocket, right? That's Shinra No. 26. It never got off the ground though.<boxstart/>It just looms there. That's how the town got its name... 'Shinra No. 26'.<boxstart/>Want to look at the rocket with me?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah, let's take a look<boxstart/>- No, not interested
 
-  <speaker name="Cloud"><boxstart/>Yeah, let's take a look</speaker>
+  <speaker name="Cloud"/><boxstart/>Yeah, let's take a look
   <speaker name="Old Man">Old Man</speaker><boxstart/>I get so impressed every time I look at it.<boxstart/>Sorry to get you into this. For me, it's a kinda hobby.<boxstart/>But, out of appreciation, let me give you this.
   Received "Yoshiyuki"!
   <speaker name="Old Man">Old Man</speaker><boxstart/>I wish you'd take care of it and use it...
 
 
-  <speaker name="Cloud"><boxstart/>No, not interested</speaker>
+  <speaker name="Cloud"/><boxstart/>No, not interested
   <speaker name="Old Man">Old Man</speaker><boxstart/>Oh, how boring...
 
 <stage>Inside the Item Shop...</stage>
@@ -99,7 +99,7 @@ She goes back inside.
 <speaker name="Cid">Cid</speaker><boxstart/>Captain? I'm the Captain!<boxstart/>The name's Cid. Everyone calls me 'Captain', though.<boxstart/>What d'ya want?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Tell me about this rocket<boxstart/>- Is Rufus coming?<boxstart/>- Can we borrow the "Tiny Bronco"?
 
-  <speaker name="Cloud"><boxstart/>Tell me about this rocket</speaker>
+  <speaker name="Cloud"/><boxstart/>Tell me about this rocket
   <speaker name="Cid">Cid</speaker><boxstart/>Wow! Not bad for a kid.<boxstart/>Alright then, I'll explain it to you.<boxstart/>You know Shinra developed a lot of technological gadgets during the meaningless war, right?<boxstart/>Now it's a Mako company, but in the old days it was a weapons manufacturer.<boxstart/>Well, they came up with a Rocket Engine.<boxstart/>There was so much excitement about the thought of going into outer space. Our dreams got bigger and bigger.<boxstart/>They put a major budget into it and made prototype after prototype! Finally, they completed the Shinra No. 26.<boxstart/>They chose the best pilot in Shinra--no, in the world--me. I mean, come on.<boxstart/>And finally we get to the day of the launch. Everything was goin' well...
   He kicks the wall.
   But, because of that dumb-ass Shera, the launch got messed up. That's why they became so anal!<boxstart/>And so, Shinra nixed their outer space exploration plans.<boxstart/>After they told me how the future was Space Exploration and got my damn hopes up... DAMN THEM!<boxstart/>Then, it was all over once they found out Mako energy was profitable. They didn't even so much as look at space exploration.<boxstart/>Money, moola, dinero! My dream was just a financial number for them!<boxstart/>Look at this rusted Rocket. I was supposed to be the first man in space with this.<boxstart/>Everyday, it tilts a little bit more.<boxstart/>At this rate, I don't know which will come first, this thing falling down or me gettin' outta here.<boxstart/>My last hope is to talk to the President......
@@ -107,11 +107,11 @@ She goes back inside.
   <speaker name="Cid">Cid</speaker><boxstart/>Ummm... Just look around...
 
 
-  <speaker name="Cloud"><boxstart/>Is Rufus coming?</speaker>
+  <speaker name="Cloud"/><boxstart/>Is Rufus coming?
   <speaker name="Cid">Cid</speaker><boxstart/>Yeah! It must be news about restarting the Space Program.<boxstart/>A young President, that's what we needed! He still has dreams, too!
 
 
-  <speaker name="Cloud"><boxstart/>Can we borrow the "Tiny Bronco"?</speaker>
+  <speaker name="Cloud"/><boxstart/>Can we borrow the "Tiny Bronco"?
   <speaker name="Cid">Cid</speaker><boxstart/>You out of your *&amp;$^$# mind!? That's my most cherished possession. I can't let you take it.
 
 <stage>Back at the inn...</stage>

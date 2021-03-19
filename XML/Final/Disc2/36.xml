@@ -12,12 +12,12 @@ The Aftermath in Mideel
 <speaker name="Old Man at Entrance">Old Man at Entrance</speaker><boxstart/>Ahoy! This here's Mideel. A quiet Hot Springs town... At least it used to be...<boxstart/>Lately the sea's been in a tizzy. Lifestream has been mixin' things up at the bottom of the ocean.<boxstart/>I think the planet's pretty angry too. We've pretty much done whatever we've wanted to the planet up till now.
 <speaker name="Woman">Woman</speaker><boxstart/>It's bad enough with earthquakes and Meteor, but on top of all that now the Lifestream has become active again, too.<boxstart/>I hope it doesn't blow and cause a panic like it did before. That was really bad, I tell ya.
 
-  <stage><speaker name="Cloud"><boxstart/>If you obtained and used the Beat-up Useless Old Key as Tifa...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If you obtained and used the Beat-up Useless Old Key as Tifa...</stage>
   <stage>In the Weapons Shop, Cid inspects the door.</stage>
   <speaker name="Cid">Cid</speaker><boxstart/>Damn, why the hell did they make something tricky like this?
 
 
-  <stage><speaker name="Cloud"><boxstart/>If you did not obtain the Beat-up Useless Old Key...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If you did not obtain the Beat-up Useless Old Key...</stage>
   <stage>Walking over the key, there is a clinking noise.</stage>
   <speaker name="Cid">Cid</speaker><boxstart/>Huh...? The hell's this?<boxstart/>Looks like a key but it's stuck way down inside, and I can't get it out.<boxstart/>Well, what the hell? That's life...
   <stage>In the Weapons Shop, Cid kicks the door.</stage>
@@ -30,12 +30,12 @@ The Aftermath in Mideel
 	<stage>Back to the Weapons Shop, Cid again inspects the door...</stage>
 	<speaker name="Cid">Cid</speaker><boxstart/>Hey, I know what'll do it... Let's try that beat up old key!<boxstart/>- Use the beat up old key!<boxstart/>- Forget it
 	
-	  <speaker name="Cloud"><boxstart/>Use the beat up old key!</speaker>
+	  <speaker name="Cloud"/><boxstart/>Use the beat up old key!
 	  Yeah, this is it.<boxstart/>Huh? Wha...? Won't turn...<boxstart/>Wha......!?<boxstart/>Hoo, *&amp;%$^% Busted it... Can't get the damn thing out...
 	  <speaker name="Shopkeeper">Shopkeeper</speaker><boxstart/>Is something wrong......?
 	  <speaker name="Cid">Cid</speaker><boxstart/>Ulp!!<boxstart/>Oh, uh, no, uh I......<boxstart/>Damn, this's bad...<boxstart/>- What the hell... lie!<boxstart/>- Just apologize and get it over with!
 	  
-		<speaker name="Cloud"><boxstart/>What the hell... lie!</speaker>
+		<speaker name="Cloud"/><boxstart/>What the hell... lie!
 		Er, nothin'. Hah, hah. That's one nice door you got there, y'know.
 		<speaker name="Shopkeeper">Shopkeeper</speaker><boxstart/>Oh... why, thank you very much.
 		<speaker name="Cid">Cid</speaker><boxstart/>Phew... that was a close one. But I kinda feel a little bad about that one......
@@ -43,7 +43,7 @@ The Aftermath in Mideel
 		............ The key's broken off inside, and I can't get to it......<boxstart/>............ I don't know a thing about it...
 	  
 	  
-		<speaker name="Cloud"><boxstart/>Just apologize and get it over with!</speaker>
+		<speaker name="Cloud"/><boxstart/>Just apologize and get it over with!
 		Mmm..., sorry! I twisted the ^%$#^ and broke it.
 		<speaker name="Shopkeeper">Shopkeeper</speaker><boxstart/>Huh? Key? You mean the one to that door?
 		<stage>Cid nods.</stage>
@@ -58,7 +58,7 @@ The Aftermath in Mideel
 	  
 	
 	
-	  <speaker name="Cloud"><boxstart/>Forget it</speaker>
+	  <speaker name="Cloud"/><boxstart/>Forget it
 	  Naw, forget it... It doesn't even look like it fits.
 	
 
@@ -69,13 +69,13 @@ The Aftermath in Mideel
 <stage>Cid jumps.</stage>
 <speaker name="Cid">Cid</speaker><boxstart/>Uh, oh. I'm......<boxstart/>- Yeah, I took it old man!<boxstart/>- Don't know nothin' 'bout it!
 
-  <speaker name="Cloud"><boxstart/>Yeah, I took it old man!</speaker>
+  <speaker name="Cloud"/><boxstart/>Yeah, I took it old man!
   Hey, it's mine now! An' I'll make good use of it, believe-you-me!
   <speaker name="Old Man Playing with Dog">Old Man Playing with Dog</speaker><boxstart/>Heh, heh. What an oddball. We'll let him use it.
   <speaker name="Cid">Cid</speaker><boxstart/>Hey thanks. It'll help, pops!
 
 
-  <speaker name="Cloud"><boxstart/>Don't know nothin' 'bout it!</speaker>
+  <speaker name="Cloud"/><boxstart/>Don't know nothin' 'bout it!
   Wh, wh-huh...? I don't know nuthin' about that.
   <speaker name="Old Man Playing with Dog">Old Man Playing with Dog</speaker><boxstart/>What the hell happened to the rotten old elixir I was gonna throw out?<boxstart/>If someone took that by mistake it'll do more than make them sick...<boxstart/>Well, if you don't know then I guess you don't know.
   <speaker name="Cid">Cid</speaker><boxstart/>...............

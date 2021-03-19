@@ -6,15 +6,15 @@ Fort Condor - Huge Materia
 
 <stage>Because Fort Condor is optional until this point, it is possible for this to be the party's first visit.</stage>
 
-<stage><speaker name="Cloud"><boxstart/>If this is the party's first visit to Fort Condor...</speaker></stage>
+<stage><speaker name="Cloud"/><boxstart/>If this is the party's first visit to Fort Condor...</stage>
 	<speaker name="Man">Man</speaker><boxstart/>We've been fighting the Shinra for a long time at this battlefield.<boxstart/>Even now, we're still settled in for a long war with them.<boxstart/>If you aren't in a hurry, would you help us fight them?<boxstart/>Listen, we don't want to push you but, if you're in the middle of something, why don't you finish that first?
 	<speaker name="Cid">Cid</speaker><boxstart/>- Like to help but...<boxstart/>- I guess we'll help you
 	
-	  <speaker name="Cloud"><boxstart/>Like to help but...</speaker>
+	  <speaker name="Cloud"/><boxstart/>Like to help but...
 	  <speaker name="Man">Man</speaker><boxstart/>All right then...... Take care of yourselves...
 	
 	
-	  <speaker name="Cloud"><boxstart/>I guess we'll help you</speaker>
+	  <speaker name="Cloud"/><boxstart/>I guess we'll help you
 	  <speaker name="Man">Man</speaker><boxstart/>Really!? Then go on up and they'll fill you in on the details.
 	
 	<stage>Cid and the others go inside. They find the man by himself in the shed at the top of the fort, looking out the window.</stage>
@@ -58,7 +58,7 @@ Fort Condor - Huge Materia
 	<speaker name="Cid">Cid</speaker><boxstart/>- Wait<boxstart/>- Okay, ready<boxstart/>- Hear more
 
 
-<stage><speaker name="Cloud"><boxstart/>If the party has visited Fort Condor before...</speaker></stage>
+<stage><speaker name="Cloud"/><boxstart/>If the party has visited Fort Condor before...</stage>
 	<speaker name="Man with Hat">Man with Hat</speaker><boxstart/>You've come at a good time. Shinra's changing its strategy now.<boxstart/>It seems that Shinra will destroy the reactor and then take out the materia that's inside.
 	
 		<speaker name="Barret">Barret</speaker><boxstart/>Man, we're walking on dangerous ground. We can't lose now!
@@ -76,7 +76,7 @@ Fort Condor - Huge Materia
 <speaker name="Man">Man</speaker><boxstart/>This is the deciding battle. The enemy numbers more than ever before.
 <stage>A lengthy battle with Shinra troops ensues.</stage>
 
-<stage><speaker name="Cloud"><boxstart/>If Cid and the others defeat the Shinra...</speaker></stage>
+<stage><speaker name="Cloud"/><boxstart/>If Cid and the others defeat the Shinra...</stage>
 	<speaker name="Man">Man</speaker><boxstart/>YES! We did it! That was wonderful! Thank you!! I doubt Shinra will attack now.
 	He laughs, then looks outside.
 	A, arrgghh......
@@ -116,7 +116,7 @@ Fort Condor - Huge Materia
 	<speaker name="Cid">Cid</speaker><boxstart/>Yeah, I'm worried 'bout Tifa; she may've collapsed takin' care of the guy.<boxstart/>How 'bout checkin' in on 'em! Down to Mideel!
 
 
-<stage><speaker name="Cloud"><boxstart/>If the party loses the battle...</speaker></stage>
+<stage><speaker name="Cloud"/><boxstart/>If the party loses the battle...</stage>
 	<stage>Cid comes back inside the shack and falls over.</stage>
 	<speaker name="Man">Man</speaker><boxstart/>...... Even if you could only spare them......
 	<stage>The party comes to at the bottom of Fort Condor and slowly gets up.</stage>

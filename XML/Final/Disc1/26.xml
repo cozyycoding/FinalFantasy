@@ -8,15 +8,15 @@ Gongaga - Afraid to Go On
 <speaker name="Barret">Barret</speaker><boxstart/>You look like you was havin' a nightmare.<boxstart/>How are you feeling?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- I seem to be OK<boxstart/>- Not good<boxstart/>- Don't really know
 
-  <speaker name="Cloud"><boxstart/>I seem to be OK</speaker>
+  <speaker name="Cloud"/><boxstart/>I seem to be OK
   <speaker name="Barret">Barret</speaker><boxstart/>That's good. Man, I didn't know what was gonna happen.
 
 
-  <speaker name="Cloud"><boxstart/>Not good</speaker>
+  <speaker name="Cloud"/><boxstart/>Not good
   <speaker name="Barret">Barret</speaker><boxstart/>Oh... Better keep it to yourself.
 
 
-  <speaker name="Cloud"><boxstart/>Don't really know</speaker>
+  <speaker name="Cloud"/><boxstart/>Don't really know
   <speaker name="Barret">Barret</speaker><boxstart/>I guess that's right. Well, don't worry too much about it.
 
 <speaker name="Tifa">Tifa</speaker><boxstart/>You know, Cloud. Aerith is gone.

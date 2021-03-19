@@ -142,11 +142,11 @@ Only death awaits you all. But do not fear.<boxstart/>For it is through death th
 <speaker name="Aerith">Aerith</speaker><boxstart/>Hey! It's locked.<boxstart/>No good. We have to catch it!<boxstart/>You must be tired.
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah<boxstart/>- I want to go home
 
-  <speaker name="Cloud"><boxstart/>Yeah</speaker>
+  <speaker name="Cloud"/><boxstart/>Yeah
   <speaker name="Aerith">Aerith</speaker><boxstart/>Just hang in there. Someday we'll look back at these hard times and laugh.
 
 
-  <speaker name="Cloud"><boxstart/>I want to go home</speaker>
+  <speaker name="Cloud"/><boxstart/>I want to go home
   <speaker name="Aerith">Aerith</speaker><boxstart/>Yeah. But it'll all be over soon!
 
 <stage>Cloud catches the Spirit Body and unlocks the door. The three of them enter the room of murals. The murals seem to show a progression:<boxstart/>
@@ -235,15 +235,15 @@ He turns to Aerith, trying to look nonchalant.
 <speaker name="Aerith">Aerith</speaker><boxstart/>Hey!<boxstart/>...Black Materia.<boxstart/>What should we do, Cloud?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Shake it<boxstart/>- Take it<boxstart/>- Leave it
 
-  <speaker name="Cloud"><boxstart/>Shake it</speaker>
+  <speaker name="Cloud"/><boxstart/>Shake it
   <stage>The Temple quakes.</stage>
 
 
-  <speaker name="Cloud"><boxstart/>Take it</speaker>
+  <speaker name="Cloud"/><boxstart/>Take it
   <stage>The Temple quakes.</stage>
 
 
-  <speaker name="Cloud"><boxstart/>Leave it</speaker>
+  <speaker name="Cloud"/><boxstart/>Leave it
   <stage>Cloud shrugs.</stage>
 
 <speaker name="Aerith">Aerith</speaker><boxstart/>Wait a minute. I'll ask!
@@ -271,35 +271,35 @@ She rejoins Cloud.
 He taps the altar, and the Temple shakes.
 <speaker name="Aerith">Aerith</speaker><boxstart/>So what are we going to do?
 
-  <stage><speaker name="Cloud"><boxstart/>If Cait Sith is in the party...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If Cait Sith is in the party...</stage>
   <stage>Cait Sith steps forward.</stage>
   <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>I heard your situation!<boxstart/>Don't forget about me.<boxstart/>Everything you said makes perfect sense!<boxstart/>You can use my stuffed body for the future of the Planet.
   <speaker name="Cloud">Cloud</speaker><boxstart/>We can't let Sephiroth get his hands on the Black Materia.<boxstart/>And we can't let the Shinra get theirs on it either.
   <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>So that means you don't trust me?<boxstart/>But Cloud. There's really nothing else you can do.<boxstart/>Everyone, please trust me.
   <speaker name="Cloud">Cloud</speaker><boxstart/>- I guess we have no choice<boxstart/>- No way
   
-    <speaker name="Cloud"><boxstart/>I guess we have no choice</speaker>
+    <speaker name="Cloud"/><boxstart/>I guess we have no choice
     <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>All righty then! Leave it all to me!<boxstart/>Everyone, hurry up and get outside!<boxstart/>I'll go with you to a safe place.
   
   
-    <speaker name="Cloud"><boxstart/>No way</speaker>
+    <speaker name="Cloud"/><boxstart/>No way
     <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>You sure are stubborn, Cloud.<boxstart/>Please believe me, Cloud.
     <speaker name="Cloud">Cloud</speaker><boxstart/>- Hmmm, I guess I have to<boxstart/>- How can I?
   
 
 
-  <stage><speaker name="Cloud"><boxstart/>If Cait Sith is not in the party...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If Cait Sith is not in the party...</stage>
   <stage>Cloud's PHS rings, and after a moment of confusion he answers it.</stage>
   <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Hi, Cloud. This is Cait Sith.<boxstart/>I overheard the whole story!<boxstart/>Don't forget about me.<boxstart/>Everything you said makes perfect sense!<boxstart/>You can use my stuffed body for the future of the Planet.
   <speaker name="Cloud">Cloud</speaker><boxstart/>We can't let Sephiroth get his hands on the Black Materia.<boxstart/>And we can't let the Shinra get theirs on it either.
   <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>But Cloud. There's really nothing else you can do.<boxstart/>Everyone, please trust me.
   <speaker name="Cloud">Cloud</speaker><boxstart/>- I guess we have no choice<boxstart/>- No way
   
-    <speaker name="Cloud"><boxstart/>I guess we have no choice</speaker>
+    <speaker name="Cloud"/><boxstart/>I guess we have no choice
     <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>All righty then! Leave it all to me!<boxstart/>Please hurry, you've got to get out of here!<boxstart/>I'll be waiting at the exit!
   
   
-    <speaker name="Cloud"><boxstart/>No way</speaker>
+    <speaker name="Cloud"/><boxstart/>No way
     <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>You sure are stubborn, Cloud.<boxstart/>Please believe me, Cloud.
     <speaker name="Cloud">Cloud</speaker><boxstart/>- Hmmm, I guess I have to<boxstart/>- How can I?
   

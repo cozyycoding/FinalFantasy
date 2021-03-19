@@ -36,7 +36,7 @@ Back on the Highwind
 <speaker name="Tifa">Tifa</speaker><boxstart/>No matter how close we are... We were far apart... before this.<boxstart/>But when we were in the Lifestream surrounded by all those screams of anguish, I thought I heard your voice...<boxstart/>...sniff... you probably don't remember this...<boxstart/>But deep in my heart I heard you calling my name... Or at least I thought I did...
 <stage>Depending on Cloud's actions throughout the game, the dialogue continues differently.</stage>
 
-  <stage><speaker name="Cloud"><boxstart/>If Cloud has favored Tifa...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If Cloud has favored Tifa...</stage>
   <speaker name="Cloud">Cloud</speaker><boxstart/>Yeah... At that time I heard you calling me.<boxstart/>You were calling me back from the stream of consciousness in the Lifestream.<boxstart/>After all, I promised. That if anything were to ever happen to you, I would come to help.
   <speaker name="Tifa">Tifa</speaker><boxstart/>Cloud...? Do you think the stars can hear us?<boxstart/>Do you think they see how hard we're fighting for them?
   <speaker name="Cloud">Cloud</speaker><boxstart/>I dunno... But...<boxstart/>Whether they are or not, we still have to do what we can. And believe in ourselves...<boxstart/>I'll find the answer someday. Right, Tifa?<boxstart/>That's what I learned from you when I was in the Lifestream.
@@ -54,7 +54,7 @@ Back on the Highwind
   <speaker name="Cloud">Cloud</speaker><boxstart/>Yeah... okay.<boxstart/>This is probably the last time we'll have together......
 
 
-  <stage><speaker name="Cloud"><boxstart/>If Cloud has favored one of the others...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If Cloud has favored one of the others...</stage>
   <speaker name="Cloud">Cloud</speaker><boxstart/>I see......<boxstart/>I think I've heard about it, too.<boxstart/>At that time, it was Tifa's voice......
   <speaker name="Tifa">Tifa</speaker><boxstart/>Cloud...? Do you think the stars can hear us?<boxstart/>Do you think they see how hard we're fighting for them?
   <speaker name="Cloud">Cloud</speaker><boxstart/>I dunno... But...<boxstart/>Whether they are or not, we still have to do what we can. And believe in ourselves...<boxstart/>I'll find the answer someday. As long as I keep trying.

@@ -36,12 +36,12 @@ Received a "Beat-up Useless Old Key"!
 <stage>Back to the Weapons Shop, Tifa again inspects the door...</stage>
 <speaker name="Tifa">Tifa</speaker><boxstart/>Oh yeah, shall I try that old beat up key?<boxstart/>- Use the beat up old key!<boxstart/>- Forget it
 
-  <speaker name="Cloud"><boxstart/>Use the beat up old key!</speaker>
+  <speaker name="Cloud"/><boxstart/>Use the beat up old key!
   Okay, this is it.<boxstart/>hmm. Huh...? This is pretty tight...<boxstart/>Eyaaah...!?<boxstart/>Oh no! ......it broke. Now I can't get it out...
   <speaker name="Shopkeeper">Shopkeeper</speaker><boxstart/>Is something wrong......?
   <speaker name="Tifa">Tifa</speaker><boxstart/>Ulp!?<boxstart/>Huh? Uh, no......<boxstart/>What am I gonna do......?<boxstart/>- Lie your butt off!<boxstart/>- Tell them the truth!
   
-    <speaker name="Cloud"><boxstart/>Lie your butt off!</speaker>
+    <speaker name="Cloud"/><boxstart/>Lie your butt off!
     Nothing! I was just thinking how nice that door was, that's all.
     <speaker name="Shopkeeper">Shopkeeper</speaker><boxstart/>Oh... why, thank you very much.
     <speaker name="Tifa">Tifa</speaker><boxstart/>Whew... that was close. But that was kind of bad...
@@ -49,7 +49,7 @@ Received a "Beat-up Useless Old Key"!
     ...... The key's broken off inside, and I can't get to it...<boxstart/>...... I don't know anything about it.
   
   
-    <speaker name="Cloud"><boxstart/>Tell them the truth!</speaker>
+    <speaker name="Cloud"/><boxstart/>Tell them the truth!
     I'm... sorry! I forced the key and it broke!
     <speaker name="Shopkeeper">Shopkeeper</speaker><boxstart/>Huh? Key? You mean the one to that door?
     <stage>Tifa nods.</stage>
@@ -64,7 +64,7 @@ Received a "Beat-up Useless Old Key"!
   
 
 
-  <speaker name="Cloud"><boxstart/>Forget it</speaker>
+  <speaker name="Cloud"/><boxstart/>Forget it
   I'd better not. It doesn't look like it even fits.
 
 <speaker name="Woman">Woman</speaker><boxstart/>Huh? Never seen you here before. You from outta town? How're things on the outside?<boxstart/>Between the earthquakes and Meteor...... It just might be the end of the world like everyone's been sayin'...<boxstart/>Oh, how depressing! What a miserable world this is......

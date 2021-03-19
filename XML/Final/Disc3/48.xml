@@ -14,18 +14,18 @@ The Ending Sequence
 <speaker name="Tifa">Tifa</speaker><boxstart/>Hey, Cloud... Would you tell me 'It's all right'?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Say it cool<boxstart/>- Say it normal<boxstart/>- Don't say it
 
-  <speaker name="Cloud"><boxstart/>Say it cool</speaker>
+  <speaker name="Cloud"/><boxstart/>Say it cool
   <stage>Cloud strikes a pose.</stage>
   <speaker name="Cloud">Cloud</speaker><boxstart/>It's all right, Tifa.
   <speaker name="Tifa">Tifa</speaker><boxstart/>Now I feel like things are really going to be all right.<boxstart/>Thanks, Cloud.<boxstart/>I'm all right. I'm not going to chicken out at the last minute.
 
 
-  <speaker name="Cloud"><boxstart/>Say it normal</speaker>
+  <speaker name="Cloud"/><boxstart/>Say it normal
   <speaker name="Cloud">Cloud</speaker><boxstart/>...It's all right.
   <speaker name="Tifa">Tifa</speaker><boxstart/>You're right, things will be all right.<boxstart/>I'm... all right... really... I'll fight my hardest...
 
 
-  <speaker name="Cloud"><boxstart/>Don't say it</speaker>
+  <speaker name="Cloud"/><boxstart/>Don't say it
   <speaker name="Cloud">Cloud</speaker><boxstart/>...I just can't say it that easy.
   <speaker name="Tifa">Tifa</speaker><boxstart/>I'm sorry... I guess you're right.<boxstart/>......Wow. I guess... I am a little scared. My knees are trembling.
 
@@ -35,11 +35,11 @@ The Ending Sequence
 <speaker name="Cid">Cid</speaker><boxstart/>You ever see the play 'LOVELESS'?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- No<boxstart/>- Yes
 
-  <speaker name="Cloud"><boxstart/>No</speaker>
+  <speaker name="Cloud"/><boxstart/>No
   <speaker name="Cid">Cid</speaker><boxstart/>Yeah, I figured someone like you wouldn't be much on plays.
 
 
-  <speaker name="Cloud"><boxstart/>Yes</speaker>
+  <speaker name="Cloud"/><boxstart/>Yes
   <speaker name="Cid">Cid</speaker><boxstart/>Yeah? Really? Well, that's fine.<boxstart/>They've been doin' that play every summer since I was a kid.<boxstart/>An' I remember seein' it just once...<boxstart/>That was when I was in Midgar interviewing to be a pilot.<boxstart/>I had some free time and thought I'd catch the play.<boxstart/>Now, I'm no big fan of the theater or anything.<boxstart/>But this thing put me to sleep, just like I thought it would.<boxstart/>Finally during the last scene, the guy next to me woke me up tellin' me my snorin' was too loud.<boxstart/>So about all I really remember of that play is the end...<boxstart/>The sister of the lead asks her lover,<boxstart/>Do you really have to leave?<boxstart/>And the guy says,<boxstart/>I promised. The people I love, are waiting.<boxstart/>......I don't understand. Not at all. But...... please take care of yourself.<boxstart/>Of course... I'll come back to you. Even if you don't promise to wait. I'll return knowing that you'll be here.<boxstart/>I remember thinking when I heard those lines,<boxstart/>*&amp;%! What the hell's he talkin' about? But, you know... now I'm not so sure...<boxstart/>I think I understand......
 
 <speaker name="Cid">Cid</speaker><boxstart/>When this job's done, I'm landing the ship... yeah, that's what I'll do.

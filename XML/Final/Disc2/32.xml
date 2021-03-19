@@ -47,21 +47,21 @@ The Chocobo Sage
 <speaker name="Choco Bill">Choco Bill</speaker><boxstart/>Oh, what is that? What has this world come to? Stars falling and everything.<boxstart/>With things the way they are now, how 'bout raising a Chocobo?<boxstart/>No, I'm not trying to persuade you for money. It's just because of the state of things in the world.<boxstart/>I thought that it would be a good and healthy thing for you to raise some Chocobos...<boxstart/>Hmm... You just happen to be in luck!<boxstart/>It just so happens that we aren't taking care of any Chocobos for anyone else, so...<boxstart/>I could take care of 6 Chocobos right now, for 10000 gil per Chocobo. How 'bout it?
 <speaker name="Tifa">Tifa</speaker><boxstart/>- Could you take care of the chocobos?<boxstart/>- I'd like to hear about something else<boxstart/>- Tell me how you raise them<boxstart/>- That's all
 
-  <speaker name="Cloud"><boxstart/>Could you take care of the chocobos?</speaker>
+  <speaker name="Cloud"/><boxstart/>Could you take care of the chocobos?
   <speaker name="Choco Bill">Choco Bill</speaker><boxstart/>To raise a Chocobo, you'll need a 'Chocobo Stable'.<boxstart/>And they rent for 10000 gil. Currently, I can rent out up to 6 'Chocobo Stables'.<boxstart/>If you rent a 'Chocobo Stable', we will keep up to 4 of the Chocobos you catch in the fenced area outside.<boxstart/>At a later date, you can select the Chocobo that you would like to put in your 'Chocobo Stable'.<boxstart/>'Chocobo Stables' cost 10000 gil...
   <speaker name="Tifa">Tifa</speaker><boxstart/>- Rent it
   <speaker name="Choco Bill">Choco Bill</speaker><boxstart/>Thank you.<boxstart/>My grandson takes care of the Chocobos. He's in the Chocobo Stable at the far right of the farm. Please tell him what you want.
 
 
-  <speaker name="Cloud"><boxstart/>I'd like to hear about something else</speaker>
+  <speaker name="Cloud"/><boxstart/>I'd like to hear about something else
   <speaker name="Choco Bill">Choco Bill</speaker><boxstart/>Someone once told me there is a 'Chocobo Sage'... somewhere.<boxstart/>He seems to know how to raise some great Chocobos.<boxstart/>If he really does exist, I'd like to meet him someday.
 
 
-  <speaker name="Cloud"><boxstart/>Tell me how you raise them</speaker>
+  <speaker name="Cloud"/><boxstart/>Tell me how you raise them
   <speaker name="Choco Bill">Choco Bill</speaker><boxstart/>Chocobos aren't hard to take care of.<boxstart/>The day to day care will all be done here.<boxstart/>But, please buy the food for the Chocobo, and feed them yourselves.<boxstart/>Chocobo's abilities will differ with what you feed it, so feel free to choose your own food.<boxstart/>Also, if you're able to find a male and a female Chocobo that like each other, they'll produce an egg. But only if you feed them a 'Nut'.<boxstart/>New Chocobos inherit the abilities of their parents.<boxstart/>I've heard that sometimes new breeds of Chocobo are born with special abilities. I've never actually seen it before, though.
 
 
-  <speaker name="Cloud"><boxstart/>That's all</speaker>
+  <speaker name="Cloud"/><boxstart/>That's all
   <stage>Nothing happens.</stage>
 
 <stage>In the stable...</stage>
@@ -76,16 +76,16 @@ The Chocobo Sage
 <speaker name="Chole">Chole</speaker><boxstart/>Wow, that's amazing! ...let me take some notes.<boxstart/>What...?
 <speaker name="Tifa">Tifa</speaker><boxstart/>- Let me jot this down<boxstart/>- Chole's Chocobo inspection<boxstart/>- Nothing
 
-  <speaker name="Cloud"><boxstart/>Let me jot this down</speaker>
+  <speaker name="Cloud"/><boxstart/>Let me jot this down
   <speaker name="Chole">Chole</speaker><boxstart/>Other than regular Chocobo, there are "Mountain Chocobo" and "River-Chocobo".<boxstart/>In order for the "Mountain Chocobo" and "River Chocobo" to be born,<boxstart/>You feed the "Carob Nut" to a "Great Chocobo" or a "Good Chocobo" and have it produce an egg.<boxstart/>But we don't sell any "Carob Nuts".<boxstart/>A "Great Chocobo" and a "Good Chocobo" are found...<boxstart/>On an island Southeast of the Chocobo Sage's dwelling at Corel. And in the area west of Corel.<boxstart/>The "Carob Nut" can be found south of the Chocobo Sage's dwelling. Monsters carry them.<boxstart/>Let's see, is Bone Village just south of there?<boxstart/>One surprise If you get the "Mountain Chocobo" and the "River Chocobo" to produce an egg,<boxstart/>You'll get a Chocobo that can cross mountains and rivers. I bet that the right nut for that is the "Carob Nut."<boxstart/>Bigger surprise: There seems to be a Chocobo that can cross the ocean.<boxstart/>If you could cross the ocean, mountains, and rivers, there'd be no place you couldn't go.<boxstart/>In order to get an Ocean Chocobo you need to get a Mountain-and-river Chocobo to mate with something else.<boxstart/>If you mate the Mountain-and-river Chocobo with a "Wonderful Chocobo",<boxstart/>You'll get an Ocean Chocobo. But to do that you can't use an ordinary Nut.<boxstart/>The "Nut" that produces Ocean Chocobos is the "Zeio Nut".<boxstart/>This is the first I've heard of it. I wonder where you get them?
 
 
-  <speaker name="Cloud"><boxstart/>Chole's Chocobo inspection</speaker>
+  <speaker name="Cloud"/><boxstart/>Chole's Chocobo inspection
   <speaker name="Chole">Chole</speaker> (if you have only one chocobo)<boxstart/>Hey, there's only one Chocobo.
   <speaker name="Chole">Chole</speaker> (otherwise)<boxstart/>For telling me that story, I'll tell you about each Chocobo's abilities.<boxstart/>From what I see, the fastest sprinter is...<boxstart/>I think it's Choco.<boxstart/>And, the fastest one is...<boxstart/>That's Choco<boxstart/>Also, from what I can tell, the one with the most stamina is...<boxstart/>I think it's Choco.<boxstart/>Finally, the most intelligent one is...<boxstart/>That's Choco
 
 
-  <speaker name="Cloud"><boxstart/>Nothing</speaker>
+  <speaker name="Cloud"/><boxstart/>Nothing
   <stage>Nothing happens.</stage>
 
 
@@ -228,11 +228,11 @@ Received "Elemental" Materia!
 <speaker name="Old Man">Old Man</speaker><boxstart/>Shinra's trying to gather the Huge Materia from Corel and Fort Condor. There are four left, and they're transporting them here.<boxstart/>I can't stand the thought of them using my rocket for something like this.<boxstart/>Anyways.<boxstart/>How 'bout it? Want to look at the rocket with me?
 <speaker name="Tifa">Tifa</speaker><boxstart/>- Look up<boxstart/>- No
 
-  <speaker name="Cloud"><boxstart/>Look up</speaker>
+  <speaker name="Cloud"/><boxstart/>Look up
   <speaker name="Old Man">Old Man</speaker><boxstart/>It seems like there's a lot happenin' in the outside world, but as long as I got this rocket... I'm satisfied.
 
 
-  <speaker name="Cloud"><boxstart/>No</speaker>
+  <speaker name="Cloud"/><boxstart/>No
   <speaker name="Old Man">Old Man</speaker><boxstart/>Oh, how boring...
 
 <stage>At Cid's house...</stage>
@@ -268,11 +268,11 @@ Received "Elemental" Materia!
 <speaker name="Excavator">Excavator</speaker><boxstart/>Welcome to Bone Village, a town for nature lovers.<boxstart/>You need something?
 <speaker name="Tifa">Tifa</speaker><boxstart/>- Are you going to run away??<boxstart/>- What are you doing?
 
-  <speaker name="Cloud"><boxstart/>Are you going to run away??</speaker>
+  <speaker name="Cloud"/><boxstart/>Are you going to run away??
   <speaker name="Excavator">Excavator</speaker><boxstart/>We've already learned about everything that has happened from the beginning of this Planet through fossils.<boxstart/>Now, we want to see on through to the end of the Planet... It's such a mixed feeling...
 
 
-  <speaker name="Cloud"><boxstart/>What are you doing?</speaker>
+  <speaker name="Cloud"/><boxstart/>What are you doing?
   <speaker name="Excavator">Excavator</speaker><boxstart/>We're excavating. It's like the land's telling a history of the planet.
 
 

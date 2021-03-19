@@ -168,7 +168,7 @@ He starts firing towards their rear.
 <speaker name="Elena">Elena</speaker><boxstart/>What are you doing! Let's go!
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Okay, let's end this<boxstart/>- No, let's not go
 
-  <speaker name="Cloud"><boxstart/>Okay, let's end this</speaker>
+  <speaker name="Cloud"/><boxstart/>Okay, let's end this
   <speaker name="Reno">Reno</speaker><boxstart/>I know we have a weird relationship, but...<boxstart/>We have to end this... like Turks!
   <stage>A battle ensues.</stage>
   <speaker name="Elena">Elena</speaker> (attacking)<boxstart/>Try this on for size!
@@ -180,7 +180,7 @@ He starts firing towards their rear.
   <stage>They flee.</stage>
 
 
-  <speaker name="Cloud"><boxstart/>No, let's not go</speaker>
+  <speaker name="Cloud"/><boxstart/>No, let's not go
   <speaker name="Elena">Elena</speaker><boxstart/>You showing pity!? Don't take the Turks for fools!
   <speaker name="Reno">Reno</speaker><boxstart/>Wait, Elena.
   <speaker name="Elena">Elena</speaker><boxstart/>Reno! You're not violating the order... are you!?

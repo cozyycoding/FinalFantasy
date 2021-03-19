@@ -149,11 +149,11 @@ Stole "MP Absorb" Materia!
 <speaker name="Gorky">Gorky</speaker><boxstart/>Freeze!<boxstart/>You aren't from Wutai, are you?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- No<boxstart/>- Yes
 
-  <speaker name="Cloud"><boxstart/>No</speaker>
+  <speaker name="Cloud"/><boxstart/>No
   <speaker name="Gorky">Gorky</speaker><boxstart/>Only those from Wutai are allowed in the tower!<boxstart/>I'll have to ask for you to leave!
 
 
-  <speaker name="Cloud"><boxstart/>Yes</speaker>
+  <speaker name="Cloud"/><boxstart/>Yes
   <speaker name="Gorky">Gorky</speaker><boxstart/>Hey! I hate people who lie about their identities! Leave this tower at once!
 
 <stage>Inside Godo's house, they find Godo lying on a futon.</stage>
@@ -370,15 +370,15 @@ Or, if Cid:
 <speaker name="Corneo">Corneo</speaker><boxstart/>Just listen to me - it won't take long.<boxstart/>Why do you think a bad guy like me would swallow his pride and plead for his life?
 <speaker name="Cloud, Tifa, or Cid">Cloud, Tifa, or Cid</speaker><boxstart/>- 1 Because he's ready to die<boxstart/>- 2 Because he's sure to win<boxstart/>- 3 Because he's clueless
 
-  <speaker name="Cloud"><boxstart/>1 Because he's ready to die</speaker>
+  <speaker name="Cloud"/><boxstart/>1 Because he's ready to die
   <speaker name="Corneo">Corneo</speaker><boxstart/>Hmm...! WRONG...!
 
 
-  <speaker name="Cloud"><boxstart/>2 Because he's sure to win</speaker>
+  <speaker name="Cloud"/><boxstart/>2 Because he's sure to win
   <speaker name="Corneo">Corneo</speaker><boxstart/>Hmm...! RIGHT!
 
 
-  <speaker name="Cloud"><boxstart/>3 Because he's clueless</speaker>
+  <speaker name="Cloud"/><boxstart/>3 Because he's clueless
   <speaker name="Corneo">Corneo</speaker><boxstart/>Hmm...! Close, but no cigar...!
 
 <stage>Corneo pushes a button and Elena and Yuffie flip upside down.</stage>
@@ -477,13 +477,13 @@ She runs out after them.
 <speaker name="Gorky">Gorky</speaker><boxstart/>Then, begin!<boxstart/>Power Change!
 <stage>Yuffie fights Gorky.</stage>
 
-  <stage><speaker name="Cloud"><boxstart/>If she loses...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If she loses...</stage>
   <speaker name="Gorky">Gorky</speaker><boxstart/>It's just my opinion, but you need more training! Gorky is disappointed!
   <speaker name="Shake">Shake</speaker><boxstart/>No good! You have to do Gorky! Are you mocking this Pagoda?
   <speaker name="Yuffie">Yuffie</speaker><boxstart/>Shut up! Shut up! SHADDUP!
 
 
-  <stage><speaker name="Cloud"><boxstart/>If she wins...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If she wins...</stage>
   <speaker name="Gorky">Gorky</speaker><boxstart/>Here I am, Miss Yuffie!
   <speaker name="Yuffie">Yuffie</speaker><boxstart/>Of course!
   <speaker name="Shake">Shake</speaker><boxstart/>Hmm, I thought you were just a wild girl, but you handled that pretty well!<boxstart/>Well, we'll see how you do on next one...
@@ -499,11 +499,11 @@ She runs out after them.
 <speaker name="Shake">Shake</speaker><boxstart/>'bout the only thing you do really good is breathe! Sure you're brave enough to fight!
 <speaker name="Yuffie">Yuffie</speaker><boxstart/>- Stop yappin'!<boxstart/>- I'll forgive you
 
-  <speaker name="Cloud"><boxstart/>Stop yappin'!</speaker>
+  <speaker name="Cloud"/><boxstart/>Stop yappin'!
   <speaker name="Shake">Shake</speaker><boxstart/>Hm, so someone finally got past Gorky.
 
 
-  <speaker name="Cloud"><boxstart/>I'll forgive you</speaker>
+  <speaker name="Cloud"/><boxstart/>I'll forgive you
   <speaker name="Shake">Shake</speaker><boxstart/>So when it comes down to it, you're just all talk. Brat!
 
 <stage>A woman comes down from upstairs.</stage>
@@ -513,13 +513,13 @@ She runs out after them.
 <speaker name="Shake">Shake</speaker><boxstart/>Hey, you there! Don't ignore me!
 <stage>Yuffie fights Shake.</stage>
 
-  <stage><speaker name="Cloud"><boxstart/>If she loses...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If she loses...</stage>
   <speaker name="Shake">Shake</speaker><boxstart/>HYAAAAAAH! BRATBRATBRATBRAT!!
   <speaker name="Chekhov">Chekhov</speaker><boxstart/>You can't go to the next floor unless you beat Shake.
   <speaker name="Yuffie">Yuffie</speaker><boxstart/>Shut up! Shut up! SHADDUP!
 
 
-  <stage><speaker name="Cloud"><boxstart/>If she wins...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If she wins...</stage>
   <speaker name="Shake">Shake</speaker><boxstart/>URRGRAAAAGH! So you CAN fight a bit!
   <speaker name="Yuffie">Yuffie</speaker><boxstart/>Of course!
   <speaker name="Chekhov">Chekhov</speaker><boxstart/>Ho, ho, ho... It's been a while since I felt pain...
@@ -531,11 +531,11 @@ She runs out after them.
 <speaker name="Chekhov">Chekhov</speaker><boxstart/>Keep mouthing off like that, little girl, and you're going to get burned.
 <speaker name="Yuffie">Yuffie</speaker><boxstart/>- I got insurance<boxstart/>- Let's get this over with, old bag
 
-  <speaker name="Cloud"><boxstart/>I got insurance</speaker>
+  <speaker name="Cloud"/><boxstart/>I got insurance
   <speaker name="Chekhov">Chekhov</speaker><boxstart/>Ho, ho, ho. We'll see if you still talk like that after you taste some of my Sacred Magic...<boxstart/>Magic Change!
 
 
-  <speaker name="Cloud"><boxstart/>Let's get this over with, old bag</speaker>
+  <speaker name="Cloud"/><boxstart/>Let's get this over with, old bag
   <speaker name="Chekhov">Chekhov</speaker><boxstart/>Ho, ho, ho. What do you expect from a child barely out of diapers!?
 
 <speaker name="Staniv">Staniv</speaker><boxstart/>First, Chekhov will keep you company...
@@ -543,13 +543,13 @@ She runs out after them.
 <speaker name="Chekhov">Chekhov</speaker><boxstart/>How dare they mock us like that, thinking they could sneak past us.
 <stage>Yuffie fights Chekhov.</stage>
 
-  <stage><speaker name="Cloud"><boxstart/>If she loses...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If she loses...</stage>
   <speaker name="Chekhov">Chekhov</speaker><boxstart/>Ho, ho, ho! What does a immature young child know...?
   <speaker name="Staniv">Staniv</speaker><boxstart/>So this IS the average person's limit...
   <speaker name="Yuffie">Yuffie</speaker><boxstart/>Shut up! Shut up! SHADDUP!
 
 
-  <stage><speaker name="Cloud"><boxstart/>If she wins...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If she wins...</stage>
   <speaker name="Chekhov">Chekhov</speaker><boxstart/>I can't believe you beat me...
   <speaker name="Yuffie">Yuffie</speaker><boxstart/>Of course!
   <speaker name="Staniv">Staniv</speaker><boxstart/>This should be interesting...! It's been a long time since I've had a chance to use my powers to their fullest...
@@ -558,23 +558,23 @@ She runs out after them.
 <speaker name="Staniv">Staniv</speaker><boxstart/>The rule is the best fighter on each floor will be your opponent... Although it's a five-storied pagoda, the fourth floor is the highest...<boxstart/>In other words, no one has ever defeated me--Master of Weaponry!<boxstart/>You still want to try...?
 <speaker name="Yuffie">Yuffie</speaker><boxstart/>- Just come on!!<boxstart/>- I'll pass!
 
-  <speaker name="Cloud"><boxstart/>Just come on!!</speaker>
+  <speaker name="Cloud"/><boxstart/>Just come on!!
   <speaker name="Staniv">Staniv</speaker><boxstart/>I like you! Now watch...<boxstart/>Weapon Change!
 
 
-  <speaker name="Cloud"><boxstart/>I'll pass!</speaker>
+  <speaker name="Cloud"/><boxstart/>I'll pass!
   <speaker name="Staniv">Staniv</speaker><boxstart/>You don't seem like the kind of person who can make it to the fourth floor without a problem...
 
 <stage>If Yuffie tries to go to the next floor prematurely...</stage>
 <speaker name="Staniv">Staniv</speaker><boxstart/>HAAAAH!
 <stage>The door closes.<boxstart/><boxstart/>Yuffie fights Staniv.</stage>
 
-  <stage><speaker name="Cloud"><boxstart/>If she loses...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If she loses...</stage>
   <speaker name="Staniv">Staniv</speaker><boxstart/>How unfortunate! It was over before I could even put all of my strength into it...
   <speaker name="Yuffie">Yuffie</speaker><boxstart/>Shut up! Shut up! SHADDUP!
 
 
-  <stage><speaker name="Cloud"><boxstart/>If she wins...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If she wins...</stage>
   <speaker name="Staniv">Staniv</speaker><boxstart/>Wh, what...!?
   <speaker name="Yuffie">Yuffie</speaker><boxstart/>Of course!
 

@@ -14,11 +14,11 @@ Battle Square
 <speaker name="Admissions Lady">Admissions Lady</speaker><boxstart/>Welcome to the Gold Saucer.<boxstart/>Are you together? A single pass is 3000 gil, or you can purchase a lifetime pass for 30000 gil.
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Pay 3000 gil<boxstart/>- Pay 30000 gil<boxstart/>- Don't pay
 
-  <speaker name="Cloud"><boxstart/>Pay 3000 gil</speaker>
+  <speaker name="Cloud"/><boxstart/>Pay 3000 gil
   <speaker name="Admissions Lady">Admissions Lady</speaker><boxstart/>Thank you very much.<boxstart/>If you leave Gold Saucer, your tickets become invalid.
 
 
-  <speaker name="Cloud"><boxstart/>Pay 30000 gil</speaker>
+  <speaker name="Cloud"/><boxstart/>Pay 30000 gil
   <speaker name="Admissions Lady">Admissions Lady</speaker><boxstart/>Thank you very much.<boxstart/>If you have a Gold Ticket, you can come and go freely into the park... as long as you don't lose it.
 
 <speaker name="Admissions Lady">Admissions Lady</speaker><boxstart/>Here at the Gold Saucer, there are many places where you must pay with GP.<boxstart/>Just think of 'GP' as money that you can only use at the Gold Saucer.<boxstart/>GP can only be redeemed at the games in Wonder Square and at the Chocobo Races.<boxstart/>Your GP limit is 10000, so please be careful.<boxstart/>Please enjoy yourselves.
@@ -82,22 +82,22 @@ Or, sometimes:
 <speaker name="Lady at the Ticket Desk">Lady at the Ticket Desk</speaker><boxstart/>Welcome. Would you like to buy some Chocobo tickets?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah<boxstart/>- Ask how to buy<boxstart/>- Explain it to me<boxstart/>- Not interested
 
-  <speaker name="Cloud"><boxstart/>Yeah</speaker>
+  <speaker name="Cloud"/><boxstart/>Yeah
   <speaker name="Lady at the Ticket Desk">Lady at the Ticket Desk</speaker><boxstart/>Registration fees are 200 gil. Is that all right?
   <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeahhh!<boxstart/>- No way!
   <speaker name="Lady at the Ticket Desk">Lady at the Ticket Desk</speaker><boxstart/>Which rank would you like to select?
   <speaker name="Cloud">Cloud</speaker><boxstart/>- C (1BET 1 0 0 gil)<boxstart/>- B (1BET 2 0 0 gil)<boxstart/>- Quit
 
 
-  <speaker name="Cloud"><boxstart/>Ask how to buy</speaker>
+  <speaker name="Cloud"/><boxstart/>Ask how to buy
   <speaker name="Lady at the Ticket Desk">Lady at the Ticket Desk</speaker><boxstart/>You are allowed a maximum of 3 bets on your Chocobo ticket.
 
 
-  <speaker name="Cloud"><boxstart/>Explain it to me</speaker>
+  <speaker name="Cloud"/><boxstart/>Explain it to me
   <speaker name="Lady at the Ticket Desk">Lady at the Ticket Desk</speaker><boxstart/>This Chocobo Race has Virtual devices on the course.<boxstart/>They show natural scenery during the race that really doesn't exist.<boxstart/>You pick which Chocobo will finish first and second here,<boxstart/>And then buy the appropriate tickets.<boxstart/>And if the ticket you purchased is a winner, you'll receive a ticket for an item that will be listed on the panel.<boxstart/>You can exchange your tickets for items or GP at the Exchange counter to the right of the entrance.
 
 
-  <speaker name="Cloud"><boxstart/>Not interested</speaker>
+  <speaker name="Cloud"/><boxstart/>Not interested
   <stage>Nothing happens.</stage>
 
 <stage>At Battle Square, there is a staff woman standing in front of the stairs.</stage>
@@ -115,15 +115,15 @@ Or, sometimes:
 <speaker name="Woman at Ticket Booth">Woman at Ticket Booth</speaker><boxstart/>Welcome. This attraction is 3 GP.<boxstart/>Shall you be riding this evening?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Yes, I shall<boxstart/>- No, I shan't
 
-	<speaker name="Cloud"><boxstart/>Yes, I shall</speaker>
+	<speaker name="Cloud"/><boxstart/>Yes, I shall
 	<speaker name="Woman at Ticket Booth">Woman at Ticket Booth</speaker><boxstart/>Would this be your first time riding with us?
 	<speaker name="Cloud">Cloud</speaker><boxstart/>- Yes, it would<boxstart/>- No, it would not
 	
-		<speaker name="Cloud"><boxstart/>Yes, it would</speaker>
+		<speaker name="Cloud"/><boxstart/>Yes, it would
 		<speaker name="Woman at Ticket Booth">Woman at Ticket Booth</speaker><boxstart/>You will be able to see all the different areas of Gold Saucer on this ride.<boxstart/>So please just sit back and enjoy a lovely view you won't see anywhere else.<boxstart/>This attraction can only ccommodate 2 passengers, so one of you please wait over there.
 	
 	
-		<speaker name="Cloud"><boxstart/>No, it would not</speaker>
+		<speaker name="Cloud"/><boxstart/>No, it would not
 		<speaker name="Woman at Ticket Booth">Woman at Ticket Booth</speaker><boxstart/>This attraction can only ccommodate 2 passengers, so one of you please wait over there.
 	
 	<speaker name="Cloud">Cloud</speaker><boxstart/>Who should I ride with...
@@ -137,7 +137,7 @@ Or, sometimes:
 	
 
 
-	<stage><speaker name="Cloud"><boxstart/>If Cloud does not have enough GP to pay.</speaker></stage>
+	<stage><speaker name="Cloud"/><boxstart/>If Cloud does not have enough GP to pay.</stage>
 	<speaker name="Woman at Ticket Booth">Woman at Ticket Booth</speaker><boxstart/>Um, I'm very sorry, but you do not have enough GP.
 
 <stage>At Speed Square, a muscular man addresses Cloud when he arrives.</stage>
@@ -150,11 +150,11 @@ Or, sometimes:
 <speaker name="Dio">Dio</speaker><boxstart/>By the way, boy, do you know what a 'Black Materia' is?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- I know what it is<boxstart/>- What is it?
 
-  <speaker name="Cloud"><boxstart/>I know what it is</speaker>
+  <speaker name="Cloud"/><boxstart/>I know what it is
   <speaker name="Dio">Dio</speaker><boxstart/>Oh, so you do know.
 
 
-  <speaker name="Cloud"><boxstart/>What is it?</speaker>
+  <speaker name="Cloud"/><boxstart/>What is it?
   <speaker name="Dio">Dio</speaker><boxstart/>Ha ha ha...... that, I say, that's a good one, boy! But it's not good to lie. You can't fool me.
 
 <speaker name="Cloud">Cloud</speaker><boxstart/>Why d'you ask me?
@@ -175,21 +175,21 @@ He leaves.
 <speaker name="Ticket Person">Ticket Person</speaker><boxstart/>This attraction costs 10 GP.
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Pay<boxstart/>- Changed my mind
 
-	<stage><speaker name="Cloud"><boxstart/>If Cloud does not have enough GP to pay.</speaker></stage>
+	<stage><speaker name="Cloud"/><boxstart/>If Cloud does not have enough GP to pay.</stage>
 	<speaker name="Ticket Person">Ticket Person</speaker><boxstart/>......... You don't have enough GP
 
 
-	<stage><speaker name="Cloud"><boxstart/>Otherwise</speaker></stage>
+	<stage><speaker name="Cloud"/><boxstart/>Otherwise</stage>
 	<speaker name="Ticket Person">Ticket Person</speaker><boxstart/>Thank you.
 
 <stage>Cloud and the others ride the coaster.</stage>
 <speaker name="Wall of Fame Staffer">Wall of Fame Staffer</speaker><boxstart/>Your score is x points.
 
-	<stage><speaker name="Cloud"><boxstart/>If Cloud scored 3000-4999 points...</speaker></stage>
+	<stage><speaker name="Cloud"/><boxstart/>If Cloud scored 3000-4999 points...</stage>
 	As a price, Received "Super Sweeper/Masamune Blade/1/35 soldier"!!
 
 
-	<stage><speaker name="Cloud"><boxstart/>If Cloud scored 5000+ points...</speaker></stage>
+	<stage><speaker name="Cloud"/><boxstart/>If Cloud scored 5000+ points...</stage>
 	As a price, Received "Umbrella"!!
 
 <stage>Sometimes after coming off the roller coaster, Cloud will walk to the side and hang his head.</stage>
@@ -264,12 +264,12 @@ He leaves.
 <stage>Cloud feeds Mog Kupo nuts, and he hops up again.</stage>
 <speaker name="Narration">Narration</speaker><boxstart/>Oh? It seems like Mog's decided to take another shot at it.
 
-  <stage><speaker name="Cloud"><boxstart/>If Cloud fed him the wrong number of nuts...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If Cloud fed him the wrong number of nuts...</stage>
   <stage>He falls flat on his face again.</stage>
   <speaker name="Narration">Narration</speaker><boxstart/>Poor Mog. It looks like he'll have to wait some time for a mate.<boxstart/>Poor Mog, seems like he'll be alone for a while.
 
 
-  <stage><speaker name="Cloud"><boxstart/>If Cloud fed him the right number of nuts...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If Cloud fed him the right number of nuts...</stage>
   <stage>Mog takes off and makes a few circuits around the screen.</stage>
   <speaker name="Narration">Narration</speaker><boxstart/>He did it! He's flying! Now, he's finally become a full-fledged Mog.
   <stage>Mog lands and returns to his house, taking a bow before going inside.</stage>
@@ -281,12 +281,12 @@ He leaves.
   <stage>Cloud feeds Mog Kupo nuts, and he hops up again.</stage>
   <speaker name="Narration">Narration</speaker><boxstart/>Oh? It seems like Mog's decided to take another shot at it.
   
-    <stage><speaker name="Cloud"><boxstart/>If Cloud fed Mog the wrong number of nuts...</speaker></stage>
+    <stage><speaker name="Cloud"/><boxstart/>If Cloud fed Mog the wrong number of nuts...</stage>
     <stage>He falls on his face again.</stage>
     <speaker name="Narration">Narration</speaker><boxstart/>Unfortunately, he didn't make it. Poor Mog'll have to wait some time for a bride.<boxstart/>Poor Mog, seems like he'll be alone for a while.
   
   
-    <stage><speaker name="Cloud"><boxstart/>If Cloud fed him the right number of nuts...</speaker></stage>
+    <stage><speaker name="Cloud"/><boxstart/>If Cloud fed him the right number of nuts...</stage>
     <stage>Mog takes off and makes a few circuits around the screen.</stage>
     <speaker name="Narration">Narration</speaker><boxstart/>He's flying!! Mog was able to do it!<boxstart/>She must have fallen for his graceful flying form.
     <stage>The screen goes dark.</stage>

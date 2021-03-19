@@ -14,11 +14,11 @@ Sephiroth
 <speaker name="Yuffie">Yuffie</speaker><boxstart/>Urrrgh... This is why... I hate ships.<boxstart/>Hey, Cloud. You have any 'Tranquilizers'?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Here, use this<boxstart/>- Nope
 
-  <speaker name="Cloud"><boxstart/>Here, use this</speaker>
+  <speaker name="Cloud"/><boxstart/>Here, use this
   <speaker name="Yuffie">Yuffie</speaker><boxstart/>Thanks... Gross... this is bitter.
 
 
-  <speaker name="Cloud"><boxstart/>Nope</speaker>
+  <speaker name="Cloud"/><boxstart/>Nope
   <speaker name="Yuffie">Yuffie</speaker><boxstart/>...unless it's an emergency get away from me.
 
 <speaker name="Yuffie">Yuffie</speaker><boxstart/>Where are the others?
@@ -30,12 +30,12 @@ Sephiroth
 <speaker name="Aerith">Aerith</speaker><boxstart/>That was REALLY something.<boxstart/>Hey, do you think I could get on it?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- I'll take you someday<boxstart/>- I dunno...
 
-  <speaker name="Cloud"><boxstart/>I'll take you someday</speaker>
+  <speaker name="Cloud"/><boxstart/>I'll take you someday
   ...keep hoping.
   <speaker name="Aerith">Aerith</speaker><boxstart/>Wow! I'm really looking forward to it!<boxstart/>Let's ride the Airship together, OK? Promise, promise me!
 
 
-  <speaker name="Cloud"><boxstart/>I dunno...</speaker>
+  <speaker name="Cloud"/><boxstart/>I dunno...
   ...It's a Shinra weapon. We probably should've destroyed it.
   <speaker name="Aerith">Aerith</speaker><boxstart/>...Hmm. But just once, I'd like to ride it.<boxstart/>Just once, I'd like to ride that Airship.
 
@@ -45,37 +45,37 @@ Sephiroth
 <speaker name="Tifa">Tifa</speaker><boxstart/>Yes sir! Everything quiet, sir!<boxstart/>...But, you know what? I really hate this uniform.<boxstart/>Uniforms, soldiers, war, I hate 'em all.<boxstart/>They take away all the things and people you love...<boxstart/>I wish they'd all disappear. Right, Cloud?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah......<boxstart/>- I don't know
 
-  <speaker name="Cloud"><boxstart/>Yeah......</speaker>
+  <speaker name="Cloud"/><boxstart/>Yeah......
   <speaker name="Tifa">Tifa</speaker><boxstart/>You're right!<boxstart/>Uh, yes sir, I'll continue my watch sir! Hee hee...
 
 
-  <speaker name="Cloud"><boxstart/>I don't know</speaker>
+  <speaker name="Cloud"/><boxstart/>I don't know
   <speaker name="Tifa">Tifa</speaker><boxstart/>...Cloud. Wearing those clothes seems to have changed you a little.<boxstart/>Does it remind you of being in SOLDIER? I hope not...
 
 <speaker name="Sailor 3">Sailor 3</speaker><boxstart/>President Rufus and his men are in the Bridge of the Ship. If they see you slacking, they'll bust you one!
 <speaker name="Sailor 4">Sailor 4</speaker><boxstart/>Hey! What's wrong, kid? You got no pep!<boxstart/>A seaman's gotta have umph!
 <speaker name="Cloud">Cloud</speaker><boxstart/>- I'm tired...<boxstart/>- Something's missing<boxstart/>- Leave me alone
 
-  <speaker name="Cloud"><boxstart/>I'm tired...</speaker>
+  <speaker name="Cloud"/><boxstart/>I'm tired...
   <speaker name="Sailor 4">Sailor 4</speaker><boxstart/>I got just the perfect thing! 'Invisible Alpha'-- A super drink for seamen!!<boxstart/>Just one'll rejuvenate you! Only 250 gil!
   <speaker name="Cloud">Cloud</speaker><boxstart/>- I'll take it<boxstart/>- No thanks
   
-    <speaker name="Cloud"><boxstart/>I'll take it</speaker>
+    <speaker name="Cloud"/><boxstart/>I'll take it
     <speaker name="Sailor 4">Sailor 4</speaker><boxstart/>Thanks! This is a necessity for a sailor.<boxstart/>This is a must item for a sailor! Ha ha ha!
     HP/MP Restored!
   
   
-    <speaker name="Cloud"><boxstart/>No thanks</speaker>
+    <speaker name="Cloud"/><boxstart/>No thanks
     <speaker name="Sailor 4">Sailor 4</speaker><boxstart/>Hey! Seamen shouldn't be so stingy!
   
 
 
-  <speaker name="Cloud"><boxstart/>Something's missing</speaker>
+  <speaker name="Cloud"/><boxstart/>Something's missing
   <speaker name="Sailor 4">Sailor 4</speaker><boxstart/>Ey ey! Whattaya mean, 'missin'!?
   <stage>An item shop menu opens.</stage>
 
 
-  <speaker name="Cloud"><boxstart/>Leave me alone</speaker>
+  <speaker name="Cloud"/><boxstart/>Leave me alone
   <stage>Nothing happens.</stage>
 
 <speaker name="Soldier 2">Soldier 2</speaker><boxstart/>Oh man, we're almost to Costa del Sol.<boxstart/>When I get there, I'm going to take a long overdue vacation. Maybe I'll go down to the beach and get a tan...

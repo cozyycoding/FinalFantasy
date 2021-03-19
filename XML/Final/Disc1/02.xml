@@ -45,29 +45,29 @@ He runs off.
 <speaker name="Barret">Barret</speaker><boxstart/>Heh heh...<boxstart/>You wanna meet your little baby?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Little baby?<boxstart/>- Out of my way!
 
-  <speaker name="Cloud"><boxstart/>Little baby?</speaker>
+  <speaker name="Cloud"/><boxstart/>Little baby?
   <speaker name="Barret">Barret</speaker><boxstart/>Hey! Don' act like you don't know what I mean!<boxstart/>I'm tellin' you...
 
 
-  <speaker name="Cloud"><boxstart/>Out of my way</speaker>
+  <speaker name="Cloud"/><boxstart/>Out of my way
   <speaker name="Barret">Barret</speaker><boxstart/>Heh! Jes calm down.<boxstart/>Can't have people suspectin' us.
 
 <speaker name="Gossip">Gossip</speaker><boxstart/>Did you hear?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Don't care<boxstart/>- No, what?
 
-  <speaker name="Cloud"><boxstart/>Don't care</speaker>
+  <speaker name="Cloud"/><boxstart/>Don't care
   <speaker name="Gossip">Gossip</speaker><boxstart/>Oh, well excuse ME!
 
 
-  <speaker name="Cloud"><boxstart/>No, what?</speaker>
+  <speaker name="Cloud"/><boxstart/>No, what?
   <speaker name="Gossip">Gossip</speaker><boxstart/>There's a news update. They say that there was a terrorist explosion up above, and that this time it was a Mako Reactor!!<boxstart/>You know what this means?
   <speaker name="Cloud">Cloud</speaker><boxstart/>- Don't care<boxstart/>- No, what?
     
-      <speaker name="Cloud"><boxstart/>Don't care</speaker>
+      <speaker name="Cloud"/><boxstart/>Don't care
       <speaker name="Gossip">Gossip</speaker><boxstart/>Oh, well excuse ME!
     
     
-      <speaker name="Cloud"><boxstart/>No, what?</speaker>
+      <speaker name="Cloud"/><boxstart/>No, what?
       <speaker name="Gossip">Gossip</speaker><boxstart/>Ya see, I keep on top of these things, an' if ya ask me......<boxstart/>If you knock out Midgar's power, then all of its computers and signals are going to be knocked out too.<boxstart/>Financially there must've been about a billion gil worth of damage.<boxstart/>An' that ain't all!! A lotta innocent people got killed too!<boxstart/>If the explosion had been in the middle of the night, that woulda been one thing. At least the people coulda gone in their sleep.<boxstart/>This Mako explosion has really sent Midgar into a fit.
     
 
@@ -80,12 +80,12 @@ He runs off.
 <speaker name="Black-haired Man">Black-haired Man</speaker><boxstart/>Hey!! What the, YOU?<boxstart/>Anyone talking to me must be a novice.
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Yep, that's me<boxstart/>- I used to be with SOLDIER, the name's Cloud
 
-  <speaker name="Cloud"><boxstart/>Yep, that's me</speaker>
+  <speaker name="Cloud"/><boxstart/>Yep, that's me
   So what. Everyone's a beginner sometime.
   <speaker name="Black-haired Man">Black-haired Man</speaker><boxstart/>Don't act so big, amateur. Seein' as how I'm such a warm hearted guy, I'll show ya the ropes.<boxstart/>You come back here tomorrow. I got some things I gots ta do.
 
 
-  <speaker name="Cloud"><boxstart/>I used to be with SOLDIER, the name's Cloud</speaker>
+  <speaker name="Cloud"/><boxstart/>I used to be with SOLDIER, the name's Cloud
   The name's Cloud. Used to be with SOLDIER, I got no business with you.
   <speaker name="Black-haired Man">Black-haired Man</speaker><boxstart/>Hmmph!! Well, I never heard of ya!
 
@@ -93,11 +93,11 @@ He runs off.
 <speaker name="Big Man">Big Man</speaker><boxstart/>Unn......!! Who the hell are you!? No unauthorized access.<boxstart/>Since today's special, I'm gonna let you in on a juicy bit of news. But you gotta keep it to yourself.<boxstart/>Do you know what's been going on......?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- What, that again?<boxstart/>- ............
 
-  <speaker name="Cloud"><boxstart/>What, that again?</speaker>
+  <speaker name="Cloud"/><boxstart/>What, that again?
   <speaker name="Big Man">Big Man</speaker><boxstart/>I guess you must be sick of hearing it... But it's been so long since there was any real news here.<boxstart/>You're worried where it's all heading, right?
 
 
-  <speaker name="Cloud"><boxstart/>............</speaker>
+  <speaker name="Cloud"/><boxstart/>............
   <speaker name="Big Man">Big Man</speaker><boxstart/>Everything's in a buzz 'bout that terrorist group AVALANCHE blowin' up the Sector 1 Mako Reactor.<boxstart/>On the surface they say they're an anti-Shinra group, but in reality...<boxstart/>They say they're just out to kill as many people as they can.<boxstart/>Gyaaaa, Haaa haaa!!<boxstart/>That's a good one, ain't it!? While they're bustin' things up on top, the only ones makin' out good are us weapon stores!<boxstart/>Now, if we can just get rid of this back stock, we'll be doin' ok.
 
 <speaker name="Man in Hat">Man in Hat</speaker><boxstart/>You know what I do? I'll bet you don't.<boxstart/>You come here tomorrow and I'll tell you.<boxstart/>Ahh, there just ain't no good jobs here in the slums.<boxstart/>I wanna go to the upper world.
@@ -111,28 +111,28 @@ She walks over to Cloud with Marlene hiding behind her.
 <boxstart/>Welcome home, Cloud. Looks like everything went well.<boxstart/>Did you fight with Barret?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah<boxstart/>- Not this time
 
-  <speaker name="Cloud"><boxstart/>Yeah</speaker>
+  <speaker name="Cloud"/><boxstart/>Yeah
   <speaker name="Tifa">Tifa</speaker><boxstart/>I should have known.<boxstart/>He's always pushing people around, and You've always been in fights ever since you were little.<boxstart/>I was worried.
 
 
-  <speaker name="Cloud"><boxstart/>Not this time</speaker>
+  <speaker name="Cloud"/><boxstart/>Not this time
   <speaker name="Tifa">Tifa</speaker><boxstart/>Hmm. You've grown up.<boxstart/>When you were little you used to get into fights at the drop of a hat.
 
 
-  <stage><speaker name="Cloud"><boxstart/>If you bought a flower...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If you bought a flower...</stage>
 	<speaker name="Tifa">Tifa</speaker><boxstart/>Flowers? How nice...<boxstart/>You almost never see them here in the slums.<boxstart/>But...<boxstart/>A flower for me? Oh Cloud, you shouldn't have...
 	<speaker name="Cloud">Cloud</speaker><boxstart/>No big.<boxstart/>- Give it to Tifa<boxstart/>- Give it to Marlene
 	
-	  <speaker name="Cloud"><boxstart/>Give it to Tifa</speaker>
+	  <speaker name="Cloud"/><boxstart/>Give it to Tifa
 	  <speaker name="Tifa">Tifa</speaker><boxstart/>Thank you, Cloud. It smells wonderful.<boxstart/>Maybe I should fill the store with flowers.
 	
 	
-	  <speaker name="Cloud"><boxstart/>Give it to Marlene</speaker>
+	  <speaker name="Cloud"/><boxstart/>Give it to Marlene
 	  <stage>Nothing happens until Barret comes in.</stage>
 	
 
 
-  <stage><speaker name="Cloud"><boxstart/>If you didn't buy a flower...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If you didn't buy a flower...</stage>
 	<speaker name="Tifa">Tifa</speaker><boxstart/>I'm so glad everyone's safe.
 
 <speaker name="Tifa">Tifa</speaker><boxstart/>Sorry, Cloud. Marlene seems a little shy.
@@ -141,22 +141,22 @@ She walks over to Cloud with Marlene hiding behind her.
 <speaker name="Biggs">Biggs</speaker><boxstart/>Aaah!! Nothin' like that first drink after a job.<boxstart/>Hic!!<boxstart/>Why don't you have one too?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- No<boxstart/>- Yeah, why not?
 
-  <speaker name="Cloud"><boxstart/>No</speaker>
+  <speaker name="Cloud"/><boxstart/>No
   <speaker name="Biggs">Biggs</speaker><boxstart/>What!? You tellin' me you're too good to drink with me?<boxstart/>Don't act big-headed jus' because you were in SOLDIER!
 
 
-  <speaker name="Cloud"><boxstart/>Yeah, why not?</speaker>
+  <speaker name="Cloud"/><boxstart/>Yeah, why not?
   <speaker name="Biggs">Biggs</speaker><boxstart/>Oh!! That's more like it!!<boxstart/>Even if you were in SOLDIER, you're still a rookie here. So you'd better listen to whatever I tell ya!
 
 <speaker name="Biggs">Biggs</speaker><boxstart/>Hic...!!<boxstart/>Oh...... Don't tell Barret what I just said.
 <speaker name="Wedge">Wedge</speaker><boxstart/>Oh, Cloud!<boxstart/>Tifa really knows how to cook. Mmm, mmm......<boxstart/>Anyway, let me tell you somethin'
 <speaker name="Cloud">Cloud</speaker><boxstart/>- About what?<boxstart/>- I'm not interested in your stories
 
-  <speaker name="Cloud"><boxstart/>About what?</speaker>
+  <speaker name="Cloud"/><boxstart/>About what?
   <speaker name="Wedge">Wedge</speaker><boxstart/>Tifa always lets me taste her cooking.<boxstart/>And look at me now, I'm rolly-polly.<boxstart/>Don't know whether I should be happy or sad. But it's the good food and drinks that make this shop famous.
 
 
-  <speaker name="Cloud"><boxstart/>I'm not interested in your stories</speaker>
+  <speaker name="Cloud"/><boxstart/>I'm not interested in your stories
   <speaker name="Wedge">Wedge</speaker><boxstart/>Cloud...... ......forget it.
 
 <speaker name="Jessie">Jessie</speaker><boxstart/>Careless...... You're getting all excited.<boxstart/>Wonder what for......?
@@ -164,7 +164,7 @@ She walks over to Cloud with Marlene hiding behind her.
 <speaker name="Marlene">Marlene</speaker><boxstart/>Papa, welcome home!
 <stage>He lifts her up onto his shoulder.</stage>
 
-  <stage><speaker name="Cloud"><boxstart/>If you gave the flower to Marlene...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If you gave the flower to Marlene...</stage>
 	<speaker name="Barret">Barret</speaker><boxstart/>Huh? Where'd you get that flower?
 	<speaker name="Marlene">Marlene</speaker><boxstart/>Cloud gave it to me.
 	<speaker name="Barret">Barret</speaker><boxstart/>Oh......<boxstart/>Did you thank him?
@@ -185,20 +185,20 @@ He turns to Cloud.
 <speaker name="Gossip">Gossip</speaker><boxstart/>Did you hear?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- 'Bout what?<boxstart/>- Don't care
 
-  <speaker name="Cloud"><boxstart/>'Bout what?</speaker>
+  <speaker name="Cloud"/><boxstart/>'Bout what?
   <speaker name="Gossip">Gossip</speaker><boxstart/>About that little girl named Tifa and that bar called '7th Heaven'.<boxstart/>I'm not only informed, I'm kinda nosey too. Anyhow, I got the scoop.<boxstart/>You wanna hear?
   <speaker name="Cloud">Cloud</speaker><boxstart/>- You bet!<boxstart/>- Don't care
     
-      <speaker name="Cloud"><boxstart/>You bet!</speaker>
+      <speaker name="Cloud"/><boxstart/>You bet!
       <speaker name="Gossip">Gossip</speaker><boxstart/>That Barret and three of his henchmen are like this sometimes.<boxstart/>Suddenly, they threw out a customer and start talking trash to him. It's strange, if you ask me. And that place always smells like gun powder.<boxstart/>It's dangerous, I tell you. They must be doing terrible things in there.
     
     
-      <speaker name="Cloud"><boxstart/>Don't care</speaker>
+      <speaker name="Cloud"/><boxstart/>Don't care
       <speaker name="Gossip">Gossip</speaker><boxstart/>Oh really? Well, aren't you a cool one!
     
 
 
-  <speaker name="Cloud"><boxstart/>Don't care</speaker>
+  <speaker name="Cloud"/><boxstart/>Don't care
   <speaker name="Gossip">Gossip</speaker><boxstart/>Oh really? Well, aren't you a cool one!
 
 <speaker name="Johnny's Cousin">Johnny's Cousin</speaker><boxstart/>There's a TV in there, but my cheap aunt won't let me in the house. Look for yourself.
@@ -212,11 +212,11 @@ He turns to Cloud.
 <speaker name="Tifa">Tifa</speaker><boxstart/>How about...<boxstart/>...something to drink?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- I don't feel like it<boxstart/>- Give me something hard
 
-  <speaker name="Cloud"><boxstart/>I don't feel like it</speaker>
+  <speaker name="Cloud"/><boxstart/>I don't feel like it
   <speaker name="Tifa">Tifa</speaker><boxstart/>OHH!!<boxstart/>I can make a drink just as good as anyone else.<boxstart/>Everyone says, my drinks taste the best!
 
 
-  <speaker name="Cloud"><boxstart/>Give me something hard</speaker>
+  <speaker name="Cloud"/><boxstart/>Give me something hard
   <speaker name="Tifa">Tifa</speaker><boxstart/>Just a minute. I'll make one for you.<boxstart/>You know, I'm relieved you made it back safely.
   <speaker name="Cloud">Cloud</speaker><boxstart/>What's with you all of a sudden? That wasn't even a tough job.
   <speaker name="Tifa">Tifa</speaker><boxstart/>I guess not...<boxstart/>You were in SOLDIER.<boxstart/>Make sure you get your pay from Barret.
@@ -230,11 +230,11 @@ He turns to Cloud.
 <speaker name="Wedge">Wedge</speaker><boxstart/>You think I'm a little too uptight?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah...<boxstart/>- No...
 
-  <speaker name="Cloud"><boxstart/>Yeah...</speaker>
+  <speaker name="Cloud"/><boxstart/>Yeah...
   <speaker name="Wedge">Wedge</speaker><boxstart/>The next mission will be to blow up the Sector 5 Reactor.<boxstart/>Cloud, you're great! Don't you ever get nervous?<boxstart/>Or are you like, impervious to feelings? Naw, that couldn't be it.
 
 
-  <speaker name="Cloud"><boxstart/>No...</speaker>
+  <speaker name="Cloud"/><boxstart/>No...
   <speaker name="Wedge">Wedge</speaker><boxstart/>Well, that's ok. Don't worry about me. I don't look like it, but I'm a coward at heart.
 
 <stage>The TV near Jessie's computer is on, showing the bombing. President Shinra is in the middle of a speech.</stage>
@@ -261,11 +261,11 @@ He turns to Cloud.
 <speaker name="Wedge">Wedge</speaker><boxstart/>......Cloud.<boxstart/>You say you don't care, but you came to talk to me.<boxstart/>Cloud... You just want friends.<boxstart/>Isn't that right?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Blow off<boxstart/>- I really don't care
 
-  <speaker name="Cloud"><boxstart/>Blow off</speaker>
+  <speaker name="Cloud"/><boxstart/>Blow off
   <speaker name="Wedge">Wedge</speaker><boxstart/>Yeah, well. You look kind of lonely to me.<boxstart/>If you ever got anything you want to get off your chest, you can always talk to me.
 
 
-  <speaker name="Cloud"><boxstart/>I really don't care</speaker>
+  <speaker name="Cloud"/><boxstart/>I really don't care
   <speaker name="Wedge">Wedge</speaker><boxstart/>You're terrible. Real cold blooded.
 
 <stage>Cloud goes upstairs and starts for the door. Tifa comes after him.</stage>
@@ -322,24 +322,24 @@ Received Barret's stash, 1500 gil!
 <speaker name="Tifa">Tifa</speaker><boxstart/>Good Morning! Cloud!<boxstart/>Did you sleep well?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Barret's snoring kept me up......<boxstart/>- Next to you, who wouldn't?
 
-  <speaker name="Cloud"><boxstart/>Barret's snoring kept me up......</speaker>
+  <speaker name="Cloud"/><boxstart/>Barret's snoring kept me up......
   <speaker name="Tifa">Tifa</speaker><boxstart/>psstpsst...<boxstart/>(keep it down, they'll hear you. Barret's always edgy before an operation.)
 
 
-  <speaker name="Cloud"><boxstart/>Next to you, who wouldn't?</speaker>
+  <speaker name="Cloud"/><boxstart/>Next to you, who wouldn't?
   <speaker name="Tifa">Tifa</speaker><boxstart/>I don't know what you mean.
 
 <speaker name="Tifa">Tifa</speaker><boxstart/>I'm going this time.
 <speaker name="Barret">Barret</speaker><boxstart/>Our target's the Sector 5 Reactor. Head for the station first.<boxstart/>I'll fill you in on the train.<boxstart/>Yo! Cloud!<boxstart/>Before the next mission, I got somethin' I wanna ask you!<boxstart/>I, uh,...... I don't really know how to use Materia!<boxstart/>I'll give you that Materia you found. Just teach me how to use it!
 <speaker name="Cloud">Cloud</speaker><boxstart/>...sigh...<boxstart/>- Ok, I'll explain it<boxstart/>- You wouldn't understand
 
-  <speaker name="Cloud"><boxstart/>Ok, I'll explain it</speaker>
+  <speaker name="Cloud"/><boxstart/>Ok, I'll explain it
   Sure, I'll explain how Materia works.
   <stage>A tutorial on materia ensues.</stage>
   <speaker name="Barret">Barret</speaker><boxstart/>Shi......! What's this 'It wasn't that tough!' crap!<boxstart/>I'm clueless......<boxstart/>Well, you handle the Materia then!
 
 
-  <speaker name="Cloud"><boxstart/>You wouldn't understand</speaker>
+  <speaker name="Cloud"/><boxstart/>You wouldn't understand
   <speaker name="Barret">Barret</speaker><boxstart/>So this is what makes them guys in SOLDIER so great, huh!?<boxstart/>Ok. I'll ask Jessie again later. But you're in charge of the Materia!
 
 <speaker name="Tifa">Tifa</speaker><boxstart/>Cloud! I got a message from the Weapon Shop man upstairs.<boxstart/>He has something he wants to give you. Don't forget!<boxstart/>Marlene, you watch the store while we're gone!
@@ -351,15 +351,15 @@ Received Barret's stash, 1500 gil!
 <speaker name="Kid">Kid</speaker><boxstart/>You dried up old geez. You tired?<boxstart/>Why don't you rest up on the third floor of my house?<boxstart/>There's just one condition.<boxstart/>You gotta give me some cash.
 <speaker name="Cloud">Cloud</speaker><boxstart/>- 1 gil<boxstart/>- 10 gil<boxstart/>- nothin'
 
-  <speaker name="Cloud"><boxstart/>1 gil</speaker>
+  <speaker name="Cloud"/><boxstart/>1 gil
   <speaker name="Kid">Kid</speaker><boxstart/>Damn, man!! Just forget about it!
 
 
-  <speaker name="Cloud"><boxstart/>10 gil</speaker>
+  <speaker name="Cloud"/><boxstart/>10 gil
   <speaker name="Kid">Kid</speaker><boxstart/>Oh man, oh man......<boxstart/>Go ahead 'n' help yourself to the room.
 
 
-  <speaker name="Cloud"><boxstart/>nothin'</speaker>
+  <speaker name="Cloud"/><boxstart/>nothin'
   <speaker name="Kid">Kid</speaker><boxstart/>Cheap %#*^
 
 <speaker name="Black-haired Man">Black-haired Man</speaker><boxstart/>Heh heh... He'll forget about it. OH, you!!<boxstart/>Get my friend on the second floor to teach ya.
@@ -398,13 +398,13 @@ A tutorial menu opens.
 <speaker name="Kid">Kid</speaker><boxstart/>This is a slum, so don't think you can stay for free.<boxstart/>What are you going to do?<boxstart/>Doesn't just seeing the bed make you sleepy?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- 10 gil<boxstart/>- no way
 
-  <speaker name="Cloud"><boxstart/>10 gil</speaker>
+  <speaker name="Cloud"/><boxstart/>10 gil
   <speaker name="Kid">Kid</speaker><boxstart/>Sweet dreams, pops.
   <speaker name="Cloud">Cloud</speaker><boxstart/>hoo...
   <stage>Cloud rests.</stage>
 
 
-  <speaker name="Cloud"><boxstart/>no way</speaker>
+  <speaker name="Cloud"/><boxstart/>no way
   <speaker name="Kid">Kid</speaker><boxstart/>Tough guy, huh!? You'd better sleep when you can.<boxstart/>You'd better save when you can.<boxstart/>That's the trick to being tough. Remember that, old dude.
 
 <stage>Back outside, a small crowd is gathered around Johnny. Biggs, Wedge, and Jessie, who are among them, run off as soon as Cloud nears. Johnny's mom goes back inside her house.</stage>
@@ -417,11 +417,11 @@ A tutorial menu opens.
 <speaker name="Johnny's Dad">Johnny's Dad</speaker><boxstart/>Ha! Ha!...... I wonder if my son's already left?<boxstart/>When it's just my wife and I here, you have no idea how lonesome it gets.<boxstart/>You want them to be happy and do what they want while they're young, but being a parent, you can't help but worry...<boxstart/>I guess I'm not cut out to be a parent yet.<boxstart/>By the way......<boxstart/>Where are you from?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- A village called Nibelheim<boxstart/>- Who cares?
 
-  <speaker name="Cloud"><boxstart/>A village called Nibelheim</speaker>
+  <speaker name="Cloud"/><boxstart/>A village called Nibelheim
   <speaker name="Johnny's Dad">Johnny's Dad</speaker><boxstart/>Hm...... you said Nibelheim? Wasn't it in the news a while back?<boxstart/>Something to do with a Reactor accident...<boxstart/>That was the first major Mako accident, so I remember it really being a hot topic.
 
 
-  <speaker name="Cloud"><boxstart/>Who cares?</speaker>
+  <speaker name="Cloud"/><boxstart/>Who cares?
   <speaker name="Johnny's Dad">Johnny's Dad</speaker><boxstart/>Ha, Ha!...... Well, there's nothin' wrong with that, I'd say.<boxstart/>But if you still have a family, You outta at least write them.<boxstart/>Even though you may turn your back on your hometown, It'll always be there for you.<boxstart/>Least that's how I see it.
 
 <speaker name="Johnny's Dad">Johnny's Dad</speaker><boxstart/>Well, you mind leaving the two of us alone?<boxstart/>I want to enjoy some quiet time together with my wife.

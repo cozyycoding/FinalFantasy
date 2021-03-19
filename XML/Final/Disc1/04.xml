@@ -34,23 +34,23 @@ He leaps up.
 <speaker name="Flower Girl">Flower Girl</speaker><boxstart/>That's all right. The flowers here are quite resilient because this is a sacred place.<boxstart/>They say you can't grow grass and flowers in Midgar.<boxstart/>But for some reason, the flowers have no trouble blooming here.<boxstart/>I love it here.<boxstart/>......So, we meet again.<boxstart/>......Don't you remember me?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah, I remember you......<boxstart/>- Never saw you before
 
-  <speaker name="Cloud"><boxstart/>Yeah, I remember you......</speaker>
+  <speaker name="Cloud"/><boxstart/>Yeah, I remember you......
   - You were selling flowers<boxstart/>- You're the slum drunk
   
-    <speaker name="Cloud"><boxstart/>You were selling flowers</speaker>
+    <speaker name="Cloud"/><boxstart/>You were selling flowers
     <speaker name="Flower Girl">Flower Girl</speaker><boxstart/>Oh! I'm so happy!<boxstart/>Thanks for buying my flowers.
 	Or, if you didn't buy a flower:
 	Oh! I'm so happy!<boxstart/>You didn't buy any flowers from me though. Well, that's okay.
   
   
-    <speaker name="Cloud"><boxstart/>You're the slum drunk</speaker>
+    <speaker name="Cloud"/><boxstart/>You're the slum drunk
     <speaker name="Flower Girl">Flower Girl</speaker><boxstart/>Excuse me, but that's really rude!<boxstart/>I don't remember a thing.<boxstart/>But I'll forgive you, because you bought flowers from me.
 	Or, if you didn't buy a flower:
 	Excuse me, but that's really rude!<boxstart/>I don't remember a thing.<boxstart/>Well, that's okay.
   
 
 
-  <speaker name="Cloud"><boxstart/>Never saw you before</speaker>
+  <speaker name="Cloud"/><boxstart/>Never saw you before
   <speaker name="Flower Girl">Flower Girl</speaker><boxstart/>......I guess you don't remember. You were walking in a daze.<boxstart/>But I'll forgive you, because you bought flowers from me.
   Or, if you didn't buy a flower:
   ......I guess you don't remember. You were walking in a daze.<boxstart/>Well, that's okay.
@@ -62,11 +62,11 @@ He leaps up.
 <speaker name="Flower Girl">Flower Girl</speaker><boxstart/>No, I do...... it just doesn't do anything.<boxstart/>I feel safe just having it. It was my mother's......<boxstart/>Say, I feel like talking. Do you feel up to it?<boxstart/>After all, here we are meeting again, right?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- I don't mind<boxstart/>- Got nothing to talk about
 
-  <speaker name="Cloud"><boxstart/>I don't mind</speaker>
+  <speaker name="Cloud"/><boxstart/>I don't mind
   <speaker name="Flower Girl">Flower Girl</speaker><boxstart/>Wait here. I've got to check my flowers. It'll just be a minute.
 
 
-  <speaker name="Cloud"><boxstart/>Got nothing to talk about</speaker>
+  <speaker name="Cloud"/><boxstart/>Got nothing to talk about
   <speaker name="Flower Girl">Flower Girl</speaker><boxstart/>......oh, I see.<boxstart/>Ahhh. I wonder whose fault that is. It takes a lot to grow them, you know. Poor flowers.
 
 <stage>She crouches down by the flower bed. Cloud walks over to her.</stage>
@@ -125,29 +125,29 @@ He jumps the gap.
 He looks up at the barrels on the rafters.
 <boxstart/>What's that......?<boxstart/>Aerith!<boxstart/>- Hold on a minute!<boxstart/>- Fight 'em!<boxstart/>- RUN!
 
-  <speaker name="Cloud"><boxstart/>Hold on a minute!</speaker>
+  <speaker name="Cloud"/><boxstart/>Hold on a minute!
   <speaker name="Aerith">Aerith</speaker><boxstart/>A, all right.
   <speaker name="Cloud">Cloud</speaker><boxstart/>Here's a barrel. If I can just push it over......<boxstart/>Push the barrel?<boxstart/>- Yes<boxstart/>- No
     
-      <stage><speaker name="Cloud"><boxstart/>If he pushes the right barrel...</speaker></stage>
+      <stage><speaker name="Cloud"/><boxstart/>If he pushes the right barrel...</stage>
       <stage>The barrel falls down and knocks over the soldier.</stage>
       <speaker name="Soldier">Soldier</speaker><boxstart/>Nwahh!
       <speaker name="Aerith">Aerith</speaker><boxstart/>Thanks, Cloud.
     
     
-      <stage><speaker name="Cloud"><boxstart/>If he pushes the wrong barrel...</speaker></stage>
+      <stage><speaker name="Cloud"/><boxstart/>If he pushes the wrong barrel...</stage>
       <stage>The barrel falls and lands on the ground.</stage>
       <speaker name="Aerith">Aerith</speaker><boxstart/>Oh, Cloud, what are you doing!?
       <stage>She has to fight the soldier anyway.</stage>
     
 
 
-  <speaker name="Cloud"><boxstart/>Fight 'em!</speaker>
+  <speaker name="Cloud"/><boxstart/>Fight 'em!
   <speaker name="Aerith">Aerith</speaker><boxstart/>A, all right.
   <stage>She steps forward to fight the soldier.</stage>
 
 
-  <speaker name="Cloud"><boxstart/>RUN!</speaker>
+  <speaker name="Cloud"/><boxstart/>RUN!
   <speaker name="Aerith">Aerith</speaker><boxstart/>A, all right.
   <stage>She runs for the stairs.</stage>
 
@@ -190,13 +190,13 @@ She looks around.
 <speaker name="Boy">Boy</speaker><boxstart/>Um, we're, um taking care of the um, flowers for the um, lady here.<boxstart/>......is that ok?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- I don't mind<boxstart/>- No it's not!
 
-  <speaker name="Cloud"><boxstart/>I don't mind</speaker>
+  <speaker name="Cloud"/><boxstart/>I don't mind
   Take good care of them.
   <speaker name="Boy">Boy</speaker><boxstart/>Yeah!
   <speaker name="Girl">Girl</speaker><boxstart/>Sure!
 
 
-  <speaker name="Cloud"><boxstart/>No it's not!</speaker>
+  <speaker name="Cloud"/><boxstart/>No it's not!
   That's too much to ask of kids.
   <speaker name="Boy">Boy</speaker><boxstart/>Too much to ask? What's that? I don't get it.
 
@@ -219,11 +219,11 @@ She looks around.
 <speaker name="Man in Straw Hat">Man in Straw Hat</speaker><boxstart/>You ever hear of Wall Market?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah<boxstart/>- Nope
 
-  <speaker name="Cloud"><boxstart/>Yeah</speaker>
+  <speaker name="Cloud"/><boxstart/>Yeah
   <speaker name="Man in Straw Hat">Man in Straw Hat</speaker><boxstart/>Oh yeah? Then maybe I should have you pick something up for me next time you're there...
 
 
-  <speaker name="Cloud"><boxstart/>Nope</speaker>
+  <speaker name="Cloud"/><boxstart/>Nope
   <speaker name="Man in Straw Hat">Man in Straw Hat</speaker><boxstart/>It's a market in the slums of Sector 6. They've got everything you could ever want there.<boxstart/>If you can get there, that is. The road's something else.
 
 <speaker name="Woman Walking Around">Woman Walking Around</speaker><boxstart/>What am I doing? I'm walking around looking at the ground.<boxstart/>You find a lot of things people dropped when you look down. You never find them when you're looking up. Right?
@@ -261,11 +261,11 @@ She turns and walks upstairs.
 <speaker name="Aerith">Aerith</speaker><boxstart/>A girl...friend?
 <speaker name="Cloud">Cloud</speaker><boxstart/>Girlfriend?<boxstart/>- No way!<boxstart/>- Yeah, that's right
 
-  <speaker name="Cloud"><boxstart/>No way!</speaker>
+  <speaker name="Cloud"/><boxstart/>No way!
   <speaker name="Aerith">Aerith</speaker><boxstart/>Hee hee hee......<boxstart/>You don't have to get THAT upset...
 
 
-  <speaker name="Cloud"><boxstart/>Yeah, that's right</speaker>
+  <speaker name="Cloud"/><boxstart/>Yeah, that's right
   <speaker name="Aerith">Aerith</speaker><boxstart/>Oh, how nice.
 
 <speaker name="Aerith">Aerith</speaker><boxstart/>Well, that's... nice.<boxstart/>Let's see, Sector 7? I'll show you the way.

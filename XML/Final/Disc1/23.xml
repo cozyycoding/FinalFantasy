@@ -42,12 +42,12 @@ Received "Mythril"!!
 <speaker name="Elevator Guard">Elevator Guard</speaker><boxstart/>If you want to get on the elevator that badly, give me 10 gil!
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Okay, I guess<boxstart/>- No way!
 
-  <speaker name="Cloud"><boxstart/>Okay, I guess</speaker>
+  <speaker name="Cloud"/><boxstart/>Okay, I guess
   <stage>The elevator door opens.</stage>
   <speaker name="Elevator Guard">Elevator Guard</speaker><boxstart/>Hurry up and get in!
 
 
-  <speaker name="Cloud"><boxstart/>No way!</speaker>
+  <speaker name="Cloud"/><boxstart/>No way!
   <speaker name="Elevator Guard">Elevator Guard</speaker><boxstart/>You're such a cheapskate.
 
 <stage>On the Junon Airport Path...</stage>
@@ -78,13 +78,13 @@ Received "Mythril"!!
 <stage>Inside Junon Inn...</stage>
 <speaker name="Innkeeper">Innkeeper</speaker><boxstart/>Welcome to the 'Inn'd of the line' in Junon. Wait, I shouldn't be sayin' stuff like that.<boxstart/>Wanna spend the night?<boxstart/>- 30 gil<boxstart/>- Forget it
 
-  <speaker name="Cloud"><boxstart/>30 gil</speaker>
+  <speaker name="Cloud"/><boxstart/>30 gil
   <speaker name="Innkeeper">Innkeeper</speaker><boxstart/>Enjoy your stay.
   <stage>Cloud and the others rest.</stage>
   <speaker name="Innkeeper">Innkeeper</speaker><boxstart/>Good morning! You still seem a little sleepy.<boxstart/>Looking forward to seeing you again.
 
 
-  <speaker name="Cloud"><boxstart/>Forget it</speaker>
+  <speaker name="Cloud"/><boxstart/>Forget it
   <speaker name="Innkeeper">Innkeeper</speaker><boxstart/>Come again.
 
 <stage>In another barracks...</stage>
@@ -93,24 +93,24 @@ Received "Mythril"!!
 <speaker name="Sailor">Sailor</speaker><boxstart/>How 'bout a ship taxi? Only in Junon!<boxstart/>Free to Air Force personnel!
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Sure, call 'em<boxstart/>- Nope
 
-  <speaker name="Cloud"><boxstart/>Sure, call 'em</speaker>
+  <speaker name="Cloud"/><boxstart/>Sure, call 'em
   <speaker name="Sailor">Sailor</speaker><boxstart/>Roger!! Hey! Taxi!!
   <stage>A helicopter comes.</stage>
   <speaker name="Pilot">Pilot</speaker><boxstart/>Where to?
   <speaker name="Cloud">Cloud</speaker><boxstart/>- The next town<boxstart/>- Outside Junon
   
-	<speaker name="Cloud"><boxstart/>The next town</speaker>
+	<speaker name="Cloud"/><boxstart/>The next town
 	  <speaker name="Pilot">Pilot</speaker><boxstart/>Right! The next town it is!!
 	  He flies Cloud to the streets outside the airfield.
 	  Thanks!!
   
   
-	<speaker name="Cloud"><boxstart/>Outside Junon</speaker>
+	<speaker name="Cloud"/><boxstart/>Outside Junon
 	  <speaker name="Pilot">Pilot</speaker><boxstart/>Then outside Junon it is! Take care!!!
   
 
 
-  <speaker name="Cloud"><boxstart/>Nope</speaker>
+  <speaker name="Cloud"/><boxstart/>Nope
   <speaker name="Sailor">Sailor</speaker><boxstart/>Just holler whenever you want a ride!<boxstart/>If you get sick easily, maybe you'd better not go.
 
 <speaker name="Soldier outside Cargo Ship">Soldier outside Cargo Ship</speaker><boxstart/>Lately it seems like the economy's been better. Must be the 'Rufus' effect.<boxstart/>Cargo ships are always coming and going from Costa del Sol.<boxstart/>Now I'll overlook the fact that you're a stowaway, but you better at least help with the cargo.
@@ -121,11 +121,11 @@ Received "Mythril"!!
 <speaker name="Sailor">Sailor</speaker><boxstart/>Thinking of being stowaways?<boxstart/>It's 100 gil to Junon. Give it to me, and I'll put in a good word with the captain.<boxstart/>What'll we do?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Pay up<boxstart/>- Don't do it
 
-  <speaker name="Cloud"><boxstart/>Pay up</speaker>
+  <speaker name="Cloud"/><boxstart/>Pay up
   <speaker name="Sailor">Sailor</speaker><boxstart/>Okay. Come on. This way.<boxstart/>It's not the most pleasant ride but make the best of it.
 
 
-  <speaker name="Cloud"><boxstart/>Don't do it</speaker>
+  <speaker name="Cloud"/><boxstart/>Don't do it
   <speaker name="Sailor">Sailor</speaker><boxstart/>Thank you. Come back any time you want to stowaway on our ship.
 
 <speaker name="Sailor Running Around">Sailor Running Around</speaker><boxstart/>Ever since Rufus complimented him, he ran around for a while, And we haven't heard a peep from him since...
@@ -143,12 +143,12 @@ Received "Mythril"!!
 <speaker name="Woman 3">Woman 3</speaker><boxstart/>Hey, good timing. Would you mind putting lotion on me?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- With pleasure<boxstart/>- Sorry
 
-  <speaker name="Cloud"><boxstart/>With pleasure</speaker>
+  <speaker name="Cloud"/><boxstart/>With pleasure
   <stage>Cloud laughs and puts lotion on her.</stage>
   <speaker name="Woman 3">Woman 3</speaker><boxstart/>Uhhhnn...<boxstart/>Than--kyu!
 
 
-  <speaker name="Cloud"><boxstart/>Sorry</speaker>
+  <speaker name="Cloud"/><boxstart/>Sorry
   <speaker name="Woman 3">Woman 3</speaker><boxstart/>Hey, loosen up a bit.
 
 
@@ -163,19 +163,19 @@ Received "Mythril"!!
 <speaker name="Weapon Seller">Weapon Seller</speaker><boxstart/>Kya, hah hah hah...<boxstart/>Don't take it seriously. It's just a legend!<boxstart/>Huh? What?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Where is this "Keystone"?<boxstart/>- Where is the Temple?<boxstart/>- Let's change the subject<boxstart/>- Never mind
 
-  <speaker name="Cloud"><boxstart/>Where is this "Keystone"?</speaker>
+  <speaker name="Cloud"/><boxstart/>Where is this "Keystone"?
   <speaker name="Weapon Seller">Weapon Seller</speaker><boxstart/>I sold it already. Yeah well, to tell the truth, I didn't really want to sell it but...<boxstart/>That guy had a way about him that made you feel like it may not be a good idea NOT to sell it to him...
   <speaker name="Cloud">Cloud</speaker><boxstart/>Who did you sell it to?
   <speaker name="Weapon Seller">Weapon Seller</speaker><boxstart/>The manager of the Gold Saucer... think his name was "Dio". Said he was going to put it in his museum, then he took off out of here.
 
 
-  <speaker name="Cloud"><boxstart/>Where is the Temple?</speaker>
+  <speaker name="Cloud"/><boxstart/>Where is the Temple?
   <speaker name="Weapon Seller">Weapon Seller</speaker><boxstart/>Come on... it's only a legend. But if it were true, that sure would be something, huh?<boxstart/>Now that you mention it, I have heard of something called Ultimate Destruction Magic<boxstart/>was supposed to be hidden somewhere in the Temple of the Ancients.
   <speaker name="Cloud">Cloud</speaker><boxstart/>Ultimate Destruction Magic...?
   <speaker name="Weapon Seller">Weapon Seller</speaker><boxstart/>Come on! I told you not to take it seriously!
 
 
-  <speaker name="Cloud"><boxstart/>Let's change the subject</speaker>
+  <speaker name="Cloud"/><boxstart/>Let's change the subject
   <speaker name="Weapon Seller">Weapon Seller</speaker><boxstart/>All the weapons you see here I made myself. But lately I haven't been able to get materials...<boxstart/>Hey you wouldn't happen to have any Mythril on you, would you? I'll trade you something good if you could spare some.
   <speaker name="Cloud">Cloud</speaker><boxstart/>- Give him some<boxstart/>- Forget it
   <speaker name="Weapon Seller">Weapon Seller</speaker><boxstart/>Hey thanks! All right you can help yourself to either a big or small box.
@@ -185,7 +185,7 @@ Received "Mythril"!!
   Received "Great Gospel"!
 
 
-  <speaker name="Cloud"><boxstart/>Never mind</speaker>
+  <speaker name="Cloud"/><boxstart/>Never mind
   <stage>Nothing happens.</stage>
 
 <stage>If Cloud tries to open something without giving him Mythril...</stage>
@@ -222,7 +222,7 @@ Received "Mythril"!!
 <speaker name="Excavator">Excavator</speaker><boxstart/>Welcome to Bone Village, a town for nature lovers.<boxstart/>What do you want?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Have you seen Sephiroth?<boxstart/>- What are you doing?
 
-  <speaker name="Cloud"><boxstart/>Have you seen Sephiroth?</speaker>
+  <speaker name="Cloud"/><boxstart/>Have you seen Sephiroth?
   <speaker name="Excavator">Excavator</speaker><boxstart/>Oh, the man in a Black Cape. He was looking for the Temple of the Ancients.
   <speaker name="Cloud">Cloud</speaker><boxstart/>- The Temple of the Ancients?
   <speaker name="Excavator">Excavator</speaker><boxstart/>It's way down south. It's right on the other side between this town and the inland sea.<boxstart/>It's the pyramid that rises within the forest.
@@ -232,7 +232,7 @@ Received "Mythril"!!
   <speaker name="Excavator">Excavator</speaker><boxstart/>Just like it sounds. A rock that's a key. I heard that some rich guy has it.
 
 
-  <speaker name="Cloud"><boxstart/>What are you doing?</speaker>
+  <speaker name="Cloud"/><boxstart/>What are you doing?
   <speaker name="Excavator">Excavator</speaker><boxstart/>We're excavating. It's like the land's telling a history of the planet.
 
 

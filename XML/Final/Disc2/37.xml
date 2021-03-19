@@ -91,14 +91,14 @@ He turns around.
 <speaker name="Commander">Commander</speaker><boxstart/>I'm back! An' now I got no regrets!!<boxstart/>ATT----ACK!!
 <speaker name="Cloud">Cloud</speaker><boxstart/>Hmmmm...<boxstart/>- Fight them<boxstart/>- Take them prisoner
 
-  <speaker name="Cloud"><boxstart/>Fight them</speaker>
+  <speaker name="Cloud"/><boxstart/>Fight them
   <speaker name="Captain">Captain</speaker><boxstart/>Let me show you how it's done.
   <speaker name="Soldier">Soldier</speaker><boxstart/>Eyaaarrrgh!<boxstart/>Captain... I can't hold on any longer!<boxstart/>Eyaaarrrgh!
   <speaker name="Captain">Captain</speaker><boxstart/>Uggh... They got me.
   <speaker name="Soldier 2">Soldier 2</speaker><boxstart/>The Special Pose...
 
 
-  <speaker name="Cloud"><boxstart/>Take them prisoner</speaker>
+  <speaker name="Cloud"/><boxstart/>Take them prisoner
   <stage>The soldiers move aside to let Cloud and the others into the control room.</stage>
 
 <stage>Cloud crouches down, wringing his hands. Yuffie doesn't look any better off.</stage>
@@ -123,13 +123,13 @@ He turns around.
 <speaker name="Commander">Commander</speaker><boxstart/>Hey! Who am I to know!
 <speaker name="Cloud">Cloud</speaker><boxstart/>Well, now what?<boxstart/>- Read the manual<boxstart/>- Sit in the seat<boxstart/>- Leave it alone
 
-  <speaker name="Cloud"><boxstart/>Read the manual</speaker>
+  <speaker name="Cloud"/><boxstart/>Read the manual
   <speaker name="Submarine Operation Manual - Beginner's Edition">Submarine Operation Manual - Beginner's Edition</speaker>
   <stage>[Controls reference]</stage>
   Mission Orders: Presently on the ocean floor near Junon, a Red Leader Submarine carrying Huge Materia is being escorted by covert Shinra Submarine Units.<boxstart/>Furthermore, it has been confirmed that several mines have been dispersed onto the ocean floor.<boxstart/>The ocean floor can only be monitored with Shinra's Sonar Radar Screen.<boxstart/>Enemy subs can only be detected with the Sonar area. Get in front of the detected enemy sub and "Lock On"!!<boxstart/>Push [] button to fire the torpedo!<boxstart/>The mines are found on the radar screen at the top of the indicators. The mines inflict great damage, so be careful!<boxstart/>Objective: Sink the Red Leader Submarine carrying the Huge Materia! Time Limit: 10 minutes!
 
 
-  <speaker name="Cloud"><boxstart/>Sit in the seat</speaker>
+  <speaker name="Cloud"/><boxstart/>Sit in the seat
   <stage>Cloud sits down.</stage>
   <speaker name="Cloud">Cloud</speaker><boxstart/>Everything seems set...<boxstart/>- Start the mission!<boxstart/>This switch...?<boxstart/>Main screen: ON<boxstart/>Change the screen mode.
 

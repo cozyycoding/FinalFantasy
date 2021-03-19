@@ -151,15 +151,15 @@ Received "Shiva" Materia!
 <speaker name="Priscilla">Priscilla</speaker><boxstart/>You wanna jump with Mr. Dolphin?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Explain it to me again<boxstart/>- Sure<boxstart/>- I'll pass
 
-  <speaker name="Cloud"><boxstart/>Explain it to me again</speaker>
+  <speaker name="Cloud"/><boxstart/>Explain it to me again
   <stage>Priscilla repeats her explanation.</stage>
 
 
-  <speaker name="Cloud"><boxstart/>Sure</speaker>
+  <speaker name="Cloud"/><boxstart/>Sure
   <stage>Cloud goes into the water to begin the jumping-to-the-top-of-the-pole ordeal.</stage>
 
 
-  <speaker name="Cloud"><boxstart/>I'll pass</speaker>
+  <speaker name="Cloud"/><boxstart/>I'll pass
   <speaker name="Priscilla">Priscilla</speaker><boxstart/>Come back whenever you want to see Mr. Dolphin!
 
 <stage>Eventually the dolphin jumps Cloud to the top of the pole, and he climbs up to the Shinra airfield, where the Highwind is. He enters the base to find a group of soldiers running out to the street.</stage>
@@ -171,11 +171,11 @@ Received "Shiva" Materia!
 <speaker name="Commander">Commander</speaker><boxstart/>Today's the big day when we welcome President Rufus! Hurry up and change!<boxstart/>There's a uniform in the locker. Hurry and change!
 <speaker name="Cloud">Cloud</speaker><boxstart/>It's the Shinra uniform.<boxstart/>- Don't change<boxstart/>- Change
 
-  <speaker name="Cloud"><boxstart/>Don't change</speaker>
+  <speaker name="Cloud"/><boxstart/>Don't change
   There's Shinra soldiers all around. Better not try anything dumb...
 
 
-  <speaker name="Cloud"><boxstart/>Change</speaker>
+  <speaker name="Cloud"/><boxstart/>Change
   Brings back memories...
 
 <speaker name="Commander">Commander</speaker><boxstart/>Quit yappin'! Hurry up!
@@ -209,25 +209,25 @@ Received "Shiva" Materia!
 <speaker name="AD">AD</speaker><boxstart/>I don't know.
 <speaker name="TV Producer">TV Producer</speaker><boxstart/>Are the points up?
 
-  <stage><speaker name="Cloud"><boxstart/>If Cloud did poorly...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If Cloud did poorly...</stage>
   <speaker name="AD">AD</speaker><boxstart/>This's terrible! Am... am I fired?
   <speaker name="TV Producer">TV Producer</speaker><boxstart/>What!? You're FIRED!!<boxstart/>Send that soldier a bomb or something!
   Received "Grenade"!
 
 
-  <stage><speaker name="Cloud"><boxstart/>If Cloud did okay...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If Cloud did okay...</stage>
   <speaker name="AD">AD</speaker><boxstart/>Well, it's so-so.
   <speaker name="TV Producer">TV Producer</speaker><boxstart/>Hmm...<boxstart/>Better send that soldier something.
   Received 6 "Potion"!
 
 
-  <stage><speaker name="Cloud"><boxstart/>If Cloud did pretty well...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If Cloud did pretty well...</stage>
   <speaker name="AD">AD</speaker><boxstart/>So-so.
   <speaker name="TV Producer">TV Producer</speaker><boxstart/>Really.<boxstart/>I want somebody to send that soldier an expensive gift.
   Received 6 "Ether"!
 
 
-  <stage><speaker name="Cloud"><boxstart/>If Cloud did very well...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If Cloud did very well...</stage>
   <speaker name="AD">AD</speaker><boxstart/>They just shot up!!
   <speaker name="TV Producer">TV Producer</speaker><boxstart/>We did it!<boxstart/>Send that soldier something special.
   Received 5000 gil!
@@ -334,19 +334,19 @@ A tutorial menu opens.
 <stage>Cloud and the soldiers perform the send-off exercises they practiced earlier.</stage>
 <speaker name="Commander">Commander</speaker><boxstart/>All right! Now finish strong! Special!
 
-  <stage><speaker name="Cloud"><boxstart/>If they did well...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If they did well...</stage>
   <speaker name="Rufus">Rufus</speaker><boxstart/>Well done.<boxstart/>Keep up the good work for Shinra, Inc.
   <speaker name="Heidegger">Heidegger</speaker><boxstart/>Gya haa ha...!! Here's a special bonus for you!!<boxstart/>A token of the President's kindness! Don't forget it!
   Received "Force Stealer"!
 
 
-  <stage><speaker name="Cloud"><boxstart/>If they did okay...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If they did okay...</stage>
   <speaker name="Rufus">Rufus</speaker><boxstart/>Very entertaining. Keep up the good work.
   <speaker name="Heidegger">Heidegger</speaker><boxstart/>Gya haa ha...!! Here's a special bonus for you!!<boxstart/>A token of the President's kindness! Don't forget it!
   Received "HP Plus" Materia!
 
 
-  <stage><speaker name="Cloud"><boxstart/>If they did poorly...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If they did poorly...</stage>
   <speaker name="Rufus">Rufus</speaker><boxstart/>Looks like you need more practice.<boxstart/>With things looking like this, you better be ready for pay cuts...
   <speaker name="Heidegger">Heidegger</speaker><boxstart/>Gya haa ha...!! Here's a special bonus for you!!<boxstart/>A token of the President's kindness! Don't forget it!
   Received "Silver Glasses"!

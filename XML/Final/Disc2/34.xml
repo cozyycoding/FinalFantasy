@@ -56,7 +56,7 @@ Back on the Highwind
 
 <speaker name="Cid">Cid</speaker><boxstart/>Don't worry! I can handle this kinda stuff!<boxstart/>Two levers; one on the right and one on the left...<boxstart/>I see, just alternate the two levers up and down, right!?<boxstart/>Judging from the enemy's speed, I'd say it'll take about 10 minutes.<boxstart/>We're gonna fly!! Hold on tight!!
 
-  <stage><speaker name="Cloud"><boxstart/>If they fail to catch up to Shinra's train...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If they fail to catch up to Shinra's train...</stage>
   <speaker name="Cid">Cid</speaker><boxstart/>DAMN!<boxstart/>Sorry! I couldn't catch up to them!
   <stage>They walk into North Corel, which is unharmed.</stage>
   <speaker name="Cid">Cid</speaker><boxstart/>Sorry... I never shoulda gave that Huge Materia to the Shinra so easily...
@@ -69,7 +69,7 @@ Back on the Highwind
   
 
 
-  <stage><speaker name="Cloud"><boxstart/>If they catch up to Shinra's train in time...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If they catch up to Shinra's train in time...</stage>
 	<speaker name="Cid">Cid</speaker><boxstart/>All right! We're gonna jump!!
 	<stage>They jump to the other train and fight their way to the front.</stage>
 	<speaker name="Soldier Driving">Soldier Driving</speaker><boxstart/>What the! You... you guys!
@@ -101,7 +101,7 @@ Back on the Highwind
 		<speaker name="Vincent">Vincent</speaker><boxstart/>	......!!
 	
 	
-	  <stage><speaker name="Cloud"><boxstart/>If Cid slows the train down in time...</speaker></stage>
+	  <stage><speaker name="Cloud"/><boxstart/>If Cid slows the train down in time...</stage>
 	  <speaker name="Cid">Cid</speaker><boxstart/>SHI---------!!
 	  <stage>The train stops just at the entrance to North Corel.</stage>
 	  Received Key Item "Huge Materia"!
@@ -135,7 +135,7 @@ Back on the Highwind
 	  <speaker name="Kid">Kid</speaker><boxstart/>When I grow up, I'm gonna travel the world collecting glowing stones!
 	
 	
-	  <stage><speaker name="Cloud"><boxstart/>If Cid fails to slow the train down in time...</speaker></stage>
+	  <stage><speaker name="Cloud"/><boxstart/>If Cid fails to slow the train down in time...</stage>
 	  <speaker name="Cid">Cid</speaker><boxstart/>Oh ^%$#&amp;$! We're gonna crash into North Corel!
 	  <stage>The train crashes into North Corel. Cid comes to in the inn, rolling off the bed.</stage>
 	  <speaker name="Innkeeper">Innkeeper</speaker><boxstart/>You all right?<boxstart/>Some townspeople carried you here so the Shinra wouldn't find you.<boxstart/>How much more will they have to destroy before they're satisfied!?<boxstart/>Isn't anyone brave enough to stick it to Shinra?
@@ -164,14 +164,14 @@ Back on the Highwind
 	  <speaker name="Kid">Kid</speaker><boxstart/>I got a glowing rock from the well.<boxstart/>I'll sell it to you for 50000 gil!
 	  <speaker name="Cid">Cid</speaker><boxstart/>- Buy it<boxstart/>- Don't buy it
 	  
-		<speaker name="Cloud"><boxstart/>Buy it</speaker>
+		<speaker name="Cloud"/><boxstart/>Buy it
 		Received "Ultima" Materia!
 		<speaker name="Kid">Kid</speaker><boxstart/>Yay! My house is finished!!
 		Or, if you don't have enough money:
 		You don't have enough money! Don't try to take advantage of me just because I'm a kid!!
 	  
 	  
-		<speaker name="Cloud"><boxstart/>Don't buy it</speaker>
+		<speaker name="Cloud"/><boxstart/>Don't buy it
 		<speaker name="Kid">Kid</speaker><boxstart/>I wish someone would buy this rock off of me...
 	  
 	

@@ -31,21 +31,21 @@ She runs past Cloud to join Reno and Rude.
 She runs off down the right fork of the path.
 <speaker name="Reno">Reno</speaker><boxstart/>It's been a while.
 
-  <stage><speaker name="Cloud"><boxstart/>If coming any time before the Wutai sidequest...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If coming any time before the Wutai sidequest...</stage>
 	<speaker name="Reno">Reno</speaker><boxstart/>Payback time for what you did in Sector 7.
 	<speaker name="Cloud">Cloud</speaker><boxstart/>- Sector 7?<boxstart/>- Out of our way
 	
-	  <speaker name="Cloud"><boxstart/>Sector 7?</speaker>
+	  <speaker name="Cloud"/><boxstart/>Sector 7?
 	  <speaker name="Reno">Reno</speaker><boxstart/>That's sad.
 	
 	
-	  <speaker name="Cloud"><boxstart/>Out of out way</speaker>
+	  <speaker name="Cloud"/><boxstart/>Out of out way
 	  <speaker name="Reno">Reno</speaker><boxstart/>I don't like being taken for a fool.
 	
 
 <speaker name="Rude">Rude</speaker><boxstart/>That's as far as you go.
 
-  <stage><speaker name="Cloud"><boxstart/>If coming after encountering the Turks in Wutai...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If coming after encountering the Turks in Wutai...</stage>
 	<speaker name="Reno">Reno</speaker><boxstart/>This is just part of the job. Don't take it personally.
 
 <stage>Cloud and the others fight and defeat Reno and Rude.</stage>
@@ -108,15 +108,15 @@ Received "Titan" Materia!
 <speaker name="Accessory Shopkeeper">Accessory Shopkeeper</speaker><boxstart/>Huh...... did you want something?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Buy accessories?<boxstart/>- Hear a story?<boxstart/>- Nothing in particular
 
-  <speaker name="Cloud"><boxstart/>Buy accessories?</speaker>
+  <speaker name="Cloud"/><boxstart/>Buy accessories?
   <stage>The shop menu opens.</stage>
 
 
-  <speaker name="Cloud"><boxstart/>Hear a story?</speaker>
+  <speaker name="Cloud"/><boxstart/>Hear a story?
   <speaker name="Accessory Shopkeeper">Accessory Shopkeeper</speaker><boxstart/>People can live without the Shinra's Mako Reactors.
 
 
-  <speaker name="Cloud"><boxstart/>Nothing in particular</speaker>
+  <speaker name="Cloud"/><boxstart/>Nothing in particular
   <speaker name="Accessory Shopkeeper">Accessory Shopkeeper</speaker><boxstart/>They sell the weapons on the second floor. Climb up the pole to get there.
 
 <stage>Up the pole...</stage>
@@ -140,13 +140,13 @@ Received "Titan" Materia!
 <speaker name="Zack's Mother">Zack's Mother</speaker><boxstart/>It's been close to 10 years since he left for the city, saying that he didn't want to live in the country...
 <speaker name="Zack's Father">Zack's Father</speaker><boxstart/>He left saying he's going to join SOLDIER. You ever hear of a Zack in SOLDIER?
 
-  <stage><speaker name="Cloud"><boxstart/>If neither Aerith nor Tifa are in the party...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If neither Aerith nor Tifa are in the party...</stage>
   <speaker name="Cloud">Cloud</speaker><boxstart/>Hmmm... I don't know.
   He turns for the door.
   ...Zack.<boxstart/>Zack. I don't know anything about that man.<boxstart/>......But That name sounds familiar...<boxstart/>Why...!?
 
 
-  <stage><speaker name="Cloud"><boxstart/>If both Aerith and Tifa are in the party...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If both Aerith and Tifa are in the party...</stage>
   <speaker name="Cloud">Cloud</speaker><boxstart/>Hmmm... I don't know.
   <speaker name="Aerith">Aerith</speaker><boxstart/>Zack...
   <speaker name="Zack's Father">Zack's Father</speaker><boxstart/>Young lady, you know him?
@@ -160,7 +160,7 @@ Received "Titan" Materia!
   [Cloud talks to Aerith.]<boxstart/>[Cloud talks to Tifa.]
 
 
-  <stage><speaker name="Cloud"><boxstart/>If only Aerith is in the party...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If only Aerith is in the party...</stage>
   <speaker name="Cloud">Cloud</speaker><boxstart/>Hmm.. I don't know.
   <speaker name="Aerith">Aerith</speaker><boxstart/>Zack...
   <speaker name="Zack's Father">Zack's Father</speaker><boxstart/>Young lady, you know him?
@@ -172,7 +172,7 @@ Received "Titan" Materia!
   [Cloud talks to Aerith.]
 
 
-  <stage><speaker name="Cloud"><boxstart/>If only Tifa is in the party...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If only Tifa is in the party...</stage>
   <speaker name="Cloud">Cloud</speaker><boxstart/>Hmmm... I don't know.
   <speaker name="Tifa">Tifa</speaker><boxstart/>Zack...
   <speaker name="Zack's Father">Zack's Father</speaker><boxstart/>Young lady, you know him?
@@ -196,11 +196,11 @@ Received "Titan" Materia!
 <speaker name="Aerith">Aerith</speaker><boxstart/>I think it was 5 years ago. He went out on a job, and never came back.<boxstart/>He loved women, a real lady's man. He probably found someone else...<boxstart/>Hey? What's wrong?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Poor guy<boxstart/>- (...jealous... envious...)
 
-  <speaker name="Cloud"><boxstart/>Poor guy</speaker>
+  <speaker name="Cloud"/><boxstart/>Poor guy
   <speaker name="Aerith">Aerith</speaker><boxstart/>I don't really mind that I haven't heard from him. But I feel for his parents.
 
 
-  <speaker name="Cloud"><boxstart/>(...jealous... envious...)</speaker>
+  <speaker name="Cloud"/><boxstart/>(...jealous... envious...)
   <speaker name="Aerith">Aerith</speaker><boxstart/>Are you... jealous? Hmm? Hmmm? Are you, Cloud?
   <stage>He turns away.</stage>
   <speaker name="Aerith">Aerith</speaker><boxstart/>I'm kidding. I'm sorry.
@@ -218,11 +218,11 @@ Received "Titan" Materia!
 <speaker name="Tifa">Tifa</speaker><boxstart/>You must really be something making it in SOLDIER out of a group like that.<boxstart/>I really respect you...
 <speaker name="Cloud">Cloud</speaker><boxstart/>- I just got lucky<boxstart/>- I worked hard for it
 
-  <speaker name="Cloud"><boxstart/>I just got lucky</speaker>
+  <speaker name="Cloud"/><boxstart/>I just got lucky
   <speaker name="Tifa">Tifa</speaker><boxstart/>Don't be so humble!
 
 
-  <speaker name="Cloud"><boxstart/>I worked hard for it</speaker>
+  <speaker name="Cloud"/><boxstart/>I worked hard for it
   <speaker name="Tifa">Tifa</speaker><boxstart/>Hard work pays off, huh.
 
 <speaker name="Tifa">Tifa</speaker><boxstart/>Cloud, thanks for caring.

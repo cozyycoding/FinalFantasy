@@ -38,35 +38,35 @@ The End of Cloud's Story
 <speaker name="Black-haired Man">Black-haired Man</speaker><boxstart/>Tourists, huh?<boxstart/>There are some things you should know that'll come in handy when you travel around the world......<boxstart/>Want me to tell you what they are?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Tell me<boxstart/>- I already know
 
-  <speaker name="Cloud"><boxstart/>Tell me</speaker>
+  <speaker name="Cloud"/><boxstart/>Tell me
   <speaker name="Black-haired Man">Black-haired Man</speaker><boxstart/>Then let me explain how to use the world map.<boxstart/>Well then, what do you want to know?
   <stage>A tutorial menu opens.</stage>
   <speaker name="Black-haired Man">Black-haired Man</speaker><boxstart/>Well then, bon voyage!
 
 
-  <speaker name="Cloud"><boxstart/>I already know</speaker>
+  <speaker name="Cloud"/><boxstart/>I already know
   <speaker name="Black-haired Man">Black-haired Man</speaker><boxstart/>Is that so? Well, that's that. Have a nice trip.
 
 <stage>Inside the first house...</stage>
 <speaker name="Woman">Woman</speaker><boxstart/>Thanks to Mako energy, life's pretty darn convenient. Thanks to Shinra.<boxstart/>Don't you think?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah, maybe<boxstart/>- You're full of it
 
-  <speaker name="Cloud"><boxstart/>Yeah, maybe</speaker>
+  <speaker name="Cloud"/><boxstart/>Yeah, maybe
   <speaker name="Woman">Woman</speaker><boxstart/>See!? How would we get by without Mako energy?
 
 
-  <speaker name="Cloud"><boxstart/>You're full of it</speaker>
+  <speaker name="Cloud"/><boxstart/>You're full of it
   <speaker name="Woman">Woman</speaker><boxstart/>Hmmn. But I'd hate to think of what life'd be like without Mako energy.
 
 <speaker name="Woman">Woman</speaker><boxstart/>Yeah, Mako energy's made our lives much easier. And it's all thanks to Shinra, Inc.
 <speaker name="Girl Upstairs">Girl Upstairs</speaker><boxstart/>Mako energy's made things a lot more convenient......<boxstart/>But seems like a lot of plants and animals have been disappearing at a rapid pace.<boxstart/>I think the old life was better.<boxstart/>Don't you think so?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah, maybe<boxstart/>- No way
 
-  <speaker name="Cloud"><boxstart/>Yeah, maybe</speaker>
+  <speaker name="Cloud"/><boxstart/>Yeah, maybe
   <speaker name="Girl Upstairs">Girl Upstairs</speaker><boxstart/>Yeah, sure I'm right! You think so, don't you?
 
 
-  <speaker name="Cloud"><boxstart/>No way</speaker>
+  <speaker name="Cloud"/><boxstart/>No way
   <speaker name="Girl Upstairs">Girl Upstairs</speaker><boxstart/>That sounds just like what my mom says.
 
 <speaker name="Girl Upstairs">Girl Upstairs</speaker><boxstart/>I thought things were better when I was able to play with animals......
@@ -82,11 +82,11 @@ The End of Cloud's Story
 <speaker name="Man">Man</speaker><boxstart/>I heard President Shinra was killed. And his son Rufus, the new president, was badly hurt.<boxstart/>Hey, I bet that's news to you?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Hey you're pretty clued!!<boxstart/>- Don't care...
 
-  <speaker name="Cloud"><boxstart/>Hey you're pretty clued!!</speaker>
+  <speaker name="Cloud"/><boxstart/>Hey you're pretty clued!!
   <speaker name="Man">Man</speaker><boxstart/>Heh, heh, heh...... This is just between us. I heard it was that there Ava-whaddya call-ums that attacked the President Shinra and his son.
 
 
-  <speaker name="Cloud"><boxstart/>Don't care...</speaker>
+  <speaker name="Cloud"/><boxstart/>Don't care...
   <speaker name="Man">Man</speaker><boxstart/>Don't care? If you're going to travel, you'd best keep an eye on what Shinra's doing.
 
 <speaker name="Man">Man</speaker><boxstart/>Shinra is leading the world around by the nose, and you guys are just gonna sit back and take it?
@@ -245,11 +245,11 @@ All we need is one lookout, so you others, get some rest.<boxstart/>Oh, that's r
 <speaker name="Barret">Barret</speaker><boxstart/>Tell us more!<boxstart/>You saw your family, right?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Don't want to talk about it<boxstart/>- All right......
 
-  <speaker name="Cloud"><boxstart/>Don't want to talk about it</speaker>
+  <speaker name="Cloud"/><boxstart/>Don't want to talk about it
   <speaker name="Barret">Barret</speaker><boxstart/>Well I ain't gonna force ya...
 
 
-  <speaker name="Cloud"><boxstart/>All right......</speaker>
+  <speaker name="Cloud"/><boxstart/>All right......
   I don't know if you could call it a 'family'......<boxstart/>My father... died when I was still very young.<boxstart/>That's why my mom...... was living alone in this house.<boxstart/>Yeah, I saw my mom.<boxstart/>My mom... she was a vibrant woman. Hadn't changed at all.<boxstart/>But a few days later, she died...<boxstart/>But when I saw her, she looked fine.
 
 <stage>Back in the flashback, Cloud walks farther into his house.</stage>
@@ -500,11 +500,11 @@ He pulls himself up to look in the window of one of the pods.
 <speaker name="Barret">Barret</speaker><boxstart/>(Why you talkin' to me!?)
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Save game and take a rest<boxstart/>- Keep talking
 
-  <speaker name="Cloud"><boxstart/>Save game and take a rest</speaker>
+  <speaker name="Cloud"/><boxstart/>Save game and take a rest
   <speaker name="Barret">Barret</speaker><boxstart/>Yeah, mebbe so. Wanna take a breather here?
 
 
-  <speaker name="Cloud"><boxstart/>Keep talking</speaker>
+  <speaker name="Cloud"/><boxstart/>Keep talking
   <stage>Nothing special happens.</stage>
 
 <speaker name="Barret">Barret</speaker><boxstart/>......I get it.
@@ -598,21 +598,21 @@ My mother's name is Jenova... Jenova Project... Is this just a coincidence?<boxs
 <speaker name="Barret">Barret</speaker><boxstart/>Damn! Don't none of this make sense!<boxstart/>I'm going, going, going, gone!<boxstart/>And I'm leavin' the thinkin' to you!<boxstart/>Yo, Cloud! Let's get a move on!
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Wait a sec<boxstart/>- Right
 
-  <speaker name="Cloud"><boxstart/>Wait a sec</speaker>
+  <speaker name="Cloud"/><boxstart/>Wait a sec
   <speaker name="Barret">Barret</speaker><boxstart/>Cloud, what's wrong? You just gonna stand there while Sephiroth heads for the Promised Land?<boxstart/>I ain't lettin' Sephiroth or Shinra get to no Promised Land. If they do, then we're all screwed.<boxstart/>Y'know what I'm sayin'!
   <speaker name="Cloud">Cloud</speaker><boxstart/>- Beautiful, just beautiful!<boxstart/>- Is that all?
   
-    <speaker name="Cloud"><boxstart/>Beautiful, just beautiful</speaker>
+    <speaker name="Cloud"/><boxstart/>Beautiful, just beautiful
     <speaker name="Barret">Barret</speaker><boxstart/>Y'all jes leave it to me!
   
   
-    <speaker name="Cloud"><boxstart/>Is that all?</speaker>
+    <speaker name="Cloud"/><boxstart/>Is that all?
     Oh brother......
     <speaker name="Barret">Barret</speaker><boxstart/>Fine! That's good enough.
   
 
 
-  <speaker name="Cloud"><boxstart/>Right</speaker>
+  <speaker name="Cloud"/><boxstart/>Right
   <speaker name="Barret">Barret</speaker><boxstart/>Yo, c'mon let's go!
 
 <stage>Barret runs down the stairs.</stage>

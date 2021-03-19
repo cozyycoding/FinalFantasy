@@ -25,9 +25,9 @@
     </xsl:template>
     
     <xsl:template match="descendant::span[@class='highlight']">
-        <speaker name="Cloud"><boxstart/>
+        <speaker name="Cloud"/><boxstart/>
             <xsl:apply-templates/>
-        </speaker>
+        
         
     </xsl:template>
     <xsl:template match="descendant::div[@class='block-color']">

@@ -31,13 +31,13 @@ If Cloud has already taken the map...
 <speaker name="Woman">Woman</speaker><boxstart/>Welcome! You look like a STRONG one...<boxstart/>If you want, I could lend you an ear...?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah<boxstart/>- Not interested
 
-  <speaker name="Cloud"><boxstart/>Yeah</speaker>
+  <speaker name="Cloud"/><boxstart/>Yeah
   <stage>The woman gets up and sits elsewhere.</stage>
   <speaker name="Woman">Woman</speaker><boxstart/>I got bored listening to his stories.
   <speaker name="Man in Overalls">Man in Overalls</speaker><boxstart/>Am I boring you?
 
 
-  <speaker name="Cloud"><boxstart/>Not interested</speaker>
+  <speaker name="Cloud"/><boxstart/>Not interested
   <speaker name="Woman">Woman</speaker><boxstart/>What's with you!? You make me sick!
   <speaker name="Man in Overalls">Man in Overalls</speaker><boxstart/>If you go further North, I heard there's a Huge Crater.<boxstart/>Something huge must've fallen from the sky a long time ago!
 
@@ -47,11 +47,11 @@ If Cloud has already taken the map...
 <speaker name="Redhead 2">Redhead 2</speaker><boxstart/>You thinkin' of going North?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- That's my plan<boxstart/>- No
 
-  <speaker name="Cloud"><boxstart/>That's my plan</speaker>
+  <speaker name="Cloud"/><boxstart/>That's my plan
   <speaker name="Redhead 2">Redhead 2</speaker><boxstart/>Well... if you're going past this town you'll need a map.<boxstart/>Maybe there's one left at Mr. Holzoff's house. He used to be a mountain climber.
 
 
-  <speaker name="Cloud"><boxstart/>No</speaker>
+  <speaker name="Cloud"/><boxstart/>No
   <speaker name="Redhead 2">Redhead 2</speaker><boxstart/>Yeah, we really don't have anything here, but make yourself at home.
 
 <speaker name="Man">Man</speaker><boxstart/>Do you know what a Cetra is?
@@ -160,20 +160,20 @@ She punches Cloud.
 <speaker name="Man in Thicket">Man in Thicket</speaker><boxstart/>No, don't!! It's a steep downgrade, past here.<boxstart/>It's dangerous, please don't go!
 <speaker name="Cloud">Cloud</speaker><boxstart/>- I'm still going<boxstart/>- Thanks for your kindness
 
-  <speaker name="Cloud"><boxstart/>I'm still going</speaker>
+  <speaker name="Cloud"/><boxstart/>I'm still going
   <speaker name="Man in Thicket">Man in Thicket</speaker><boxstart/>Damn, I was just being nice...<boxstart/>What the? Who are those people over there? Looks like trouble!
   He runs off.
 
 
-  <speaker name="Cloud"><boxstart/>Thanks for your kindness</speaker>
+  <speaker name="Cloud"/><boxstart/>Thanks for your kindness
   <speaker name="Man in Thicket">Man in Thicket</speaker><boxstart/>No, no. I just did what came natural.<boxstart/>All right, I'm not too busy now. Do you want me to teach you how to ride a snowboard?
   <speaker name="Cloud">Cloud</speaker><boxstart/>- Maybe you should<boxstart/>- Not interested
   
-    <speaker name="Cloud"><boxstart/>Maybe you should</speaker>
+    <speaker name="Cloud"/><boxstart/>Maybe you should
     <stage>A controls explanation ensues.</stage>
   
   
-    <speaker name="Cloud"><boxstart/>Not interested</speaker>
+    <speaker name="Cloud"/><boxstart/>Not interested
     <speaker name="Man in Thicket">Man in Thicket</speaker><boxstart/>You're so boring!
   
 
@@ -194,13 +194,13 @@ She punches Cloud.
 <speaker name="Elena">Elena</speaker><boxstart/>No, I can handle him! There's no way he can avoid my punch.
 <speaker name="Soldier">Soldier</speaker><boxstart/>What? Yeah......
 
-  <stage><speaker name="Cloud"><boxstart/>If Cloud dodges Elena's punch...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If Cloud dodges Elena's punch...</stage>
   <stage>Elena goes rolling past him on down the hill, and the soldiers chase after her.</stage>
   <speaker name="Soldier">Soldier</speaker><boxstart/>Ele... Elena!?
   <speaker name="Man in Thicket">Man in Thicket</speaker><boxstart/>What the...? They sure were weak for Shinras.
 
 
-  <stage><speaker name="Cloud"><boxstart/>If Cloud doesn't dodge...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If Cloud doesn't dodge...</stage>
   <stage>Elena punches him, knocking him out cold.</stage>
   <speaker name="Elena">Elena</speaker><boxstart/>Why? Why didn't you try to avoid it...<boxstart/>There's no way they can climb the Great Glacier anyway.<boxstart/>Put them in some house in the village.
   <stage>Cloud wakes in Gast's house.</stage>
@@ -209,11 +209,11 @@ She punches Cloud.
 <speaker name="Soldiers">Soldiers</speaker><boxstart/>This village is now under martial law!
 <speaker name="Cloud">Cloud</speaker><boxstart/>- (Do what you're told)<boxstart/>- (Kick his butt)
 
-  <speaker name="Cloud"><boxstart/>(Do what you're told)</speaker>
+  <speaker name="Cloud"/><boxstart/>(Do what you're told)
   <speaker name="Soldier">Soldier</speaker><boxstart/>Don't be angry. I'm just doing my job.
 
 
-  <speaker name="Cloud"><boxstart/>(Kick his butt)</speaker>
+  <speaker name="Cloud"/><boxstart/>(Kick his butt)
   <speaker name="Soldier">Soldier</speaker><boxstart/>Stop it, there're kids around!<boxstart/>Listen, I probably shouldn't tell you, but I hear something big's going down up North.<boxstart/>The President's gonna be there. So, would you please just lay low for a while?
 
 <speaker name="Girl Sledding">Girl Sledding</speaker><boxstart/>Who is that man?
@@ -226,11 +226,11 @@ Received Key Item "Snowboard"!
 <speaker name="Man in Thicket">Man in Thicket</speaker><boxstart/>Sorry I just took off a while ago... It looked like there was going to be trouble.<boxstart/>Anyhow, you'll need a snowboard to get down that hill. Want me to teach you how to ride one?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah, maybe you should<boxstart/>- No, not interested
 
-  <speaker name="Cloud"><boxstart/>Yeah, maybe you should</speaker>
+  <speaker name="Cloud"/><boxstart/>Yeah, maybe you should
   <stage>A controls explanation ensues.</stage>
 
 
-  <speaker name="Cloud"><boxstart/>No, not interested</speaker>
+  <speaker name="Cloud"/><boxstart/>No, not interested
   <speaker name="Man in Thicket">Man in Thicket</speaker><boxstart/>All right, big-head... But don't blame me if you get hurt.
 
 <stage>Cloud heads off down the slope.</stage>

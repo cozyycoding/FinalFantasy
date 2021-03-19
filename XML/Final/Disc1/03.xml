@@ -69,13 +69,13 @@ Unidentified passengers located in Car #2<boxstart/>Preparing for Lock Down
 <speaker name="Dark-clothed Man">Dark-clothed Man</speaker><boxstart/>Huh?<boxstart/>The hell!?<boxstart/>Do you want this?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah...<boxstart/>- My mistake
 
-  <speaker name="Cloud"><boxstart/>Yeah...</speaker>
+  <speaker name="Cloud"/><boxstart/>Yeah...
   <speaker name="Dark-clothed Man">Dark-clothed Man</speaker><boxstart/>Wow! I won't even charge you...<boxstart/>Wha-t? Don't get used to it though.
   Received "Hi-Potion"!
   <speaker name="Dark-clothed Man">Dark-clothed Man</speaker><boxstart/>Wha-t? You sure are greedy.
 
 
-  <speaker name="Cloud"><boxstart/>My mistake</speaker>
+  <speaker name="Cloud"/><boxstart/>My mistake
   <speaker name="Dark-clothed Man">Dark-clothed Man</speaker><boxstart/>Wha-t? Let me know when you need me.
 
 <stage>On to Car #3...</stage>
@@ -99,12 +99,12 @@ Car #4: Locked Down<boxstart/>Upgrading to maximum security alert!!
 <speaker name="Jessie">Jessie</speaker><boxstart/>It's me, Jessie. How do I look, Cloud?<boxstart/>Do I look good in a Shinra uniform?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah...<boxstart/>- Not now
 
-  <speaker name="Cloud"><boxstart/>Yeah...</speaker>
+  <speaker name="Cloud"/><boxstart/>Yeah...
   ...you look great, just like a man.
   <speaker name="Jessie">Jessie</speaker><boxstart/>Yay!! I'm so happy ...I think?
 
 
-  <speaker name="Cloud"><boxstart/>Not now</speaker>
+  <speaker name="Cloud"/><boxstart/>Not now
   Just concentrate on our plan.
   <speaker name="Jessie">Jessie</speaker><boxstart/>You're right, sorry.
 
@@ -156,18 +156,18 @@ Car #4: Locked down<boxstart/>Illegal ID will be taken to Station
 <speaker name="Barret">Barret</speaker><boxstart/>That's one damn tiny hole. You tellin' me to squeeze into that to get under the Plate? No way!<boxstart/>Yo, Cloud, what're we gonna do?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Look inside closely<boxstart/>- Go down<boxstart/>- Don't go down
 
-  <speaker name="Cloud"><boxstart/>Look inside closely</speaker>
+  <speaker name="Cloud"/><boxstart/>Look inside closely
   <speaker name="Tifa">Tifa</speaker><boxstart/>...There seems to be nothing that'll get us stuck in this duct.
   <speaker name="Cloud">Cloud</speaker><boxstart/>Yeah. If we go down this duct, we won't be able to come back up here.
   <speaker name="Barret">Barret</speaker><boxstart/>Don't be wastin' time. Never know when the Shinra'll find us.<boxstart/>Cloud you jes' gotta go.
   <speaker name="Cloud">Cloud</speaker><boxstart/>- Go down<boxstart/>- Don't go down
 
 
-  <speaker name="Cloud"><boxstart/>Go down</speaker>
+  <speaker name="Cloud"/><boxstart/>Go down
   <speaker name="Barret">Barret</speaker><boxstart/>But, damn man, that thing gives me the chills.
 
 
-  <speaker name="Cloud"><boxstart/>Don't go down</speaker>
+  <speaker name="Cloud"/><boxstart/>Don't go down
   <speaker name="Barret">Barret</speaker><boxstart/>Whaddya mean we're not goin' in? There ain't no other way of gettin' to the Sector 5 reactor 'cept through here.
 
 <stage>Eventually Cloud and the others go down the hole and come out in the maintenance walkways beneath the Sector 4 plate.</stage>
@@ -241,13 +241,13 @@ He stops when Shinra soldiers come out of the exit he was heading for.
 <speaker name="Barret">Barret</speaker><boxstart/>Hey, you gonna be awright?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- (Be strong)<boxstart/>- (I don't know if I can hold on...)
 
-  <speaker name="Cloud"><boxstart/>(Be strong)</speaker>
+  <speaker name="Cloud"/><boxstart/>(Be strong)
   ............<boxstart/>You worry about yourselves! I'm all right, but take care of Tifa!
   <speaker name="Barret">Barret</speaker><boxstart/>...Alright. Sorry 'bout all this.
   <speaker name="Cloud">Cloud</speaker><boxstart/>Stop talkin' like this is the end!
 
 
-  <speaker name="Cloud"><boxstart/>(I don't know if I can hold on...)</speaker>
+  <speaker name="Cloud"/><boxstart/>(I don't know if I can hold on...)
   Shit! Can't hold on much longer. Barret... Hurry!
   <speaker name="Barret">Barret</speaker><boxstart/>Don't go cryin' like a woman. There ain't nothin' I can do for ya. Ya gotta do it yourself.
   <speaker name="Cloud">Cloud</speaker><boxstart/>Barret...

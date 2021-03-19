@@ -18,12 +18,12 @@ Don Corneo's Mansion
 <speaker name="Aerith">Aerith</speaker><boxstart/>Oh no! 'What ever will I do!?' ...isn't that what you want me to say?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- See her home<boxstart/>- Take her to Sector 7
 
-  <speaker name="Cloud"><boxstart/>See her home</speaker>
+  <speaker name="Cloud"/><boxstart/>See her home
   <speaker name="Aerith">Aerith</speaker><boxstart/>Isn't that a little out of the way?
   <speaker name="Cloud">Cloud</speaker><boxstart/>Yeah, I guess so.
 
 
-  <speaker name="Cloud"><boxstart/>Take her to Sector 7</speaker>
+  <speaker name="Cloud"/><boxstart/>Take her to Sector 7
   <speaker name="Aerith">Aerith</speaker><boxstart/>I could do that. But won't I be in your way?
   <speaker name="Cloud">Cloud</speaker><boxstart/>What do you mean in the way?
   <speaker name="Aerith">Aerith</speaker><boxstart/>Nothing!
@@ -60,11 +60,11 @@ Flash.
 <speaker name="Johnny">Johnny</speaker><boxstart/>Man... Should I go...... or not?<boxstart/>...I get so mental at times like this. I'm hopeless!!<boxstart/>Hey!! Aren't you...?<boxstart/>What!! You mean you're... too?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah, me too.<boxstart/>- Don't bring me down to your level
 
-  <speaker name="Cloud"><boxstart/>Yeah, me too.</speaker>
+  <speaker name="Cloud"/><boxstart/>Yeah, me too.
   <speaker name="Johnny">Johnny</speaker><boxstart/>You're Tifa's childhood friend, and you brought a new girlfriend to a place like this!?<boxstart/>What kind of guy are you!!
 
 
-  <speaker name="Cloud"><boxstart/>Don't bring me down to your level</speaker>
+  <speaker name="Cloud"/><boxstart/>Don't bring me down to your level
   <speaker name="Johnny">Johnny</speaker><boxstart/>What... Me too. I decided this after a lot of deep thought. My last memories of Midgar... you know.<boxstart/>But... That guy over there kinda scares me.
 
 <speaker name="Punk">Punk</speaker><boxstart/>What the hell!! You *%^&amp;!! This ain't no #$*&amp;^% show!! I'm busy right now!!<boxstart/>I'm feelin' like there's gonna be a fight!!
@@ -72,11 +72,11 @@ Flash.
 <speaker name="Older Man">Older Man</speaker><boxstart/>Welcome!! Even unpopular dweebs, like you may meet their destiny here!!<boxstart/>You looking for a girlfriend too?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- You know a girl named Tifa?<boxstart/>- This place doesn't interest me.
 
-  <speaker name="Cloud"><boxstart/>You know a girl named Tifa?</speaker>
+  <speaker name="Cloud"/><boxstart/>You know a girl named Tifa?
   <speaker name="Older Man">Older Man</speaker><boxstart/>Hey, you're pretty fast. Tifa's our newest girl.<boxstart/>But, unfortunately, she's having an interview right now.<boxstart/>Here at the Honey Bee Inn, it's customary for all the new girls to be taken to Don Corneo's mansion.<boxstart/>Don Corneo's a famous dilettante. Now he wants to settle down and is in the market for a bride.
 
 
-  <speaker name="Cloud"><boxstart/>This place doesn't interest me.</speaker>
+  <speaker name="Cloud"/><boxstart/>This place doesn't interest me.
   <speaker name="Older Man">Older Man</speaker><boxstart/>Hmm... Seems to like it just fine. Good for you.
 
 <speaker name="Redhead in Suit">Redhead in Suit</speaker><boxstart/>The Honey Bee Inn is a private club. Only members can go in. Shoo, shoo.
@@ -149,12 +149,12 @@ Received Key Item "Member's Card"
 <stage>The Queen's Room.</stage>
 <speaker name="Cloud">Cloud</speaker><boxstart/>Looks like this room's being used.<boxstart/>- Take a listen<boxstart/>- Take a peek
 
-  <speaker name="Cloud"><boxstart/>Take a listen</speaker>
+  <speaker name="Cloud"/><boxstart/>Take a listen
   <speaker name="Cloud">Cloud</speaker><boxstart/>............
   <stage>There is a wind blowing and ominous thunder.</stage>
 
 
-  <speaker name="Cloud"><boxstart/>Take a peek</speaker>
+  <speaker name="Cloud"/><boxstart/>Take a peek
   <speaker name="Cloud">Cloud</speaker><boxstart/>......Wooo... ow!!
   ......The wind's calm now......<boxstart/>It's the curse of the resurrected Satan... Our beloved Queen does not awaken...<boxstart/>The time is ripe...<boxstart/>A legend has been passed on through generations...
   <speaker name="First Speaker">First Speaker</speaker><boxstart/>Psst...... (Hey, shouldn't we stop him soon?)
@@ -181,12 +181,12 @@ Received Key Item "Member's Card"
 <stage>The Lover's Room.</stage>
 <speaker name="Cloud">Cloud</speaker><boxstart/>Looks like this room's being used.<boxstart/>- Take a listen<boxstart/>- Take a peek
 
-  <speaker name="Cloud"><boxstart/>Take a listen</speaker>
+  <speaker name="Cloud"/><boxstart/>Take a listen
   <speaker name="Cloud">Cloud</speaker><boxstart/>............
   <stage>There are odd sort of snoring sounds.</stage>
 
 
-  <speaker name="Cloud"><boxstart/>Take a peek</speaker>
+  <speaker name="Cloud"/><boxstart/>Take a peek
   <speaker name="Cloud">Cloud</speaker><boxstart/>......Wooo...ow!!
   <speaker name="Old Man">Old Man</speaker><boxstart/>...wheez...<boxstart/>Phew...
   <speaker name="Old Woman">Old Woman</speaker><boxstart/>What's wrong, Grandpa? You keep sighing.
@@ -200,32 +200,32 @@ Received Key Item "Member's Card"
 <speaker name="Woman">Woman</speaker><boxstart/>Hmm, hmm, hmm......<boxstart/>Ohhh, I just can't seem to lose weight. Hmm, hmm, hmm...<boxstart/>Sir!! You can't come in here.<boxstart/>(Yuk...... a pervert...)<boxstart/>Oh my!! (...You're still here? Oh well, good timing anyway.)<boxstart/>Hey, what do you think about me?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Not interested<boxstart/>- Whatever...
 
-  <speaker name="Cloud"><boxstart/>Not interested</speaker>
+  <speaker name="Cloud"/><boxstart/>Not interested
   <speaker name="Woman">Woman</speaker><boxstart/>NO WAY! I'M SO SHOCKED!!<boxstart/>Hmm, hmm, hmm, hmm...... Hmm, hmm, hmm, hmm... Hmm, hmm, hmm, hmm...<boxstart/>Phew...... ...it's so tiring.<boxstart/>Oh!!<boxstart/>Is something the matter?
   <speaker name="Cloud">Cloud</speaker><boxstart/>- Not yet......<boxstart/>- ......Not really
   
-    <speaker name="Cloud"><boxstart/>Not yet......</speaker>
+    <speaker name="Cloud"/><boxstart/>Not yet......
     <speaker name="Woman">Woman</speaker><boxstart/>OH......!!
   
   
-    <speaker name="Cloud"><boxstart/>......Not really</speaker>
+    <speaker name="Cloud"/><boxstart/>......Not really
     <speaker name="Woman">Woman</speaker><boxstart/>Hmph......!! Listen you, not that it matters, but you sure do know how to make people mad.
   
 
 
-  <speaker name="Cloud"><boxstart/>Whatever...</speaker>
+  <speaker name="Cloud"/><boxstart/>Whatever...
   <speaker name="Woman">Woman</speaker><boxstart/>Oh my!! Are you embarrassed? (Man!! Why are you so moody...)
 
 <speaker name="Woman 2">Woman 2</speaker><boxstart/>Eyaaah!<boxstart/>Don't watch!!<boxstart/>Eyaaah!<boxstart/>Don't!
 <speaker name="Woman 3">Woman 3</speaker><boxstart/>Paste, paste, paste...<boxstart/>(Oh God... here's another one of those guys. You know, the delicate type. Just ignore him, just ignore him.)<boxstart/>Fluff, fluff, fluff...<boxstart/>(Hmm...! I guess he doesn't realize his position. I feel sorry for him. Just ignore him, just ignore him.)<boxstart/>Pita, pita, pita...<boxstart/>(God, what a pest! All right, get out of here! You dog...)<boxstart/>(That's it, I'll name him 'pooch'.)<boxstart/>Mix, mix, mix......<boxstart/>(What should I do... Is he following me? Really? What if he follows me home...?)<boxstart/>(Poochy'll do it, I'm sure of it...)<boxstart/>Shake, shake, shake...<boxstart/>(You think he's after me? Really? This guy makes me sick... And his eyes are weird too...)<boxstart/>(Yeah, don't hurt these guys' feelings. Let's at least say 'hi' to him.)<boxstart/>Uhh...... Hel... Hello.<boxstart/>What a nice day, today.
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Introduce yourself<boxstart/>- Say Goodbye
 
-  <speaker name="Cloud"><boxstart/>Introduce yourself</speaker>
+  <speaker name="Cloud"/><boxstart/>Introduce yourself
   By the way, I haven't introduced myself yet.<boxstart/>I'm Cloud, a jack of all trades.
   <speaker name="Woman 3">Woman 3</speaker><boxstart/>Oh, yeah...? Welcome, Cloud.<boxstart/>(Gross! Don't get carried away, remember your name is 'Pooch!')<boxstart/>Take care... Cloud.
 
 
-  <speaker name="Cloud"><boxstart/>Say Goodbye</speaker>
+  <speaker name="Cloud"/><boxstart/>Say Goodbye
   <speaker name="Woman 3">Woman 3</speaker><boxstart/>BYE!! (Phew - I'm safe now...)
 
 <stage>The &amp;$#% Room.</stage>
@@ -234,12 +234,12 @@ Received Key Item "Member's Card"
 <speaker name="Lady">Lady</speaker><boxstart/>All right. Now all we have to do is enter the room.<boxstart/>You're not going to have a change of heart, are you?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Don't make me repeat myself<boxstart/>- I'm still trying to decide
 
-  <speaker name="Cloud"><boxstart/>Don't make me repeat myself</speaker>
+  <speaker name="Cloud"/><boxstart/>Don't make me repeat myself
   <speaker name="Lady">Lady</speaker><boxstart/>Oh, don't be angry with me... (Geez... this one's probably the violent type...)<boxstart/>All right, please.
   <stage>Cloud enters the room.</stage>
 
 
-  <speaker name="Cloud"><boxstart/>I'm still trying to decide</speaker>
+  <speaker name="Cloud"/><boxstart/>I'm still trying to decide
   <speaker name="Lady">Lady</speaker><boxstart/>There you are. Enjoy yourself (You moody creepo!)
   <speaker name="Cloud">Cloud</speaker><boxstart/>............
 
@@ -276,23 +276,23 @@ Received Key Item "Lingerie"!
 <speaker name="Lady">Lady</speaker><boxstart/>All right. Now all we have to do is enter the room.<boxstart/>You're not going to have a change of heart, are you?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Don't make me repeat myself<boxstart/>- I'm still trying to decide
 
-  <speaker name="Cloud"><boxstart/>Don't make me repeat myself</speaker>
+  <speaker name="Cloud"/><boxstart/>Don't make me repeat myself
   <speaker name="Lady">Lady</speaker><boxstart/>Oh, don't be angry with me... (Geez... this one's probably the violent type...)<boxstart/>All right, please.
   <stage>Cloud enters the room.</stage>
 
 
-  <speaker name="Cloud"><boxstart/>I'm still trying to decide</speaker>
+  <speaker name="Cloud"/><boxstart/>I'm still trying to decide
   <speaker name="Lady">Lady</speaker><boxstart/>There you are. Enjoy yourself (You moody creepo!)
   <speaker name="Cloud">Cloud</speaker><boxstart/>............
 
 <speaker name="Lady">Lady</speaker><boxstart/>This way, please.<boxstart/>Shall we begin?<boxstart/>I guess since you chose this room, that would mean you...<boxstart/>Hate being lonely?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- I'm used to being alone<boxstart/>- Cut the small talk
 
-  <speaker name="Cloud"><boxstart/>I'm used to being alone</speaker>
+  <speaker name="Cloud"/><boxstart/>I'm used to being alone
   I'm always alone.
 
 
-  <speaker name="Cloud"><boxstart/>Cut the small talk</speaker>
+  <speaker name="Cloud"/><boxstart/>Cut the small talk
   I don't want to talk right now.
 
 <speaker name="Lady">Lady</speaker><boxstart/>All right, all right. (...geez, you're so moody!)<boxstart/>Come on, everyone's waiting.
@@ -304,11 +304,11 @@ Received Key Item "Lingerie"!
 <speaker name="Mukki">Mukki</speaker><boxstart/>Wassup!!<boxstart/>(Smile, smile, smile...)
 <speaker name="Cloud">Cloud</speaker><boxstart/>Oh man...<boxstart/>What should I do...?<boxstart/>- I'm outta here.<boxstart/>- This could be dangerous...
 
-  <speaker name="Cloud"><boxstart/>I'm outta here.</speaker>
+  <speaker name="Cloud"/><boxstart/>I'm outta here.
   I've got no time to mess around with you.<boxstart/>Outta my way!
 
 
-  <speaker name="Cloud"><boxstart/>This could be dangerous...</speaker>
+  <speaker name="Cloud"/><boxstart/>This could be dangerous...
   Looks like I'm always going to be facing crises all my life...
 
 <speaker name="Mukki">Mukki</speaker><boxstart/>...heave... pant...<boxstart/>Don't be so embarrassed! Loosen up, bubby!<boxstart/>...heave... pant...<boxstart/>Let's wash off all our sweat and dirt together!<boxstart/>Wassup!!
@@ -318,11 +318,11 @@ Received Key Item "Lingerie"!
 <speaker name="Mukki">Mukki</speaker><boxstart/>Isn't bathing great...?<boxstart/>It soothes your heart.<boxstart/>How is it, bubby!?<boxstart/>Feels good, huh?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- ......<boxstart/>- It hurts
 
-  <speaker name="Cloud"><boxstart/>......</speaker>
+  <speaker name="Cloud"/><boxstart/>......
   I don't feel good. Let me out...
 
 
-  <speaker name="Cloud"><boxstart/>It hurts</speaker>
+  <speaker name="Cloud"/><boxstart/>It hurts
   Too stuffy in here...
 
 <speaker name="Mukki">Mukki</speaker><boxstart/>You'll get used to it. Try counting to ten.
@@ -332,11 +332,11 @@ Received Key Item "Lingerie"!
 <speaker name="Mukki">Mukki</speaker><boxstart/>You're less than half my age. I'm so jealous.<boxstart/>So how 'bout it...?<boxstart/>Do you wanna join my "Young bubby's" group?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Not interested<boxstart/>- ............
 
-  <speaker name="Cloud"><boxstart/>Not interested</speaker>
+  <speaker name="Cloud"/><boxstart/>Not interested
   Seven...<boxstart/>Six...<boxstart/>Maybe in another life.
 
 
-  <speaker name="Cloud"><boxstart/>............</speaker>
+  <speaker name="Cloud"/><boxstart/>............
   Seven...<boxstart/>Six...<boxstart/>Not to be rude or anything, but could you go do someone else?
 
 <speaker name="Mukki">Mukki</speaker><boxstart/>Well, if that's how you feel... too bad.<boxstart/>We have a trip planned at a cabin out in the country.
@@ -426,7 +426,7 @@ Received Key Item "Cotton/Silk Dress"!
 <speaker name="Cloud">Cloud</speaker><boxstart/>- A little<boxstart/>- Don't need to practice
 <speaker name="Beautiful Bro">Beautiful Bro</speaker><boxstart/>Now let's begin the real thing. Start!
 
-  <stage><speaker name="Cloud"><boxstart/>If Cloud wins...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If Cloud wins...</stage>
   <speaker name="Beautiful Bro">Beautiful Bro</speaker><boxstart/>He had 13 squats and you had 19 squats.<boxstart/>You're really something. Okay, I'm a man of my word, here you are.
   Received Key Item "Blonde Wig"!
   <speaker name="Black man">Black man</speaker><boxstart/>Big Bro I'm so mad I'm so so so---mad!
@@ -435,7 +435,7 @@ Received Key Item "Cotton/Silk Dress"!
   <speaker name="Black Man">Black Man</speaker><boxstart/>Uuuuhh, Bro's fists of steel cut to the bone!
 
 
-  <stage><speaker name="Cloud"><boxstart/>If the two tie...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If the two tie...</stage>
   <speaker name="Beautiful Bro">Beautiful Bro</speaker><boxstart/>He had 16 squats and you had 16 squats.<boxstart/>Good job. Here's a hand-me-down.
   Received Key Item "Dyed Wig"!
   <speaker name="Black Man">Black Man</speaker><boxstart/>Hey, Bro. I... I was supposed to get that.
@@ -444,7 +444,7 @@ Received Key Item "Cotton/Silk Dress"!
   <speaker name="Black Man">Black Man</speaker><boxstart/>Uuuuhh, Bro's fists of steel cut to the bone!
 
 
-  <stage><speaker name="Cloud"><boxstart/>If Cloud loses...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If Cloud loses...</stage>
   <speaker name="Beautiful Bro">Beautiful Bro</speaker><boxstart/>He had 17 squats and you had 13 squats.<boxstart/>Sorry You lose.<boxstart/>Since the old man from the clothing store asked me, I can't keep it from you, so...<boxstart/>Oh, now where did I put it?<boxstart/>All right then.
   <stage>The black man pulls it out from... somewhere and hands it to Cloud. Beautiful Bro punches him.</stage>
   <speaker name="Beautiful Bro">Beautiful Bro</speaker><boxstart/>Stupid! What kinda place is that to hide it in!?
@@ -465,11 +465,11 @@ Received Key Item "Cotton/Silk Dress"!
 <speaker name="Cook">Cook</speaker><boxstart/>Comin' up!
 <speaker name="Waitress">Waitress</speaker><boxstart/>In this store, you pay first. It'll be 70 Gil.
 
-  <stage><speaker name="Cloud"><boxstart/>If you don't have enough money...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If you don't have enough money...</stage>
   <speaker name="Waitress">Waitress</speaker><boxstart/>Hey! Cancel that last order!<boxstart/>Excuse me! You can't come in here and order things without any money. Come again... when you have money.
 
 
-  <stage><speaker name="Cloud"><boxstart/>If you do have the money...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If you do have the money...</stage>
   <speaker name="Waitress">Waitress</speaker><boxstart/>Thank you. Just a second.<boxstart/>There you go. Enjoy.
   <speaker name="Cloud">Cloud</speaker><boxstart/>- .........<boxstart/>- It was all right<boxstart/>- I've had better dog food
   <stage>Nothing happens unless he says "It was all right." On subsequent visits after obtaining the pharmacy coupon, the waitress will say "Thank you very much" no matter what Cloud tells her.</stage>
@@ -489,30 +489,30 @@ Received Key Item "Disinfectant/Deodorant/Digestive"!
 <speaker name="Redhead in Bathroom">Redhead in Bathroom</speaker><boxstart/>HEY!! Someone's IN here... Don't look!<boxstart/>What...... urk......
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Give her medicine<boxstart/>- Don't give her it
 
-  <speaker name="Cloud"><boxstart/>Give her medicine</speaker>
+  <speaker name="Cloud"/><boxstart/>Give her medicine
   <speaker name="Redhead in Bathroom">Redhead in Bathroom</speaker><boxstart/>Huh? You'll really give me some? Thanks.
   
-    <stage><speaker name="Cloud"><boxstart/>If Cloud gives her the Disinfectant...</speaker></stage>
+    <stage><speaker name="Cloud"/><boxstart/>If Cloud gives her the Disinfectant...</stage>
     <speaker name="Redhead in Bathroom">Redhead in Bathroom</speaker><boxstart/>What is this...? Oh well.<boxstart/>It didn't do a thing, but thanks anyways. Here, this is for your kindness.
     Received Key Item "Cologne"!
     <stage>She leaves the bathroom and the man waiting runs in.</stage>
   
   
-    <stage><speaker name="Cloud"><boxstart/>If Cloud gives her the Digestive...</speaker></stage>
+    <stage><speaker name="Cloud"/><boxstart/>If Cloud gives her the Digestive...</stage>
     <speaker name="Redhead in Bathroom">Redhead in Bathroom</speaker><boxstart/>Phew, I feel better now. This is for your kindness.
     Received Key Item "Sexy Cologne"!
     <stage>She leaves the bathroom and the man waiting runs in.</stage>
   
 
 
-  <speaker name="Cloud"><boxstart/>Don't give her it</speaker>
+  <speaker name="Cloud"/><boxstart/>Don't give her it
   <stage>Nothing happens.</stage>
 
 <stage>One last item can be obtained in the materia shop...</stage>
 <speaker name="Materia Shopkeeper">Materia Shopkeeper</speaker><boxstart/>Hey man. Got a minute? I need to talk... man to man.
 <speaker name="Cloud">Cloud</speaker><boxstart/>......<boxstart/>- What is it<boxstart/>- Not interested
 
-  <speaker name="Cloud"><boxstart/>What is it</speaker>
+  <speaker name="Cloud"/><boxstart/>What is it
   <speaker name="Materia Shopkeeper">Materia Shopkeeper</speaker><boxstart/>Really! I really appreciate it.<boxstart/>......I'm sorry but, young lady? Would you turn the other way, for a second?
   <speaker name="Aerith">Aerith</speaker><boxstart/>Why......?
   <speaker name="Cloud">Cloud</speaker><boxstart/>......Aerith.
@@ -520,18 +520,18 @@ Received Key Item "Disinfectant/Deodorant/Digestive"!
   <speaker name="Materia Shopkeeper">Materia Shopkeeper</speaker><boxstart/>I'm sorry, lady.<boxstart/>Now here's the thing. Do you know that vending machine in the Inn?<boxstart/>I'm itchin' to know what they're selling in it. I just can't ask a girl to go get it.<boxstart/>What? Why don't I buy it myself? Well to tell you the truth, I got in a fight with the guy at the Inn and can't go there anymore. Come on, so how 'bout it?
   <speaker name="Cloud">Cloud</speaker><boxstart/>......<boxstart/>- I'll go<boxstart/>- Not interested
   
-    <speaker name="Cloud"><boxstart/>I'll go</speaker>
+    <speaker name="Cloud"/><boxstart/>I'll go
     <speaker name="Materia Shopkeeper">Materia Shopkeeper</speaker><boxstart/>Good, thanks. I'll be waitin' here when you're done.
     <speaker name="Aerith">Aerith</speaker><boxstart/>Finished?
   
   
-    <speaker name="Cloud"><boxstart/>Not interested</speaker>
+    <speaker name="Cloud"/><boxstart/>Not interested
     <speaker name="Materia Shopkeeper">Materia Shopkeeper</speaker><boxstart/>Sorry about that. Just forget it.
     <speaker name="Aerith">Aerith</speaker><boxstart/>Finished?
   
 
 
-  <speaker name="Cloud"><boxstart/>Not interested</speaker>
+  <speaker name="Cloud"/><boxstart/>Not interested
   <speaker name="Materia Shopkeeper">Materia Shopkeeper</speaker><boxstart/>Sorry about that. Just forget it.
 
 <stage>Off to the inn...</stage>
@@ -539,14 +539,14 @@ Received Key Item "Disinfectant/Deodorant/Digestive"!
 <stage>Cloud gets a room, and during his stay, he walks out to the vending machine.</stage>
 <speaker name="Cloud">Cloud</speaker><boxstart/>He means this?<boxstart/>- Don't buy it<boxstart/>- Buy the one for 200 Gil<boxstart/>- Buy the one for 100 Gil<boxstart/>- Buy the one for 50 Gil
 
-  <speaker name="Cloud"><boxstart/>Don't buy it</speaker>
+  <speaker name="Cloud"/><boxstart/>Don't buy it
   <stage>Back to the materia shop...</stage>
   <speaker name="Materia Shopkeeper">Materia Shopkeeper</speaker><boxstart/>How was it?
   <speaker name="Cloud">Cloud</speaker><boxstart/>Not yet.
   <speaker name="Materia Shopkeeper">Materia Shopkeeper</speaker><boxstart/>Hmm, I'm countin' on you.
 
 
-  <speaker name="Cloud"><boxstart/>Buy the one for 200</speaker>
+  <speaker name="Cloud"/><boxstart/>Buy the one for 200
   <stage>Back to the materia shop...</stage>
   <speaker name="Cloud">Cloud</speaker><boxstart/>I got it.
   <speaker name="Materia Shopkeeper">Materia Shopkeeper</speaker><boxstart/>Oh, really!! Hey!
@@ -556,7 +556,7 @@ Received Key Item "Disinfectant/Deodorant/Digestive"!
   Received Key Item "Diamond Tiara"!
 
 
-  <speaker name="Cloud"><boxstart/>Buy the one for 100</speaker>
+  <speaker name="Cloud"/><boxstart/>Buy the one for 100
   <stage>Back to the materia shop...</stage>
   <speaker name="Cloud">Cloud</speaker><boxstart/>I got it.
   <speaker name="Materia Shopkeeper">Materia Shopkeeper</speaker><boxstart/>Oh, really!! Hey!
@@ -566,7 +566,7 @@ Received Key Item "Disinfectant/Deodorant/Digestive"!
   Received Key Item "Ruby Tiara"!
 
 
-  <speaker name="Cloud"><boxstart/>Buy the one for 50</speaker>
+  <speaker name="Cloud"/><boxstart/>Buy the one for 50
   <stage>Back to the materia shop...</stage>
   <speaker name="Cloud">Cloud</speaker><boxstart/>I got it.
   <speaker name="Materia Shopkeeper">Materia Shopkeeper</speaker><boxstart/>Oh, really!! Hey!
@@ -724,11 +724,11 @@ He falls down the stairs.
 <boxstart/>heh, heh, heh...!!
 <speaker name="Cloud">Cloud</speaker><boxstart/>Aerith!!<boxstart/>- You all right?<boxstart/>- We gotta help Tifa!
 
-  <speaker name="Cloud"><boxstart/>You all right?</speaker>
+  <speaker name="Cloud"/><boxstart/>You all right?
   <speaker name="Aerith">Aerith</speaker><boxstart/>I told you. I'm used to danger.<boxstart/>To tell you the truth, my heart was pounding!
 
 
-  <speaker name="Cloud"><boxstart/>We gotta help Tifa!</speaker>
+  <speaker name="Cloud"/><boxstart/>We gotta help Tifa!
   <speaker name="Aerith">Aerith</speaker><boxstart/>Ye... yes, you're right... ......let's hurry!
 
 <speaker name="Kotch">Kotch</speaker> (lying at the bottom of the stairs)<boxstart/>C'mon... just once... I won't tell... I promise!<boxstart/>I just wanted to act like I got a cute girl...<boxstart/>Cute!!
@@ -772,11 +772,11 @@ He falls down the stairs.
 <speaker name="Tifa">Tifa</speaker><boxstart/>Cloud!!
 <speaker name="Cloud">Cloud</speaker><boxstart/>Tifa!!<boxstart/>- You all right?<boxstart/>- We've gotta help Aerith!!
 
-  <speaker name="Cloud"><boxstart/>You all right?</speaker>
+  <speaker name="Cloud"/><boxstart/>You all right?
   <speaker name="Tifa">Tifa</speaker><boxstart/>Of course! If you take me lightly, you're gonna pay for it!!
 
 
-  <speaker name="Cloud"><boxstart/>We've gotta help Aerith!!</speaker>
+  <speaker name="Cloud"/><boxstart/>We've gotta help Aerith!!
   <speaker name="Tifa">Tifa</speaker><boxstart/>Hey, don't you even care about how I am? ......never mind, let's go!
 
 <speaker name="Kotch">Kotch</speaker> (lying at the bottom of the stairs)<boxstart/>C'mon... just once... I won't tell... I promise!<boxstart/>I just wanted to act like I got a cute girl...<boxstart/>Cute!!
@@ -808,15 +808,15 @@ He falls down the stairs.
 <speaker name="Don Corneo">Don Corneo</speaker><boxstart/>Woo-hoo!<boxstart/>Don't be shy. We're all alone now...<boxstart/>You're so cute, I never get tired of looking at you.<boxstart/>Do you... like me, too?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Of course!<boxstart/>- Ummm......
 
-  <speaker name="Cloud"><boxstart/>Of course!</speaker>
+  <speaker name="Cloud"/><boxstart/>Of course!
   <speaker name="Don Corneo">Don Corneo</speaker><boxstart/>You sure do know how to make a guy feel good!<boxstart/>Then, wh... what do you want to DO?
   <speaker name="Cloud">Cloud</speaker><boxstart/>- Whatever YOU want, daddy<boxstart/>- Don't really care......
   
-    <speaker name="Cloud"><boxstart/>Whatever YOU want, daddy</speaker>
+    <speaker name="Cloud"/><boxstart/>Whatever YOU want, daddy
     <speaker name="Don Corneo">Don Corneo</speaker><boxstart/>Oh man! I can't stand it! All right, then......<boxstart/>Give me a kiss!! A KISS!!
     <speaker name="Cloud">Cloud</speaker><boxstart/>- All right......<boxstart/>- Nope, can't do that......
     
-      <speaker name="Cloud"><boxstart/>All right......</speaker>
+      <speaker name="Cloud"/><boxstart/>All right......
       <stage>Cloud walks over and leans forward to kiss Corneo, not quite touching lips. He shakes his head and tries again.</stage>
       <speaker name="Aerith or Tifa">Aerith or Tifa</speaker><boxstart/>Ju---st a minute!!
       <speaker name="Don Corneo">Don Corneo</speaker><boxstart/>Wha... what the hell? Who goes there!?
@@ -825,7 +825,7 @@ He falls down the stairs.
       <speaker name="Don Corneo">Don Corneo</speaker><boxstart/>A man!? What's goin' on?
     
     
-      <speaker name="Cloud"><boxstart/>Nope, can't do that......</speaker>
+      <speaker name="Cloud"/><boxstart/>Nope, can't do that......
       <speaker name="Corneo">Corneo</speaker><boxstart/>Why? WHY? WHY?
       <speaker name="Cloud">Cloud</speaker><boxstart/>Because...<boxstart/>Because I'm gonna have to use that mouth of yours to give me some information!!
       <stage>Cloud takes off the dress.</stage>
@@ -835,16 +835,16 @@ He falls down the stairs.
     
   
   
-    <speaker name="Cloud"><boxstart/>Don't really care......</speaker>
+    <speaker name="Cloud"/><boxstart/>Don't really care......
     <speaker name="Don Corneo">Don Corneo</speaker><boxstart/>You don't like me?<boxstart/>There... there isn't someone else, is there?
     <speaker name="Cloud">Cloud</speaker><boxstart/>- No, only you<boxstart/>- Yes, his name's Barret...
     
-      <speaker name="Cloud"><boxstart/>No, only you</speaker>
+      <speaker name="Cloud"/><boxstart/>No, only you
       <speaker name="Corneo">Corneo</speaker><boxstart/>You sure do know how to make a guy feel good!<boxstart/>Then, wh... what do you want to DO?
       <speaker name="Cloud">Cloud</speaker><boxstart/>- Whatever YOU want, daddy<boxstart/>- Don't really care......
     
     
-      <speaker name="Cloud"><boxstart/>Yes, his name's Barret</speaker>
+      <speaker name="Cloud"/><boxstart/>Yes, his name's Barret
       <speaker name="Corneo">Corneo</speaker><boxstart/>No way!<boxstart/>Hmm? Barret? That sounds familiar...
       <speaker name="Cloud">Cloud</speaker><boxstart/>You know, he's one of the ones you were trying to find out about. You know, AVALANCHE...?
       <speaker name="Don Corneo">Don Corneo</speaker><boxstart/>Oh, yeah, yeah. In Sector 7 in the slum...<boxstart/>...and how do YOU know that!?
@@ -856,7 +856,7 @@ He falls down the stairs.
   
 
 
-  <speaker name="Cloud"><boxstart/>Ummm......</speaker>
+  <speaker name="Cloud"/><boxstart/>Ummm......
   <speaker name="Don Corneo">Don Corneo</speaker><boxstart/>You don't like me?<boxstart/>There... there isn't someone else, is there?
   <speaker name="Cloud">Cloud</speaker><boxstart/>- No, only you<boxstart/>- Yes, his name's Barret...
 
@@ -883,15 +883,15 @@ He falls down the stairs.
 <speaker name="Don Corneo">Don Corneo</speaker><boxstart/>No wait, it'll only take a second.<boxstart/>How do you think scum like me feels when they babble on about the truth?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- They've pretty much given up on life<boxstart/>- They're sure they'll win<boxstart/>- They don't know what the hell's going on
 
-  <speaker name="Cloud"><boxstart/>They've pretty much given up on life</speaker>
+  <speaker name="Cloud"/><boxstart/>They've pretty much given up on life
   <speaker name="Don Corneo">Don Corneo</speaker><boxstart/>Buuzzzzz! Wrong!
 
 
-  <speaker name="Cloud"><boxstart/>They're sure they'll win</speaker>
+  <speaker name="Cloud"/><boxstart/>They're sure they'll win
   <speaker name="Don Corneo">Don Corneo</speaker><boxstart/>Woo-hoo! Right!
 
 
-  <speaker name="Cloud"><boxstart/>They don't know what the hell's going on</speaker>
+  <speaker name="Cloud"/><boxstart/>They don't know what the hell's going on
   <speaker name="Don Corneo">Don Corneo</speaker><boxstart/>Close, but no cigar!
 
 <stage>Corneo hits a switch and Cloud and the others fall through a trap door into the sewer.</stage>

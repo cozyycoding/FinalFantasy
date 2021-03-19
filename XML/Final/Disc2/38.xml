@@ -27,12 +27,12 @@ The Aftermath in Rocket Town
 <speaker name="Soldiers">Soldiers</speaker><boxstart/>Don't let them get any further! Everyone, ATTACK---!<boxstart/>Urrrgh, you're not going anywhere! Uh un, nowhere!
 <stage>Cloud fights off those soldiers.</stage>
 
-  <stage><speaker name="Cloud"><boxstart/>If Cid is not in the party...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If Cid is not in the party...</stage>
   <stage>Cid runs up the steps to join Cloud.</stage>
   <speaker name="Cid">Cid</speaker><boxstart/>Wait, Cloud!<boxstart/>If you're gonna kick those *#$% Shinra out of my rocket, then take me with you!<boxstart/>ALL RIGHT! Let's show those &amp;$!@&amp; Shinra!
 
 
-  <stage><speaker name="Cloud"><boxstart/>If Cid is in the party...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If Cid is in the party...</stage>
   <speaker name="Cid">Cid</speaker><boxstart/>Goddammit, what the hell do they think they're gonna do to my rocket!?<boxstart/>I'm outta here, Cloud! I'm gonna kick those $^%$# Shinra right out of my rocket!
 
 <stage>They go on up the ladder and run into Rude of the Turks.</stage>
@@ -110,13 +110,13 @@ Passcode input error<boxstart/>Unauthorized User identified<boxstart/>Protection
 <speaker name="Cid">Cid</speaker><boxstart/>Seems like you missed the code!<boxstart/>If we don't enter the correct passcode before the Protection System activates, we won't be able to get the Materia back!<boxstart/>I heard there's a passcode only the top people in Shinra know.<boxstart/>We probably have to enter that. Try and enter some codes while I try and remember that passcode!
 <stage>Cid tries to give Cloud instructions.</stage>
 
-  <stage><speaker name="Cloud"><boxstart/>If they succeed...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If they succeed...</stage>
   Passcode Confirmed<boxstart/>Identified as an Authorized User<boxstart/>Unlocked
   <speaker name="Cid">Cid</speaker><boxstart/>Alright, Cloud!! It's unlocked!<boxstart/>Yup, my great advice saved the day.
   Received Key Item "Huge Materia"!
 
 
-  <stage><speaker name="Cloud"><boxstart/>If they fail...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If they fail...</stage>
   Protection System Activated
   <speaker name="Cid">Cid</speaker><boxstart/>Ahhh &amp;$#$#! The Protection System just activated!<boxstart/>...Cloud, too bad, but we gotta let it go.
 

@@ -77,11 +77,11 @@ You used to see this sort of thing a lot during the war.<boxstart/>Her last word
 <speaker name="Marlene">Marlene</speaker><boxstart/>Guess what? Guess what? Aerith was asking me lots of questions.<boxstart/>Like what kind of person Cloud is. I bet she likes you, Cloud!
 <speaker name="Cloud">Cloud</speaker><boxstart/>- I don't know<boxstart/>- Let's hope so
 
-  <speaker name="Cloud"><boxstart/>I don't know</speaker>
+  <speaker name="Cloud"/><boxstart/>I don't know
   <speaker name="Marlene">Marlene</speaker><boxstart/>Stupid!
 
 
-  <speaker name="Cloud"><boxstart/>Let's hope so</speaker>
+  <speaker name="Cloud"/><boxstart/>Let's hope so
   <speaker name="Marlene">Marlene</speaker><boxstart/>I won't tell Tifa!
 
 <stage>Cloud goes back downstairs and heads for the door.</stage>
@@ -130,11 +130,11 @@ You used to see this sort of thing a lot during the war.<boxstart/>Her last word
 <speaker name="Weapons Shop Owner">Weapons Shop Owner</speaker><boxstart/>You'll find out when you get there. How 'bout 100 Gil for each?
 <speaker name="Cloud">Cloud</speaker><boxstart/>......<boxstart/>- All right, I'll take them<boxstart/>- I think you're full of it
 
-  <speaker name="Cloud"><boxstart/>All right, I'll take them</speaker>
+  <speaker name="Cloud"/><boxstart/>All right, I'll take them
   Received "Batteries"!
 
 
-  <speaker name="Cloud"><boxstart/>I think you're full of it</speaker>
+  <speaker name="Cloud"/><boxstart/>I think you're full of it
   <speaker name="Weapons Shop Owner">Weapons Shop Owner</speaker><boxstart/>All right then, go see for yourself. You'll be back again.
 
 <speaker name="Kid">Kid</speaker><boxstart/>Wanna see somethin' awesome? Follow me!
@@ -142,12 +142,12 @@ You used to see this sort of thing a lot during the war.<boxstart/>Her last word
 <speaker name="Kotch">Kotch</speaker><boxstart/>Hey! You're... not them... you're...<boxstart/>Please, help me!
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Help him<boxstart/>- Leave him
 
-  <speaker name="Cloud"><boxstart/>Help him</speaker>
+  <speaker name="Cloud"/><boxstart/>Help him
   <speaker name="Kotch">Kotch</speaker><boxstart/>Thanks!<boxstart/>You know what? After you left, some Shinra guys forced themselves in here saying things like 'information leaked' and 'good for nothing'.<boxstart/>They took Don somewhere and that's it...... I'm still here.<boxstart/>Oops! They're here again... I'm outta here! SEE ya
   <stage>He runs off.</stage>
 
 
-  <speaker name="Cloud"><boxstart/>Leave him</speaker>
+  <speaker name="Cloud"/><boxstart/>Leave him
   <speaker name="Kotch">Kotch</speaker><boxstart/>I... I was just following the Don's orders! Help me!
 
 <stage>Into the alley beyond the mansion...</stage>

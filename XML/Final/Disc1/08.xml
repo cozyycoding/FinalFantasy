@@ -26,7 +26,7 @@ Escaping the Shinra Building
 <speaker name="Tifa">Tifa</speaker><boxstart/>I know that! But if we get caught here...<boxstart/>Hey, Cloud. ...What should we do?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Let's bust on in!<boxstart/>- Let's sneak in quietly
 
-  <speaker name="Cloud"><boxstart/>Let's bust on in!</speaker>
+  <speaker name="Cloud"/><boxstart/>Let's bust on in!
   <speaker name="Barret">Barret</speaker><boxstart/>That's more like it! C'mon, let's go!!
   <stage>They run inside.</stage>
   <speaker name="Receptionist">Receptionist</speaker><boxstart/>Excuse me! If you don't have an appointment, you'll just have to...
@@ -73,7 +73,7 @@ Escaping the Shinra Building
   [on to the 59th floor]
 
 
-  <speaker name="Cloud"><boxstart/>Let's sneak in quietly</speaker>
+  <speaker name="Cloud"/><boxstart/>Let's sneak in quietly
   <speaker name="Tifa">Tifa</speaker><boxstart/>See? Let's be careful and find a different route!
   <stage>They enter through a side entrance and start climbing the stairs.</stage>
   <speaker name="Barret">Barret</speaker><boxstart/>Yo! You really gonna take these stairs all the way up?
@@ -130,11 +130,11 @@ Escaping the Shinra Building
 <speaker name="Barret">Barret</speaker><boxstart/>Hey Cloud!<boxstart/>You come all this way, you thinkin' of goin' back down to the 1st floor?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah<boxstart/>- No......
 
-  <speaker name="Cloud"><boxstart/>Yeah</speaker>
+  <speaker name="Cloud"/><boxstart/>Yeah
   <speaker name="Barret">Barret</speaker><boxstart/>This ain't no time for fooling around!
 
 
-  <speaker name="Cloud"><boxstart/>No......</speaker>
+  <speaker name="Cloud"/><boxstart/>No......
   <speaker name="Barret">Barret</speaker><boxstart/>Yeah, that's right! Let's go on then!
 
 <stage>Some soldiers are standing by the next set of elevators.</stage>
@@ -151,7 +151,7 @@ Received Key Item "Keycard 60"!
 <speaker name="Barret">Barret</speaker><boxstart/>Lookit that, all them guards is runnin' around.<boxstart/>Cloud, you go on ahead and signal us when it's safe to come.<boxstart/>When those guards turn around, MOVE!
 <speaker name="Tifa">Tifa</speaker><boxstart/>Stay in the shadows!
 
-  <stage><speaker name="Cloud"><boxstart/>If Cloud messes up...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If Cloud messes up...</stage>
   <speaker name="Guard">Guard</speaker><boxstart/>Hey there! What do you think you're doing there!?
   <stage>Cloud and the others fight off the guards.</stage>
   <speaker name="Barret">Barret</speaker><boxstart/>What the hell're ya doin'? Come on gotta do it again!
@@ -160,7 +160,7 @@ Received Key Item "Keycard 60"!
   <speaker name="Tifa">Tifa</speaker><boxstart/>Shhh! Now let's move on.
 
 
-  <stage><speaker name="Cloud"><boxstart/>If they make it past the guards successfully...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If they make it past the guards successfully...</stage>
   <speaker name="Barret">Barret</speaker><boxstart/>Ok! We gonna rock!
   <speaker name="Tifa">Tifa</speaker><boxstart/>Remember, we're here to save Aerith.
   <speaker name="Barret">Barret</speaker><boxstart/>Hell, I know that!
@@ -169,13 +169,13 @@ Received Key Item "Keycard 60"!
 <speaker name="Woman">Woman</speaker><boxstart/>I don't remember seeing your face before... You new here?<boxstart/>Say, you're cute. Let me teach you some... things.
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Things?<boxstart/>- Um, I'm kinda in a hurry...
 
-  <speaker name="Cloud"><boxstart/>Things?</speaker>
+  <speaker name="Cloud"/><boxstart/>Things?
   <speaker name="Woman">Woman</speaker><boxstart/>Wipe that stupid look off your face. I was only going to teach you how to get to the next floor.<boxstart/>The higher ups in the company use the floors above the 60th floor. But you can't get there without a keycard.<boxstart/>Get a keycard and you can use the elevators freely.
   Ding.
   ...voila! You hear that sound and the door opens.<boxstart/>Just remember there are different types of cards. One keycard alone won't let you go everywhere.<boxstart/>For example,<boxstart/>'Keycard 60' only takes you to the 60th floor. 'Keycard 65' only takes you to the 65th floor.<boxstart/>It's a security system worthy of Shinra. After all, all the power in Midgar and the world, for that matter, is controlled by them.<boxstart/>Oh, I have to go. Gotta get back to work!
 
 
-  <speaker name="Cloud"><boxstart/>Um, I'm kinda in a hurry...</speaker>
+  <speaker name="Cloud"/><boxstart/>Um, I'm kinda in a hurry...
   <speaker name="Woman">Woman</speaker><boxstart/>Oh? That's too bad...
 
 <speaker name="Man">Man</speaker><boxstart/>This is the lounge floor. Above us are the special floors for the big wigs in the company.<boxstart/>It's tough working under someone. Tires you out.
@@ -183,11 +183,11 @@ Received Key Item "Keycard 60"!
 <speaker name="Man 3">Man 3</speaker><boxstart/>The hell are you? What're you doin' around here?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Where's Aerith?<boxstart/>- ......
 
-  <speaker name="Cloud"><boxstart/>Where's Aerith?</speaker>
+  <speaker name="Cloud"/><boxstart/>Where's Aerith?
   <speaker name="Man 3">Man 3</speaker><boxstart/>Aerith? How did you know that name? You must be...!?<boxstart/>Aerith, you mean that kid. The receptionist. Yeah, I was startin' to worry 'bout her myself.<boxstart/>And so another rival appears on the scene, eh?<boxstart/>You mean, she's not? It's someone else?
 
 
-  <speaker name="Cloud"><boxstart/>......</speaker>
+  <speaker name="Cloud"/><boxstart/>......
   <speaker name="Man 3">Man 3</speaker><boxstart/>Oh, I see. So you must be that whatcha call it...<boxstart/>Shinra, Inc. Repair Division!!<boxstart/>You know, it looks like this building is starting to fall apart.<boxstart/>This door was just pushed open. You ought to fix this right away.<boxstart/>Oh yeah, and take a look on the other floors too. I'll give you this.
   Received Key Item "Keycard 62"!
   <speaker name="Man 3">Man 3</speaker><boxstart/>This door is stuck wide open. Better fix this right away.
@@ -200,7 +200,7 @@ Received Key Item "Keycard 60"!
 <speaker name="Hart">Hart</speaker><boxstart/>Did you speak with the Mayor?<boxstart/>What? A password? Oh, I get it...<boxstart/>He's got way too much time on his hands. But you can't really blame him, Everything in Midgar is controlled by President Shinra.<boxstart/>Maybe I can help you.<boxstart/>What do you want to know?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- HELP<boxstart/>- Forget it
 
-  <speaker name="Cloud"><boxstart/>HELP</speaker>
+  <speaker name="Cloud"/><boxstart/>HELP
   <speaker name="Hart">Hart</speaker><boxstart/>Sure, sure. All right.<boxstart/>As a public servant, it's my job to serve the needs of the people.<boxstart/>So here's a hint...<boxstart/>...for 500 gil.
   <speaker name="Cloud">Cloud</speaker><boxstart/>- Give him the money<boxstart/>- Forget it!
   <speaker name="Hart">Hart</speaker><boxstart/>Oh, my... well, Thank you very much.<boxstart/>Now listen. On this floor are four research libraries for four different sections of Shinra, Inc. ...<boxstart/>Parts of the password are hidden in each of the libraries.<boxstart/>Pay careful attention to the files in each room.<boxstart/>The name of each library is written on the plaque outside the door.<boxstart/>What can I do for you?
@@ -214,7 +214,7 @@ Received Key Item "Keycard 60"!
   <speaker name="Hart">Hart</speaker><boxstart/>Oh, my... well, Thank you very much.<boxstart/>There is a number at the beginning of each file name.<boxstart/>Of course there's a number even on the files that don't belong in that library.<boxstart/>Match the number with the letters in the title of the file.<boxstart/>If the file starts with a 4, then check the fourth letter and... well, you get the idea.
 
 
-  <speaker name="Cloud"><boxstart/>Forget it</speaker>
+  <speaker name="Cloud"/><boxstart/>Forget it
   <speaker name="Hart">Hart</speaker><boxstart/>...I see. Then, I guess that's that.<boxstart/>Good luck finding it on your own.<boxstart/>If you still can't find it. I'll just be right over here. Ready to tell you anytime...
 
 <stage>The placement of the books and the numbers vary each time, but below are the titles in their correct libraries without numbers. In each library there is also a television screen displaying a notice.</stage>
@@ -238,7 +238,7 @@ This is the Public Order/Weapon Development Library.<boxstart/>Return materials 
   Received "Elemental" Materia!
 
 
-  <stage><speaker name="Cloud"><boxstart/>If Cloud guesses wrong...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If Cloud guesses wrong...</stage>
   <speaker name="Domino">Domino</speaker><boxstart/>Nope! You're ALL wrong! It's a much better word than that! Try again!
   
     If Cloud guesses right the second time, Domino goes through one of his WORD!! exclamations, hands over the keycard, and then...
@@ -255,13 +255,13 @@ This is the Public Order/Weapon Development Library.<boxstart/>Return materials 
 <speaker name="Computer">Computer</speaker><boxstart/>...bing... bing... Enter command
 <speaker name="Cloud">Cloud</speaker><boxstart/>- All clear<boxstart/>- Coupon Change
 
-  <speaker name="Cloud"><boxstart/>All clear</speaker>
+  <speaker name="Cloud"/><boxstart/>All clear
   <speaker name="Computer">Computer</speaker><boxstart/>......bing... bing... Start again from the beginning?<boxstart/>The information and materials you received on this floor will all be cleared.<boxstart/>Clear them?
   <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah......<boxstart/>- No
   <speaker name="Computer">Computer</speaker><boxstart/>...... ......... ......... Cleared.<boxstart/>You are permitted to open any door on this floor up to three times.
 
 
-  <speaker name="Cloud"><boxstart/>Coupon Change</speaker>
+  <speaker name="Cloud"/><boxstart/>Coupon Change
   <speaker name="Computer">Computer</speaker><boxstart/>...beep......beep...... You do not have any coupons.
 
 <stage>There is an air duct next to the computer.</stage>
@@ -270,13 +270,13 @@ This is the Public Order/Weapon Development Library.<boxstart/>Return materials 
 <speaker name="Computer">Computer</speaker><boxstart/>...bing... bing... Enter command
 <speaker name="Cloud">Cloud</speaker><boxstart/>- All clear<boxstart/>- Coupon Change
 
-  <speaker name="Cloud"><boxstart/>All clear</speaker>
+  <speaker name="Cloud"/><boxstart/>All clear
   <speaker name="Computer">Computer</speaker><boxstart/>......bing... bing... Start again from the beginning?<boxstart/>The information and materials you received on this floor will all be cleared.<boxstart/>Clear them?
   <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah......<boxstart/>- No
   <speaker name="Computer">Computer</speaker><boxstart/>...... ......... ......... Cleared.<boxstart/>You are permitted to open any door on this floor up to three times.
 
 
-  <speaker name="Cloud"><boxstart/>Coupon Change</speaker>
+  <speaker name="Cloud"/><boxstart/>Coupon Change
   <speaker name="Computer">Computer</speaker><boxstart/>You can exchange your coupons for items. Here are the items you can have...<boxstart/>A coupon.........'Star Pendant'<boxstart/>B coupon.........'Four Slots'<boxstart/>C coupon.........'All' Materia<boxstart/>Please use caution... once you have exchanged coupons for items you may not use 'All Clear' function.<boxstart/>Exchange coupon?
   <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah......<boxstart/>- Naw
   <speaker name="Computer">Computer</speaker><boxstart/>...... ......... ...... Coupon exchange complete.
@@ -291,11 +291,11 @@ This is the Public Order/Weapon Development Library.<boxstart/>Return materials 
 <speaker name="Man Lifting Weights">Man Lifting Weights</speaker><boxstart/>Hmph, hmph... Since I'm head of security for this building, stamina's very important to me.
 <speaker name="Vending Machine">Vending Machine</speaker><boxstart/>Take one to restore your energy!! 'Shinra Gym Special Drink'<boxstart/>Only 250 gil!!<boxstart/>- Try it out<boxstart/>- Don't try it
 
-  <speaker name="Cloud"><boxstart/>Try it out</speaker>
+  <speaker name="Cloud"/><boxstart/>Try it out
   <speaker name="Cloud">Cloud</speaker><boxstart/>...Nothing...
 
 
-  <speaker name="Cloud"><boxstart/>Don't try it</speaker>
+  <speaker name="Cloud"/><boxstart/>Don't try it
   <stage>Nothing happens.</stage>
 
 <speaker name="Man in Nap Room">Man in Nap Room</speaker><boxstart/>...zzz... Please...... let me...... get some... rest......
@@ -464,11 +464,11 @@ He runs inside the chamber.
 <speaker name="Tifa">Tifa</speaker><boxstart/>Psst (Can we get out?)
 <speaker name="Cloud">Cloud</speaker><boxstart/>- (Leave it to me)<boxstart/>- (Kinda hard)
 
-  <speaker name="Cloud"><boxstart/>(Leave it to me)</speaker>
+  <speaker name="Cloud"/><boxstart/>(Leave it to me)
   <speaker name="Tifa">Tifa</speaker><boxstart/>Psst (Cloud, you're so brave!)
 
 
-  <speaker name="Cloud"><boxstart/>(Kinda hard)</speaker>
+  <speaker name="Cloud"/><boxstart/>(Kinda hard)
   <speaker name="Tifa">Tifa</speaker><boxstart/>Psst (Don't give up!)
 
 <speaker name="Cloud">Cloud</speaker><boxstart/>I wonder how Barret is doing
@@ -623,31 +623,31 @@ Tifa comes running down from upstairs.
 <speaker name="Tifa">Tifa</speaker><boxstart/>...I guess this is the start of our journey...
 <speaker name="Cloud">Cloud</speaker><boxstart/>- You hate traveling?<boxstart/>- It's dangerous. You sure you want to go?
 
-  <speaker name="Cloud"><boxstart/>You hate traveling?</speaker>
+  <speaker name="Cloud"/><boxstart/>You hate traveling?
   <speaker name="Tifa">Tifa</speaker><boxstart/>...I don't know. But, I don't have anywhere else to go. So I guess it doesn't really matter whether I like to travel or not.
 
 
-  <speaker name="Cloud"><boxstart/>It's dangerous. You sure you want to go?</speaker>
+  <speaker name="Cloud"/><boxstart/>It's dangerous. You sure you want to go?
   <speaker name="Tifa">Tifa</speaker><boxstart/>......Mmm. But you know, it should be all right if you keep your promise.
 
 <speaker name="Aerith">Aerith</speaker><boxstart/>You know what? This is the first time I've ever left Midgar...
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Really? ...You worried?<boxstart/>- It's dangerous. You sure you want to go?
 
-  <speaker name="Cloud"><boxstart/>Really? ...You worried?</speaker>
+  <speaker name="Cloud"/><boxstart/>Really? ...You worried?
   <speaker name="Aerith">Aerith</speaker><boxstart/>A little, ...no, maybe a lot. But I have my bodyguard, right?
 
 
-  <speaker name="Cloud"><boxstart/>It's dangerous. You sure you want to go?</speaker>
+  <speaker name="Cloud"/><boxstart/>It's dangerous. You sure you want to go?
   <speaker name="Aerith">Aerith</speaker><boxstart/>I thought you'd say that!
 
 <speaker name="Barret">Barret</speaker><boxstart/>We told Aerith's mom to go somewhere safe, so Marlene should be safe too.
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah, she should be<boxstart/>- Hmm, I don't know
 
-  <speaker name="Cloud"><boxstart/>Yeah, she should be</speaker>
+  <speaker name="Cloud"/><boxstart/>Yeah, she should be
   <speaker name="Aerith">Aerith</speaker><boxstart/>She said she didn't want to stay in Midgar anymore. ...Maybe it's for the best.
 
 
-  <speaker name="Cloud"><boxstart/>Hmm, I don't know</speaker>
+  <speaker name="Cloud"/><boxstart/>Hmm, I don't know
   <speaker name="Aerith">Aerith</speaker><boxstart/>Stop it, Cloud! I'm worried too.
 
 <speaker name="Cloud">Cloud</speaker><boxstart/>Then...<boxstart/>- Let's stay here for a while<boxstart/>- Let's go!
@@ -656,11 +656,11 @@ Tifa comes running down from upstairs.
 <speaker name="Aerith">Aerith</speaker><boxstart/>It would have to be Cloud.
 <speaker name="Barret">Barret</speaker><boxstart/>^#$^%...... awright. Go Northeast to a town called Kalm. If something happens, we'll meet up there.<boxstart/>'Sides, we can't have 5 people strolling down the fields. It's too dangerous. Split us into 2 parties...
 
-  <stage><speaker name="Cloud"><boxstart/>If Cloud chooses Aerith + Tifa for his party...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If Cloud chooses Aerith + Tifa for his party...</stage>
   <speaker name="Barret">Barret</speaker><boxstart/>...Thought you'd do that.<boxstart/>Later, at Kalm!
 
 
-  <stage><speaker name="Cloud"><boxstart/>If Cloud chooses Barret + Red XIII for his party...</speaker></stage>
+  <stage><speaker name="Cloud"/><boxstart/>If Cloud chooses Barret + Red XIII for his party...</stage>
   <speaker name="Aerith">Aerith</speaker><boxstart/>...Unexpected
   <speaker name="Tifa">Tifa</speaker><boxstart/>...combination.<boxstart/>Well, have fun with just the guys.<boxstart/>We'll see you at Kalm!
 

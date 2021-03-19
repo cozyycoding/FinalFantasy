@@ -8,15 +8,15 @@ Bone Village - A Town of Excavators
 <speaker name="Excavator">Excavator</speaker><boxstart/>Welcome to Bone Village, a town for nature lovers.<boxstart/>What do you want?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Where is the City of the Ancients?<boxstart/>- Do you know where Aerith is?<boxstart/>- What are you doing?
 
-  <speaker name="Cloud"><boxstart/>Where is the City of the Ancients?</speaker>
+  <speaker name="Cloud"/><boxstart/>Where is the City of the Ancients?
   <speaker name="Excavator">Excavator</speaker><boxstart/>The City of the Ancients? Oh, you must mean the Forgotten City.
 
 
-  <speaker name="Cloud"><boxstart/>Do you know where Aerith is?</speaker>
+  <speaker name="Cloud"/><boxstart/>Do you know where Aerith is?
   <speaker name="Excavator">Excavator</speaker><boxstart/>Are you talking about that girl? I warned her, but she went into the Sleeping Forest anyway.
 
 
-  <speaker name="Cloud"><boxstart/>What are you doing?</speaker>
+  <speaker name="Cloud"/><boxstart/>What are you doing?
   <speaker name="Excavator">Excavator</speaker><boxstart/>We're excavating. It's like the land's telling a history of the planet.
 
 <speaker name="Excavator 2">Excavator 2</speaker><boxstart/>Excavating is a slow process. The treasures we excavate are stored in the box next to the tent. Remember that.

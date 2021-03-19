@@ -87,34 +87,34 @@ Ten minutes to detonation!
 <speaker name="Flower Girl">Flower Girl</speaker><boxstart/>Excuse me.<boxstart/>What happened?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- You'd better get out of here<boxstart/>- Nothing... hey, listen...
 
-  <speaker name="Cloud"><boxstart/>You'd better get out of here.</speaker>
+  <speaker name="Cloud"/><boxstart/>You'd better get out of here.
   <speaker name="Flower Girl">Flower Girl</speaker><boxstart/>Really? I don't know what's going on, but all right.
 
 
-  <speaker name="Cloud"><boxstart/>Nothing... hey, listen...</speaker><boxstart/>.........<boxstart/>- Don't see many flowers around here<boxstart/>- Never mind
+  <speaker name="Cloud"/><boxstart/>Nothing... hey, listen...<boxstart/>.........<boxstart/>- Don't see many flowers around here<boxstart/>- Never mind
   
-    <speaker name="Cloud"><boxstart/>Don't see many flowers around here</speaker>
+    <speaker name="Cloud"/><boxstart/>Don't see many flowers around here
     <speaker name="Flower Girl">Flower Girl</speaker><boxstart/>Oh, these? Do you like them? They're only a gil...?
     <speaker name="Cloud">Cloud</speaker><boxstart/>- Buy one<boxstart/>- Forget it
       
-        <speaker name="Cloud"><boxstart/>Buy one</speaker>
+        <speaker name="Cloud"/><boxstart/>Buy one
         <speaker name="Flower Girl">Flower Girl</speaker><boxstart/>Oh, thank you!<boxstart/>Here you are!
       
       
-        <speaker name="Cloud"><boxstart/>Forget it</speaker>
+        <speaker name="Cloud"/><boxstart/>Forget it
         <speaker name="Flower Girl">Flower Girl</speaker><boxstart/>Ahh... not again.
       
   
   
-    <speaker name="Cloud"><boxstart/>Never mind</speaker>
+    <speaker name="Cloud"/><boxstart/>Never mind
     <speaker name="Flower Girl">Flower Girl</speaker><boxstart/>What! Tell me!<boxstart/>Uh, excuse me, would you like to buy some flowers? They're only one gil.
     <speaker name="Cloud">Cloud</speaker><boxstart/>- Buy one<boxstart/>- Forget it
       
-        <speaker name="Cloud"><boxstart/>Buy one</speaker>
+        <speaker name="Cloud"/><boxstart/>Buy one
         <speaker name="Flower Girl">Flower Girl</speaker><boxstart/>Oh, thank you!<boxstart/>Here you are!
       
       
-        <speaker name="Cloud"><boxstart/>Forget it</speaker>
+        <speaker name="Cloud"/><boxstart/>Forget it
         <speaker name="Flower Girl">Flower Girl</speaker><boxstart/>Ahh... not again.
       
   
@@ -183,11 +183,11 @@ Last train out of Sector 8 Station. Last stop is Sector 7, Train Graveyard. Expe
 <speaker name="Wedge">Wedge</speaker><boxstart/>Someday AVALANCHE's gonna be famous... and me, too!<boxstart/>Cloud!!<boxstart/>Don't ya think I got a bright future ahead of me?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- What do you have in mind?<boxstart/>- I wouldn't hold my breath
 
-  <speaker name="Cloud"><boxstart/>What do you have in mind?</speaker>
+  <speaker name="Cloud"/><boxstart/>What do you have in mind?
   <speaker name="Wedge">Wedge</speaker><boxstart/>All my life, I felt like nothin' but a sidekick.<boxstart/>But after joinin' AVALANCHE and tryin' to save the Planet, I feel like I can do lots of things.
 
 
-  <speaker name="Cloud"><boxstart/>I wouldn't hold my breath</speaker>
+  <speaker name="Cloud"/><boxstart/>I wouldn't hold my breath
   <speaker name="Wedge">Wedge</speaker><boxstart/>Oh man, that's pretty harsh, Cloud. You really think I won't?
 
 <speaker name="Jessie">Jessie</speaker><boxstart/>Hey, Cloud. You want to look at this with me?<boxstart/>It's a map of the Midgar Rail System. Let's look at it together. I'll explain it to you.<boxstart/>I like this kinda stuff. Bombs and monitors... you know, flashy stuff.<boxstart/>Okay, it's about to start.<boxstart/>This is a complete model of the city of Midgar.<boxstart/>It's about a 1/10000 scale.<boxstart/>The top plate is about 50 meters above ground.<boxstart/>A main support structure holds the plate up in the center, and there are other support structures built in each section...<boxstart/>psst... whisper... whisper (The No. 1 Reactor we blew up was in the northern section.)<boxstart/>Then there's No. 2, No. 3 all the way up to the No. 8 Reactor.<boxstart/>The 8 Reactors provide Midgar with electricity.<boxstart/>Each town used to have a name, but no one in Midgar remembers them.<boxstart/>Instead of names, we refer to them by numbered sectors. That's the kind of place this is.<boxstart/>Phew..., this is next! Look.<boxstart/>This is the route this train is on.<boxstart/>The route spirals around the main support structure.<boxstart/>We should be coming around the center area, right now.<boxstart/>At each checkpoint, an ID sensor device is set up.<boxstart/>It can check the identities and backgrounds on each and every passenger on the train by linking it up to the central data bank at Shinra headquarters.<boxstart/>whisper... whisper... (Anyone could tell that we look suspicious, so we're using fake ID's.)
@@ -198,11 +198,11 @@ Last train out of Sector 8 Station. Last stop is Sector 7, Train Graveyard. Expe
 <speaker name="Jessie">Jessie</speaker><boxstart/>I know! Next time, I'll give you one I made myself.
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Thanks anyway<boxstart/>- Looking forward to it
 
-  <speaker name="Cloud"><boxstart/>Thanks anyway</speaker>
+  <speaker name="Cloud"/><boxstart/>Thanks anyway
   <speaker name="Jessie">Jessie</speaker><boxstart/>Oh yeah, you might regret it. I'm the type who takes things personal.
 
 
-  <speaker name="Cloud"><boxstart/>Looking forward to it</speaker>
+  <speaker name="Cloud"/><boxstart/>Looking forward to it
   <speaker name="Jessie">Jessie</speaker><boxstart/>Okay, then I'll put a little extra effort in and make it with a BANG.
 
 <speaker name="Jessie">Jessie</speaker><boxstart/>We're almost there. After talking with you, I really want to do it!<boxstart/>I think you've lit my fuse!

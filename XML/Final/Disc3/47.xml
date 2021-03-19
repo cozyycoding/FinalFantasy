@@ -37,12 +37,12 @@ Junon
 <speaker name="Weapons Owner">Weapons Owner</speaker><boxstart/>I'll admit that I found it, but you may never be able to get another one like it again.<boxstart/>How 'bout 129,000 Gil for it?
 <speaker name="Cloud">Cloud</speaker><boxstart/>...What kind of price is that?<boxstart/>- Oh, all right... I'll buy it<boxstart/>- No, I don't want it
 
-  <speaker name="Cloud"><boxstart/>Oh, all right... I'll buy it</speaker>
+  <speaker name="Cloud"/><boxstart/>Oh, all right... I'll buy it
   <speaker name="Weapons Owner">Weapons Owner</speaker><boxstart/>Hey, much obliged. You'll never regret it!
   Received "Sneak Glove"!
 
 
-  <speaker name="Cloud"><boxstart/>No, I don't want it</speaker>
+  <speaker name="Cloud"/><boxstart/>No, I don't want it
   <speaker name="Weapons Owner">Weapons Owner</speaker><boxstart/>Hmm, that's too bad. This's really something.
 
 
@@ -62,13 +62,13 @@ Junon
 <speaker name="Old Man Upstairs">Old Man Upstairs</speaker><boxstart/>OH! It's "Guidebook"! Wanna trade it for this Underwater Materia?<boxstart/>How about it?
 <speaker name="Cloud">Cloud</speaker><boxstart/>- Trade<boxstart/>- Don't trade
 
-  <speaker name="Cloud"><boxstart/>Trade</speaker>
+  <speaker name="Cloud"/><boxstart/>Trade
   <speaker name="Old Man Upstairs">Old Man Upstairs</speaker><boxstart/>Ok then, it's a done deal!
   He goes over to retrieve the materia.
   It's Underwater Materia. Go on, it's yours!
 
 
-  <speaker name="Cloud"><boxstart/>Don't trade</speaker>
+  <speaker name="Cloud"/><boxstart/>Don't trade
   I dunno......
 
 <speaker name="Old Man Upstairs">Old Man Upstairs</speaker><boxstart/>OH! It's "Desert Rose"! Wanna trade it for that Chocobo over there?<boxstart/>How about it?
