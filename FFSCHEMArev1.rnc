@@ -1,0 +1,8 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+start = scene
+scene = element scene { boxstart+ | name | speaker }
+name = attribute name { text }
+boxstart = element box { choice }
+choice = element choice { speaker }
+speaker = element speaker { text }
