@@ -10,7 +10,307 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>XML/Initial/Disc1/01.xml</String>
+                                    <String>XML/Final/Disc2/44.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>xsltrans</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/Final/Disc2/43.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>xsltrans</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/Final/Disc2/42.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>xsltrans</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/Final/Disc2/41.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>xsltrans</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/Final/Disc2/40.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>xsltrans</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/Final/Disc2/39.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>xsltrans</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/Final/Disc2/38.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>xsltrans</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/Final/Disc2/37.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>xsltrans</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/Final/Disc2/36.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>xsltrans</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/Final/Disc2/35.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>xsltrans</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/Final/Disc2/34.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>xsltrans</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/Final/Disc2/33.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>xsltrans</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/Final/Disc2/32.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>xsltrans</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/Final/Disc2/31.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>xsltrans</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/Final/Disc2/30.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>xsltrans</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/Final/Disc2/29.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -551,6 +851,26 @@
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>XML/Initial/Disc1/02.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>xsltrans</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/Initial/Disc1/01.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -1125,7 +1445,7 @@
             </serialized>
         </options>
     </meta>
-    <projectTree name="newProject.xpr">
+    <projectTree name="FinalFantasy.xpr">
         <folder path="."/>
     </projectTree>
 </project>

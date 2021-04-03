@@ -43,4 +43,17 @@
         
         
     </xsl:template>
+    
+    <xsl:template match="descendant::p[@class='italic-inline']">
+        <stage>
+        <xsl:apply-templates/>
+        </stage>
+        
+    </xsl:template>
+    <xsl:template match="descendant::div[@class='highlight']">
+        <speaker name="unspecified"/><boxstart/>
+        <xsl:apply-templates/>
+        
+        
+    </xsl:template>
 </xsl:stylesheet>
