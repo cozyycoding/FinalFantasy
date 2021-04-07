@@ -24,7 +24,7 @@
             <xsl:apply-templates/></speaker>     
     </xsl:template>
     
-    <xsl:template match="descendant::span[@class='highlight']">
+    <xsl:template match="//span[@class='highlight']/ancestor::p[@class='italic']=>not()">
         <speaker name="Cloud"/><boxstart/>
             <xsl:apply-templates/>
         
