@@ -119,7 +119,7 @@
   <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Hmm. You've grown up.<boxstart/>When you were little you used to get into fights at the drop of a hat. </sp>
 
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If you bought a flower...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If you bought a flower...</sp>
 	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Flowers? How nice...<boxstart/>You almost never see them here in the slums.<boxstart/>But...<boxstart/>A flower for me? Oh Cloud, you shouldn't have... </sp>
 	<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>No big.<boxstart/>- Give it to Tifa<boxstart/>- Give it to Marlene </sp>
 	
@@ -132,7 +132,7 @@
 	
 
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If you didn't buy a flower...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If you didn't buy a flower...</sp>
 	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>I'm so glad everyone's safe. </sp>
 
 <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Sorry, Cloud. Marlene seems a little shy. </sp>
@@ -164,7 +164,7 @@
 <sp> <speaker name="Marlene">Marlene</speaker><boxstart/>Papa, welcome home! </sp>
 <stage>He lifts her up onto his shoulder.</stage>
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If you gave the flower to Marlene...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If you gave the flower to Marlene...</sp>
 	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Huh? Where'd you get that flower? </sp>
 	<sp> <speaker name="Marlene">Marlene</speaker><boxstart/>Cloud gave it to me. </sp>
 	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Oh......<boxstart/>Did you thank him? </sp>

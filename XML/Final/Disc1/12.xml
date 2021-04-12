@@ -209,25 +209,25 @@
 <sp> <speaker name="AD">AD</speaker><boxstart/>I don't know. </sp>
 <sp> <speaker name="TV Producer">TV Producer</speaker><boxstart/>Are the points up? </sp>
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If Cloud did poorly...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If Cloud did poorly...</sp>
   <sp> <speaker name="AD">AD</speaker><boxstart/>This's terrible! Am... am I fired? </sp>
   <sp> <speaker name="TV Producer">TV Producer</speaker><boxstart/>What!? You're FIRED!!<boxstart/>Send that soldier a bomb or something! </sp>
   Received "Grenade"!
 
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If Cloud did okay...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If Cloud did okay...</sp>
   <sp> <speaker name="AD">AD</speaker><boxstart/>Well, it's so-so. </sp>
   <sp> <speaker name="TV Producer">TV Producer</speaker><boxstart/>Hmm...<boxstart/>Better send that soldier something. </sp>
   Received 6 "Potion"!
 
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If Cloud did pretty well...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If Cloud did pretty well...</sp>
   <sp> <speaker name="AD">AD</speaker><boxstart/>So-so. </sp>
   <sp> <speaker name="TV Producer">TV Producer</speaker><boxstart/>Really.<boxstart/>I want somebody to send that soldier an expensive gift. </sp>
   Received 6 "Ether"!
 
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If Cloud did very well...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If Cloud did very well...</sp>
   <sp> <speaker name="AD">AD</speaker><boxstart/>They just shot up!! </sp>
   <sp> <speaker name="TV Producer">TV Producer</speaker><boxstart/>We did it!<boxstart/>Send that soldier something special. </sp>
   Received 5000 gil!
@@ -334,19 +334,19 @@
 <stage>Cloud and the soldiers perform the send-off exercises they practiced earlier.</stage>
 <sp> <speaker name="Commander">Commander</speaker><boxstart/>All right! Now finish strong! Special! </sp>
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If they did well...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If they did well...</sp>
   <sp> <speaker name="Rufus">Rufus</speaker><boxstart/>Well done.<boxstart/>Keep up the good work for Shinra, Inc. </sp>
   <sp> <speaker name="Heidegger">Heidegger</speaker><boxstart/>Gya haa ha...!! Here's a special bonus for you!!<boxstart/>A token of the President's kindness! Don't forget it! </sp>
   Received "Force Stealer"!
 
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If they did okay...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If they did okay...</sp>
   <sp> <speaker name="Rufus">Rufus</speaker><boxstart/>Very entertaining. Keep up the good work. </sp>
   <sp> <speaker name="Heidegger">Heidegger</speaker><boxstart/>Gya haa ha...!! Here's a special bonus for you!!<boxstart/>A token of the President's kindness! Don't forget it! </sp>
   Received "HP Plus" Materia!
 
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If they did poorly...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If they did poorly...</sp>
   <sp> <speaker name="Rufus">Rufus</speaker><boxstart/>Looks like you need more practice.<boxstart/>With things looking like this, you better be ready for pay cuts... </sp>
   <sp> <speaker name="Heidegger">Heidegger</speaker><boxstart/>Gya haa ha...!! Here's a special bonus for you!!<boxstart/>A token of the President's kindness! Don't forget it! </sp>
   Received "Silver Glasses"!

@@ -138,7 +138,7 @@
 <stage>Rude leaves.</stage>
 <sp> <speaker name="Tseng">Tseng</speaker><boxstart/>Well, then... </sp>
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If Aerith is in the party...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If Aerith is in the party...</sp>
   <sp> <speaker name="Tseng">Tseng</speaker><boxstart/>Aerith... Long time no see.<boxstart/>Looks like you got away from the Shinra for a while, now that Sephiroth reappeared. </sp>
   <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>...so what are you saying? That I should be grateful to Sephiroth? </sp>
   <sp> <speaker name="Tseng">Tseng</speaker><boxstart/>No...<boxstart/>Well, I won't be seeing too much of you, so take care. </sp>
@@ -146,7 +146,7 @@
   <sp> <speaker name="Tseng">Tseng</speaker><boxstart/>Well then, stay out of Shinra's way. </sp>
 
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If Aerith is not in the party...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If Aerith is not in the party...</sp>
   <sp> <speaker name="Tseng">Tseng</speaker><boxstart/>...Where's Aerith? She's not with you? </sp>
   <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Aerith isn't with us. She's with the others. </sp>
   <sp> <speaker name="Tseng">Tseng</speaker><boxstart/>Oh... Then give her my regards. </sp>
@@ -154,7 +154,7 @@
 <stage>Tseng leaves, and Cloud and the others continue out of the mines.</stage>
 
 <stage>Passing through the forests on the way to Junon, they run into a "mystery ninja," who attacks them. After being defeated, she lies on the ground with the party standing around her. There's a save point nearby.<boxstart/><boxstart/>
-* <sp> <speaker name="Note">Note</speaker>: Because you can pick up Yuffie at almost any time in the game, I've included every character's reaction here.</stage> </sp>
+* <sp> <speaker name="Note">Note</speaker>: Because you can pick up Yuffie at almost any time in the game, I've included every character's reaction here.</sp>
 
 	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Wassup with that broad? </sp>
 	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Who is that girl...? </sp>
@@ -165,7 +165,7 @@
 	<sp> <speaker name="Cid">Cid</speaker><boxstart/>Who is that kid! </sp>
 
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>Cloud walks to the save point.</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>Cloud walks to the save point.</sp>
   <stage>After exiting the Menu screen, they find that the ninja has disappeared.</stage>
   <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Haa----ah! Gotcha! And you deserve it, too! </sp>
   
@@ -189,7 +189,7 @@
   
 
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>Cloud walks over to Yuffie.</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>Cloud walks over to Yuffie.</sp>
   <stage>Yuffie sits up.</stage>
   <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Man...... I can't believe I lost... </sp>
   <stage>She jumps up.</stage>

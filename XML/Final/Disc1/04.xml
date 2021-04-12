@@ -129,13 +129,13 @@
   <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>A, all right. </sp>
   <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Here's a barrel. If I can just push it over......<boxstart/>Push the barrel?<boxstart/>- Yes<boxstart/>- No </sp>
     
-      <stage><sp> <speaker name="Cloud"/><boxstart/>If he pushes the right barrel...</stage> </sp>
+      <sp> <speaker name="Cloud"/><boxstart/>If he pushes the right barrel...</sp>
       <stage>The barrel falls down and knocks over the soldier.</stage>
       <sp> <speaker name="Soldier">Soldier</speaker><boxstart/>Nwahh! </sp>
       <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Thanks, Cloud. </sp>
     
     
-      <stage><sp> <speaker name="Cloud"/><boxstart/>If he pushes the wrong barrel...</stage> </sp>
+      <sp> <speaker name="Cloud"/><boxstart/>If he pushes the wrong barrel...</sp>
       <stage>The barrel falls and lands on the ground.</stage>
       <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Oh, Cloud, what are you doing!? </sp>
       <stage>She has to fight the soldier anyway.</stage>
@@ -291,7 +291,7 @@
 <sp> I haven't slept in a bed like this ...in a long time. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...Oh, yeah. </sp>
 <sp> Ever since that time. </sp>
-<sp> <speaker name="unspecified"/><boxstart/><stage>Flashback to Cloud's house in Nibelheim, where Cloud is lying sprawled on his bed, his mother walking about nearby.</stage> </sp>
+<sp> <speaker name="unspecified"/><boxstart/><stage>Flashback to Cloud's house in Nibelheim, where Cloud is lying sprawled on his bed, his mother walking about nearby.</sp>
 <sp> <speaker name="Cloud's Mom">Cloud's Mom</speaker><boxstart/>My, how you've grown.<boxstart/>I'll bet the girls never leave you alone. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...Not really. </sp>
 <sp> <speaker name="Cloud's Mom">Cloud's Mom</speaker><boxstart/>...I'm worried about you.<boxstart/>There are a lot of temptations in the city...<boxstart/>I'd feel a lot better if you just settled down and had a nice girlfriend. </sp>

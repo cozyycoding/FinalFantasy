@@ -10,7 +10,7 @@
 <sp> Zack's House </sp>
 
 <stage>Cloud enters the forest surrounding Gongaga.</stage>
-<stage><sp> <speaker name="* Note">* Note</speaker>: Because the party can trigger these events by visiting Gongaga any time before getting the Keystone, Vincent and Cid's responses are included here as well. Red XIII also has slightly different dialogue after completing the events at Cosmo Canyon.</stage> </sp>
+<sp> <speaker name="* Note">* Note</speaker>: Because the party can trigger these events by visiting Gongaga any time before getting the Keystone, Vincent and Cid's responses are included here as well. Red XIII also has slightly different dialogue after completing the events at Cosmo Canyon.</sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...Is someone there? </sp>
 <stage>Farther along the path, Reno and Rude stand talking.</stage>
 <sp> <speaker name="Reno">Reno</speaker><boxstart/>Hey, Rude. Who do you like? </sp>
@@ -31,7 +31,7 @@
 <stage>She runs off down the right fork of the path.</stage>
 <sp> <speaker name="Reno">Reno</speaker><boxstart/>It's been a while. </sp>
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If coming any time before the Wutai sidequest...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If coming any time before the Wutai sidequest...</sp>
 	<sp> <speaker name="Reno">Reno</speaker><boxstart/>Payback time for what you did in Sector 7. </sp>
 	<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Sector 7?<boxstart/>- Out of our way </sp>
 	
@@ -45,7 +45,7 @@
 
 <sp> <speaker name="Rude">Rude</speaker><boxstart/>That's as far as you go. </sp>
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If coming after encountering the Turks in Wutai...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If coming after encountering the Turks in Wutai...</sp>
 	<sp> <speaker name="Reno">Reno</speaker><boxstart/>This is just part of the job. Don't take it personally. </sp>
 
 <stage>Cloud and the others fight and defeat Reno and Rude.</stage>
@@ -140,13 +140,13 @@
 <sp> <speaker name="Zack's Mother">Zack's Mother</speaker><boxstart/>It's been close to 10 years since he left for the city, saying that he didn't want to live in the country... </sp>
 <sp> <speaker name="Zack's Father">Zack's Father</speaker><boxstart/>He left saying he's going to join SOLDIER. You ever hear of a Zack in SOLDIER? </sp>
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If neither Aerith nor Tifa are in the party...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If neither Aerith nor Tifa are in the party...</sp>
   <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Hmmm... I don't know. </sp>
   He turns for the door.
   ...Zack.<boxstart/>Zack. I don't know anything about that man.<boxstart/>......But That name sounds familiar...<boxstart/>Why...!?
 
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If both Aerith and Tifa are in the party...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If both Aerith and Tifa are in the party...</sp>
   <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Hmmm... I don't know. </sp>
   <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Zack... </sp>
   <sp> <speaker name="Zack's Father">Zack's Father</speaker><boxstart/>Young lady, you know him? </sp>
@@ -160,7 +160,7 @@
   [Cloud talks to Aerith.]<boxstart/>[Cloud talks to Tifa.]
 
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If only Aerith is in the party...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If only Aerith is in the party...</sp>
   <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Hmm.. I don't know. </sp>
   <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Zack... </sp>
   <sp> <speaker name="Zack's Father">Zack's Father</speaker><boxstart/>Young lady, you know him? </sp>
@@ -172,7 +172,7 @@
   [Cloud talks to Aerith.]
 
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If only Tifa is in the party...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If only Tifa is in the party...</sp>
   <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Hmmm... I don't know. </sp>
   <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Zack... </sp>
   <sp> <speaker name="Zack's Father">Zack's Father</speaker><boxstart/>Young lady, you know him? </sp>

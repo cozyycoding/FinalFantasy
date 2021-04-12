@@ -217,11 +217,11 @@
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I have a bad feeling about this. </sp>
 <sp> <speaker name="Men on the Beach">Men on the Beach</speaker><boxstart/>heh heh...... All the good ones are gone. </sp>
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If Tifa or Aerith are in the party...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If Tifa or Aerith are in the party...</sp>
   <sp> <speaker name="Men on the Beach">Men on the Beach</speaker><boxstart/>What about that one? Shall we make do with her?<boxstart/>But she's got a guy with her.<boxstart/>No problem, I can handle him.<boxstart/>Right? You thought so, too? </sp>
 
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If Tifa and Aerith are not in the party...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If Tifa and Aerith are not in the party...</sp>
   <sp> <speaker name="Men on the Beach">Men on the Beach</speaker><boxstart/>Geez! What about those two?<boxstart/>Heh heh...... I want the one on the left.<boxstart/>Well then, I guess that leaves me with the one on the right. </sp>
 
 <stage>Cloud runs over to where Hojo is lying in a lounge chair, surrounded by three women in bikinis.</stage>

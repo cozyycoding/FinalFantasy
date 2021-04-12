@@ -151,7 +151,7 @@
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>Lookit that, all them guards is runnin' around.<boxstart/>Cloud, you go on ahead and signal us when it's safe to come.<boxstart/>When those guards turn around, MOVE! </sp>
 <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Stay in the shadows! </sp>
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If Cloud messes up...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If Cloud messes up...</sp>
   <sp> <speaker name="Guard">Guard</speaker><boxstart/>Hey there! What do you think you're doing there!? </sp>
   <stage>Cloud and the others fight off the guards.</stage>
   <sp> <speaker name="Barret">Barret</speaker><boxstart/>What the hell're ya doin'? Come on gotta do it again! </sp>
@@ -160,7 +160,7 @@
   <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Shhh! Now let's move on. </sp>
 
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If they make it past the guards successfully...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If they make it past the guards successfully...</sp>
   <sp> <speaker name="Barret">Barret</speaker><boxstart/>Ok! We gonna rock! </sp>
   <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Remember, we're here to save Aerith. </sp>
   <sp> <speaker name="Barret">Barret</speaker><boxstart/>Hell, I know that! </sp>
@@ -238,7 +238,7 @@
   Received "Elemental" Materia!
 
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If Cloud guesses wrong...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If Cloud guesses wrong...</sp>
   <sp> <speaker name="Domino">Domino</speaker><boxstart/>Nope! You're ALL wrong! It's a much better word than that! Try again! </sp>
   
     If Cloud guesses right the second time, Domino goes through one of his WORD!! exclamations, hands over the keycard, and then...
@@ -656,11 +656,11 @@
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>It would have to be Cloud. </sp>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>^#$^%...... awright. Go Northeast to a town called Kalm. If something happens, we'll meet up there.<boxstart/>'Sides, we can't have 5 people strolling down the fields. It's too dangerous. Split us into 2 parties... </sp>
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If Cloud chooses Aerith + Tifa for his party...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If Cloud chooses Aerith + Tifa for his party...</sp>
   <sp> <speaker name="Barret">Barret</speaker><boxstart/>...Thought you'd do that.<boxstart/>Later, at Kalm! </sp>
 
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If Cloud chooses Barret + Red XIII for his party...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If Cloud chooses Barret + Red XIII for his party...</sp>
   <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>...Unexpected </sp>
   <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>...combination.<boxstart/>Well, have fun with just the guys.<boxstart/>We'll see you at Kalm! </sp>
 

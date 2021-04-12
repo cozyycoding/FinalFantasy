@@ -14,7 +14,7 @@
 <sp> Climbing the Pagoda </sp>
 
 <stage>Cloud and the others land the Tiny Bronco on the shores of Wutai and start making their way north. On a hilltop, Yuffie runs ahead and stands in their way.</stage>
-<stage>* <sp> <speaker name="Note">Note</speaker>: Because this is an optional sidequest, it is also possible to do it when either Tifa or Cid are the party leader, so their responses are included along with Cloud's.</stage> </sp>
+<stage>* <sp> <speaker name="Note">Note</speaker>: Because this is an optional sidequest, it is also possible to do it when either Tifa or Cid are the party leader, so their responses are included along with Cloud's.</sp>
 <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Wait, wait, wait, wai----t!! </sp>
 
 	<sp> <speaker name="Barret">Barret</speaker><boxstart/>What!? The hell happened, all of a sudden!? </sp>
@@ -477,13 +477,13 @@
 <sp> <speaker name="Gorky">Gorky</speaker><boxstart/>Then, begin!<boxstart/>Power Change! </sp>
 <stage>Yuffie fights Gorky.</stage>
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If she loses...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If she loses...</sp>
   <sp> <speaker name="Gorky">Gorky</speaker><boxstart/>It's just my opinion, but you need more training! Gorky is disappointed! </sp>
   <sp> <speaker name="Shake">Shake</speaker><boxstart/>No good! You have to do Gorky! Are you mocking this Pagoda? </sp>
   <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Shut up! Shut up! SHADDUP! </sp>
 
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If she wins...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If she wins...</sp>
   <sp> <speaker name="Gorky">Gorky</speaker><boxstart/>Here I am, Miss Yuffie! </sp>
   <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Of course! </sp>
   <sp> <speaker name="Shake">Shake</speaker><boxstart/>Hmm, I thought you were just a wild girl, but you handled that pretty well!<boxstart/>Well, we'll see how you do on next one... </sp>
@@ -513,13 +513,13 @@
 <sp> <speaker name="Shake">Shake</speaker><boxstart/>Hey, you there! Don't ignore me! </sp>
 <stage>Yuffie fights Shake.</stage>
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If she loses...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If she loses...</sp>
   <sp> <speaker name="Shake">Shake</speaker><boxstart/>HYAAAAAAH! BRATBRATBRATBRAT!! </sp>
   <sp> <speaker name="Chekhov">Chekhov</speaker><boxstart/>You can't go to the next floor unless you beat Shake. </sp>
   <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Shut up! Shut up! SHADDUP! </sp>
 
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If she wins...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If she wins...</sp>
   <sp> <speaker name="Shake">Shake</speaker><boxstart/>URRGRAAAAGH! So you CAN fight a bit! </sp>
   <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Of course! </sp>
   <sp> <speaker name="Chekhov">Chekhov</speaker><boxstart/>Ho, ho, ho... It's been a while since I felt pain... </sp>
@@ -543,13 +543,13 @@
 <sp> <speaker name="Chekhov">Chekhov</speaker><boxstart/>How dare they mock us like that, thinking they could sneak past us. </sp>
 <stage>Yuffie fights Chekhov.</stage>
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If she loses...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If she loses...</sp>
   <sp> <speaker name="Chekhov">Chekhov</speaker><boxstart/>Ho, ho, ho! What does a immature young child know...? </sp>
   <sp> <speaker name="Staniv">Staniv</speaker><boxstart/>So this IS the average person's limit... </sp>
   <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Shut up! Shut up! SHADDUP! </sp>
 
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If she wins...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If she wins...</sp>
   <sp> <speaker name="Chekhov">Chekhov</speaker><boxstart/>I can't believe you beat me... </sp>
   <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Of course! </sp>
   <sp> <speaker name="Staniv">Staniv</speaker><boxstart/>This should be interesting...! It's been a long time since I've had a chance to use my powers to their fullest... </sp>
@@ -569,12 +569,12 @@
 <sp> <speaker name="Staniv">Staniv</speaker><boxstart/>HAAAAH! </sp>
 <stage>The door closes.<boxstart/><boxstart/>Yuffie fights Staniv.</stage>
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If she loses...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If she loses...</sp>
   <sp> <speaker name="Staniv">Staniv</speaker><boxstart/>How unfortunate! It was over before I could even put all of my strength into it... </sp>
   <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Shut up! Shut up! SHADDUP! </sp>
 
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If she wins...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If she wins...</sp>
   <sp> <speaker name="Staniv">Staniv</speaker><boxstart/>Wh, what...!? </sp>
   <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Of course! </sp>
 

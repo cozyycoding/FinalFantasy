@@ -77,7 +77,7 @@
 <sp> <speaker name="Man">Man</speaker><boxstart/>Hey! How'd you ever wind up around here?<boxstart/>Look, I'm sorry but, I can't do a thing for you!<boxstart/>Oh boy!! Corel sure has gone to pot. It used to be a famous coal mining town!<boxstart/>They say there were more jobs than you could shake a...<boxstart/>Well, you get the picture!<boxstart/>Now, it's nothing but a miserable pit! Me, my bulldozer... everything's out of work.<boxstart/>Got no job... I can't even show my face. 'Bout all that's left for me is to just live in this hole all day. </sp>
 <stage>The train tracks eventually dead-end into the camp of North Corel.</stage>
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If Barret is in the party...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If Barret is in the party...</sp>
   <sp> <speaker name="Man">Man</speaker><boxstart/>You, you're...<boxstart/>Hey!! He's back! </sp>
   He runs off.
   <sp> <speaker name="Barret">Barret</speaker><boxstart/>Wait here... </sp>
@@ -85,7 +85,7 @@
   <sp> <speaker name="Men">Men</speaker><boxstart/>Well, lookey here! Never thought I'd ever see your face again.<boxstart/>Those people over there, they with you?<boxstart/>Well, I feel sorry for 'em! Hangin' around a walkin' death sentence like Barret. </sp>
 
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If Barret is not in the party...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If Barret is not in the party...</sp>
   <stage>Cloud and the others find him already accosted by the three men. One of them punches him.</stage>
   <sp> <speaker name="Men">Men</speaker><boxstart/>Well, lookey here! Never thought I'd ever see your face again.<boxstart/>They kick you out of another town or somethin'?<boxstart/>You destroy everything you touch. </sp>
 
@@ -133,7 +133,7 @@
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>It ain't here no more. Heard it got buried... in just 4 years. </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>But how could those people say those terrible things? </sp>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>An' it's my fault. ALL my fault. </sp>
-<sp> <speaker name="unspecified"/><boxstart/><stage>Flashback to the town of Corel. A Shinra soldier stands guard outside the Mayor's house as townspeople hurry inside.</stage> </sp>
+<sp> <speaker name="unspecified"/><boxstart/><stage>Flashback to the town of Corel. A Shinra soldier stands guard outside the Mayor's house as townspeople hurry inside.</sp>
 <sp> <speaker name="Barret">Barret</speaker> (narrating)<boxstart/>...My hometown, Corel's always been a coal mining town.<boxstart/>It's so dusty, but calm and so poor...... a real small town, this one.<boxstart/>That's the first time I ever heard the word "Mako Reactor" mentioned since that time... </sp>
 <stage>Inside the house, a group of men are gathered. Scarlet and two Shinra employees stand before them.</stage>
 <sp> <speaker name="Village Headman">Village Headman</speaker><boxstart/>What are we going to do? The only one against this is Dyne... </sp>

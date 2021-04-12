@@ -79,7 +79,7 @@
 <sp> <boxstart/>What?<boxstart/>What is it? </sp>
 <stage>She gets back to her feet.</stage>
 <sp> <boxstart/>...Danger? An evil... consciousness?<boxstart/>...show? You're going to show me? </sp>
-<sp> <speaker name="unspecified"/><boxstart/><stage>The scene changes to another room where Tseng is observing a mural. Cloud and the others stand translucent in the foreground.</stage> </sp>
+<sp> <speaker name="unspecified"/><boxstart/><stage>The scene changes to another room where Tseng is observing a mural. Cloud and the others stand translucent in the foreground.</sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...What's going on? </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Wait! Look! It's showing us! </sp>
 <sp> <speaker name="Elena">Elena</speaker><boxstart/>Tseng, what's this? Can we find the Promised Land with this? </sp>
@@ -156,7 +156,7 @@
 <sp> In the fourth, they stand near a low table with two jar-like objects on it.<boxstart/> </sp>
 <sp> In the fifth, a woman holds the Black Materia while Meteor falls from the sky.<boxstart/> </sp>
 <sp> In the sixth, people are looking about in confusion.<boxstart/> </sp>
-<sp> In the seventh, people are dying in flames.</stage> </sp>
+<sp> In the seventh, people are dying in flames.</sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>This is the room with the murals... </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Where are you!? Sephiroth!! </sp>
 <stage>Sephiroth appears a ways in front of them.</stage>
@@ -271,7 +271,7 @@
 <stage>He taps the altar, and the Temple shakes.</stage>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>So what are we going to do? </sp>
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If Cait Sith is in the party...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If Cait Sith is in the party...</sp>
   <stage>Cait Sith steps forward.</stage>
   <sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>I heard your situation!<boxstart/>Don't forget about me.<boxstart/>Everything you said makes perfect sense!<boxstart/>You can use my stuffed body for the future of the Planet. </sp>
   <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>We can't let Sephiroth get his hands on the Black Materia.<boxstart/>And we can't let the Shinra get theirs on it either. </sp>
@@ -288,7 +288,7 @@
   
 
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If Cait Sith is not in the party...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If Cait Sith is not in the party...</sp>
   <stage>Cloud's PHS rings, and after a moment of confusion he answers it.</stage>
   <sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Hi, Cloud. This is Cait Sith.<boxstart/>I overheard the whole story!<boxstart/>Don't forget about me.<boxstart/>Everything you said makes perfect sense!<boxstart/>You can use my stuffed body for the future of the Planet. </sp>
   <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>We can't let Sephiroth get his hands on the Black Materia.<boxstart/>And we can't let the Shinra get theirs on it either. </sp>

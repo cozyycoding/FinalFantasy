@@ -137,7 +137,7 @@
 	
 
 
-	<stage><sp> <speaker name="Cloud"/><boxstart/>If Cloud does not have enough GP to pay.</stage> </sp>
+	<sp> <speaker name="Cloud"/><boxstart/>If Cloud does not have enough GP to pay.</sp>
 	<sp> <speaker name="Woman at Ticket Booth">Woman at Ticket Booth</speaker><boxstart/>Um, I'm very sorry, but you do not have enough GP. </sp>
 
 <stage>At Speed Square, a muscular man addresses Cloud when he arrives.</stage>
@@ -175,21 +175,21 @@
 <sp> <speaker name="Ticket Person">Ticket Person</speaker><boxstart/>This attraction costs 10 GP. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Pay<boxstart/>- Changed my mind </sp>
 
-	<stage><sp> <speaker name="Cloud"/><boxstart/>If Cloud does not have enough GP to pay.</stage> </sp>
+	<sp> <speaker name="Cloud"/><boxstart/>If Cloud does not have enough GP to pay.</sp>
 	<sp> <speaker name="Ticket Person">Ticket Person</speaker><boxstart/>......... You don't have enough GP </sp>
 
 
-	<stage><sp> <speaker name="Cloud"/><boxstart/>Otherwise</stage> </sp>
+	<sp> <speaker name="Cloud"/><boxstart/>Otherwise</sp>
 	<sp> <speaker name="Ticket Person">Ticket Person</speaker><boxstart/>Thank you. </sp>
 
 <stage>Cloud and the others ride the coaster.</stage>
 <sp> <speaker name="Wall of Fame Staffer">Wall of Fame Staffer</speaker><boxstart/>Your score is x points. </sp>
 
-	<stage><sp> <speaker name="Cloud"/><boxstart/>If Cloud scored 3000-4999 points...</stage> </sp>
+	<sp> <speaker name="Cloud"/><boxstart/>If Cloud scored 3000-4999 points...</sp>
 	As a price, Received "Super Sweeper/Masamune Blade/1/35 soldier"!!
 
 
-	<stage><sp> <speaker name="Cloud"/><boxstart/>If Cloud scored 5000+ points...</stage> </sp>
+	<sp> <speaker name="Cloud"/><boxstart/>If Cloud scored 5000+ points...</sp>
 	As a price, Received "Umbrella"!!
 
 <stage>Sometimes after coming off the roller coaster, Cloud will walk to the side and hang his head.</stage>
@@ -264,12 +264,12 @@
 <stage>Cloud feeds Mog Kupo nuts, and he hops up again.</stage>
 <sp> <speaker name="Narration">Narration</speaker><boxstart/>Oh? It seems like Mog's decided to take another shot at it. </sp>
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If Cloud fed him the wrong number of nuts...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If Cloud fed him the wrong number of nuts...</sp>
   <stage>He falls flat on his face again.</stage>
   <sp> <speaker name="Narration">Narration</speaker><boxstart/>Poor Mog. It looks like he'll have to wait some time for a mate.<boxstart/>Poor Mog, seems like he'll be alone for a while. </sp>
 
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If Cloud fed him the right number of nuts...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If Cloud fed him the right number of nuts...</sp>
   <stage>Mog takes off and makes a few circuits around the screen.</stage>
   <sp> <speaker name="Narration">Narration</speaker><boxstart/>He did it! He's flying! Now, he's finally become a full-fledged Mog. </sp>
   <stage>Mog lands and returns to his house, taking a bow before going inside.</stage>
@@ -281,12 +281,12 @@
   <stage>Cloud feeds Mog Kupo nuts, and he hops up again.</stage>
   <sp> <speaker name="Narration">Narration</speaker><boxstart/>Oh? It seems like Mog's decided to take another shot at it. </sp>
   
-    <stage><sp> <speaker name="Cloud"/><boxstart/>If Cloud fed Mog the wrong number of nuts...</stage> </sp>
+    <sp> <speaker name="Cloud"/><boxstart/>If Cloud fed Mog the wrong number of nuts...</sp>
     <stage>He falls on his face again.</stage>
     <sp> <speaker name="Narration">Narration</speaker><boxstart/>Unfortunately, he didn't make it. Poor Mog'll have to wait some time for a bride.<boxstart/>Poor Mog, seems like he'll be alone for a while. </sp>
   
   
-    <stage><sp> <speaker name="Cloud"/><boxstart/>If Cloud fed him the right number of nuts...</stage> </sp>
+    <sp> <speaker name="Cloud"/><boxstart/>If Cloud fed him the right number of nuts...</sp>
     <stage>Mog takes off and makes a few circuits around the screen.</stage>
     <sp> <speaker name="Narration">Narration</speaker><boxstart/>He's flying!! Mog was able to do it!<boxstart/>She must have fallen for his graceful flying form. </sp>
     <stage>The screen goes dark.</stage>

@@ -426,7 +426,7 @@
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- A little<boxstart/>- Don't need to practice </sp>
 <sp> <speaker name="Beautiful Bro">Beautiful Bro</speaker><boxstart/>Now let's begin the real thing. Start! </sp>
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If Cloud wins...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If Cloud wins...</sp>
   <sp> <speaker name="Beautiful Bro">Beautiful Bro</speaker><boxstart/>He had 13 squats and you had 19 squats.<boxstart/>You're really something. Okay, I'm a man of my word, here you are. </sp>
   Received Key Item "Blonde Wig"!
   <sp> <speaker name="Black man">Black man</speaker><boxstart/>Big Bro I'm so mad I'm so so so---mad! </sp>
@@ -435,7 +435,7 @@
   <sp> <speaker name="Black Man">Black Man</speaker><boxstart/>Uuuuhh, Bro's fists of steel cut to the bone! </sp>
 
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If the two tie...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If the two tie...</sp>
   <sp> <speaker name="Beautiful Bro">Beautiful Bro</speaker><boxstart/>He had 16 squats and you had 16 squats.<boxstart/>Good job. Here's a hand-me-down. </sp>
   Received Key Item "Dyed Wig"!
   <sp> <speaker name="Black Man">Black Man</speaker><boxstart/>Hey, Bro. I... I was supposed to get that. </sp>
@@ -444,7 +444,7 @@
   <sp> <speaker name="Black Man">Black Man</speaker><boxstart/>Uuuuhh, Bro's fists of steel cut to the bone! </sp>
 
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If Cloud loses...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If Cloud loses...</sp>
   <sp> <speaker name="Beautiful Bro">Beautiful Bro</speaker><boxstart/>He had 17 squats and you had 13 squats.<boxstart/>Sorry You lose.<boxstart/>Since the old man from the clothing store asked me, I can't keep it from you, so...<boxstart/>Oh, now where did I put it?<boxstart/>All right then. </sp>
   <stage>The black man pulls it out from... somewhere and hands it to Cloud. Beautiful Bro punches him.</stage>
   <sp> <speaker name="Beautiful Bro">Beautiful Bro</speaker><boxstart/>Stupid! What kinda place is that to hide it in!? </sp>
@@ -465,11 +465,11 @@
 <sp> <speaker name="Cook">Cook</speaker><boxstart/>Comin' up! </sp>
 <sp> <speaker name="Waitress">Waitress</speaker><boxstart/>In this store, you pay first. It'll be 70 Gil. </sp>
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If you don't have enough money...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If you don't have enough money...</sp>
   <sp> <speaker name="Waitress">Waitress</speaker><boxstart/>Hey! Cancel that last order!<boxstart/>Excuse me! You can't come in here and order things without any money. Come again... when you have money. </sp>
 
 
-  <stage><sp> <speaker name="Cloud"/><boxstart/>If you do have the money...</stage> </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If you do have the money...</sp>
   <sp> <speaker name="Waitress">Waitress</speaker><boxstart/>Thank you. Just a second.<boxstart/>There you go. Enjoy. </sp>
   <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- .........<boxstart/>- It was all right<boxstart/>- I've had better dog food </sp>
   <stage>Nothing happens unless he says "It was all right." On subsequent visits after obtaining the pharmacy coupon, the waitress will say "Thank you very much" no matter what Cloud tells her.</stage>
@@ -492,13 +492,13 @@
   <sp> <speaker name="Cloud"/><boxstart/>Give her medicine </sp>
   <sp> <speaker name="Redhead in Bathroom">Redhead in Bathroom</speaker><boxstart/>Huh? You'll really give me some? Thanks. </sp>
   
-    <stage><sp> <speaker name="Cloud"/><boxstart/>If Cloud gives her the Disinfectant...</stage> </sp>
+    <sp> <speaker name="Cloud"/><boxstart/>If Cloud gives her the Disinfectant...</sp>
     <sp> <speaker name="Redhead in Bathroom">Redhead in Bathroom</speaker><boxstart/>What is this...? Oh well.<boxstart/>It didn't do a thing, but thanks anyways. Here, this is for your kindness. </sp>
     Received Key Item "Cologne"!
     <stage>She leaves the bathroom and the man waiting runs in.</stage>
   
   
-    <stage><sp> <speaker name="Cloud"/><boxstart/>If Cloud gives her the Digestive...</stage> </sp>
+    <sp> <speaker name="Cloud"/><boxstart/>If Cloud gives her the Digestive...</sp>
     <sp> <speaker name="Redhead in Bathroom">Redhead in Bathroom</speaker><boxstart/>Phew, I feel better now. This is for your kindness. </sp>
     Received Key Item "Sexy Cologne"!
     <stage>She leaves the bathroom and the man waiting runs in.</stage>

@@ -11,7 +11,7 @@
 
 <stage>Cloud and the others arrive at Nibelheim, only to find the town almost exactly as it looked before the incident five years ago.</stage>
 
-	<stage><sp> <speaker name="Cloud"/><boxstart/>If Tifa is in the party...</stage> </sp>
+	<sp> <speaker name="Cloud"/><boxstart/>If Tifa is in the party...</sp>
 	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>What---!! </sp>
 	She turns to Cloud.
 	This was all supposed to be burnt down, right?
@@ -26,7 +26,7 @@
 	
 
 
-	<stage><sp> <speaker name="Cloud"/><boxstart/>If Tifa is not in the party...</stage> </sp>
+	<sp> <speaker name="Cloud"/><boxstart/>If Tifa is not in the party...</sp>
 	
 		<sp> <speaker name="Barret">Barret</speaker><boxstart/>You said the whole town burnt down, right? </sp>
 		<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>This is Nibelheim, right? But the town's all here. </sp>
@@ -131,7 +131,7 @@
 <stage>Cloud opens the safe and fights the Lost Number.</stage>
 <sp> <speaker name="unspecified"/><boxstart/>Received Key Item "Key to the Basement"! </sp>
 <stage>The party heads down to the basement. Using the key, they enter the room with the coffins and approach the closed one in the center.</stage>
-<stage><sp> <speaker name="* Note:">* Note:</speaker> Because it's possible to get Vincent after Cid joins the party, I've included his responses here as well.</stage> </sp>
+<sp> <speaker name="* Note:">* Note:</speaker> Because it's possible to get Vincent after Cid joins the party, I've included his responses here as well.</sp>
 <sp> <speaker name="Vincent">Vincent</speaker><boxstart/>...To wake me from the nightmare </sp>
 <stage>He throws off the lid.</stage>
 <sp> <boxstart/>Who is it!? </sp>
@@ -170,7 +170,7 @@
 <stage>Cloud gestures as he tells his story.</stage>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...That's how it was. </sp>
 <sp> <speaker name="Vincent">Vincent</speaker><boxstart/>So Sephiroth knows he was created five years ago? And about the Jenova Project?<boxstart/>...He was missing, but has just recently reappeared.<boxstart/>He has taken many lives and is seeking the Promised Land. </sp>
-<stage>* <sp> <speaker name="Note">Note</speaker>: Vincent's comment here is likely a translation error and should have been something like "So five years ago, Sephiroth learned that he had been created?"</stage> </sp>
+<stage>* <sp> <speaker name="Note">Note</speaker>: Vincent's comment here is likely a translation error and should have been something like "So five years ago, Sephiroth learned that he had been created?"</sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Now it's your turn. </sp>
 <sp> <speaker name="Vincent">Vincent</speaker><boxstart/>Sorry... I cannot speak. </sp>
 

@@ -43,7 +43,7 @@
 <sp> <speaker name="Gatekeeper">Gatekeeper</speaker><boxstart/>...Oh, is that so? You helped our Nanaki? Please, come in. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Who is Nanaki? </sp>
 <sp> <speaker name="Gatekeeper">Gatekeeper</speaker><boxstart/>Nanaki is Nanaki. That's his name. </sp>
-<stage>* <sp> <speaker name="Note">Note</speaker>: From this point on, that's how I'll refer to him. It's his name, after all.</stage> </sp>
+<stage>* <sp> <speaker name="Note">Note</speaker>: From this point on, that's how I'll refer to him. It's his name, after all.</sp>
 <sp> <speaker name="Gatekeeper">Gatekeeper</speaker><boxstart/>Welcome to Cosmo Canyon. Make yourselves at home. </sp>
 <stage>Cloud and the others enter the village and go up to where Nanaki is waiting on the stairway landing.</stage>
 <sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>Here is where I was... I mean, ...this is my hometown.<boxstart/>My tribe were protectors of those who appreciate this beautiful canyon and the Planet.<boxstart/>My brave mother fought and died here, but my cowardly father left her...... I am the last of my race. </sp>
@@ -90,12 +90,12 @@
 
   <sp> <speaker name="Cloud"/><boxstart/>No </sp>
   
-    <stage><sp> <speaker name="Cloud"/><boxstart/>If the buggy broke down...</stage> </sp>
+    <sp> <speaker name="Cloud"/><boxstart/>If the buggy broke down...</sp>
     <sp> <speaker name="Man">Man</speaker><boxstart/>Oh yeah? What? The car broke down!?<boxstart/>Why don't you look around Cosmo Canyon, while I fix the car? </sp>
     <stage>He walks out through the gate.</stage>
   
   
-    <stage><sp> <speaker name="Cloud"/><boxstart/>If Cloud and the others chose to stop...</stage> </sp>
+    <sp> <speaker name="Cloud"/><boxstart/>If Cloud and the others chose to stop...</sp>
     <sp> <speaker name="Man">Man</speaker><boxstart/>Oh, really?<boxstart/>There really isn't much else to see here. </sp>
   
 
