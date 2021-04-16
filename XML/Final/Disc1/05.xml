@@ -32,7 +32,7 @@
 <stage>She wanders into the playground and stops by the slide with a cat's face.</stage>
 <sp> <boxstart/>I can't believe it's still here. </sp>
 <stage>She runs around and climbs up on top of it.</stage>
-<sp> <boxstart/>Cloud, over here! </sp>
+<sp> <boxstart/><referent name="Cloud">Cloud</referent>, over here! </sp>
 <stage>Cloud shrugs and joins her.</stage>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>What rank were you? </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Rank? </sp>
@@ -48,20 +48,20 @@
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I probably knew him. What was his name? </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>It doesn't really matter. </sp>
 <stage>The gate to Sector 7 opens, and a chocobo-drawn carriage comes out. Tifa is riding in back, wearing a revealing blue dress. Cloud jumps to his feet.</stage>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Huh? Hey, back there......<boxstart/>Tifa!? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Huh? Hey, back there......<boxstart/><referent name="Tifa">Tifa</referent>!? </sp>
 <stage>The carriage pulls past them and into Wall Market.</stage>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>That girl in the cart was Tifa? Where was she going? She looked kind of odd... </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>That girl in the cart was <referent name="Tifa">Tifa</referent>? Where was she going? She looked kind of odd... </sp>
 <stage>Aerith jumps off the slide and runs after the carriage.</stage>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Wait!<boxstart/>I'll go on alone! You go on home! </sp>
 <stage>He sighs and follows her into Wall Market.</stage>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>This place is scary in a lot of ways. Especially for a girl. So we've got to find Tifa fast. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>This place is scary in a lot of ways. Especially for a girl. So we've got to find <referent name="Tifa">Tifa</referent> fast. </sp>
 <sp> <speaker name="Man outside Honey Bee Inn">Man outside Honey Bee Inn</speaker><boxstart/>I just can't make up my mind... Mmm.<boxstart/>Huh? About what?<boxstart/>Hmmm, don't make me say it... It's the shop down on the right. </sp>
 <stage>On to the Honey Bee Inn, a brothel outside of which a number of guys are hanging around.</stage>
 <sp> <speaker name="Johnny">Johnny</speaker><boxstart/>Man... Should I go...... or not?<boxstart/>...I get so mental at times like this. I'm hopeless!!<boxstart/>Hey!! Aren't you...?<boxstart/>What!! You mean you're... too? </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah, me too.<boxstart/>- Don't bring me down to your level </sp>
 
   <sp> <speaker name="Cloud"/><boxstart/>Yeah, me too. </sp>
-  <sp> <speaker name="Johnny">Johnny</speaker><boxstart/>You're Tifa's childhood friend, and you brought a new girlfriend to a place like this!?<boxstart/>What kind of guy are you!! </sp>
+  <sp> <speaker name="Johnny">Johnny</speaker><boxstart/>You're <referent name="Tifa">Tifa</referent>'s childhood friend, and you brought a new girlfriend to a place like this!?<boxstart/>What kind of guy are you!! </sp>
 
 
   <sp> <speaker name="Cloud"/><boxstart/>Don't bring me down to your level </sp>
@@ -70,10 +70,10 @@
 <sp> <speaker name="Punk">Punk</speaker><boxstart/>What the hell!! You *%^&amp;!! This ain't no #$*&amp;^% show!! I'm busy right now!!<boxstart/>I'm feelin' like there's gonna be a fight!! </sp>
 <sp> <speaker name="Shinra Soldier">Shinra Soldier</speaker><boxstart/>Urrrrgh... no way...... I can't go on.<boxstart/>Things aren't working out.<boxstart/>Between our differences and my pay, it just isn't cutting it. </sp>
 <sp> <speaker name="Older Man">Older Man</speaker><boxstart/>Welcome!! Even unpopular dweebs, like you may meet their destiny here!!<boxstart/>You looking for a girlfriend too? </sp>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- You know a girl named Tifa?<boxstart/>- This place doesn't interest me. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- You know a girl named <referent name="Tifa">Tifa</referent>?<boxstart/>- This place doesn't interest me. </sp>
 
-  <sp> <speaker name="Cloud"/><boxstart/>You know a girl named Tifa? </sp>
-  <sp> <speaker name="Older Man">Older Man</speaker><boxstart/>Hey, you're pretty fast. Tifa's our newest girl.<boxstart/>But, unfortunately, she's having an interview right now.<boxstart/>Here at the Honey Bee Inn, it's customary for all the new girls to be taken to Don Corneo's mansion.<boxstart/>Don Corneo's a famous dilettante. Now he wants to settle down and is in the market for a bride. </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>You know a girl named <referent name="Tifa">Tifa</referent>? </sp>
+  <sp> <speaker name="Older Man">Older Man</speaker><boxstart/>Hey, you're pretty fast. <referent name="Tifa">Tifa</referent>'s our newest girl.<boxstart/>But, unfortunately, she's having an interview right now.<boxstart/>Here at the Honey Bee Inn, it's customary for all the new girls to be taken to Don Corneo's mansion.<boxstart/>Don Corneo's a famous dilettante. Now he wants to settle down and is in the market for a bride. </sp>
 
 
   <sp> <speaker name="Cloud"/><boxstart/>This place doesn't interest me. </sp>
@@ -111,7 +111,7 @@
 <stage>At Don Corneo's mansion...</stage>
 <sp> <speaker name="Doorman">Doorman</speaker><boxstart/>This is the mansion of Don Corneo, the most powerful man in Wall Market.<boxstart/>Look, the Don's not into men. So don't let me catch you around here again...<boxstart/>Hey, and you got another cute one with you! </sp>
 <stage>Aerith and Cloud step aside to talk.</stage>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Hey, this look's like the Don's mansion. I'll go take a look.<boxstart/>I'll tell Tifa about you. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Hey, this look's like the Don's mansion. I'll go take a look.<boxstart/>I'll tell <referent name="Tifa">Tifa</referent> about you. </sp>
 <stage>She starts for the door.</stage>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>No!! You can't!! </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Why? </sp>
@@ -119,13 +119,13 @@
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Then what am I supposed to do? You want to go in with me? </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Well being a man, that'll be pretty hard. Besides if I bust in there, it'll cause too much commotion.<boxstart/>But, I just can't let you go in alone... Oh, man...... </sp>
 <stage>At this point, Aerith starts laughing, but Cloud continues without noticing.</stage>
-<sp> <boxstart/>First... we need to find out if Tifa's alright...<boxstart/>What's so funny, Aerith? </sp>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Cloud, why don't you dress up like a girl? It's the only way. </sp>
+<sp> <boxstart/>First... we need to find out if <referent name="Tifa">Tifa</referent>'s alright...<boxstart/>What's so funny, <referent name="Aerith">Aerith</referent>? </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/><referent name="Cloud">Cloud</referent>, why don't you dress up like a girl? It's the only way. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>WHAT!? </sp>
 <stage>Aerith runs over to the doorman before he can protest further.</stage>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Just wait. I've got a cute friend I want to bring. </sp>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Aerith! I can't...... </sp>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>You ARE worried about Tifa, aren't you? Them come on, hurry! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Aerith">Aerith</referent>! I can't...... </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>You ARE worried about <referent name="Tifa">Tifa</referent>, aren't you? Them come on, hurry! </sp>
 <sp> <speaker name="Doorman">Doorman</speaker><boxstart/>A friend, huh...? Sounds pretty good to me.<boxstart/>That'll make the Don happy, too. Who knows, maybe I can...... heeee, hee hee. </sp>
 
 <stage>Now that they know where Tifa is, it becomes possible to enter the Honey Bee Inn.</stage>
@@ -221,8 +221,8 @@
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Introduce yourself<boxstart/>- Say Goodbye </sp>
 
   <sp> <speaker name="Cloud"/><boxstart/>Introduce yourself </sp>
-  By the way, I haven't introduced myself yet.<boxstart/>I'm Cloud, a jack of all trades.
-  <sp> <speaker name="Woman 3">Woman 3</speaker><boxstart/>Oh, yeah...? Welcome, Cloud.<boxstart/>(Gross! Don't get carried away, remember your name is 'Pooch!')<boxstart/>Take care... Cloud. </sp>
+  By the way, I haven't introduced myself yet.<boxstart/>I'm <referent name="Cloud">Cloud</referent>, a jack of all trades.
+  <sp> <speaker name="Woman 3">Woman 3</speaker><boxstart/>Oh, yeah...? Welcome, Cloud.<boxstart/>(Gross! Don't get carried away, remember your name is 'Pooch!')<boxstart/>Take care... <referent name="Cloud">Cloud</referent>. </sp>
 
 
   <sp> <speaker name="Cloud"/><boxstart/>Say Goodbye </sp>
@@ -257,7 +257,7 @@
 <sp> Wake up!<boxstart/> </sp>
 <sp> <boxstart/>rub, rub, rub... rub, rub, rub, rub...<boxstart/>thump... pound... thump... pound...<boxstart/>poik... poik... ...squish. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Uh... OW...!! </sp>
-<sp> <speaker name="unspecified"/><boxstart/>Cloud's HP/MP Restored! </sp>
+<sp> <speaker name="unspecified"/><boxstart/><referent name="Cloud">Cloud</referent>'s HP/MP Restored! </sp>
 <sp> Wake up!! </sp>
 <stage>Cloud wakes up to find a mustached man slapping him.</stage>
 <sp> <speaker name="Mukki">Mukki</speaker><boxstart/>Wake up!!<boxstart/>Phew, I'm so relieved.<boxstart/>Bubby!! I heard you collapsed.<boxstart/>No, no, no.<boxstart/>Don't get so uptight. </sp>
@@ -347,8 +347,8 @@
 <sp> <speaker name="unspecified"/><boxstart/>Received Key Item "Bikini briefs"! </sp>
 <sp> <speaker name="Mukki">Mukki</speaker><boxstart/>Hope we meet again! </sp>
 <stage>The men all run out.</stage>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>This is SOME underwear... I'm supposed to wear this...?<boxstart/>Well, if it's to save Tifa... I guess there's no way around. </sp>
-<stage>Cloud gets up and shrugs.<boxstart/><boxstart/>If Cloud walks back into the dressing room...</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>This is SOME underwear... I'm supposed to wear this...?<boxstart/>Well, if it's to save <referent name="Tifa">Tifa</referent>... I guess there's no way around. </sp>
+<stage>Cloud gets up and shrugs.<boxstart/><boxstart/>If <referent name="Cloud">Cloud</referent> walks back into the dressing room...</stage>
 <sp> <speaker name="Woman 3">Woman 3</speaker><boxstart/>............. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>If I were to dress up like a woman... Then I've got to really prepare carefully.<boxstart/>Seems like I could put makeup on here.<boxstart/>- Have them put makeup on<boxstart/>- Don't do it </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I have a favor to ask of you. Can you put makeup on me too? </sp>
@@ -357,11 +357,11 @@
 <stage>Cloud leaves the dressing room and exits the Honey Bee Inn. Outside, Aerith is surrounded by the men hanging around, but they scatter when Cloud steps out.</stage>
 <sp> <speaker name="Older Man">Older Man</speaker><boxstart/>Uh, sir!! It's almost closing time...<boxstart/>So, please remember any personal belongings. </sp>
 <sp> <speaker name="Shinra Soldier">Shinra Soldier</speaker><boxstart/>Uuuuuuuh! I want flowers too! But, I get so nervous in front of cute girls...<boxstart/>It just seems natural to get cautious... </sp>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Hey!! Cloud!! </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Hey!! <referent name="Cloud">Cloud</referent>!! </sp>
 <stage>She runs over to join him.</stage>
-<sp> <speaker name="Johnny">Johnny</speaker><boxstart/>Aerith...... Thanks for the flower and 1 gil.<boxstart/>I'll treasure this! I'm going to dry it and keep it for good luck. </sp>
-<sp> <speaker name="Redhead in Suit">Redhead in Suit</speaker><boxstart/>I bought some pretty flowers from Aerith.<boxstart/>500 gil, a little expensive. Well, at least I got her name. </sp>
-<sp> <speaker name="Punk">Punk</speaker><boxstart/>I asked Aerith for a date...<boxstart/>And she said not even if I paid her 1,000,000 gil.<boxstart/>Her flowers cost 300 gil, too... She's a good business woman. </sp>
+<sp> <speaker name="Johnny">Johnny</speaker><boxstart/><referent name="Aerith">Aerith</referent>...... Thanks for the flower and 1 gil.<boxstart/>I'll treasure this! I'm going to dry it and keep it for good luck. </sp>
+<sp> <speaker name="Redhead in Suit">Redhead in Suit</speaker><boxstart/>I bought some pretty flowers from <referent name="Aerith">Aerith</referent>.<boxstart/>500 gil, a little expensive. Well, at least I got her name. </sp>
+<sp> <speaker name="Punk">Punk</speaker><boxstart/>I asked <referent name="Aerith">Aerith</referent> for a date...<boxstart/>And she said not even if I paid her 1,000,000 gil.<boxstart/>Her flowers cost 300 gil, too... She's a good business woman. </sp>
 
 <stage>Back on the main quest. Aerith and Cloud head to the dress shop.</stage>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Excuse me! I'd like to get a dress. </sp>
@@ -374,7 +374,7 @@
 <sp> <speaker name="Shopkeeper's Daughter">Shopkeeper's Daughter</speaker><boxstart/>Yes, I'm sorry. He's caused so much trouble.<boxstart/>!<boxstart/>You'd help me bring him back? </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Well, if we don't do something, we don't get a dress, right? </sp>
 <sp> <speaker name="Shopkeeper's Daughter">Shopkeeper's Daughter</speaker><boxstart/>Really!? Please help my crazy old dad. I just don't know what to do anymore... </sp>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>All right, we'll do something. Let's go, Cloud! </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>All right, we'll do something. Let's go, <referent name="Cloud">Cloud</referent>! </sp>
 <stage>On talking to her again:</stage>
 <sp> <speaker name="Shopkeeper's Daughter">Shopkeeper's Daughter</speaker><boxstart/>So how did it go? </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>We couldn't find him yet. </sp>
@@ -384,7 +384,7 @@
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I didn't say that...... </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Make me some clothes. </sp>
 <sp> <speaker name="Clothing Shop Owner">Clothing Shop Owner</speaker><boxstart/>I don't make men's clothes. And I don't feel like makin' anything right now. </sp>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Cloud, you wait over there for a second. I'll try and talk to him.<boxstart/>Why don't you go over there and have something to drink. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/><referent name="Cloud">Cloud</referent>, you wait over there for a second. I'll try and talk to him.<boxstart/>Why don't you go over there and have something to drink. </sp>
 <stage>Cloud turns away.</stage>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>You know, Mister.<boxstart/>He always said that just once, he'd like to dress up like a girl.<boxstart/>So, that's why I wanted a cute dress for him... </sp>
 <sp> <speaker name="Clothing Shop Owner">Clothing Shop Owner</speaker><boxstart/>What!? A tough lookin guy like that? </sp>
@@ -406,7 +406,7 @@
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>It's still not right. A wig! That's what you need! </sp>
 <sp> <speaker name="Clothing Shop Owner">Clothing Shop Owner</speaker><boxstart/>Umm, I thought you might, so I talked to my friend about getting one.<boxstart/>You know the gym? You'll find a lot of people there like you. Go and talk to them. </sp>
 <stage>Cloud comes out of the dressing room in his usual attire.</stage>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...'like you'? Aerith, what did you tell him? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...'like you'? <referent name="Aerith">Aerith</referent>, what did you tell him? </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Does it matter? Anyhow, we got a pretty dress! </sp>
 <stage>Off to the gym...</stage>
 <sp> <speaker name="Beautiful Bro">Beautiful Bro</speaker><boxstart/>You the one...... Who wants to be cute? </sp>
@@ -426,7 +426,7 @@
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- A little<boxstart/>- Don't need to practice </sp>
 <sp> <speaker name="Beautiful Bro">Beautiful Bro</speaker><boxstart/>Now let's begin the real thing. Start! </sp>
 
-  <sp> <speaker name="Cloud"/><boxstart/>If Cloud wins...</sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If <referent name="Cloud">Cloud</referent> wins...</sp>
   <sp> <speaker name="Beautiful Bro">Beautiful Bro</speaker><boxstart/>He had 13 squats and you had 19 squats.<boxstart/>You're really something. Okay, I'm a man of my word, here you are. </sp>
   Received Key Item "Blonde Wig"!
   <sp> <speaker name="Black man">Black man</speaker><boxstart/>Big Bro I'm so mad I'm so so so---mad! </sp>
@@ -444,7 +444,7 @@
   <sp> <speaker name="Black Man">Black Man</speaker><boxstart/>Uuuuhh, Bro's fists of steel cut to the bone! </sp>
 
 
-  <sp> <speaker name="Cloud"/><boxstart/>If Cloud loses...</sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If <referent name="Cloud">Cloud</referent> loses...</sp>
   <sp> <speaker name="Beautiful Bro">Beautiful Bro</speaker><boxstart/>He had 17 squats and you had 13 squats.<boxstart/>Sorry You lose.<boxstart/>Since the old man from the clothing store asked me, I can't keep it from you, so...<boxstart/>Oh, now where did I put it?<boxstart/>All right then. </sp>
   <stage>The black man pulls it out from... somewhere and hands it to Cloud. Beautiful Bro punches him.</stage>
   <sp> <speaker name="Beautiful Bro">Beautiful Bro</speaker><boxstart/>Stupid! What kinda place is that to hide it in!? </sp>
@@ -492,13 +492,13 @@
   <sp> <speaker name="Cloud"/><boxstart/>Give her medicine </sp>
   <sp> <speaker name="Redhead in Bathroom">Redhead in Bathroom</speaker><boxstart/>Huh? You'll really give me some? Thanks. </sp>
   
-    <sp> <speaker name="Cloud"/><boxstart/>If Cloud gives her the Disinfectant...</sp>
+    <sp> <speaker name="Cloud"/><boxstart/>If <referent name="Cloud">Cloud</referent> gives her the Disinfectant...</sp>
     <sp> <speaker name="Redhead in Bathroom">Redhead in Bathroom</speaker><boxstart/>What is this...? Oh well.<boxstart/>It didn't do a thing, but thanks anyways. Here, this is for your kindness. </sp>
     Received Key Item "Cologne"!
     <stage>She leaves the bathroom and the man waiting runs in.</stage>
   
   
-    <sp> <speaker name="Cloud"/><boxstart/>If Cloud gives her the Digestive...</sp>
+    <sp> <speaker name="Cloud"/><boxstart/>If <referent name="Cloud">Cloud</referent> gives her the Digestive...</sp>
     <sp> <speaker name="Redhead in Bathroom">Redhead in Bathroom</speaker><boxstart/>Phew, I feel better now. This is for your kindness. </sp>
     Received Key Item "Sexy Cologne"!
     <stage>She leaves the bathroom and the man waiting runs in.</stage>
@@ -515,7 +515,7 @@
   <sp> <speaker name="Cloud"/><boxstart/>What is it </sp>
   <sp> <speaker name="Materia Shopkeeper">Materia Shopkeeper</speaker><boxstart/>Really! I really appreciate it.<boxstart/>......I'm sorry but, young lady? Would you turn the other way, for a second? </sp>
   <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Why......? </sp>
-  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>......Aerith. </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>......<referent name="Aerith">Aerith</referent>. </sp>
   <sp> <speaker name="Aerith">Aerith</speaker> (turning away)<boxstart/>Gosh! </sp>
   <sp> <speaker name="Materia Shopkeeper">Materia Shopkeeper</speaker><boxstart/>I'm sorry, lady.<boxstart/>Now here's the thing. Do you know that vending machine in the Inn?<boxstart/>I'm itchin' to know what they're selling in it. I just can't ask a girl to go get it.<boxstart/>What? Why don't I buy it myself? Well to tell you the truth, I got in a fight with the guy at the Inn and can't go there anymore. Come on, so how 'bout it? </sp>
   <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>......<boxstart/>- I'll go<boxstart/>- Not interested </sp>
@@ -584,10 +584,10 @@
 <stage>Cloud changes in the dressing room and steps out.</stage>
 <sp> <speaker name="Clothing Shop Owner">Clothing Shop Owner</speaker><boxstart/>Hmm, not bad. This may be a new business for me. </sp>
 <sp> <speaker name="Shopkeeper's Daughter">Shopkeeper's Daughter</speaker><boxstart/>Yeah, you're right. Should we try it?<boxstart/>Thanks for showing us something new. My father's got his motivation back now, So the dress is on the house. </sp>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Walk more nicely like... this. Miss Cloud. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Walk more nicely like... this. Miss <referent name="Cloud">Cloud</referent>. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...What do you mean 'nicely'? </sp>
 <stage>Cloud walks primly around the room.</stage>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Oh you're so cute, Miss Cloud.<boxstart/>Aaah, I want one. Do you have one that'll look good on me too? </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Oh you're so cute, Miss <referent name="Cloud">Cloud</referent>.<boxstart/>Aaah, I want one. Do you have one that'll look good on me too? </sp>
 <sp> <speaker name="Shopkeeper's Daughter">Shopkeeper's Daughter</speaker><boxstart/>How's this? </sp>
 <sp> <speaker name="Clothing Shop Owner">Clothing Shop Owner</speaker><boxstart/>How about that one? </sp>
 <sp> <speaker name="Shopkeeper's Daughter">Shopkeeper's Daughter</speaker><boxstart/>Father, what are you talking about? This one's much better. </sp>
@@ -605,10 +605,10 @@
 <sp> <speaker name="Customer">Customer</speaker><boxstart/>You're...<boxstart/>Weird. </sp>
 <sp> <speaker name="Clothing Shop Owner">Clothing Shop Owner</speaker><boxstart/>Hmm, good. It looks good on you. </sp>
 <stage>They leave the dress shop and can now wander around a bit without being recognized. If Cloud tries to leave Wall Market, Aerith hangs back.</stage>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What's wrong, Aerith? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What's wrong, <referent name="Aerith">Aerith</referent>? </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>...What is it? Are you going outside like that? I mean, that's okay with me, but... </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...Oh, yeah. </sp>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Get a hold of yourself, Ms. Cloud. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Get a hold of yourself, Ms. <referent name="Cloud">Cloud</referent>. </sp>
 <sp> <speaker name="Punk">Punk</speaker><boxstart/>Hey! Pretty lady. Let me tell you about a good job!<boxstart/>Go to the Don's place. You'll make a small fortune! </sp>
 <stage>Outside the Honey Bee Inn...</stage>
 <sp> <speaker name="Men">Men</speaker><boxstart/>Yeow!! Hey, Princess!! </sp>
@@ -630,51 +630,51 @@
 <sp> <speaker name="Doorman">Doorman</speaker><boxstart/>Damn!! Your friend's hot, too!<boxstart/>Come in, come in!!<boxstart/>Two ladies coming through!! </sp>
 <stage>The door opens, and Cloud and Aerith walk through.</stage>
 <sp> <speaker name="Redhead in Suit">Redhead in Suit</speaker><boxstart/>Hey, ladies.<boxstart/>I'll go and let the Don know you're here. Wait here. Don't go wandering around... </sp>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Now's our chance. Let's find Tifa. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Now's our chance. Let's find <referent name="Tifa">Tifa</referent>. </sp>
 <stage>Of two doors upstairs, one is closed, and the other reads "Office of The Don Corneo Keep Out!" Aerith and Cloud go down a long set of stairs to the basement, where they find Tifa. When Cloud sees her, he turns away. Aerith goes over to talk to her alone.</stage>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>...Tifa?<boxstart/>Nice to meet you. I'm Aerith.<boxstart/>Cloud's told me a lot about you. </sp>
-<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>...And you are?<boxstart/>Hey you're the one with Cloud in the park... </sp>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Right, with Cloud. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>...<referent name="Tifa">Tifa</referent>?<boxstart/>Nice to meet you. I'm <referent name="Aerith">Aerith</referent>.<boxstart/><referent name="Cloud">Cloud</referent>'s told me a lot about you. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>...And you are?<boxstart/>Hey you're the one with <referent name="Cloud">Cloud</referent> in the park... </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Right, with <referent name="Cloud">Cloud</referent>. </sp>
 <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Oh...... </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Don't worry. We just met. It's nothing. </sp>
-<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>What do you mean, 'Don't worry'... about what?<boxstart/>No, don't misunderstand.<boxstart/>Cloud and I grew up together. Nothing more. </sp>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Poor Cloud, having to stand here and listen to both of us call him nothing.<boxstart/>Right, Cloud? </sp>
-<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Cloud? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>What do you mean, 'Don't worry'... about what?<boxstart/>No, don't misunderstand.<boxstart/><referent name="Cloud">Cloud</referent> and I grew up together. Nothing more. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Poor Cloud, having to stand here and listen to both of us call him nothing.<boxstart/>Right, <referent name="Cloud">Cloud</referent>? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>? </sp>
 <stage>If Cloud tries to run away upstairs, Aerith comes after him.</stage>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Embarrassed? Come on, speak up! </sp>
 <stage>Cloud walks up to Tifa, head down.</stage>
 <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>???? </sp>
 <stage>She peers at him and then jumps several feet in the air.</stage>
-<sp> <boxstart/>Cloud!?<boxstart/>Why are you dressed like that!? And what are you doing here!?<boxstart/>Forget that, what happened to you after the fall!? Are you hurt!? </sp>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Hey, give me a chance to answer.<boxstart/>I'm dressed like this...... because there was no other way to get in here.<boxstart/>I'm all right. Aerith helped me out. </sp>
-<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Oh, Aerith did... </sp>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Tifa, explain. What are you doing in a place like this? </sp>
+<sp> <boxstart/><referent name="Cloud">Cloud</referent>!?<boxstart/>Why are you dressed like that!? And what are you doing here!?<boxstart/>Forget that, what happened to you after the fall!? Are you hurt!? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Hey, give me a chance to answer.<boxstart/>I'm dressed like this...... because there was no other way to get in here.<boxstart/>I'm all right. <referent name="Aerith">Aerith</referent> helped me out. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Oh, <referent name="Aerith">Aerith</referent> did... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Tifa">Tifa</referent>, explain. What are you doing in a place like this? </sp>
 <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Yeah, ummm...... </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Ahem!! I'll just plug my ears. </sp>
 <stage>She walks a short distance away and puts her hands to her ears.</stage>
 <sp> <boxstart/>Please, go on with your private conversation. </sp>
 <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>...I'm glad you're OK. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Thanks. What happened? </sp>
-<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>When we got back from the Number 5 reactor, there was this weird man.<boxstart/>So Barret caught him and squeezed some information out of him. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>When we got back from the Number 5 reactor, there was this weird man.<boxstart/>So <referent name="Barret">Barret</referent> caught him and squeezed some information out of him. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>That's when the Don's name popped up. </sp>
-<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Right, Don Corneo.<boxstart/>Barret told me to leave the lech alone...<boxstart/>But something's been bothering me. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Right, Don Corneo.<boxstart/><referent name="Barret">Barret</referent> told me to leave the lech alone...<boxstart/>But something's been bothering me. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I see. So you wanted to get the story straight from Corneo's mouth. </sp>
 <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>So I made it here, but now I'm in a bind.<boxstart/>Corneo is looking for a bride.<boxstart/>Everyday, he gets three girls, chooses one of them, and then... ...and, well......<boxstart/>Anyway, I have to be the girl... or I'm out for tonight. </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Sorry... but I overheard...<boxstart/>If you know the three girls, there's no problem, right? </sp>
 <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>I guess so, but... </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>We have two here, right? </sp>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>No, Aerith! I can't have you get involved. </sp>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Oh? So it's all right for Tifa to be in danger? </sp>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>No, I don't want Tifa in... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>No, <referent name="Aerith">Aerith</referent>! I can't have you get involved. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Oh? So it's all right for <referent name="Tifa">Tifa</referent> to be in danger? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>No, I don't want <referent name="Tifa">Tifa</referent> in... </sp>
 <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Is it all right? </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I grew up in the slums... I'm used to danger.<boxstart/>Do you trust me? </sp>
-<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Yes. Thanks, Ms. Aerith. </sp>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Call me Aerith. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Yes. Thanks, Ms. <referent name="Aerith">Aerith</referent>. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Call me <referent name="Aerith">Aerith</referent>. </sp>
 <sp> <speaker name="Redhead in Suit">Redhead in Suit</speaker><boxstart/>He---y!!<boxstart/>It's time, ladies. The Don is waiting!<boxstart/>I told you not to wander around... I tell ya, women nowadays...<boxstart/>Hurry up, will ya! </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I probably don't need to ask but the other girl is......<boxstart/>Me...... right? </sp>
 <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>You're right, there was no need... </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>...to ask. </sp>
-<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Ha ha... You know, if you look closely, you're not so bad...<boxstart/>I wonder what Barret would say if he could see you now... </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Ha ha... You know, if you look closely, you're not so bad...<boxstart/>I wonder what <referent name="Barret">Barret</referent> would say if he could see you now... </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>They're going to get suspicious if we don't hurry. </sp>
 <stage>The three of them head back upstairs.</stage>
 <sp> <speaker name="Redhead in Suit">Redhead in Suit</speaker><boxstart/>The Don's waiting in his room... Ha ha ha... </sp>
@@ -722,13 +722,13 @@
 <sp> <speaker name="Kotch">Kotch</speaker><boxstart/>oh, oh, oh...... </sp>
 <stage>He falls down the stairs.</stage>
 <sp> <boxstart/>heh, heh, heh...!! </sp>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Aerith!!<boxstart/>- You all right?<boxstart/>- We gotta help Tifa! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Aerith">Aerith</referent>!!<boxstart/>- You all right?<boxstart/>- We gotta help <referent name="Tifa">Tifa</referent>! </sp>
 
   <sp> <speaker name="Cloud"/><boxstart/>You all right? </sp>
   <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I told you. I'm used to danger.<boxstart/>To tell you the truth, my heart was pounding! </sp>
 
 
-  <sp> <speaker name="Cloud"/><boxstart/>We gotta help Tifa! </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>We gotta help <referent name="Tifa">Tifa</referent>! </sp>
   <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Ye... yes, you're right... ......let's hurry! </sp>
 
 <sp> <speaker name="Kotch">Kotch</speaker> (lying at the bottom of the stairs)<boxstart/>C'mon... just once... I won't tell... I promise!<boxstart/>I just wanted to act like I got a cute girl...<boxstart/>Cute!! </sp>
@@ -739,7 +739,7 @@
 <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>No... I'm not asking about that......<boxstart/>Wa... wait a minute! No, not yet!! </sp>
 <sp> <speaker name="Don Corneo">Don Corneo</speaker><boxstart/>Come! Come!<boxstart/>Aooooooooh!! I can't wait any longer! Here comes papa!! </sp>
 <stage>Cloud and Aerith run in.</stage>
-<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Cloud!! </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>!! </sp>
 <stage>Tifa jumps up as Corneo leaps for her, and he lands on his face.</stage>
 <sp> <speaker name="Don Corneo">Don Corneo</speaker><boxstart/>Wha... what the hell? Who goes there!? </sp>
 <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>You still don't get it do you, Don Corneo? </sp>
@@ -769,14 +769,14 @@
 <stage>Cloud fights off three of Corneo's lackeys.</stage>
 <sp> <speaker name="Scotch">Scotch</speaker><boxstart/>Grr! C'mon, what's the matter with you good for nothings!?<boxstart/>All right now, COME ON! I'll show you how it's done!! </sp>
 <stage>Cloud dispatches Scotch and the other two lackeys. He then hurries back to the other basement room and meets Tifa as she's running out.</stage>
-<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Cloud!! </sp>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Tifa!!<boxstart/>- You all right?<boxstart/>- We've gotta help Aerith!! </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>!! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Tifa">Tifa</referent>!!<boxstart/>- You all right?<boxstart/>- We've gotta help <referent name="Aerith">Aerith</referent>!! </sp>
 
   <sp> <speaker name="Cloud"/><boxstart/>You all right? </sp>
   <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Of course! If you take me lightly, you're gonna pay for it!! </sp>
 
 
-  <sp> <speaker name="Cloud"/><boxstart/>We've gotta help Aerith!! </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>We've gotta help <referent name="Aerith">Aerith</referent>!! </sp>
   <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Hey, don't you even care about how I am? ......never mind, let's go! </sp>
 
 <sp> <speaker name="Kotch">Kotch</speaker> (lying at the bottom of the stairs)<boxstart/>C'mon... just once... I won't tell... I promise!<boxstart/>I just wanted to act like I got a cute girl...<boxstart/>Cute!! </sp>
@@ -787,7 +787,7 @@
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>No, that's not what I meant!<boxstart/>NO, STOP! Just, just wait a second!! </sp>
 <sp> <speaker name="Don Corneo">Don Corneo</speaker><boxstart/>Come! Come!<boxstart/>Aooooooooh!! I can't wait any longer! Here comes papa!! </sp>
 <stage>Cloud and Tifa run in.</stage>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Cloud!! </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/><referent name="Cloud">Cloud</referent>!! </sp>
 <stage>Aerith jumps up as Corneo leaps for her, and he lands on his face.</stage>
 <sp> <speaker name="Don Corneo">Don Corneo</speaker><boxstart/>Wha... what the hell? Who goes there!? </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I'm sorry, Don. </sp>
@@ -820,7 +820,7 @@
       <stage>Cloud walks over and leans forward to kiss Corneo, not quite touching lips. He shakes his head and tries again.</stage>
       <sp> <speaker name="Aerith or Tifa">Aerith or Tifa</speaker><boxstart/>Ju---st a minute!! </sp>
       <sp> <speaker name="Don Corneo">Don Corneo</speaker><boxstart/>Wha... what the hell? Who goes there!? </sp>
-      <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Cloud...<boxstart/>Were you really...... </sp>
+      <sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>...<boxstart/>Were you really...... </sp>
       <stage>Cloud shakes his head violently and takes off the dress.</stage>
       <sp> <speaker name="Don Corneo">Don Corneo</speaker><boxstart/>A man!? What's goin' on? </sp>
     
@@ -837,15 +837,15 @@
   
     <sp> <speaker name="Cloud"/><boxstart/>Don't really care...... </sp>
     <sp> <speaker name="Don Corneo">Don Corneo</speaker><boxstart/>You don't like me?<boxstart/>There... there isn't someone else, is there? </sp>
-    <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- No, only you<boxstart/>- Yes, his name's Barret... </sp>
+    <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- No, only you<boxstart/>- Yes, his name's <referent name="Barret">Barret</referent>... </sp>
     
       <sp> <speaker name="Cloud"/><boxstart/>No, only you </sp>
       <sp> <speaker name="Corneo">Corneo</speaker><boxstart/>You sure do know how to make a guy feel good!<boxstart/>Then, wh... what do you want to DO? </sp>
       <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Whatever YOU want, daddy<boxstart/>- Don't really care...... </sp>
     
     
-      <sp> <speaker name="Cloud"/><boxstart/>Yes, his name's Barret </sp>
-      <sp> <speaker name="Corneo">Corneo</speaker><boxstart/>No way!<boxstart/>Hmm? Barret? That sounds familiar... </sp>
+      <sp> <speaker name="Cloud"/><boxstart/>Yes, his name's <referent name="Barret">Barret</referent> </sp>
+      <sp> <speaker name="Corneo">Corneo</speaker><boxstart/>No way!<boxstart/>Hmm? <referent name="Barret">Barret</referent>? That sounds familiar... </sp>
       <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>You know, he's one of the ones you were trying to find out about. You know, AVALANCHE...? </sp>
       <sp> <speaker name="Don Corneo">Don Corneo</speaker><boxstart/>Oh, yeah, yeah. In Sector 7 in the slum...<boxstart/>...and how do YOU know that!? </sp>
       <stage>Cloud takes off the dress.</stage>
@@ -858,7 +858,7 @@
 
   <sp> <speaker name="Cloud"/><boxstart/>Ummm...... </sp>
   <sp> <speaker name="Don Corneo">Don Corneo</speaker><boxstart/>You don't like me?<boxstart/>There... there isn't someone else, is there? </sp>
-  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- No, only you<boxstart/>- Yes, his name's Barret... </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- No, only you<boxstart/>- Yes, his name's <referent name="Barret">Barret</referent>... </sp>
 
 <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Shut up, we're asking the questions now...<boxstart/>What did your assistants find out? Talk! If you don't tell us... </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...I'll chop them off. </sp>
@@ -875,8 +875,8 @@
 <sp> <speaker name="Don Corneo">Don Corneo</speaker><boxstart/>...You're serious, aren't you... ...ohboy, ohbooy, ohboy.<boxstart/>...I'm not fooling around here either, you know.<boxstart/>Shinra's trying to crush a small rebel group called AVALANCHE, and want to infiltrate their hideout.<boxstart/>And they're really going to crush them... literally,<boxstart/>By breaking the support holding up the plate above them. </sp>
 <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Break the support!? </sp>
 <sp> <speaker name="Don Corneo">Don Corneo</speaker><boxstart/>You know what's going to happen? The plate'll go PING<boxstart/>and everything's gonna go BAMMM!! I heard their hideout's in the Sector 7 Slums...<boxstart/>I'm just glad it's not here in Sector 6. </sp>
-<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>They're going to wipe out the Sector 7 Slums!?<boxstart/>Cloud, will you come with me to Sector 7? </sp>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Of course, Tifa. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>They're going to wipe out the Sector 7 Slums!?<boxstart/><referent name="Cloud">Cloud</referent>, will you come with me to Sector 7? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Of course, <referent name="Tifa">Tifa</referent>. </sp>
 <stage>They all start for the door.</stage>
 <sp> <speaker name="Don Corneo">Don Corneo</speaker><boxstart/>Just a second! </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Shut up! </sp>

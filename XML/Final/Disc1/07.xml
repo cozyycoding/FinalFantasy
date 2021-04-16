@@ -25,56 +25,56 @@
 <sp> <speaker name="Man">Man</speaker><boxstart/>...sure is loud outside. Wonder what's happening? </sp>
 <sp> <speaker name="Weapons Shopkeeper">Weapons Shopkeeper</speaker><boxstart/>You never know what's going to happen! It's a crazy world,<boxstart/>so you'd better at least have a weapon you can depend on! Am I right or what? </sp>
 <stage>They continue onward to Aerith's house, where Elmyra is there to receive them.</stage>
-<sp> <speaker name="Elmyra">Elmyra</speaker><boxstart/>Cloud...... wasn't it?<boxstart/>It's about Aerith, isn't it? </sp>
+<sp> <speaker name="Elmyra">Elmyra</speaker><boxstart/><referent name="Cloud">Cloud</referent>...... wasn't it?<boxstart/>It's about <referent name="Aerith">Aerith</referent>, isn't it? </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...Sorry. The Shinra have her. </sp>
 <sp> <speaker name="Elmyra">Elmyra</speaker><boxstart/>I know. They took her from here. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>They were here? </sp>
-<sp> <speaker name="Elmyra">Elmyra</speaker><boxstart/>That's what Aerith wanted... </sp>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Why is Shinra after Aerith? </sp>
-<sp> <speaker name="Elmyra">Elmyra</speaker><boxstart/>Aerith is an Ancient. The sole survivor. </sp>
+<sp> <speaker name="Elmyra">Elmyra</speaker><boxstart/>That's what <referent name="Aerith">Aerith</referent> wanted... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Why is Shinra after <referent name="Aerith">Aerith</referent>? </sp>
+<sp> <speaker name="Elmyra">Elmyra</speaker><boxstart/><referent name="Aerith">Aerith</referent> is an Ancient. The sole survivor. </sp>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>...What did you say? But, aren't you her mother? </sp>
 <sp> <speaker name="Elmyra">Elmyra</speaker><boxstart/>...Not her real mother. Oh... it must have been 15 years ago...<boxstart/>...during the war. My husband was sent to the front. Some far away place called Wutai. </sp>
 <sp> <speaker name="unspecified"/><boxstart/>One day, I went to the station because I got a letter saying he was coming home on leave.<boxstart/> </sp>
 <stage>In the flashback, Elmyra is waiting at the Sector 7 train station. A pair who look very much like Biggs and Jessie is hanging around at the lamp post like a couple. A man gets off the train and picks up his girlfriend. Another man gets off, and his wife picks him up. No one else gets off. Elmyra runs up to the station man who shakes his head.</stage>
 <sp> My husband never came back.<boxstart/>I wonder if something happened to him?<boxstart/>No, I'm sure his leave was just canceled.<boxstart/>I went to the station everyday.<boxstart/>Then, one day.........<boxstart/> </sp>
 <stage>Aerith's mother Ifalna is lying at the bottom of the steps, and a seven-year-old Aerith stands nearby crying. Elmyra runs over.</stage>
-<sp> You used to see this sort of thing a lot during the war.<boxstart/>Her last words were, "Please take Aerith somewhere safe."<boxstart/>My husband never came back. I had no child. I was probably lonely. So I decided to take her home with me.<boxstart/>Aerith and I became close very quickly. That child loved to talk. She used to talk to me about everything.<boxstart/>She told me she escaped from some kind of research laboratory somewhere. And that her mother had already returned to the planet, so she wasn't lonely... and many other things. </sp>
+<sp> You used to see this sort of thing a lot during the war.<boxstart/>Her last words were, "Please take Aerith somewhere safe."<boxstart/>My husband never came back. I had no child. I was probably lonely. So I decided to take her home with me.<boxstart/><referent name="Aerith">Aerith</referent> and I became close very quickly. That child loved to talk. She used to talk to me about everything.<boxstart/>She told me she escaped from some kind of research laboratory somewhere. And that her mother had already returned to the planet, so she wasn't lonely... and many other things. </sp>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>Returned to the planet? </sp>
 <sp> <speaker name="Elmyra">Elmyra</speaker><boxstart/>I didn't know what she meant. I asked if she meant a star in the sky,<boxstart/>But she said it was this planet... She was a mysterious child in many ways. </sp>
-<sp> <speaker name="unspecified"/><boxstart/><speaker name="Aerith">Aerith</speaker><boxstart/>Mom.<boxstart/>Please don't cry. </sp>
-<sp> <speaker name="Elmyra">Elmyra</speaker><boxstart/>Aerith just blurted that out all of a sudden. When I asked her if something happened...<boxstart/> </sp>
+<sp> <speaker name="unspecified"/><boxstart/><speaker name="Aerith"><referent name="Aerith">Aerith</referent></speaker><boxstart/>Mom.<boxstart/>Please don't cry. </sp>
+<sp> <speaker name="Elmyra">Elmyra</speaker><boxstart/><referent name="Aerith">Aerith</referent> just blurted that out all of a sudden. When I asked her if something happened...<boxstart/> </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Someone dear to you has just died.<boxstart/>His spirit was coming to see you, but he already returned to the planet. </sp>
 <sp> <speaker name="Elmyra">Elmyra</speaker><boxstart/>At that time I didn't believe her.<boxstart/>But...<boxstart/>Several days later... We received a notice saying my husband died...<boxstart/>...and that's how it was.<boxstart/>A lot had happened, but we were happy. Until one day...<boxstart/> </sp>
 <stage>Tseng of the Turks has come to the house. A young Aerith is hiding behind Elmyra.</stage><boxstart/>
-<sp> <speaker name="Tseng">Tseng</speaker><boxstart/>We want you to return Aerith to us. We've been searching for her for a long time.<boxstart/> </sp>
+<sp> <speaker name="Tseng">Tseng</speaker><boxstart/>We want you to return <referent name="Aerith">Aerith</referent> to us. We've been searching for her for a long time.<boxstart/> </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>No! Never!<boxstart/> </sp>
-<sp> <speaker name="Tseng">Tseng</speaker><boxstart/>Aerith, you're a very special child. You are of special blood.<boxstart/>Your real mother was an 'Ancient'. </sp>
+<sp> <speaker name="Tseng">Tseng</speaker><boxstart/><referent name="Aerith">Aerith</referent>, you're a very special child. You are of special blood.<boxstart/>Your real mother was an 'Ancient'. </sp>
 <sp> <speaker name="Elmyra">Elmyra</speaker><boxstart/>Of course I heard it. That she was an Ancient.<boxstart/> </sp>
-<sp> <speaker name="Tseng">Tseng</speaker><boxstart/>The Ancients will lead us to a land of supreme happiness.<boxstart/>Aerith will be able to bring happiness to all those in the slums.<boxstart/>That is why the Shinra would like Aerith's cooperation......<boxstart/> </sp>
+<sp> <speaker name="Tseng">Tseng</speaker><boxstart/>The Ancients will lead us to a land of supreme happiness.<boxstart/>Aerith will be able to bring happiness to all those in the slums.<boxstart/>That is why the Shinra would like <referent name="Aerith">Aerith</referent>'s cooperation......<boxstart/> </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>He's wrong! I'm not an Ancient! I'm not!<boxstart/> </sp>
-<sp> <speaker name="Tseng">Tseng</speaker><boxstart/>But Aerith, surely you hear voices sometimes when you're all alone?<boxstart/> </sp>
+<sp> <speaker name="Tseng">Tseng</speaker><boxstart/>But <referent name="Aerith">Aerith</referent>, surely you hear voices sometimes when you're all alone?<boxstart/> </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>No, I don't! </sp>
 <sp> <speaker name="Elmyra">Elmyra</speaker><boxstart/>But I knew. I knew about her mysterious powers...<boxstart/>She tried so hard to hide it, so I acted as though I never noticed. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>It's amazing how she's avoided the Shinra for all these years... </sp>
 <sp> <speaker name="Elmyra">Elmyra</speaker><boxstart/>The Shinra needed her, So I guess they wouldn't harm her. </sp>
 <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>But why now...... </sp>
-<sp> <speaker name="Elmyra">Elmyra</speaker><boxstart/>She brought a little girl here with her.<boxstart/>On the way here, Tseng found them. She probably couldn't get away fast enough.<boxstart/>She decided to go to the Shinra in exchange for the little girl's safety. </sp>
+<sp> <speaker name="Elmyra">Elmyra</speaker><boxstart/>She brought a little girl here with her.<boxstart/>On the way here, <referent name="Tseng">Tseng</referent> found them. She probably couldn't get away fast enough.<boxstart/>She decided to go to the Shinra in exchange for the little girl's safety. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Must be Marlene. </sp>
-<sp> <speaker name="Barret">Barret</speaker><boxstart/>Marlene!! Aerith was caught because of Marlene!?<boxstart/>I'm sorry. Marlene's my daughter. I'm... really... sorry... </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Marlene!! <referent name="Aerith">Aerith</referent> was caught because of Marlene!?<boxstart/>I'm sorry. Marlene's my daughter. I'm... really... sorry... </sp>
 <sp> <speaker name="Elmyra">Elmyra</speaker><boxstart/>You're her father!? How in the world could you ever leave a child alone like that!? </sp>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>...please don't start with that. I think about it all the time. What would happen to Marlene, if I...<boxstart/>But you gotta understand somethin'... ...I don't got an answer. I wanna be with Marlene... But I gotta fight.<boxstart/>'Cause if I don't... the planet's gonna die.<boxstart/>So I'm gonna keep fightin'!<boxstart/>But, I'm worried 'bout Marlene. I really just wanna be with her... always.<boxstart/>See? I'm goin' in circles, now. </sp>
 <sp> <speaker name="Elmyra">Elmyra</speaker><boxstart/>...I think I understand what you're saying... She's upstairs asleep, Why don't you go and see her. </sp>
 <stage>Barret goes upstairs.</stage>
-<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>It's my fault... I was the one who got Aerith involved in this. </sp>
-<sp> <speaker name="Elmyra">Elmyra</speaker><boxstart/>Don't say that. Aerith doesn't think that. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>It's my fault... I was the one who got <referent name="Aerith">Aerith</referent> involved in this. </sp>
+<sp> <speaker name="Elmyra">Elmyra</speaker><boxstart/>Don't say that. <referent name="Aerith">Aerith</referent> doesn't think that. </sp>
 <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>I feel so depressed. </sp>
 <sp> <speaker name="Elmyra">Elmyra</speaker><boxstart/>...sigh... </sp>
 <stage>Upstairs, Barret is hugging Marlene to him.</stage>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>I'm so glad...... I'm so glad you're all right... </sp>
 <sp> <speaker name="Marlene">Marlene</speaker><boxstart/>Daddy, don't cry. Your whiskers hurt! </sp>
 <stage>Cloud moves to leave without saying anything, but Barret notices him.</stage>
-<sp> <speaker name="Barret">Barret</speaker><boxstart/>Cloud!<boxstart/>You gonna go help Aerith, right? She's done so much for me...<boxstart/>If it's the Shinra you're dealin' with, I can't just sit here! I'm comin', too! </sp>
-<sp> <speaker name="Marlene">Marlene</speaker><boxstart/>Guess what? Guess what? Aerith was asking me lots of questions.<boxstart/>Like what kind of person Cloud is. I bet she likes you, Cloud! </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/><referent name="Cloud">Cloud</referent>!<boxstart/>You gonna go help <referent name="Aerith">Aerith</referent>, right? She's done so much for me...<boxstart/>If it's the Shinra you're dealin' with, I can't just sit here! I'm comin', too! </sp>
+<sp> <speaker name="Marlene">Marlene</speaker><boxstart/>Guess what? Guess what? <referent name="Aerith">Aerith</referent> was asking me lots of questions.<boxstart/>Like what kind of person Cloud is. I bet she likes you, <referent name="Cloud">Cloud</referent>! </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- I don't know<boxstart/>- Let's hope so </sp>
 
   <sp> <speaker name="Cloud"/><boxstart/>I don't know </sp>
@@ -82,10 +82,10 @@
 
 
   <sp> <speaker name="Cloud"/><boxstart/>Let's hope so </sp>
-  <sp> <speaker name="Marlene">Marlene</speaker><boxstart/>I won't tell Tifa! </sp>
+  <sp> <speaker name="Marlene">Marlene</speaker><boxstart/>I won't tell <referent name="Tifa">Tifa</referent>! </sp>
 
 <stage>Cloud goes back downstairs and heads for the door.</stage>
-<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>You're going after Aerith, right? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>You're going after <referent name="Aerith">Aerith</referent>, right? </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Yeah. </sp>
 <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>I'm coming with you. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>We're going right into Shinra Headquarters. ...You gotta be prepared for the worst. </sp>
@@ -160,8 +160,8 @@
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Just a normal wire. </sp>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>Oh yeah? Well to me it looks like a golden shiny wire of hope. </sp>
 <stage>They all look up.</stage>
-<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>You're right. This is the only way to save Aerith... </sp>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Ok, that was a bad analogy, but, Barret, I understand how you feel.<boxstart/>Let's go! </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>You're right. This is the only way to save <referent name="Aerith">Aerith</referent>... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Ok, that was a bad analogy, but, <referent name="Barret">Barret</referent>, I understand how you feel.<boxstart/>Let's go! </sp>
 <stage>Cloud and the others start up the wire. At the top of the wall, the other two kids are looking at the rubble of Sector 7.</stage>
 <sp> <speaker name="Kid 2">Kid 2</speaker><boxstart/>Oh man! This is horrible... </sp>
 <sp> <speaker name="Kid">Kid</speaker><boxstart/>Hey, scary, huh? Dad told me that it's the Shinra's doing. </sp>

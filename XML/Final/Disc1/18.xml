@@ -13,21 +13,21 @@
 <sp> <speaker name="* Note">* Note</speaker>: Because the party can trigger these events by visiting Gongaga any time before getting the Keystone, Vincent and Cid's responses are included here as well. Red XIII also has slightly different dialogue after completing the events at Cosmo Canyon.</sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...Is someone there? </sp>
 <stage>Farther along the path, Reno and Rude stand talking.</stage>
-<sp> <speaker name="Reno">Reno</speaker><boxstart/>Hey, Rude. Who do you like? </sp>
+<sp> <speaker name="Reno">Reno</speaker><boxstart/>Hey, <referent name="Rude">Rude</referent>. Who do you like? </sp>
 <stage>Rude turns away.</stage>
 <sp> <speaker name="Reno">Reno</speaker><boxstart/>What are you getting so embarrassed about? Come on? Who do you like? </sp>
-<sp> <speaker name="Rude">Rude</speaker><boxstart/>.........Tifa. </sp>
-<sp> <speaker name="Reno">Reno</speaker><boxstart/>Hmmmm...<boxstart/>That's a tough one.<boxstart/>But, poor Elena. She...... you...... </sp>
-<sp> <speaker name="Rude">Rude</speaker><boxstart/>No, she likes Tseng. </sp>
-<sp> <speaker name="Reno">Reno</speaker><boxstart/>I never knew that! But Tseng likes that Ancient... </sp>
+<sp> <speaker name="Rude">Rude</speaker><boxstart/>.........<referent name="Tifa">Tifa</referent>. </sp>
+<sp> <speaker name="Reno">Reno</speaker><boxstart/>Hmmmm...<boxstart/>That's a tough one.<boxstart/>But, poor <referent name="Elena">Elena</referent>. She...... you...... </sp>
+<sp> <speaker name="Rude">Rude</speaker><boxstart/>No, she likes <referent name="Tseng">Tseng</referent>. </sp>
+<sp> <speaker name="Reno">Reno</speaker><boxstart/>I never knew that! But <referent name="Tseng">Tseng</referent> likes that Ancient... </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What are they talking about? </sp>
 <stage>Elena comes up from behind him, and he turns around in surprise.</stage>
-<sp> <speaker name="Elena">Elena</speaker><boxstart/>It's so stupid!<boxstart/>They always talk about who they like or don't like. But Tseng is different.<boxstart/>Ah! Oh no! </sp>
+<sp> <speaker name="Elena">Elena</speaker><boxstart/>It's so stupid!<boxstart/>They always talk about who they like or don't like. But <referent name="Tseng">Tseng</referent> is different.<boxstart/>Ah! Oh no! </sp>
 <stage>She runs past Cloud to join Reno and Rude.</stage>
 <sp> <boxstart/>They're here! They're really here! </sp>
-<sp> <speaker name="Reno">Reno</speaker><boxstart/>Hmm... Then it's time...<boxstart/>Rude... Don't go easy on them even though they're girls. </sp>
+<sp> <speaker name="Reno">Reno</speaker><boxstart/>Hmm... Then it's time...<boxstart/><referent name="Rude">Rude</referent>... Don't go easy on them even though they're girls. </sp>
 <sp> <speaker name="Rude">Rude</speaker><boxstart/>...Don't worry, I'll do my job. </sp>
-<sp> <speaker name="Elena">Elena</speaker><boxstart/>Then, we're counting on you. I'll report to Tseng! </sp>
+<sp> <speaker name="Elena">Elena</speaker><boxstart/>Then, we're counting on you. I'll report to <referent name="Tseng">Tseng</referent>! </sp>
 <stage>She runs off down the right fork of the path.</stage>
 <sp> <speaker name="Reno">Reno</speaker><boxstart/>It's been a while. </sp>
 
@@ -73,7 +73,7 @@
 	Or, after Cosmo Canyon:
 	...You think someone told the Shinra about us?
 	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Maybe it's someone in this group? </sp>
-	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>You don't think there's a spy, do you Cloud?<boxstart/>I hate this. Now everyone's gonna blame me because I'm new. </sp>
+	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>You don't think there's a spy, do you <referent name="Cloud">Cloud</referent>?<boxstart/>I hate this. Now everyone's gonna blame me because I'm new. </sp>
 	<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>Means there's a Shinra spy...? </sp>
 	<sp> <speaker name="Cid">Cid</speaker><boxstart/>And a couple of Shinra dogs are here too! </sp>
 
@@ -140,13 +140,13 @@
 <sp> <speaker name="Zack's Mother">Zack's Mother</speaker><boxstart/>It's been close to 10 years since he left for the city, saying that he didn't want to live in the country... </sp>
 <sp> <speaker name="Zack's Father">Zack's Father</speaker><boxstart/>He left saying he's going to join SOLDIER. You ever hear of a Zack in SOLDIER? </sp>
 
-  <sp> <speaker name="Cloud"/><boxstart/>If neither Aerith nor Tifa are in the party...</sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If neither <referent name="Aerith">Aerith</referent> nor <referent name="Tifa">Tifa</referent> are in the party...</sp>
   <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Hmmm... I don't know. </sp>
   He turns for the door.
   ...Zack.<boxstart/>Zack. I don't know anything about that man.<boxstart/>......But That name sounds familiar...<boxstart/>Why...!?
 
 
-  <sp> <speaker name="Cloud"/><boxstart/>If both Aerith and Tifa are in the party...</sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If both <referent name="Aerith">Aerith</referent> and <referent name="Tifa">Tifa</referent> are in the party...</sp>
   <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Hmmm... I don't know. </sp>
   <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Zack... </sp>
   <sp> <speaker name="Zack's Father">Zack's Father</speaker><boxstart/>Young lady, you know him? </sp>
@@ -157,39 +157,39 @@
   She follows.
   <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What happened to you two? </sp>
   He goes outside.
-  [Cloud talks to Aerith.]<boxstart/>[Cloud talks to Tifa.]
+  [Cloud talks to Aerith.]<boxstart/>[<referent name="Cloud">Cloud</referent> talks to <referent name="Tifa">Tifa</referent>.]
 
 
-  <sp> <speaker name="Cloud"/><boxstart/>If only Aerith is in the party...</sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If only <referent name="Aerith">Aerith</referent> is in the party...</sp>
   <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Hmm.. I don't know. </sp>
   <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Zack... </sp>
   <sp> <speaker name="Zack's Father">Zack's Father</speaker><boxstart/>Young lady, you know him? </sp>
   <sp> <speaker name="Zack's Mother">Zack's Mother</speaker><boxstart/>I remember he wrote us 6 or 7 years ago saying that he had a girlfriend. Could that have been you? </sp>
   <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>That can't... </sp>
   She leaves.
-  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Aerith... </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Aerith">Aerith</referent>... </sp>
   He follows her outside.
   [Cloud talks to Aerith.]
 
 
-  <sp> <speaker name="Cloud"/><boxstart/>If only Tifa is in the party...</sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If only <referent name="Tifa">Tifa</referent> is in the party...</sp>
   <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Hmmm... I don't know. </sp>
   <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Zack... </sp>
   <sp> <speaker name="Zack's Father">Zack's Father</speaker><boxstart/>Young lady, you know him? </sp>
   <sp> <speaker name="Zack's Mother">Zack's Mother</speaker><boxstart/>I remember he wrote us 6 or 7 years ago saying that he had a girlfriend. Could that have been you? </sp>
   <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>...No, it wasn't. </sp>
   She walks outside.
-  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Tifa... What happened? </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Tifa">Tifa</referent>... What happened? </sp>
   He follows her outside.
   [Cloud talks to Tifa.]
 
 <stage>Cloud talks to Aerith.</stage>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Aerith... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Aerith">Aerith</referent>... </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>What a shock... I didn't know Zack was from this town. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>You know him? </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Didn't I tell you? He was my first love. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>............ </sp>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Zack... SOLDIER First Class. Same as Cloud. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Zack... SOLDIER First Class. Same as <referent name="Cloud">Cloud</referent>. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Strange, there aren't that many who make First Class, but I've never heard of him. </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>That's all right. It's all in the past now. I was just worried because I heard he's been missing. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Missing? </sp>
@@ -201,11 +201,11 @@
 
 
   <sp> <speaker name="Cloud"/><boxstart/>(...jealous... envious...) </sp>
-  <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Are you... jealous? Hmm? Hmmm? Are you, Cloud? </sp>
+  <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Are you... jealous? Hmm? Hmmm? Are you, <referent name="Cloud">Cloud</referent>? </sp>
   <stage>He turns away.</stage>
   <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I'm kidding. I'm sorry. </sp>
 
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Let's go, Cloud. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Let's go, <referent name="Cloud">Cloud</referent>. </sp>
 <stage>Cloud talks to Tifa.</stage>
 <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Zack...... </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Do you know him? </sp>
@@ -225,7 +225,7 @@
   <sp> <speaker name="Cloud"/><boxstart/>I worked hard for it </sp>
   <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Hard work pays off, huh. </sp>
 
-<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Cloud, thanks for caring. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>, thanks for caring. </sp>
 <stage>Back at Zack's house.</stage>
 <sp> <speaker name="Zack's Father">Zack's Father</speaker><boxstart/>Have you ever met someone in SOLDIER named Zack? </sp>
 <sp> <speaker name="Zack's Mother">Zack's Mother</speaker><boxstart/>I can't believe he hasn't contacted us in 10 years...! ...After all, we're his parents. </sp>

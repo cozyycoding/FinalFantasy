@@ -92,9 +92,9 @@
 
 <sp> <speaker name="Chole">Chole</speaker><boxstart/>Wasn't it really expensive?<boxstart/>But don't be mad at my brother or Grandpa.<boxstart/>Ever since dad and mom died, it's been like this... </sp>
 <stage>After leaving the farm, Cloud catches a chocobo and they cross the marshes, avoiding the Midgar Zolom. On reaching the other side, they find the giant snake impaled on a dead tree and stop to stare.</stage>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Did Sephiroth... do this......? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Did <referent name="Sephiroth">Sephiroth</referent>... do this......? </sp>
 
-	<sp> <speaker name="Barret">Barret</speaker><boxstart/>This Sephiroth guy's pretty strong, I'd say. </sp>
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>This <referent name="Sephiroth">Sephiroth</referent> guy's pretty strong, I'd say. </sp>
 	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Our enemy is someone that could do this...? </sp>
 	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Amazing... </sp>
 	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>It's a power that we should respect... </sp>
@@ -120,35 +120,35 @@
 <sp> <speaker name="Rude">Rude</speaker><boxstart/>It's difficult to explain what the Turks do... </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Kidnapping, right? </sp>
 <sp> <speaker name="Rude">Rude</speaker><boxstart/>To put it negatively... you could say that.<boxstart/>...But, that's not all there is to it, anymore.<boxstart/>............<boxstart/>............ </sp>
-<sp> <speaker name="Elena">Elena</speaker><boxstart/>Sir!<boxstart/>It's all right, Rude! I know you don't like speeches, so don't force it! </sp>
-<sp> <speaker name="Rude">Rude</speaker><boxstart/>...Then Elena, explain. </sp>
-<sp> <speaker name="Elena">Elena</speaker><boxstart/>I'm the newest member of the Turks, Elena. Thanks to what you did to Reno, we're short of people.<boxstart/>...Although, because of that, I got promoted to the Turks, ...<boxstart/>In any case, our job is to find out where Sephiroth is headed.<boxstart/>And to try and stop you every step of the way.<boxstart/>Wait a minute, it's the other way around... You're the ones that are getting in our way. </sp>
-<sp> <speaker name="Tseng">Tseng</speaker><boxstart/>...Elena. You talk too much. </sp>
-<sp> <speaker name="Elena">Elena</speaker><boxstart/>Mr. Tseng!? </sp>
+<sp> <speaker name="Elena">Elena</speaker><boxstart/>Sir!<boxstart/>It's all right, <referent name="Rude">Rude</referent>! I know you don't like speeches, so don't force it! </sp>
+<sp> <speaker name="Rude">Rude</speaker><boxstart/>...Then <referent name="Elena">Elena</referent>, explain. </sp>
+<sp> <speaker name="Elena">Elena</speaker><boxstart/>I'm the newest member of the Turks, <referent name="Elena">Elena</referent>. Thanks to what you did to <referent name="Reno">Reno</referent>, we're short of people.<boxstart/>...Although, because of that, I got promoted to the Turks, ...<boxstart/>In any case, our job is to find out where <referent name="Sephiroth">Sephiroth</referent> is headed.<boxstart/>And to try and stop you every step of the way.<boxstart/>Wait a minute, it's the other way around... You're the ones that are getting in our way. </sp>
+<sp> <speaker name="Tseng">Tseng</speaker><boxstart/>...<referent name="Elena">Elena</referent>. You talk too much. </sp>
+<sp> <speaker name="Elena">Elena</speaker><boxstart/>Mr. <referent name="Tseng">Tseng</referent>!? </sp>
 <sp> <speaker name="Tseng">Tseng</speaker><boxstart/>No need to tell them about our orders. </sp>
-<sp> <speaker name="Elena">Elena</speaker><boxstart/>Sorry... Tseng. </sp>
+<sp> <speaker name="Elena">Elena</speaker><boxstart/>Sorry... <referent name="Tseng">Tseng</referent>. </sp>
 <sp> <speaker name="Tseng">Tseng</speaker><boxstart/>I thought I gave you other orders.<boxstart/>Now go. Don't forget to file your report. </sp>
-<sp> <speaker name="Elena">Elena</speaker><boxstart/>Oh! Right!<boxstart/>Very well, Rude and I will go after Sephiroth, who's heading for Junon Harbor! </sp>
-<sp> <speaker name="Tseng">Tseng</speaker><boxstart/>...Elena. You don't seem to understand. </sp>
+<sp> <speaker name="Elena">Elena</speaker><boxstart/>Oh! Right!<boxstart/>Very well, <referent name="Rude">Rude</referent> and I will go after <referent name="Sephiroth">Sephiroth</referent>, who's heading for Junon Harbor! </sp>
+<sp> <speaker name="Tseng">Tseng</speaker><boxstart/>...<referent name="Elena">Elena</referent>. You don't seem to understand. </sp>
 <sp> <speaker name="Elena">Elena</speaker><boxstart/>Oh! I'm, I'm sorry... </sp>
-<sp> <speaker name="Tseng">Tseng</speaker><boxstart/>...Go. Don't let Sephiroth get away. </sp>
+<sp> <speaker name="Tseng">Tseng</speaker><boxstart/>...Go. Don't let <referent name="Sephiroth">Sephiroth</referent> get away. </sp>
 <sp> <speaker name="Rude &amp; Elena">Rude &amp; Elena</speaker><boxstart/>Yes sir! </sp>
 <stage>They make their way for the exits. Rude turns back.</stage>
-<sp> <speaker name="Rude">Rude</speaker><boxstart/>...Reno said he wanted to see you after the injuries you gave him healed.<boxstart/>He wants to show his affection for you all... with a new weapon. </sp>
+<sp> <speaker name="Rude">Rude</speaker><boxstart/>...<referent name="Reno">Reno</referent> said he wanted to see you after the injuries you gave him healed.<boxstart/>He wants to show his affection for you all... with a new weapon. </sp>
 <stage>Rude leaves.</stage>
 <sp> <speaker name="Tseng">Tseng</speaker><boxstart/>Well, then... </sp>
 
-  <sp> <speaker name="Cloud"/><boxstart/>If Aerith is in the party...</sp>
-  <sp> <speaker name="Tseng">Tseng</speaker><boxstart/>Aerith... Long time no see.<boxstart/>Looks like you got away from the Shinra for a while, now that Sephiroth reappeared. </sp>
-  <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>...so what are you saying? That I should be grateful to Sephiroth? </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If <referent name="Aerith">Aerith</referent> is in the party...</sp>
+  <sp> <speaker name="Tseng">Tseng</speaker><boxstart/><referent name="Aerith">Aerith</referent>... Long time no see.<boxstart/>Looks like you got away from the Shinra for a while, now that <referent name="Sephiroth">Sephiroth</referent> reappeared. </sp>
+  <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>...so what are you saying? That I should be grateful to <referent name="Sephiroth">Sephiroth</referent>? </sp>
   <sp> <speaker name="Tseng">Tseng</speaker><boxstart/>No...<boxstart/>Well, I won't be seeing too much of you, so take care. </sp>
   <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>...strange, hearing that from you. </sp>
   <sp> <speaker name="Tseng">Tseng</speaker><boxstart/>Well then, stay out of Shinra's way. </sp>
 
 
-  <sp> <speaker name="Cloud"/><boxstart/>If Aerith is not in the party...</sp>
-  <sp> <speaker name="Tseng">Tseng</speaker><boxstart/>...Where's Aerith? She's not with you? </sp>
-  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Aerith isn't with us. She's with the others. </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If <referent name="Aerith">Aerith</referent> is not in the party...</sp>
+  <sp> <speaker name="Tseng">Tseng</speaker><boxstart/>...Where's <referent name="Aerith">Aerith</referent>? She's not with you? </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Aerith">Aerith</referent> isn't with us. She's with the others. </sp>
   <sp> <speaker name="Tseng">Tseng</speaker><boxstart/>Oh... Then give her my regards. </sp>
 
 <stage>Tseng leaves, and Cloud and the others continue out of the mines.</stage>
@@ -158,14 +158,14 @@
 
 	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Wassup with that broad? </sp>
 	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Who is that girl...? </sp>
-	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Cloud, do you know her? </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>, do you know her? </sp>
 	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>...You don't see ones like that everyday...<boxstart/>Who is that girl? She's still a child. </sp>
 	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Who do you think it is? I didn't recognize the face. </sp>
 	<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>She has a mysterious weapon... I've seen her somewhere before... </sp>
 	<sp> <speaker name="Cid">Cid</speaker><boxstart/>Who is that kid! </sp>
 
 
-  <sp> <speaker name="Cloud"/><boxstart/>Cloud walks to the save point.</sp>
+  <sp> <speaker name="Cloud"/><boxstart/><referent name="Cloud">Cloud</referent> walks to the save point.</sp>
   <stage>After exiting the Menu screen, they find that the ninja has disappeared.</stage>
   <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Haa----ah! Gotcha! And you deserve it, too! </sp>
   
@@ -189,7 +189,7 @@
   
 
 
-  <sp> <speaker name="Cloud"/><boxstart/>Cloud walks over to Yuffie.</sp>
+  <sp> <speaker name="Cloud"/><boxstart/><referent name="Cloud">Cloud</referent> walks over to <referent name="Yuffie">Yuffie</referent>.</sp>
   <stage>Yuffie sits up.</stage>
   <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Man...... I can't believe I lost... </sp>
   <stage>She jumps up.</stage>
@@ -204,7 +204,7 @@
   
     <sp> <speaker name="Cloud"/><boxstart/>All right </sp>
     <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>I won't lose this time! Take your time and get ready. Holler when you're ready! </sp>
-    She shakes her fist at Cloud.<boxstart/><boxstart/>At this point, it's not possible to talk to her again, so you have to check the Menu screen. Afterwards, they find that Yuffie has disappeared.
+    She shakes her fist at Cloud.<boxstart/><boxstart/>At this point, it's not possible to talk to her again, so you have to check the Menu screen. Afterwards, they find that <referent name="Yuffie">Yuffie</referent> has disappeared.
     <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>No way I'm going to fight with punks like you more than once!<boxstart/>I'll keep enough for the doctor bill! Next time, you won't be as lucky! </sp>
     
 		<sp> <speaker name="Barret">Barret</speaker><boxstart/>Hey, we been had! And... my money! </sp>
@@ -255,7 +255,7 @@
         <sp> <speaker name="Cloud"/><boxstart/>Wait a second! </sp>
         <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>What is it, you still have somethin' for me?<boxstart/>......Hmmm. So is that it?<boxstart/>I know you want my help because I'm so good!<boxstart/>You want me to go with you? </sp>
 		<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>What, you still want somethin'?<boxstart/>...Hmm. So is that it?<boxstart/>You want my help 'cause I'm so good!<boxstart/>You want me to go with you! Is that what you're saying? </sp>
-		<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- ......That's right.<boxstart/>- You kiddin'?<speaker name="Tifa">Tifa</speaker><boxstart/>- ......That's right<boxstart/>- No way!<speaker name="Cid">Cid</speaker><boxstart/>- ......That's right<boxstart/>- What're you sayin'! </sp>
+		<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- ......That's right.<boxstart/>- You kiddin'?<speaker name="Tifa"><referent name="Tifa">Tifa</referent></speaker><boxstart/>- ......That's right<boxstart/>- No way!<speaker name="Cid"><referent name="Cid">Cid</referent></speaker><boxstart/>- ......That's right<boxstart/>- What're you sayin'! </sp>
         
           <sp> <speaker name="Cloud"/><boxstart/>......That's right. </sp>
           <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Heh heh... thought so. You put me in a spot. Hmm, what should I do?<boxstart/>But if you want me that bad, I can't refuse... </sp>
@@ -292,7 +292,7 @@
           
             <sp> <speaker name="Cloud"/><boxstart/>......Let's hurry on. </sp>
             <stage>Cloud and the others just start walking away.</stage>
-            <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Huh? Hey...HEY!<boxstart/>Wait! I haven't even told you my name......<boxstart/>I'm Yuffie! Good to meetcha! </sp>
+            <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Huh? Hey...HEY!<boxstart/>Wait! I haven't even told you my name......<boxstart/>I'm <referent name="Yuffie">Yuffie</referent>! Good to meetcha! </sp>
             She turns away.
             Heh heh...... just as I planned.<boxstart/>Now all I have to do is... a little this...... and a little that...... nyuk, nyuk, nyuk......
             She turns back and runs after them.

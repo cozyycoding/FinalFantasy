@@ -70,17 +70,17 @@
   <sp> <speaker name="Flower Girl">Flower Girl</speaker><boxstart/>......oh, I see.<boxstart/>Ahhh. I wonder whose fault that is. It takes a lot to grow them, you know. Poor flowers. </sp>
 
 <stage>She crouches down by the flower bed. Cloud walks over to her.</stage>
-<sp> <speaker name="Flower Girl">Flower Girl</speaker><boxstart/>Just a little longer.<boxstart/>Oh!<boxstart/>Now that you mention it......<boxstart/>We don't know each other's names, do we?<boxstart/>My name is......<boxstart/>I'm Aerith, the flower girl. Nice to meet you. </sp>
+<sp> <speaker name="Flower Girl">Flower Girl</speaker><boxstart/>Just a little longer.<boxstart/>Oh!<boxstart/>Now that you mention it......<boxstart/>We don't know each other's names, do we?<boxstart/>My name is......<boxstart/>I'm <referent name="Aerith">Aerith</referent>, the flower girl. Nice to meet you. </sp>
 <stage>While they're talking, a redhead in a blue suit (Reno) walks into the church and stops just inside the door.</stage>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>The name's Cloud.<boxstart/>Me......? I do a little bit of everything. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>The name's <referent name="Cloud">Cloud</referent>.<boxstart/>Me......? I do a little bit of everything. </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Oh...... a jack of all trades. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Yeah, I do whatever's needed.<boxstart/>What's so funny? What are you laughing at? </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Sorry...... I just </sp>
 <stage>She notices Reno and stops.</stage>
-<sp> <boxstart/>Sorry, bad timing on my part.<boxstart/>Cloud! Don't let it get to you! </sp>
+<sp> <boxstart/>Sorry, bad timing on my part.<boxstart/><referent name="Cloud">Cloud</referent>! Don't let it get to you! </sp>
 <stage>Cloud shrugs.</stage>
 <sp> <speaker name="Reno">Reno</speaker><boxstart/>Don't worry about me. </sp>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Say, Cloud. Have you ever been a bodyguard?<boxstart/>You DO do everything, right? </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Say, <referent name="Cloud">Cloud</referent>. Have you ever been a bodyguard?<boxstart/>You DO do everything, right? </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>......Yeah, that's right. </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Then, get me out of here. Take me home. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>OK, I'll do it... but it'll cost you. </sp>
@@ -93,7 +93,7 @@
 <stage>Three soldiers run enter behind Reno, laughing.</stage>
 <sp> <speaker name="Soldier">Soldier</speaker><boxstart/>......Hey sis, this one's a little weird. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Shut up! You Shinra spy! </sp>
-<sp> <speaker name="Soldier">Soldier</speaker><boxstart/>Reno! Want him taken out? </sp>
+<sp> <speaker name="Soldier">Soldier</speaker><boxstart/><referent name="Reno">Reno</referent>! Want him taken out? </sp>
 <sp> <speaker name="Reno">Reno</speaker><boxstart/>I haven't decided yet. </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Don't fight here! You'll ruin the flowers! </sp>
 <stage>She runs towards the door to the left of the altar.</stage>
@@ -102,28 +102,28 @@
 <sp> <speaker name="Reno">Reno</speaker><boxstart/>They were...... Mako eyes.<boxstart/>Yeah, all right. Back to work, back to work. </sp>
 <stage>He approaches the exit and then runs back.</stage>
 <sp> <boxstart/>Oh!<boxstart/>And don't step on the flowers...... </sp>
-<sp> <speaker name="Soldiers">Soldiers</speaker><boxstart/>Hey Reno, you just stepped on them!<boxstart/>They're all ruined!<boxstart/>You're gonna catch holy hell! </sp>
+<sp> <speaker name="Soldiers">Soldiers</speaker><boxstart/>Hey <referent name="Reno">Reno</referent>, you just stepped on them!<boxstart/>They're all ruined!<boxstart/>You're gonna catch holy hell! </sp>
 <stage>In the back room of the church, Cloud and Aerith hurry up a set of stairs towards the rafters. They stop before a broad gap in the floorboards as Reno and the soldiers run in.</stage>
 <sp> <speaker name="Reno">Reno</speaker><boxstart/>There they are, over there! </sp>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Cloud... that one! </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/><referent name="Cloud">Cloud</referent>... that one! </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I know. Looks like they aren't going to let us go. </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>What should we do? </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Well we can't let them catch us, can we? Then, there's only one thing left. </sp>
 <stage>He jumps the gap.</stage>
-<sp> <boxstart/>Aerith! This way! </sp>
+<sp> <boxstart/><referent name="Aerith">Aerith</referent>! This way! </sp>
 <stage>She walks to the gap and shakes her head. Cloud nods.</stage>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>All right. I'll hold them off. </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Right. Make sure they don't get through! </sp>
 <sp> <speaker name="Reno">Reno</speaker><boxstart/>The Ancient is getting away! Attack! Attack! Attack! </sp>
 <stage>The soldiers fire at Aerith and she tumbles down to the bottommost floor.</stage>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Eaygh!! </sp>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Aerith! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Aerith">Aerith</referent>! </sp>
 <sp> <speaker name="Reno">Reno</speaker><boxstart/>Think we killed 'em? They shouldn't have put up a fight, I say! </sp>
 <stage>One of the soldiers advances on Aerith.</stage>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Cloud, help! </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/><referent name="Cloud">Cloud</referent>, help! </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Damn! </sp>
 <stage>He looks up at the barrels on the rafters.</stage>
-<sp> <boxstart/>What's that......?<boxstart/>Aerith!<boxstart/>- Hold on a minute!<boxstart/>- Fight 'em!<boxstart/>- RUN! </sp>
+<sp> <boxstart/>What's that......?<boxstart/><referent name="Aerith">Aerith</referent>!<boxstart/>- Hold on a minute!<boxstart/>- Fight 'em!<boxstart/>- RUN! </sp>
 
   <sp> <speaker name="Cloud"/><boxstart/>Hold on a minute! </sp>
   <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>A, all right. </sp>
@@ -132,12 +132,12 @@
       <sp> <speaker name="Cloud"/><boxstart/>If he pushes the right barrel...</sp>
       <stage>The barrel falls down and knocks over the soldier.</stage>
       <sp> <speaker name="Soldier">Soldier</speaker><boxstart/>Nwahh! </sp>
-      <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Thanks, Cloud. </sp>
+      <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Thanks, <referent name="Cloud">Cloud</referent>. </sp>
     
     
       <sp> <speaker name="Cloud"/><boxstart/>If he pushes the wrong barrel...</sp>
       <stage>The barrel falls and lands on the ground.</stage>
-      <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Oh, Cloud, what are you doing!? </sp>
+      <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Oh, <referent name="Cloud">Cloud</referent>, what are you doing!? </sp>
       <stage>She has to fight the soldier anyway.</stage>
     
 
@@ -152,7 +152,7 @@
   <stage>She runs for the stairs.</stage>
 
 <stage>Somehow or another, Cloud and Aerith dispatch the three soldiers, and then Aerith joins Cloud up in the rafters.</stage>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Aerith, this way. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Aerith">Aerith</referent>, this way. </sp>
 <stage>He leads her up through a hole in the roof. They stop for a moment outside.</stage>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Ha, ha...... They're looking for me again. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>You mean it's not the first time they've been after you? </sp>
@@ -175,7 +175,7 @@
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Funny...<boxstart/>I thought you were cut out to be in SOLDIER? </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Oh! You're terrible! </sp>
 <stage>They both laugh.</stage>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Hey...... Cloud. Were you... ever in SOLDIER? </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Hey...... <referent name="Cloud">Cloud</referent>. Were you... ever in SOLDIER? </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>......<boxstart/>...I used to be. How did you guess? </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>...Your eyes. They have a strange glow... </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>That's the sign of those who have been infused with Mako...<boxstart/>A mark of SOLDIER.<boxstart/>But, how did you know about that? </sp>
@@ -249,14 +249,14 @@
 <sp> <speaker name="Weapons Shopkeeper">Weapons Shopkeeper</speaker><boxstart/>Take care of yourself. It's the law of the slums. But to do that, first you need weapons, right? </sp>
 <sp> <speaker name="Kid">Kid</speaker><boxstart/>Toot toot! Next stop... Midgar Midgar.<boxstart/>Any passengers getting off on Midgar should please ring.<boxstart/>You know, Midgar's supposed to be sparkly 'n' springy 'n' sleeky.<boxstart/>Oh yeah. Someday, I'm goin' there. </sp>
 <stage>They reach Aerith's house and go inside.</stage>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I'm home, mom.<boxstart/>This is Cloud. My bodyguard. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I'm home, mom.<boxstart/>This is <referent name="Cloud">Cloud</referent>. My bodyguard. </sp>
 <sp> <speaker name="Elmyra">Elmyra</speaker><boxstart/>Bodyguard......? You mean you were followed again!?<boxstart/>Are you all right!? You're not hurt, are you!? </sp>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I'm all right. I had Cloud with me. </sp>
-<sp> <speaker name="Elmyra">Elmyra</speaker><boxstart/>Thank you, Cloud. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I'm all right. I had <referent name="Cloud">Cloud</referent> with me. </sp>
+<sp> <speaker name="Elmyra">Elmyra</speaker><boxstart/>Thank you, <referent name="Cloud">Cloud</referent>. </sp>
 <stage>She turns and walks upstairs.</stage>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>So what are you going to do now? </sp>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...Is Sector 7 far from here? I want to go to Tifa's bar. </sp>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Is Tifa...... a girl? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...Is Sector 7 far from here? I want to go to <referent name="Tifa">Tifa</referent>'s bar. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Is <referent name="Tifa">Tifa</referent>...... a girl? </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Yeah. </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>A girl...friend? </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Girlfriend?<boxstart/>- No way!<boxstart/>- Yeah, that's right </sp>
@@ -272,17 +272,17 @@
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>You gotta be kidding. Why do you want to put yourself in danger again? </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I'm used to it. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Used to it!?<boxstart/>......Well, don't know... getting help from a girl... </sp>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>A girl!! What do you mean by that!?<boxstart/>You expect me to just sit by and listen, after hearing you say something like that!?<boxstart/>Mom! I'm taking Cloud to Sector 7. I'll be back in a while. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>A girl!! What do you mean by that!?<boxstart/>You expect me to just sit by and listen, after hearing you say something like that!?<boxstart/>Mom! I'm taking <referent name="Cloud">Cloud</referent> to Sector 7. I'll be back in a while. </sp>
 <stage>Elmyra comes back down from upstairs.</stage>
 <sp> <speaker name="Elmyra">Elmyra</speaker><boxstart/>But dear... I give up. You never listen once you've made up your mind.<boxstart/>But if you must go, why don't you go tomorrow? It's getting late now. </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Yeah, you're right, mom. </sp>
-<sp> <speaker name="Elmyra">Elmyra</speaker><boxstart/>Aerith, please go and make the bed. </sp>
+<sp> <speaker name="Elmyra">Elmyra</speaker><boxstart/><referent name="Aerith">Aerith</referent>, please go and make the bed. </sp>
 <stage>Aerith disappears upstairs.</stage>
 <sp> <speaker name="Elmyra">Elmyra</speaker><boxstart/>That glow in your eyes... you're from SOLDIER, right? </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Yeah. Rather I used to be... </sp>
-<sp> <speaker name="Elmyra">Elmyra</speaker><boxstart/>......I don't know how to say this, but...<boxstart/>Would you please leave here, tonight? Without telling Aerith.<boxstart/>SOLDIER... the last thing Aerith needs is to get her feelings hurt again... </sp>
+<sp> <speaker name="Elmyra">Elmyra</speaker><boxstart/>......I don't know how to say this, but...<boxstart/>Would you please leave here, tonight? Without telling Aerith.<boxstart/>SOLDIER... the last thing <referent name="Aerith">Aerith</referent> needs is to get her feelings hurt again... </sp>
 <stage>Cloud heads upstairs.</stage>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>You need to go through Sector 6 to get to Sector 7. Sector 6 is a little dangerous so you'd better get some rest tonight.<boxstart/>Cloud...<boxstart/>Good night. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>You need to go through Sector 6 to get to Sector 7. Sector 6 is a little dangerous so you'd better get some rest tonight.<boxstart/><referent name="Cloud">Cloud</referent>...<boxstart/>Good night. </sp>
 <stage>She turns and goes downstairs.</stage>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Oh, man... </sp>
 <stage>Cloud goes to sleep.</stage>
@@ -291,7 +291,7 @@
 <sp> I haven't slept in a bed like this ...in a long time. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...Oh, yeah. </sp>
 <sp> Ever since that time. </sp>
-<sp> <speaker name="unspecified"/><boxstart/><stage>Flashback to Cloud's house in Nibelheim, where Cloud is lying sprawled on his bed, his mother walking about nearby.</sp>
+<sp> <speaker name="unspecified"/><boxstart/><stage>Flashback to Cloud's house in Nibelheim, where <referent name="Cloud">Cloud</referent> is lying sprawled on his bed, his mother walking about nearby.</sp>
 <sp> <speaker name="Cloud's Mom">Cloud's Mom</speaker><boxstart/>My, how you've grown.<boxstart/>I'll bet the girls never leave you alone. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...Not really. </sp>
 <sp> <speaker name="Cloud's Mom">Cloud's Mom</speaker><boxstart/>...I'm worried about you.<boxstart/>There are a lot of temptations in the city...<boxstart/>I'd feel a lot better if you just settled down and had a nice girlfriend. </sp>
@@ -301,7 +301,7 @@
 <stage>Cloud wakes up.</stage>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...I must've fallen asleep.<boxstart/>Sector 7's past Sector 6... I should be all right by myself... </sp>
 <stage>Cloud starts past Aerith's room, but if he hits the creak in the floorboards, Aerith runs out of her room.</stage>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Cloud! I thought the Turks came back! Get some rest! </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/><referent name="Cloud">Cloud</referent>! I thought the Turks came back! Get some rest! </sp>
 <stage>Cloud goes back to sleep for a bit.</stage>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Can't get caught this time... </sp>
 <stage>Slipping past her room, Cloud goes downstairs and leaves Aerith's house.</stage>
@@ -311,7 +311,7 @@
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>How could I ask you to go along when I knew it would be dangerous? </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Are you done? </sp>
 <stage>Cloud scratches his head sheepishly.</stage>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>You have to go through the slum in Sector 6 to get to Tifa's 7th Heaven.<boxstart/>I'll take you there. Come on! </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>You have to go through the slum in Sector 6 to get to <referent name="Tifa">Tifa</referent>'s 7th Heaven.<boxstart/>I'll take you there. Come on! </sp>
 <stage>She runs off, and Cloud follows.</stage>
 
 </scene>

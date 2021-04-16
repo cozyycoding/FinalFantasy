@@ -22,7 +22,7 @@
 <stage>Barret jumps back and aims his gunarm at the man.</stage>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>You workin' for Shinra? </sp>
 <sp> <speaker name="Shinra Manager">Shinra Manager</speaker><boxstart/>I won't give in to violence... and I'm not giving up my seat either! </sp>
-<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Barret!! </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Barret">Barret</referent>!! </sp>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>&amp;$#%!! You lucky ^$#^$.! </sp>
 <stage>Barret turns away from the man. Tifa runs over and bows apologetically before joining Barret and Cloud.</stage>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>So, what are we gonna do now? </sp>
@@ -37,7 +37,7 @@
 <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>That means we've got only three more minutes to the ID Check point. </sp>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>Alright, in three minutes, we're jumpin' off this train.<boxstart/>Got it!? </sp>
 <stage>Barret sits down, and Tifa runs over to the railway map monitor.</stage>
-<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Cloud, come over here! Let's look at the Railway Map Monitor. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>, come over here! Let's look at the Railway Map Monitor. </sp>
 <sp> <speaker name="Train Bum">Train Bum</speaker><boxstart/>Hmmm......? You're the only ones that'll talk to me or come to my house.<boxstart/>I'm impressed. </sp>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>Yo, Mr. know-it-all, big time SOLDIER! You oughta know the area 'round the No. 5 Reactor, right!<boxstart/>So let's hear YOUR explanation! </sp>
 <sp> <speaker name="Shinra Manager">Shinra Manager</speaker><boxstart/>Waaaaah!!<boxstart/>Don... don't worry about me. (oh man, oh man, oh man...!! I'm gonna brag to everyone at work about this...) </sp>
@@ -96,7 +96,7 @@
 <sp> <speaker name="unspecified"/><boxstart/>Car #4: Locked Down<boxstart/>Upgrading to maximum security alert!! </sp>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>All right!! We made it!<boxstart/>Yo!! This way!!<boxstart/>Let's go!! We're gonna dive outta here!! </sp>
 <sp> <speaker name="Wedge">Wedge</speaker><boxstart/>Guess who? It's me, Wedge!<boxstart/>Looks like things were a success.<boxstart/>I look just like my little brother in these clothes...<boxstart/>I wonder how everyone's doin' now...? </sp>
-<sp> <speaker name="Jessie">Jessie</speaker><boxstart/>It's me, Jessie. How do I look, Cloud?<boxstart/>Do I look good in a Shinra uniform? </sp>
+<sp> <speaker name="Jessie">Jessie</speaker><boxstart/>It's me, Jessie. How do I look, <referent name="Cloud">Cloud</referent>?<boxstart/>Do I look good in a Shinra uniform? </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah...<boxstart/>- Not now </sp>
 
   <sp> <speaker name="Cloud"/><boxstart/>Yeah... </sp>
@@ -153,13 +153,13 @@
 <stage>At the end of the tunnel, there are light beams blocking the way.</stage>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Those light beams are the Shinra's security sensors. We can't go any further.<boxstart/>After coming this far, only an amateur'd get caught by the security sensor. </sp>
 <stage>Cloud moves to inspect an airduct.</stage>
-<sp> <speaker name="Barret">Barret</speaker><boxstart/>That's one damn tiny hole. You tellin' me to squeeze into that to get under the Plate? No way!<boxstart/>Yo, Cloud, what're we gonna do? </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>That's one damn tiny hole. You tellin' me to squeeze into that to get under the Plate? No way!<boxstart/>Yo, <referent name="Cloud">Cloud</referent>, what're we gonna do? </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Look inside closely<boxstart/>- Go down<boxstart/>- Don't go down </sp>
 
   <sp> <speaker name="Cloud"/><boxstart/>Look inside closely </sp>
   <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>...There seems to be nothing that'll get us stuck in this duct. </sp>
   <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Yeah. If we go down this duct, we won't be able to come back up here. </sp>
-  <sp> <speaker name="Barret">Barret</speaker><boxstart/>Don't be wastin' time. Never know when the Shinra'll find us.<boxstart/>Cloud you jes' gotta go. </sp>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>Don't be wastin' time. Never know when the Shinra'll find us.<boxstart/><referent name="Cloud">Cloud</referent> you jes' gotta go. </sp>
   <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Go down<boxstart/>- Don't go down </sp>
 
 
@@ -171,25 +171,25 @@
   <sp> <speaker name="Barret">Barret</speaker><boxstart/>Whaddya mean we're not goin' in? There ain't no other way of gettin' to the Sector 5 reactor 'cept through here. </sp>
 
 <stage>Eventually Cloud and the others go down the hole and come out in the maintenance walkways beneath the Sector 4 plate.</stage>
-<sp> <speaker name="Wedge">Wedge</speaker><boxstart/>Cloud, this way. The reactor's up this ladder. </sp>
+<sp> <speaker name="Wedge">Wedge</speaker><boxstart/><referent name="Cloud">Cloud</referent>, this way. The reactor's up this ladder. </sp>
 <stage>Going up the ladder, they run across Jessie.</stage>
 <sp> <speaker name="Jessie">Jessie</speaker><boxstart/>I'm sorry.<boxstart/>The ID scan problem on the train was all my fault.<boxstart/>I made your ID card special...... So that's why it happened...<boxstart/>I put my heart into making it. But I failed.<boxstart/>Next time, I'll give you something more decent.<boxstart/>I'll be back at the hideout in my research room workin' on it. </sp>
 <stage>Onward, down a different ladder...</stage>
-<sp> <speaker name="Biggs">Biggs</speaker><boxstart/>We're gonna pull out now. We'll meet up at the hideout.<boxstart/>Cloud, we're countin' on you to blow the reactor! </sp>
+<sp> <speaker name="Biggs">Biggs</speaker><boxstart/>We're gonna pull out now. We'll meet up at the hideout.<boxstart/><referent name="Cloud">Cloud</referent>, we're countin' on you to blow the reactor! </sp>
 <stage>They move onwards into the reactor. When they near its core, Cloud suddenly collapses.</stage>
 <sp> <speaker name="unspecified"/><boxstart/> </sp>
   <stage>In the Nibelheim reactor of five years prior, Tifa is kneeling by her father's body.</stage>
-  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Papa...<boxstart/>Sephiroth!?<boxstart/>Sephiroth did this to you, didn't he!?<boxstart/>Sephiroth... SOLDIER... Mako Reactors... Shinra... Everything!<boxstart/>I hate them all! </sp>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Papa...<boxstart/>Sephiroth!?<boxstart/>Sephiroth did this to you, didn't he!?<boxstart/><referent name="Sephiroth">Sephiroth</referent>... SOLDIER... Mako Reactors... Shinra... Everything!<boxstart/>I hate them all! </sp>
   <stage>She takes Sephiroth's sword and runs farther inside the reactor.</stage>
 
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>Damn man, get a hold of yourself! </sp>
 <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>You all right? </sp>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>......Tifa. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>......<referent name="Tifa">Tifa</referent>. </sp>
 <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Mmm? </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>No... forget...... Come on, let's hurry! </sp>
 <stage>Cloud gets up and turns to Barret.</stage>
 <sp> <boxstart/>I know. You're my watch, right? </sp>
-<sp> <speaker name="Barret">Barret</speaker><boxstart/>Damn straight.<boxstart/>Tifa's old friend... That ain't good enough. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Damn straight.<boxstart/><referent name="Tifa">Tifa</referent>'s old friend... That ain't good enough. </sp>
 <stage>Cloud sets the bomb, and they hurry out of the reactor. Coming out of the elevator, they reach a closed door, and a room on the side with three large buttons.</stage>
 <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Jessie said we all have to push the buttons at once. </sp>
 <stage>If Cloud fails to push the button at the right time...</stage>
@@ -206,10 +206,10 @@
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>AVALANCHE! And don't ya forget it! And you're President Shinra, huh? </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Long time no see, President. </sp>
 <sp> <speaker name="President Shinra">President Shinra</speaker><boxstart/>...Long time no see? Oh... you.<boxstart/>You're the one who quit SOLDIER and joined AVALANCHE. I knew you'd been exposed to Mako, from the look in your eyes...<boxstart/>Tell me, traitor... what was your name? </sp>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Cloud. </sp>
-<sp> <speaker name="President Shinra">President Shinra</speaker><boxstart/>Forgive me for asking, but I can't be expected to remember each person's name.<boxstart/>Unless you become another Sephiroth.<boxstart/>Yes, Sephiroth... He was brilliant. Perhaps too brilliant... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Cloud">Cloud</referent>. </sp>
+<sp> <speaker name="President Shinra">President Shinra</speaker><boxstart/>Forgive me for asking, but I can't be expected to remember each person's name.<boxstart/>Unless you become another Sephiroth.<boxstart/>Yes, <referent name="Sephiroth">Sephiroth</referent>... He was brilliant. Perhaps too brilliant... </sp>
 <stage>Cloud takes a step back.</stage>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Sephiroth......? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Sephiroth">Sephiroth</referent>......? </sp>
 <stage>Barret runs up, pushing Cloud aside.</stage>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>Don't give a damn 'bout none of that! This place's goin' up with a big BANG soon! Serves y'all right! </sp>
 <sp> <speaker name="President Shinra">President Shinra</speaker><boxstart/>And such a waste of good fireworks, just to get rid of vermin like you... </sp>
@@ -227,22 +227,22 @@
 <sp> <speaker name="President Shinra">President Shinra</speaker><boxstart/>Now then, if you'll excuse me. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Wait, President! </sp>
 <stage>Shinra climbs onto the helicopter, and it flies off.</stage>
-<sp> <speaker name="Barret">Barret</speaker><boxstart/>Yo, Cloud! We've gotta do somethin' 'bout him! </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Yo, <referent name="Cloud">Cloud</referent>! We've gotta do somethin' 'bout him! </sp>
 <stage>The techno-soldier lunges at Barret and Tifa.</stage>
-<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Help, Cloud!<boxstart/>THIS is from SOLDIER? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Help, <referent name="Cloud">Cloud</referent>!<boxstart/>THIS is from SOLDIER? </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>No way! It's just a machine. </sp>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>I don't care what it is!! I'm gonna bust him up! </sp>
 <stage>They fight and defeat the Airbuster, but it explodes. Cloud falls into the gap in the bridge created by the explosion but manages to catch the far edge with one hand.</stage>
-<sp> <speaker name="Barret">Barret</speaker><boxstart/>It's gonna blow! Let's go, Tifa! </sp>
-<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Barret! Can't you do something? </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>It's gonna blow! Let's go, <referent name="Tifa">Tifa</referent>! </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Barret">Barret</referent>! Can't you do something? </sp>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>Not a damn thing. </sp>
-<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Cloud! Please don't die! You can't die! There's still so much I want to tell you! </sp>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I know, Tifa...... </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>! Please don't die! You can't die! There's still so much I want to tell you! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I know, <referent name="Tifa">Tifa</referent>...... </sp>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>Hey, you gonna be awright? </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- (Be strong)<boxstart/>- (I don't know if I can hold on...) </sp>
 
   <sp> <speaker name="Cloud"/><boxstart/>(Be strong) </sp>
-  ............<boxstart/>You worry about yourselves! I'm all right, but take care of Tifa!
+  ............<boxstart/>You worry about yourselves! I'm all right, but take care of <referent name="Tifa">Tifa</referent>!
   <sp> <speaker name="Barret">Barret</speaker><boxstart/>...Alright. Sorry 'bout all this. </sp>
   <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Stop talkin' like this is the end! </sp>
 
@@ -250,7 +250,7 @@
   <sp> <speaker name="Cloud"/><boxstart/>(I don't know if I can hold on...) </sp>
   Shit! Can't hold on much longer. Barret... Hurry!
   <sp> <speaker name="Barret">Barret</speaker><boxstart/>Don't go cryin' like a woman. There ain't nothin' I can do for ya. Ya gotta do it yourself. </sp>
-  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Barret... </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Barret">Barret</referent>... </sp>
 
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>Alright, then, later. </sp>
 <stage>The reactor explodes, and Cloud loses his grip, falling into Sector 5 below. Tifa reaches for him, but Barret pulls her back.</stage>

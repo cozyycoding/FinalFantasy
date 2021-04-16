@@ -11,7 +11,7 @@
 
 <stage>Cloud and the others arrive at Nibelheim, only to find the town almost exactly as it looked before the incident five years ago.</stage>
 
-	<sp> <speaker name="Cloud"/><boxstart/>If Tifa is in the party...</sp>
+	<sp> <speaker name="Cloud"/><boxstart/>If <referent name="Tifa">Tifa</referent> is in the party...</sp>
 	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>What---!! </sp>
 	She turns to Cloud.
 	This was all supposed to be burnt down, right?
@@ -22,25 +22,25 @@
 		<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>...somthing's strange? </sp>
 		<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>I wonder what's going on... </sp>
 		<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>What the...!? </sp>
-		<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Cloud, maybe you were just dreaming...? </sp>
+		<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/><referent name="Cloud">Cloud</referent>, maybe you were just dreaming...? </sp>
 	
 
 
-	<sp> <speaker name="Cloud"/><boxstart/>If Tifa is not in the party...</sp>
+	<sp> <speaker name="Cloud"/><boxstart/>If <referent name="Tifa">Tifa</referent> is not in the party...</sp>
 	
 		<sp> <speaker name="Barret">Barret</speaker><boxstart/>You said the whole town burnt down, right? </sp>
 		<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>This is Nibelheim, right? But the town's all here. </sp>
 		<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>This is Nibelheim? I heard it burnt down. </sp>
 		<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>I heard from someone that this town was gone! </sp>
-		<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>The whole town was destroyed by Sephiroth. At least that's what I heard... </sp>
+		<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>The whole town was destroyed by <referent name="Sephiroth">Sephiroth</referent>. At least that's what I heard... </sp>
 	
 	<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...Yeah. </sp>
 	
 		<sp> <speaker name="Barret">Barret</speaker><boxstart/>You trin' to fool us!? </sp>
 		<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Hey, what's going on? </sp>
-		<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>Cloud... Did you lie to us? </sp>
+		<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/><referent name="Cloud">Cloud</referent>... Did you lie to us? </sp>
 		<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>What happened? </sp>
-		<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Cloud, did you make up your story just to get our support? </sp>
+		<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/><referent name="Cloud">Cloud</referent>, did you make up your story just to get our support? </sp>
 	
 
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I'm not lying!<boxstart/>I remember... the intense heat of the flames... </sp>
@@ -107,14 +107,14 @@
 <stage>In Tifa's room... Cloud walks to the piano.</stage>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>But... I definitely remember playing the piano then. But why didn't it get burnt down?<boxstart/>Play the piano......? </sp>
 <stage>On Tifa's desk is a report.</stage>
-<sp> <speaker name="unspecified"/><boxstart/>"Periodic Report to Professor Hojo"<boxstart/><boxstart/>1 Clone Activity Report<boxstart/><boxstart/>Unfortunately, no 'CLONES' have left this town this quarter.<boxstart/>As previously reported, the 'CLONES' seem to be sensing something.<boxstart/>But all they say is, 'reunion' or 'Sephiroth' and show no other signs of activity.<boxstart/><boxstart/>2 Confidentiality Report<boxstart/><boxstart/>A total of eight people have visited this town this quarter.<boxstart/>Fortunately, none knew about the incident five years ago.<boxstart/>Therefore, no one knows the town was restored exactly as it was five years ago.<boxstart/>Our staff, disguised as townspeople have improved their acting skills, and we do not report any problems at this time.<boxstart/>That is all. </sp>
+<sp> <speaker name="unspecified"/><boxstart/>"Periodic Report to Professor Hojo"<boxstart/><boxstart/>1 Clone Activity Report<boxstart/><boxstart/>Unfortunately, no 'CLONES' have left this town this quarter.<boxstart/>As previously reported, the 'CLONES' seem to be sensing something.<boxstart/>But all they say is, 'reunion' or '<referent name="Sephiroth">Sephiroth</referent>' and show no other signs of activity.<boxstart/><boxstart/>2 Confidentiality Report<boxstart/><boxstart/>A total of eight people have visited this town this quarter.<boxstart/>Fortunately, none knew about the incident five years ago.<boxstart/>Therefore, no one knows the town was restored exactly as it was five years ago.<boxstart/>Our staff, disguised as townspeople have improved their acting skills, and we do not report any problems at this time.<boxstart/>That is all. </sp>
 <stage>In the neighboring house's attic...</stage>
 <sp> <speaker name="Small Clone">Small Clone</speaker><boxstart/>...Re...... union. </sp>
 <sp> <speaker name="Smaller Clone">Smaller Clone</speaker><boxstart/>............ion </sp>
 <stage>Cloud looks back and forth between them and sighs.</stage>
 <sp> <speaker name="Smaller Clone">Smaller Clone</speaker><boxstart/>.................. </sp>
 <stage>Outside the Shinra mansion are another two clones.</stage>
-<sp> <speaker name="Clone">Clone</speaker><boxstart/>Wooooo-----ooow...... He's... calling...... Sephiroth...... is...... calling...... </sp>
+<sp> <speaker name="Clone">Clone</speaker><boxstart/>Wooooo-----ooow...... He's... calling...... <referent name="Sephiroth">Sephiroth</referent>...... is...... calling...... </sp>
 <sp> <speaker name="Clone 2">Clone 2</speaker><boxstart/>The... Great... Se... phi...... roth...... is... near......<boxstart/>In... side...... inside... the Mansion...... Urrrrrrrgh...... the great...... Sephi...... roth </sp>
 <stage>Inside the mansion...</stage>
 <sp> <speaker name="Letter">Letter</speaker><boxstart/>I must get rid of all those that stand in the way of my research. Even that one from the Turks.<boxstart/>I scientifically altered him, and put him to sleep in the basement. If you want to find him, then search the area.<boxstart/>But... this is merely a game I thought of. It is not necessary for you to participate if you don't want to. </sp>
@@ -152,24 +152,24 @@
 <sp> <speaker name="Vincent">Vincent</speaker><boxstart/>I have nothing to say to strangers. Get out.<boxstart/>This mansion is the beginning of your nightmare. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...you can say that again. </sp>
 <sp> <speaker name="Vincent">Vincent</speaker><boxstart/>Hmm? What do you know? </sp>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Don't say a thing<boxstart/>- Talk about Sephiroth </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Don't say a thing<boxstart/>- Talk about <referent name="Sephiroth">Sephiroth</referent> </sp>
 
   <sp> <speaker name="Cloud"/><boxstart/>Don't say a thing </sp>
   <sp> <speaker name="Vincent">Vincent</speaker><boxstart/>I see. Then, I'll return to my nightmare...<boxstart/>...What? More? </sp>
-  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- No, good night<boxstart/>- Tell him about Sephiroth </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- No, good night<boxstart/>- Tell him about <referent name="Sephiroth">Sephiroth</referent> </sp>
 
 
-  <sp> <speaker name="Cloud"/><boxstart/>Talk about Sephiroth </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>Talk about <referent name="Sephiroth">Sephiroth</referent> </sp>
   <stage>Cloud talks about Sephiroth.</stage>
 
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Like you said, this mansion is the beginning of a nightmare.<boxstart/>No, it's not a dream, it's for real.<boxstart/>Sephiroth has lost his mind. He found the secrets hidden in this mansion... </sp>
-<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>Sephiroth!? </sp>
-<sp> <speaker name="Cloud + Vincent">Cloud + Vincent</speaker><boxstart/>You know Sephiroth? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Like you said, this mansion is the beginning of a nightmare.<boxstart/>No, it's not a dream, it's for real.<boxstart/><referent name="Sephiroth">Sephiroth</referent> has lost his mind. He found the secrets hidden in this mansion... </sp>
+<sp> <speaker name="Vincent">Vincent</speaker><boxstart/><referent name="Sephiroth">Sephiroth</referent>!? </sp>
+<sp> <speaker name="Cloud + Vincent">Cloud + Vincent</speaker><boxstart/>You know <referent name="Sephiroth">Sephiroth</referent>? </sp>
 <stage>Vincent leaps from the coffin and lands on its edge.</stage>
 <sp> <speaker name="Vincent">Vincent</speaker><boxstart/>You start first. </sp>
 <stage>Cloud gestures as he tells his story.</stage>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...That's how it was. </sp>
-<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>So Sephiroth knows he was created five years ago? And about the Jenova Project?<boxstart/>...He was missing, but has just recently reappeared.<boxstart/>He has taken many lives and is seeking the Promised Land. </sp>
+<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>So <referent name="Sephiroth">Sephiroth</referent> knows he was created five years ago? And about the Jenova Project?<boxstart/>...He was missing, but has just recently reappeared.<boxstart/>He has taken many lives and is seeking the Promised Land. </sp>
 <stage>* <sp> <speaker name="Note">Note</speaker>: Vincent's comment here is likely a translation error and should have been something like "So five years ago, Sephiroth learned that he had been created?"</sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Now it's your turn. </sp>
 <sp> <speaker name="Vincent">Vincent</speaker><boxstart/>Sorry... I cannot speak. </sp>
@@ -194,16 +194,16 @@
   <sp> <speaker name="Cloud"/><boxstart/>Who are you? </sp>
   At least tell us your name.
 
-<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>I was with... the Shinra Manufacturing Department in Administrative Research, otherwise known as--the Turks...<boxstart/>Vincent. </sp>
+<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>I was with... the Shinra Manufacturing Department in Administrative Research, otherwise known as--the Turks...<boxstart/><referent name="Vincent">Vincent</referent>. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>The Turks!? </sp>
 <sp> <speaker name="Vincent">Vincent</speaker><boxstart/>Formerly of the Turks.<boxstart/>I have no affiliation with Shinra now.<boxstart/>...And you? </sp>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Cloud, formerly of SOLDIER. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Cloud">Cloud</referent>, formerly of SOLDIER. </sp>
 <sp> <speaker name="Vincent">Vincent</speaker><boxstart/>You were also with Shinra...? Then do you know Lucrecia? </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Who? </sp>
 <sp> <speaker name="Vincent">Vincent</speaker><boxstart/>......Lucrecia. </sp>
 <stage>Cloud shakes his head.</stage>
-<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>The woman who gave birth to Sephiroth. </sp>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...gave birth...?<boxstart/>Wasn't Jenova Sephiroth's mother? </sp>
+<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>The woman who gave birth to <referent name="Sephiroth">Sephiroth</referent>. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...gave birth...?<boxstart/>Wasn't Jenova <referent name="Sephiroth">Sephiroth</referent>'s mother? </sp>
 <sp> <speaker name="Vincent">Vincent</speaker><boxstart/>That isn't completely wrong, but just a theory.<boxstart/>He was born from a beautiful lady.<boxstart/>That lady was Lucrecia.<boxstart/>She was an assistant to Professor Gast of the Jenova Project. Beautiful... Lucrecia. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...A human experiment? </sp>
 <sp> <speaker name="Vincent">Vincent</speaker><boxstart/>There was no way to cancel the experiment.<boxstart/>I couldn't stop her.<boxstart/>That was my sin.<boxstart/>I let the one I loved, the one I respected most, face the worst. </sp>
@@ -220,7 +220,7 @@
 <sp> <speaker name="Vincent">Vincent</speaker><boxstart/>Let me sleep... </sp>
 <stage>Cloud and the others start back down the hallway.</stage>
 <sp> <speaker name="Vincent">Vincent</speaker><boxstart/>Wait!<boxstart/>If I go with you will I meet Hojo? </sp>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Dunno. But we're after him and Sephiroth. So, I guess sooner or later... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Dunno. But we're after him and <referent name="Sephiroth">Sephiroth</referent>. So, I guess sooner or later... </sp>
 <sp> <speaker name="Vincent">Vincent</speaker><boxstart/>Lucrecia...<boxstart/>All right. I've decided to go with you. </sp>
 
 	<sp> <speaker name="Barret">Barret</speaker><boxstart/>W, what? </sp>
@@ -234,7 +234,7 @@
 <sp> <speaker name="Vincent">Vincent</speaker><boxstart/>Being a former Turks, I may be of help to you... </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>All right, then. </sp>
 <stage>Moving onward to the library, they find Sephiroth standing in the hallway leading to the study.</stage>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Sephiroth! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Sephiroth">Sephiroth</referent>! </sp>
 <sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Being here brings back memories.<boxstart/>Are you going to participate in the Reunion? </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I don't even know what a Reunion is! </sp>
 <sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Jenova will be at the Reunion. Jenova will join the Reunion becoming a calamity from the skies. </sp>

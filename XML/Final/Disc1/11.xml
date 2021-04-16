@@ -24,7 +24,7 @@
 
 
 <sp> <speaker name="Cloud"/><boxstart/>If the party has already been to Junon...</sp>
-	<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Like to help but...<boxstart/>- I guess we'll help you<speaker name="Tifa">Tifa</speaker><boxstart/>- I'm sorry... really<boxstart/>- All right, we'll help </sp>
+	<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Like to help but...<boxstart/>- I guess we'll help you<speaker name="Tifa"><referent name="Tifa">Tifa</referent></speaker><boxstart/>- I'm sorry... really<boxstart/>- All right, we'll help </sp>
 	
 	  <sp> <speaker name="Cloud"/><boxstart/>Like to help but... </sp>
 	  <sp> <speaker name="Man">Man</speaker><boxstart/>All right then...... Take care of yourselves... </sp>
@@ -62,7 +62,7 @@
 
 <sp> <speaker name="Man with Hat">Man with Hat</speaker><boxstart/>It appears you have a problem with Shinra, too. After all, you climbed up here.<boxstart/>Why not listen to what I have to say for a moment? </sp>
 
-<sp> <speaker name="Cloud"/><boxstart/>With Cloud as the party leader...</sp>
+<sp> <speaker name="Cloud"/><boxstart/>With <referent name="Cloud">Cloud</referent> as the party leader...</sp>
 	<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>......<boxstart/>- I guess so<boxstart/>- Not interested </sp>
 	
 	  <sp> <speaker name="Cloud"/><boxstart/>I guess so </sp>
@@ -72,17 +72,17 @@
 	  <sp> <speaker name="Cloud"/><boxstart/>Not interested </sp>
 	  
 		  <sp> <speaker name="Barret">Barret</speaker><boxstart/>The hell you talkin' about!? They're all fightin' the Shinra too! You gonna ignore that!? </sp>
-		  <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>After all, we came all this way, Cloud. </sp>
-		  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Cloud, let's listen to what they have to say. </sp>
+		  <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>After all, we came all this way, <referent name="Cloud">Cloud</referent>. </sp>
+		  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>, let's listen to what they have to say. </sp>
 		  <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Is this about the jewels? </sp>
-		  <sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>I know, I know, Cloud. But let's listen for a bit. </sp>
+		  <sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>I know, I know, <referent name="Cloud">Cloud</referent>. But let's listen for a bit. </sp>
 		  <sp> <speaker name="Vincent">Vincent</speaker><boxstart/>There's no harm in listening to them. </sp>
 		  <sp> <speaker name="Cid">Cid</speaker><boxstart/>Man, she sure's cold. </sp>
 	  
 	
 
 
-<sp> <speaker name="Cloud"/><boxstart/>With Tifa as the party leader...</sp>
+<sp> <speaker name="Cloud"/><boxstart/>With <referent name="Tifa">Tifa</referent> as the party leader...</sp>
 	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Oh, by all means. </sp>
 
 <sp> <speaker name="Man with Hat">Man with Hat</speaker><boxstart/>Do you know what's at the top of this mountain? </sp>
@@ -130,12 +130,12 @@
 
 <sp> <speaker name="Man with Hat">Man with Hat</speaker><boxstart/>Unfortunately, we don't have the ability to fight Shinra ourselves.<boxstart/>That's why we have hired soldiers to help us.<boxstart/>As our sponsor you can help us with a contribution or by fighting along side of us...<boxstart/>What do you think? You want to join us in our fight? </sp>
 
-	<sp> <speaker name="Cloud"/><boxstart/>With Cloud as the party leader...</sp>
+	<sp> <speaker name="Cloud"/><boxstart/>With <referent name="Cloud">Cloud</referent> as the party leader...</sp>
 	<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...... </sp>
 	
 		<sp> <speaker name="Barret">Barret</speaker><boxstart/>What's there to think about? We gotta do it! </sp>
-		<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Cloud, why are you still worrying about it? </sp>
-		<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Cloud...... </sp>
+		<sp> <speaker name="Aerith">Aerith</speaker><boxstart/><referent name="Cloud">Cloud</referent>, why are you still worrying about it? </sp>
+		<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>...... </sp>
 		<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>You decide what we're going to do. </sp>
 		Or, after Cosmo Canyon:
 		What are we going to do?
@@ -150,7 +150,7 @@
 	  
 		  <sp> <speaker name="Barret">Barret</speaker><boxstart/>Hey! We'll come to the rescue. </sp>
 		  <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Yes, yes. Let's do our best. </sp>
-		  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Cloud, thanks. </sp>
+		  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>, thanks. </sp>
 		  <sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>I got it. Let me lend a hand, too. </sp>
 		  Or, after Cosmo Canyon:
 		  Got it. I'm gonna lend a hand, too.
@@ -179,7 +179,7 @@
 	
 
 
-	<sp> <speaker name="Cloud"/><boxstart/>With Tifa as the party leader...</sp>
+	<sp> <speaker name="Cloud"/><boxstart/>With <referent name="Tifa">Tifa</referent> as the party leader...</sp>
 	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Everyone, listen to what I have to say.<boxstart/>I can't possibly leave these people like this.<boxstart/>Let's do whatever we can to help them. All right? </sp>
 	
 		<sp> <speaker name="Barret">Barret</speaker><boxstart/>Hey! We'll come to the rescue. </sp>

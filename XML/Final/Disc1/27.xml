@@ -6,13 +6,13 @@
 
 <stage>Cloud and the others arrive at Bone Village.</stage>
 <sp> <speaker name="Excavator">Excavator</speaker><boxstart/>Welcome to Bone Village, a town for nature lovers.<boxstart/>What do you want? </sp>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Where is the City of the Ancients?<boxstart/>- Do you know where Aerith is?<boxstart/>- What are you doing? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Where is the City of the Ancients?<boxstart/>- Do you know where <referent name="Aerith">Aerith</referent> is?<boxstart/>- What are you doing? </sp>
 
   <sp> <speaker name="Cloud"/><boxstart/>Where is the City of the Ancients? </sp>
   <sp> <speaker name="Excavator">Excavator</speaker><boxstart/>The City of the Ancients? Oh, you must mean the Forgotten City. </sp>
 
 
-  <sp> <speaker name="Cloud"/><boxstart/>Do you know where Aerith is? </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>Do you know where <referent name="Aerith">Aerith</referent> is? </sp>
   <sp> <speaker name="Excavator">Excavator</speaker><boxstart/>Are you talking about that girl? I warned her, but she went into the Sleeping Forest anyway. </sp>
 
 

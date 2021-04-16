@@ -32,7 +32,7 @@
 	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>...Really? Something's telling me I still shouldn't trust you.<boxstart/>Are you thinking of tricking us again...? </sp>
 	<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>Hmm, ... Smells fishy.<boxstart/>My nose never lies! </sp>
 	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>You serious? I can't trust a person like you.<boxstart/>But, I guess I'm not one to talk. </sp>
-	<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>Further down? I don't see any signs of danger...<boxstart/>Also, there's something unnatural in the way Yuffie's acting... </sp>
+	<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>Further down? I don't see any signs of danger...<boxstart/>Also, there's something unnatural in the way <referent name="Yuffie">Yuffie</referent>'s acting... </sp>
 	<sp> <speaker name="Cid">Cid</speaker><boxstart/>Hey! You, serious?<boxstart/>If you're trying to con us, you won't get away with it! </sp>
 
 <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>No! It's REALLY tough... </sp>
@@ -47,13 +47,13 @@
 
 <sp> <speaker name="Shinra Soldier">Shinra Soldier</speaker><boxstart/>Hey, that's not them! These are the other guys from before!! </sp>
 
-	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Yuffie, so you're...! </sp>
-	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Yuffie, did you by any chance... </sp>
-	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Yuffie, you're not......! </sp>
-	<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>So you were, Yuffie...!! </sp>
-	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Not bad, Yuffie, not bad at all. </sp>
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/><referent name="Yuffie">Yuffie</referent>, so you're...! </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/><referent name="Yuffie">Yuffie</referent>, did you by any chance... </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Yuffie">Yuffie</referent>, you're not......! </sp>
+	<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>So you were, <referent name="Yuffie">Yuffie</referent>...!! </sp>
+	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Not bad, <referent name="Yuffie">Yuffie</referent>, not bad at all. </sp>
 	<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>So what does this mean... You will explain this later... </sp>
-	<sp> <speaker name="Cid">Cid</speaker><boxstart/>Yuffie! You sure got some nerve, kid! </sp>
+	<sp> <speaker name="Cid">Cid</speaker><boxstart/><referent name="Yuffie">Yuffie</referent>! You sure got some nerve, kid! </sp>
 
 <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>I didn't know! I have nothing to do with this one! </sp>
 
@@ -78,10 +78,10 @@
 	<sp> <speaker name="Cid">Cid</speaker><boxstart/>What the hell's goin' on!<boxstart/>I knew I was missing something... My materia's gone!! </sp>
 
 
-	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Yo... where's that $#@^% Yuffie...? </sp>
-	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Hey... where's Yuffie...? </sp>
-	<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>Hey... where's Yuffie...? </sp>
-	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Now... where's Yuffie...? </sp>
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Yo... where's that $#@^% <referent name="Yuffie">Yuffie</referent>...? </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Hey... where's <referent name="Yuffie">Yuffie</referent>...? </sp>
+	<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>Hey... where's <referent name="Yuffie">Yuffie</referent>...? </sp>
+	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Now... where's <referent name="Yuffie">Yuffie</referent>...? </sp>
 	<sp> <speaker name="Cid">Cid</speaker><boxstart/>Ey... where the hell's that damn kid...? </sp>
 
 <stage>They all look around.</stage>
@@ -105,7 +105,7 @@
 <stage>She runs off.</stage>
 <stage>Outside Yuffie's house..</stage>
 <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>This is MY house! Nobody gets in! </sp>
-<sp> <speaker name="Man on the Path to Godo's House">Man on the Path to Godo's House</speaker><boxstart/>Lord Godo is in this house.<boxstart/>He used to be quite strong, but now, all he does is sleep......<boxstart/>What, Yuffie... It's best to ask Lord Godo about that.<boxstart/>But today he's not in the best of... Well, I should say... But really he's not so...... </sp>
+<sp> <speaker name="Man on the Path to Godo's House">Man on the Path to Godo's House</speaker><boxstart/>Lord Godo is in this house.<boxstart/>He used to be quite strong, but now, all he does is sleep......<boxstart/>What, <referent name="Yuffie">Yuffie</referent>... It's best to ask Lord Godo about that.<boxstart/>But today he's not in the best of... Well, I should say... But really he's not so...... </sp>
 <stage>In the Weapons shop...</stage>
 <sp> <speaker name="Weapons Shopkeeper">Weapons Shopkeeper</speaker><boxstart/>Sorry, listen I... No, nothing... never mind. </sp>
 <sp> <speaker name="Man">Man</speaker><boxstart/>Sorry, but we're entirely sold out now.<boxstart/>What's this here? Ah, no... that's uh...<boxstart/>...a sample! Yeah, that's it... a sample. Sorry, but why don't you all come back later? </sp>
@@ -118,7 +118,7 @@
 <stage>She jumps up.</stage>
 <sp> <boxstart/>Never mind that. I guess it's fate that brought us together.<boxstart/>Get ready to die!! </sp>
 <stage>Cloud and the others ready their weapons. Reno and Rude don't move.</stage>
-<sp> <speaker name="Reno">Reno</speaker><boxstart/>...Elena, you talk too much. </sp>
+<sp> <speaker name="Reno">Reno</speaker><boxstart/>...<referent name="Elena">Elena</referent>, you talk too much. </sp>
 <sp> <speaker name="Elena">Elena</speaker><boxstart/>Ww, what? </sp>
 <sp> <speaker name="Reno">Reno</speaker><boxstart/>What are we doing way out here in the middle of nowhere? </sp>
 <sp> <speaker name="Elena">Elena</speaker><boxstart/>We're taking our vacation and resting up from our work. </sp>
@@ -128,11 +128,11 @@
 <sp> <speaker name="Elena">Elena</speaker><boxstart/>...sorry... </sp>
 <stage>She sits back down, and Cloud relaxes.</stage>
 <sp> <speaker name="Elena">Elena</speaker><boxstart/>Hmm, you're lucky all right. Now get out of my sight!<boxstart/>The next time we meet I won't be so nice. </sp>
-<sp> <speaker name="Reno">Reno</speaker><boxstart/>Drink, Rude! How long have we been a team...?<boxstart/>There have been hard times being a Turk, but all in all, I'm glad I did it.<boxstart/>I even got to meet a bunch of wing nuts like you. </sp>
-<sp> <speaker name="Rude">Rude</speaker><boxstart/>To the Turks... To Reno... cheers! </sp>
+<sp> <speaker name="Reno">Reno</speaker><boxstart/>Drink, <referent name="Rude">Rude</referent>! How long have we been a team...?<boxstart/>There have been hard times being a Turk, but all in all, I'm glad I did it.<boxstart/>I even got to meet a bunch of wing nuts like you. </sp>
+<sp> <speaker name="Rude">Rude</speaker><boxstart/>To the Turks... To <referent name="Reno">Reno</referent>... cheers! </sp>
 <stage>Outside the Item Shop, a little kid is running around.</stage>
 <sp> <speaker name="Little Kid">Little Kid</speaker><boxstart/>Alright, alright, alright! I know!<boxstart/>On the side of the mountain, right there in your face is Da-chao!<boxstart/>I hear you can climb to the top, but since it's dangerous I'd be mighty careful if I were you!<boxstart/>A girl with materia? No, there hasn't been anyone climbing Da-chao for some time now.<boxstart/>You know I've noticed that there's  pounding noise from time to time in this store. </sp>
-<sp> <speaker name="Man on the Path to Godo's House">Man on the Path to Godo's House</speaker><boxstart/>Lord Godo is in this house.<boxstart/>He used to be quite strong, but now, all he does is sleep......<boxstart/>Anyhow, for some reason Yuffie's had a fondness for materia ever since I can remember.<boxstart/>She's always hung around places she thought might have it. </sp>
+<sp> <speaker name="Man on the Path to Godo's House">Man on the Path to Godo's House</speaker><boxstart/>Lord Godo is in this house.<boxstart/>He used to be quite strong, but now, all he does is sleep......<boxstart/>Anyhow, for some reason <referent name="Yuffie">Yuffie</referent>'s had a fondness for materia ever since I can remember.<boxstart/>She's always hung around places she thought might have it. </sp>
 <stage>In the Item Shop...</stage>
 <sp> <speaker name="Item Shopkeeper">Item Shopkeeper</speaker><boxstart/>We got a lot of different stuff here. Take what you want. </sp>
 <sp> <speaker name="Woman">Woman</speaker><boxstart/>I'm sorry. The sign outside says "Materia", but there's almost no materia left anywhere in Wutai.<boxstart/>Listen, this is just a backwoods town. We don't have much to do with Shinra, and besides...<boxstart/>If we had a lot of materia, Wutai would be a much more exciting town, but we don't... </sp>
@@ -157,14 +157,14 @@
   <sp> <speaker name="Gorky">Gorky</speaker><boxstart/>Hey! I hate people who lie about their identities! Leave this tower at once! </sp>
 
 <stage>Inside Godo's house, they find Godo lying on a futon.</stage>
-<sp> <speaker name="Godo">Godo</speaker><boxstart/>GOOGAH... what do you want?<boxstart/>Don't have... GAH... anything much but, you should be able to... GOO... rest yourselves here. GOGAH... make yourselves at home.<boxstart/>......Yuffie? ......nope, never heard of her. ...GOOGO...<boxstart/>...you again? I told you once, and I'm telling you again, I don't know her. </sp>
+<sp> <speaker name="Godo">Godo</speaker><boxstart/>GOOGAH... what do you want?<boxstart/>Don't have... GAH... anything much but, you should be able to... GOO... rest yourselves here. GOGAH... make yourselves at home.<boxstart/>......<referent name="Yuffie">Yuffie</referent>? ......nope, never heard of her. ...GOOGO...<boxstart/>...you again? I told you once, and I'm telling you again, I don't know her. </sp>
 <stage>He sits up.</stage>
-<sp> <boxstart/>Listen, I said I didn't know her! There isn't anyone named Yuffie here in Wutai! </sp>
+<sp> <boxstart/>Listen, I said I didn't know her! There isn't anyone named <referent name="Yuffie">Yuffie</referent> here in Wutai! </sp>
 <stage>He gets to his feet and turns to face Cloud.</stage>
 <sp> <boxstart/>...never seen you around here before...<boxstart/>Lately I've been seeing a lot of Shinra soldiers around here... You wouldn't have anything to do with that would you?<boxstart/>I don't care about who you are.<boxstart/>But if you're in trouble with the Shinra, I'm going to have to ask you to leave.<boxstart/>I don't want the Shinra hanging around here looking over my shoulder. </sp>
 <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>What's with you, you coward! </sp>
 <stage>She jumps down from the ceiling to stand in his doorway.</stage>
-<sp> <speaker name="Godo">Godo</speaker><boxstart/>Yuffie......! </sp>
+<sp> <speaker name="Godo">Godo</speaker><boxstart/><referent name="Yuffie">Yuffie</referent>......! </sp>
 <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>You scared of the Shinra?<boxstart/>Then why don't you fall into line and obey them, just like all of the other towns! </sp>
 <stage>She runs into the room.</stage>
 <sp> <boxstart/>Those guys are the ones who are really fighting the Shinra! </sp>
@@ -176,8 +176,8 @@
 <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Hmph! You're a sad excuse for a father!! </sp>
 <stage>She runs out and into the shrine down the hall. Godo starts to chase after her, but gives up and returns to his room.</stage>
 <sp> <speaker name="Godo">Godo</speaker><boxstart/>......take your things and get out of here now.<boxstart/>To protect Wutai, we cannot afford to stand up to Shinra. </sp>
-<sp> <speaker name="Man on the Path to Godo's House">Man on the Path to Godo's House</speaker><boxstart/>She's always getting into fights. But in that, she takes after Godo to a tee.<boxstart/>Like father like daughter...<boxstart/>Yuffie's like that, you know. Sometimes she'll just bust into people's houses.<boxstart/>Then she hides in the shadows... Just like a little kid. </sp>
-<sp> <speaker name="Woman Walking near River">Woman Walking near River</speaker><boxstart/>Life is just like the flowing of a river. It flows from the large ocean of life, and eventually it returns back to it.<boxstart/>Wutai is a historical place. There are some very unusual things here you should see.<boxstart/>Yuffie? I saw her a while ago. She must be in one of the houses around here. </sp>
+<sp> <speaker name="Man on the Path to Godo's House">Man on the Path to Godo's House</speaker><boxstart/>She's always getting into fights. But in that, she takes after Godo to a tee.<boxstart/>Like father like daughter...<boxstart/><referent name="Yuffie">Yuffie</referent>'s like that, you know. Sometimes she'll just bust into people's houses.<boxstart/>Then she hides in the shadows... Just like a little kid. </sp>
+<sp> <speaker name="Woman Walking near River">Woman Walking near River</speaker><boxstart/>Life is just like the flowing of a river. It flows from the large ocean of life, and eventually it returns back to it.<boxstart/>Wutai is a historical place. There are some very unusual things here you should see.<boxstart/><referent name="Yuffie">Yuffie</referent>? I saw her a while ago. She must be in one of the houses around here. </sp>
 <stage>At the old man's house...</stage>
 <sp> <speaker name="Boy">Boy</speaker><boxstart/>Oh no! More weirdos<boxstart/>No, these aren't like the one from a while ago, but these ones look weird too! </sp>
 <sp> <speaker name="Old Man">Old Man</speaker><boxstart/>Well, well. Long time no see. What have you been up to? Let's see... what was your name? </sp>
@@ -187,21 +187,21 @@
 <stage>She dashes out of the house.</stage>
 <sp> <speaker name="Old Man">Old Man</speaker><boxstart/>Oh, how exciting. You a friend of my grandson's? </sp>
 <sp> <speaker name="Boy">Boy</speaker><boxstart/>No, Gramps! These guy's are creepy! They're runnin' all over the place! </sp>
-<sp> <speaker name="Man on the Path to Godo's House">Man on the Path to Godo's House</speaker><boxstart/>She's always getting into fights. But in that, she takes after Godo to a tee.<boxstart/>Like father like daughter...<boxstart/>That reminds me, Lately I've been seeing a kid around here that reminds me of Yuffie.<boxstart/>Always sneakin' around corners And into somethin' she shouldn't be. </sp>
+<sp> <speaker name="Man on the Path to Godo's House">Man on the Path to Godo's House</speaker><boxstart/>She's always getting into fights. But in that, she takes after Godo to a tee.<boxstart/>Like father like daughter...<boxstart/>That reminds me, Lately I've been seeing a kid around here that reminds me of <referent name="Yuffie">Yuffie</referent>.<boxstart/>Always sneakin' around corners And into somethin' she shouldn't be. </sp>
 <stage>If Cloud tries to leave Wutai...</stage>
 
-	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Wait, that damn Yuffie's still gotta be somewhere in this cheap town! Or you all jes' gonna go on? </sp>
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Wait, that damn <referent name="Yuffie">Yuffie</referent>'s still gotta be somewhere in this cheap town! Or you all jes' gonna go on? </sp>
 	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I don't think she came out from here... Is that ok? </sp>
-	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Knowing Yuffie, she's still hidden somewhere in town. You sure? </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Knowing <referent name="Yuffie">Yuffie</referent>, she's still hidden somewhere in town. You sure? </sp>
 	<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>I know she hasn't left town! You still want to leave? </sp>
 	<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>She couldn't have left town... I think she is must still be here... Or do you want to go on? </sp>
 	<sp> <speaker name="Cid">Cid</speaker><boxstart/>You lettin' that damn kid off the hook? I know she's gotta be in this town somewhere! </sp>
 
 <stage>Outside the Turtle's Paradise, there is a barrel that's jiggling. Cloud and the others position themselves near the escape routes and then open it. Yuffie jumps out and tries to get away, but finds herself surrounded.</stage>
 
-	<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>You can't get away, Yuffie. </sp>
-	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Give it up, Yuffie! </sp>
-	<sp> <speaker name="Cid">Cid</speaker><boxstart/>You lost, Yuffie. </sp>
+	<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>You can't get away, <referent name="Yuffie">Yuffie</referent>. </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Give it up, <referent name="Yuffie">Yuffie</referent>! </sp>
+	<sp> <speaker name="Cid">Cid</speaker><boxstart/>You lost, <referent name="Yuffie">Yuffie</referent>. </sp>
 
 <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>O... ok, I know... I was wrong......<boxstart/>You win. I'll give you back your materia... </sp>
 <stage>She leads them to her house, just as two soldiers run into Turtle's Paradise.</stage>
@@ -218,9 +218,9 @@
 <stage>The two soldiers run out. One comes back momentarily.</stage>
 <sp> <speaker name="Shinra Soldier">Shinra Soldier</speaker><boxstart/>And don't think that headquarters isn't going to hear about this!! </sp>
 <stage>He leaves again.</stage>
-<sp> <speaker name="Elena">Elena</speaker><boxstart/>Reno, do you think that was really such a good idea!?<boxstart/>I mean is that the way a professional, a Turk would act!? </sp>
-<sp> <speaker name="Reno">Reno</speaker><boxstart/>Elena. Don't misunderstand.<boxstart/>A pro isn't someone who sacrifices himself for his job. That's just a fool. </sp>
-<sp> <speaker name="Elena">Elena</speaker><boxstart/>Rude...? </sp>
+<sp> <speaker name="Elena">Elena</speaker><boxstart/><referent name="Reno">Reno</referent>, do you think that was really such a good idea!?<boxstart/>I mean is that the way a professional, a Turk would act!? </sp>
+<sp> <speaker name="Reno">Reno</speaker><boxstart/><referent name="Elena">Elena</referent>. Don't misunderstand.<boxstart/>A pro isn't someone who sacrifices himself for his job. That's just a fool. </sp>
+<sp> <speaker name="Elena">Elena</speaker><boxstart/><referent name="Rude">Rude</referent>...? </sp>
 <sp> <speaker name="Rude">Rude</speaker><boxstart/>......... </sp>
 <sp> <speaker name="Elena">Elena</speaker><boxstart/>Well, I don't buy that! Goodbye!! </sp>
 <stage>She runs out.</stage>
@@ -234,9 +234,9 @@
 <sp> <speaker name="Yuffie">Yuffie</speaker>...I've been hearing that ever since I was little. Before I was born, Wutai was a lot more crowded and more important...<boxstart/>You saw what it looks like now, right? ...JUST a resort town...<boxstart/>After we lost the war, we got peace, but with that, we lost something else. Now look at Wutai...<boxstart/>That's why... if I had lots of materia I could... </sp>
 <stage>She starts crying.</stage>
 
-	<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Listen, Yuffie. I don't care about the history of Wutai or your feelings.<boxstart/>You've got our materia and I want it back... now.<boxstart/>If you give it back now, we'll drop the whole thing. </sp>
-	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>I'm sorry, Yuffie. I know how you feel, but we need materia too.<boxstart/>...We just can't let you have it. Please understand. </sp>
-	<sp> <speaker name="Cid">Cid</speaker><boxstart/>......Dammit, Yuffie. We ain't got time to be listening to your life story.<boxstart/>If you want materia, get it yourself. That's how you should do it. </sp>
+	<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Listen, <referent name="Yuffie">Yuffie</referent>. I don't care about the history of Wutai or your feelings.<boxstart/>You've got our materia and I want it back... now.<boxstart/>If you give it back now, we'll drop the whole thing. </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>I'm sorry, <referent name="Yuffie">Yuffie</referent>. I know how you feel, but we need materia too.<boxstart/>...We just can't let you have it. Please understand. </sp>
+	<sp> <speaker name="Cid">Cid</speaker><boxstart/>......Dammit, <referent name="Yuffie">Yuffie</referent>. We ain't got time to be listening to your life story.<boxstart/>If you want materia, get it yourself. That's how you should do it. </sp>
 
 <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>I know. I know that...<boxstart/>That... sniff... switch... the lever on the left...... materia's... sniff, hic... in there. </sp>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>Ain't nuthin' we can do about it... </sp>
@@ -294,16 +294,16 @@
 <sp> <speaker name="Shinra Soldier">Shinra Soldier</speaker><boxstart/>There he is! It's Corneo! Don't let him get away!<boxstart/>Attaaaack! </sp>
 <stage>Corneo runs to the side, and the soldiers attack Cloud and the others instead. Back outside Godo's house, they find Reno and Rude.</stage>
 <sp> <speaker name="Reno">Reno</speaker><boxstart/>Hmm... that Corneo is good at escaping... </sp>
-<sp> <speaker name="Rude">Rude</speaker><boxstart/>......Elena. </sp>
-<sp> <speaker name="Reno">Reno</speaker><boxstart/>Let's go, Rude. We'll give them a taste of what the Turks can do. </sp>
+<sp> <speaker name="Rude">Rude</speaker><boxstart/>......<referent name="Elena">Elena</referent>. </sp>
+<sp> <speaker name="Reno">Reno</speaker><boxstart/>Let's go, <referent name="Rude">Rude</referent>. We'll give them a taste of what the Turks can do. </sp>
 <stage>Rude nods and runs off.</stage>
 <sp> <speaker name="Reno">Reno</speaker><boxstart/>......Sounded pretty good. </sp>
 <stage>He turns to Cloud.</stage>
-<sp> <boxstart/>If Elena is in his hands, that's going to make things a little difficult.<boxstart/>And uh... </sp>
+<sp> <boxstart/>If <referent name="Elena">Elena</referent> is in his hands, that's going to make things a little difficult.<boxstart/>And uh... </sp>
 
-	<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>......Ok. Corneo took Yuffie from us.<boxstart/>And without Yuffie, there's no way we'll get our materia back. </sp>
-	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>......all right. Corneo stole Yuffie from us, as well.<boxstart/>And without her, there's no way we'll get our materia back. </sp>
-	<sp> <speaker name="Cid">Cid</speaker><boxstart/>......that's just beautiful! And now that *#$^@'s walked off with Yuffie, too!<boxstart/>And without that brat, we can't get our hands on our materia! </sp>
+	<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>......Ok. Corneo took Yuffie from us.<boxstart/>And without <referent name="Yuffie">Yuffie</referent>, there's no way we'll get our materia back. </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>......all right. Corneo stole <referent name="Yuffie">Yuffie</referent> from us, as well.<boxstart/>And without her, there's no way we'll get our materia back. </sp>
+	<sp> <speaker name="Cid">Cid</speaker><boxstart/>......that's just beautiful! And now that *#$^@'s walked off with <referent name="Yuffie">Yuffie</referent>, too!<boxstart/>And without that brat, we can't get our hands on our materia! </sp>
 
 <sp> <speaker name="Reno">Reno</speaker><boxstart/>Don't misunderstand.<boxstart/>We have no intention of joining you. But for now, we'll agree not to bother each other. That's all. </sp>
 
@@ -313,10 +313,10 @@
 
 <sp> <speaker name="Reno">Reno</speaker><boxstart/>Hmm, nice attitude. Here's a clue, it's the place that stands out the most. </sp>
 <stage>Reno runs off.</stage>
-<sp> <speaker name="Man on the Path to Godo's House">Man on the Path to Godo's House</speaker><boxstart/>Two girls just went off towards Da-chao. I wonder if that place is starting to become popular with the kids?<boxstart/>One had herself all tangled up in a rope. And the other one kind of looked like Yuffie. </sp>
+<sp> <speaker name="Man on the Path to Godo's House">Man on the Path to Godo's House</speaker><boxstart/>Two girls just went off towards Da-chao. I wonder if that place is starting to become popular with the kids?<boxstart/>One had herself all tangled up in a rope. And the other one kind of looked like <referent name="Yuffie">Yuffie</referent>. </sp>
 <sp> <speaker name="Little Kid">Little Kid</speaker><boxstart/>Alright, alright, alright! I saw an old man in flashy clothes running towards Da-chao!<boxstart/>He was babblin' somethin' and looked like he could float! It almost bowled me over! </sp>
 <stage>Cloud arrives at Da-chao.</stage>
-<sp> <speaker name="Reno">Reno</speaker><boxstart/>You're finally here. We're gonna split into two.<boxstart/>You do whatever you want. But don't endanger Elena.<boxstart/>Don't worry. We won't do anything to that girl, Yuffie.<boxstart/>For now... </sp>
+<sp> <speaker name="Reno">Reno</speaker><boxstart/>You're finally here. We're gonna split into two.<boxstart/>You do whatever you want. But don't endanger <referent name="Elena">Elena</referent>.<boxstart/>Don't worry. We won't do anything to that girl, <referent name="Yuffie">Yuffie</referent>.<boxstart/>For now... </sp>
 <stage>Following Reno up the mountain...</stage>
 <sp> <speaker name="Reno">Reno</speaker><boxstart/>Don't fool around. You know the enemy's not gonna wait for us, right? </sp>
 <stage>Following Rude...</stage>
@@ -337,11 +337,11 @@
 
 <sp> <speaker name="Corneo">Corneo</speaker><boxstart/>Hee-haw. What... what's goin' on!? Who's there? </sp>
 <stage>Cloud and the others run in.</stage>
-<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Oh man! Cloud......! </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Oh man! <referent name="Cloud">Cloud</referent>......! </sp>
 <stage>Or, if Tifa:</stage>
-<sp> <boxstart/>Oh man! Tifa......! </sp>
+<sp> <boxstart/>Oh man! <referent name="Tifa">Tifa</referent>......! </sp>
 <stage>Or, if Cid:</stage>
-<sp> <boxstart/>Oh man! That old fart, Cid......! </sp>
+<sp> <boxstart/>Oh man! That old fart, <referent name="Cid">Cid</referent>......! </sp>
 <sp> <speaker name="Corneo">Corneo</speaker><boxstart/>Wheeel... long time no see. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Don't tell me you forgot... </sp>
 
@@ -355,7 +355,7 @@
 
 <sp> <speaker name="Corneo">Corneo</speaker><boxstart/>Be quiet! None of you know how much I've suffered since then...<boxstart/>It's a long story, but...... </sp>
 
-	<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I don't really care! Let Yuffie and Elena go! </sp>
+	<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I don't really care! Let <referent name="Yuffie">Yuffie</referent> and <referent name="Elena">Elena</referent> go! </sp>
 	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>We don't want to hear it! Just let the two go! </sp>
 	<sp> <speaker name="Cid">Cid</speaker><boxstart/>I don't really give a damn! You're gonna let the two girls go, or else I'm gonna break your arm! </sp>
 
@@ -404,7 +404,7 @@
 <sp> <speaker name="Corneo">Corneo</speaker><boxstart/>DAMMIT! Then they're all goin' with me! </sp>
 <stage>Rude runs in from behind and throws something at Corneo, who falls to the edge of the hand.</stage>
 <sp> <speaker name="Corneo">Corneo</speaker><boxstart/>Ugh...! </sp>
-<sp> <speaker name="Reno">Reno</speaker><boxstart/>Good timing, Rude. </sp>
+<sp> <speaker name="Reno">Reno</speaker><boxstart/>Good timing, <referent name="Rude">Rude</referent>. </sp>
 <sp> <speaker name="Rude">Rude</speaker><boxstart/>...Let's get to work. </sp>
 <stage>Reno walks over to Corneo and steps on his fingers.</stage>
 <sp> <speaker name="Reno">Reno</speaker><boxstart/>All right, Corneo. This'll be over quick, so listen up.<boxstart/>Why do you think we went to all the trouble of teaming up with those guys to get you...?<boxstart/>1. Because we were ready to die<boxstart/>2. Because we were sure of victory<boxstart/>3. Because we were clueless </sp>
@@ -417,7 +417,7 @@
 <sp> <speaker name="Reno">Reno</speaker><boxstart/>The correct answer was... </sp>
 <sp> <speaker name="Rude">Rude</speaker><boxstart/>...because it's our job. </sp>
 <sp> <speaker name="Elena">Elena</speaker><boxstart/>Oh, thank you very much...!<boxstart/>I never expected you'd to come help...... </sp>
-<sp> <speaker name="Reno">Reno</speaker><boxstart/>Elena, don't act so weak.<boxstart/>You're a Turks! </sp>
+<sp> <speaker name="Reno">Reno</speaker><boxstart/><referent name="Elena">Elena</referent>, don't act so weak.<boxstart/>You're a Turks! </sp>
 <sp> <speaker name="Elena">Elena</speaker><boxstart/>Y... Yes, sir! </sp>
 
 	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Never thought you'd come an' help us... </sp>
@@ -430,9 +430,9 @@
 
 <sp> <speaker name="Rude">Rude</speaker><boxstart/>...... </sp>
 <stage>Reno's cell phone rings, and he answers it.</stage>
-<sp> <speaker name="Reno">Reno</speaker><boxstart/>Yes... this is Reno.<boxstart/>Yes... Yes... I'll get on it right away. </sp>
+<sp> <speaker name="Reno">Reno</speaker><boxstart/>Yes... this is <referent name="Reno">Reno</referent>.<boxstart/>Yes... Yes... I'll get on it right away. </sp>
 <sp> <speaker name="Elena">Elena</speaker><boxstart/>Was that the company? </sp>
-<sp> <speaker name="Reno">Reno</speaker><boxstart/>Yeah, they want us to find Cloud... </sp>
+<sp> <speaker name="Reno">Reno</speaker><boxstart/>Yeah, they want us to find <referent name="Cloud">Cloud</referent>... </sp>
 <stage>Cloud and the others ready their weapons.</stage>
 <sp> <speaker name="Rude">Rude</speaker><boxstart/>Are we on...? </sp>
 <sp> <speaker name="Reno">Reno</speaker><boxstart/>No, today we're off duty. </sp>
@@ -463,13 +463,13 @@
 <stage>After everything has died down, they can go back to Wutai so Yuffie can climb the pagoda.</stage>
 <sp> <speaker name="Woman Walking near River">Woman Walking near River</speaker><boxstart/>Materia is like Life. They both come from the large ocean of life, and both must return to it. </sp>
 <stage>In the Weapons Shop...</stage>
-<sp> <speaker name="Man">Man</speaker><boxstart/>Listen, I'm sorry about last time. Yuffie told me not to sell anything to you. </sp>
+<sp> <speaker name="Man">Man</speaker><boxstart/>Listen, I'm sorry about last time. <referent name="Yuffie">Yuffie</referent> told me not to sell anything to you. </sp>
 <sp> <speaker name="Weapons Shopkeeper">Weapons Shopkeeper</speaker><boxstart/>Hey yo! Welcome!<boxstart/>Strike while the iron's hot, I say! We got some of the best blades right out of the furnace! </sp>
 <sp> <speaker name="Little Kid">Little Kid</speaker><boxstart/>Alright, alright, alright! I know!<boxstart/>On the side of the mountain, right there in your face is Da-chao!<boxstart/>I hear you can climb to the top, but since it's dangerous I'd be mighty careful if I were you!<boxstart/>Why Da-chao? Alright, alright, alright! I don't know! </sp>
 <stage>Cloud and the others enter the pagoda.</stage>
 <stage>If Yuffie is in the party and they try to proceed to the second floor without fighting...</stage>
-<sp> <speaker name="Gorky">Gorky</speaker><boxstart/>Freeze!<boxstart/>Miss Yuffie! You cannot go on to the second floor until you defeat me! </sp>
-<sp> <speaker name="Gorky">Gorky</speaker><boxstart/>Oh, Miss Yuffie! Will you be climbing the pagoda today? </sp>
+<sp> <speaker name="Gorky">Gorky</speaker><boxstart/>Freeze!<boxstart/>Miss <referent name="Yuffie">Yuffie</referent>! You cannot go on to the second floor until you defeat me! </sp>
+<sp> <speaker name="Gorky">Gorky</speaker><boxstart/>Oh, Miss <referent name="Yuffie">Yuffie</referent>! Will you be climbing the pagoda today? </sp>
 <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>- Yeah, that's it<boxstart/>- No way! </sp>
 <sp> <speaker name="Gorky">Gorky</speaker><boxstart/>Then I, Sacred Gorky, will be your opponent on the first floor! </sp>
 <stage>A boy runs down from upstairs.</stage>
@@ -484,7 +484,7 @@
 
 
   <sp> <speaker name="Cloud"/><boxstart/>If she wins...</sp>
-  <sp> <speaker name="Gorky">Gorky</speaker><boxstart/>Here I am, Miss Yuffie! </sp>
+  <sp> <speaker name="Gorky">Gorky</speaker><boxstart/>Here I am, Miss <referent name="Yuffie">Yuffie</referent>! </sp>
   <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Of course! </sp>
   <sp> <speaker name="Shake">Shake</speaker><boxstart/>Hmm, I thought you were just a wild girl, but you handled that pretty well!<boxstart/>Well, we'll see how you do on next one... </sp>
 
@@ -567,7 +567,7 @@
 
 <stage>If Yuffie tries to go to the next floor prematurely...</stage>
 <sp> <speaker name="Staniv">Staniv</speaker><boxstart/>HAAAAH! </sp>
-<stage>The door closes.<boxstart/><boxstart/>Yuffie fights Staniv.</stage>
+<stage>The door closes.<boxstart/><boxstart/><referent name="Yuffie">Yuffie</referent> fights Staniv.</stage>
 
   <sp> <speaker name="Cloud"/><boxstart/>If she loses...</sp>
   <sp> <speaker name="Staniv">Staniv</speaker><boxstart/>How unfortunate! It was over before I could even put all of my strength into it... </sp>
@@ -589,7 +589,7 @@
 <sp> <speaker name="Chekhov">Chekhov</speaker><boxstart/>... </sp>
 <sp> <speaker name="Staniv">Staniv</speaker><boxstart/>...... </sp>
 <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>D, ...Dad!? </sp>
-<sp> <speaker name="Godo">Godo</speaker><boxstart/>I'm glad you made it this far, Yuffie! </sp>
+<sp> <speaker name="Godo">Godo</speaker><boxstart/>I'm glad you made it this far, <referent name="Yuffie">Yuffie</referent>! </sp>
 <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Why, why are you...... </sp>
 <sp> <speaker name="Godo">Godo</speaker><boxstart/>I'll answer you by having you try your skills against me!<boxstart/>Hold nothing back. Come as if you're trying to kill me! If you don't... then I'll have to kill you! </sp>
 <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>H... hey! </sp>
@@ -610,28 +610,28 @@
 <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Ha ha haaaaaa......! </sp>
 <sp> <speaker name="Godo">Godo</speaker><boxstart/>Waha haaaaa......! </sp>
 <stage>They eventually get up off the floor and compose themselves.</stage>
-<sp> <speaker name="Godo">Godo</speaker><boxstart/>It's time I gave this to you, Yuffie...<boxstart/>This is Leviathan Materia. Take it. </sp>
+<sp> <speaker name="Godo">Godo</speaker><boxstart/>It's time I gave this to you, <referent name="Yuffie">Yuffie</referent>...<boxstart/>This is Leviathan Materia. Take it. </sp>
 <sp> <speaker name="unspecified"/><boxstart/>Received "Leviathan" Materia! </sp>
 <sp> <speaker name="Staniv">Staniv</speaker><boxstart/>But, Lord Godo. The Leviathan Materia should only be given to the person who conquers and takes over this Pagoda. That is our custom... </sp>
 <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>CUSTOM, CUSTOM, CUSTOM... I'm so sick of hearing that!<boxstart/>It's so stupid! </sp>
-<sp> <speaker name="Gorky">Gorky</speaker><boxstart/>Silence, Miss Yuffie! </sp>
+<sp> <speaker name="Gorky">Gorky</speaker><boxstart/>Silence, Miss <referent name="Yuffie">Yuffie</referent>! </sp>
 <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Then what 'bout the rest of you? You have all that power...<boxstart/>Are you satisfied being cooped up in this tower? </sp>
-<sp> <speaker name="Godo">Godo</speaker><boxstart/>Yuffie...! </sp>
+<sp> <speaker name="Godo">Godo</speaker><boxstart/><referent name="Yuffie">Yuffie</referent>...! </sp>
 <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>You too, dad...! Just because you lost the war!<boxstart/>And turning Wutai into a place like this! </sp>
 <sp> <speaker name="Chekhov">Chekhov</speaker><boxstart/>...What do you want to say? </sp>
 <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>You turned Wutai into a cheesy resort town peddling to tourists...<boxstart/>How dare you!? Da-chao Statue and Leviathan are ashamed!! </sp>
 <sp> <speaker name="Godo">Godo</speaker><boxstart/>... </sp>
 <sp> <speaker name="Shake">Shake</speaker><boxstart/>She IS a kid. </sp>
 <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Wh, what did you say...!? </sp>
-<sp> <speaker name="Godo">Godo</speaker><boxstart/>Yuffie!!<boxstart/>Forgive me... It's all my fault... </sp>
+<sp> <speaker name="Godo">Godo</speaker><boxstart/><referent name="Yuffie">Yuffie</referent>!!<boxstart/>Forgive me... It's all my fault... </sp>
 <sp> <speaker name="Gorky">Gorky</speaker><boxstart/>What are you saying, Lord Godo! </sp>
 <sp> <speaker name="Godo">Godo</speaker><boxstart/>Losing the war... turning Wutai into this. It was all my fault... </sp>
 <sp> <speaker name="Chekhov">Chekhov</speaker><boxstart/>Lord Godo! </sp>
-<sp> <speaker name="Godo">Godo</speaker><boxstart/>Silence!!<boxstart/>Yuffie......<boxstart/>I am the same now as I was before when I wanted the war.<boxstart/>But, after I lost the war, I began to think...<boxstart/>Is strength, only for defeating the enemy?<boxstart/>...or just something to show-off to others...?<boxstart/>Might begets might.<boxstart/>That's the same way as the Shinra... </sp>
+<sp> <speaker name="Godo">Godo</speaker><boxstart/>Silence!!<boxstart/><referent name="Yuffie">Yuffie</referent>......<boxstart/>I am the same now as I was before when I wanted the war.<boxstart/>But, after I lost the war, I began to think...<boxstart/>Is strength, only for defeating the enemy?<boxstart/>...or just something to show-off to others...?<boxstart/>Might begets might.<boxstart/>That's the same way as the Shinra... </sp>
 <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>...... </sp>
 <sp> <speaker name="Godo">Godo</speaker><boxstart/>I knew you were looking for Materia for the good of Wutai.<boxstart/>But, the reason I hide my strength now, is also for the good of Wutai...<boxstart/>And now, I realize both are necessary...<boxstart/>Strength without determination means nothing. And determination without strength is equally useless...! </sp>
 <sp> <speaker name="Staniv">Staniv</speaker><boxstart/>Lord Godo... </sp>
-<sp> <speaker name="Godo">Godo</speaker><boxstart/>You there, please take Yuffie with you!<boxstart/>I perceive that you all have both determination and strength! </sp>
+<sp> <speaker name="Godo">Godo</speaker><boxstart/>You there, please take <referent name="Yuffie">Yuffie</referent> with you!<boxstart/>I perceive that you all have both determination and strength! </sp>
 
 	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Jes' don't do nothin' funny to our Materia...! </sp>
 	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>All right. We'll take your daughter with us. </sp>
@@ -639,24 +639,24 @@
 	<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>As long as she doesn't get in our way...! </sp>
 	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>If you put it that way, we can't refuse... </sp>
 	<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>Hmm... You may come if you want to... </sp>
-	<sp> <speaker name="Cid">Cid</speaker><boxstart/>Well, just tell yourself you're on a big ship, and leave the rest to ol' Cid! </sp>
+	<sp> <speaker name="Cid">Cid</speaker><boxstart/>Well, just tell yourself you're on a big ship, and leave the rest to ol' <referent name="Cid">Cid</referent>! </sp>
 
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>All right, I don't mind. </sp>
-<sp> <speaker name="Godo">Godo</speaker><boxstart/>Go, Yuffie!<boxstart/>For the sake of strengthening Wutai! </sp>
+<sp> <speaker name="Godo">Godo</speaker><boxstart/>Go, <referent name="Yuffie">Yuffie</referent>!<boxstart/>For the sake of strengthening Wutai! </sp>
 <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Dad... </sp>
 <sp> <speaker name="Godo">Godo</speaker><boxstart/>I'll take care of the Five Sacred Gods until you return!<boxstart/>Go! And come back alive! </sp>
 <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>......<boxstart/>Of course! </sp>
 <stage>Everyone else files out, and Yuffie starts to follow them.</stage>
-<sp> <speaker name="Godo">Godo</speaker><boxstart/>Yuffie, wait a minute.<boxstart/>The Materia they all have...<boxstart/>After their battle is over, you think they'll still want it? </sp>
+<sp> <speaker name="Godo">Godo</speaker><boxstart/><referent name="Yuffie">Yuffie</referent>, wait a minute.<boxstart/>The Materia they all have...<boxstart/>After their battle is over, you think they'll still want it? </sp>
 <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Dad...! </sp>
 <sp> <speaker name="Godo">Godo</speaker><boxstart/>Go! Survive till the end! And return!<boxstart/>With the Materia! </sp>
 <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Heh, heh... you bet! </sp>
 <stage>She runs off.</stage>
 <sp> <speaker name="Godo">Godo</speaker><boxstart/>Go! Survive to the end! And return to us!<boxstart/>Mat-...<boxstart/>Take care of the Materia!! </sp>
-<sp> <speaker name="Staniv">Staniv</speaker><boxstart/>Miss Yuffie. Your feelings for Wutai are the same as Lord Godo's. Always remember that... </sp>
+<sp> <speaker name="Staniv">Staniv</speaker><boxstart/>Miss <referent name="Yuffie">Yuffie</referent>. Your feelings for Wutai are the same as Lord Godo's. Always remember that... </sp>
 <sp> <speaker name="Chekhov">Chekhov</speaker><boxstart/>Fight so that you never bring shame on Wutai. </sp>
 <sp> <speaker name="Shake">Shake</speaker><boxstart/>You say there's some unusual materia where the underground pipe is!?<boxstart/>But, first you gotta get if from a monster and unless you use your head. You won't be able to do it. </sp>
-<sp> <speaker name="Gorky">Gorky</speaker><boxstart/>Miss Yuffie. We pray for your success! </sp>
+<sp> <speaker name="Gorky">Gorky</speaker><boxstart/>Miss <referent name="Yuffie">Yuffie</referent>. We pray for your success! </sp>
 <stage>Cloud and the others leave Wutai and return to their quest.</stage>
 
 </scene>

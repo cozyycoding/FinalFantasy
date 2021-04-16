@@ -54,7 +54,7 @@
 <sp> <speaker name="Soldier">Soldier</speaker><boxstart/>All I wanted was to become a pilot! It used to leave me speechless watching the Highwind in the sunset! </sp>
 <sp> <speaker name="Soldiers Practicing Victory Poses">Soldiers Practicing Victory Poses</speaker><boxstart/>Someday I'll get to use my special pose in a real battle!<boxstart/>Same here!! I'll keep practicing until then! </sp>
 <stage>In the bar, Rude is gone but the rest of the bald club remains...</stage>
-<sp> <speaker name="Bald Black Man">Bald Black Man</speaker><boxstart/>It just isn't a party without Rude! </sp>
+<sp> <speaker name="Bald Black Man">Bald Black Man</speaker><boxstart/>It just isn't a party without <referent name="Rude">Rude</referent>! </sp>
 <stage>In the barracks, a commander stands reprimanding a soldier.</stage>
 <sp> <speaker name="Commander">Commander</speaker><boxstart/>Hey!! Stay out of the way! </sp>
 <sp> <speaker name="Soldier">Soldier</speaker><boxstart/>Ever since I was late to that parade, they've been on my back everyday with basic training.<boxstart/>I can't handle it anymore! </sp>
@@ -113,7 +113,7 @@
   <sp> <speaker name="Cloud"/><boxstart/>Nope </sp>
   <sp> <speaker name="Sailor">Sailor</speaker><boxstart/>Just holler whenever you want a ride!<boxstart/>If you get sick easily, maybe you'd better not go. </sp>
 
-<sp> <speaker name="Soldier outside Cargo Ship">Soldier outside Cargo Ship</speaker><boxstart/>Lately it seems like the economy's been better. Must be the 'Rufus' effect.<boxstart/>Cargo ships are always coming and going from Costa del Sol.<boxstart/>Now I'll overlook the fact that you're a stowaway, but you better at least help with the cargo. </sp>
+<sp> <speaker name="Soldier outside Cargo Ship">Soldier outside Cargo Ship</speaker><boxstart/>Lately it seems like the economy's been better. Must be the '<referent name="Rufus">Rufus</referent>' effect.<boxstart/>Cargo ships are always coming and going from Costa del Sol.<boxstart/>Now I'll overlook the fact that you're a stowaway, but you better at least help with the cargo. </sp>
 
 <stage>At Costa del Sol...</stage>
 <sp> <speaker name="Man Near Sea Plane">Man Near Sea Plane</speaker><boxstart/>Hey, who're you? You look like you've been around the world twice.<boxstart/>I don't know what your story is, but hang in there. </sp>
@@ -128,7 +128,7 @@
   <sp> <speaker name="Cloud"/><boxstart/>Don't do it </sp>
   <sp> <speaker name="Sailor">Sailor</speaker><boxstart/>Thank you. Come back any time you want to stowaway on our ship. </sp>
 
-<sp> <speaker name="Sailor Running Around">Sailor Running Around</speaker><boxstart/>Ever since Rufus complimented him, he ran around for a while, And we haven't heard a peep from him since... </sp>
+<sp> <speaker name="Sailor Running Around">Sailor Running Around</speaker><boxstart/>Ever since <referent name="Rufus">Rufus</referent> complimented him, he ran around for a while, And we haven't heard a peep from him since... </sp>
 <stage>Along the streets...</stage>
 <sp> <speaker name="Women Walking Around">Women Walking Around</speaker><boxstart/>Why's that!?<boxstart/>Not yet!!<boxstart/>Eaghhh!<boxstart/>It's your fault!<boxstart/>What's wrong with you!?<boxstart/>You wanna go!?<boxstart/>Whew!!!  </sp>
 <sp> <speaker name="Little Girl">Little Girl</speaker><boxstart/>It hurts when you kick me with your bare feet! </sp>
@@ -196,23 +196,23 @@
 <sp> <speaker name="Weapon Seller">Weapon Seller</speaker><boxstart/>Oh all right. You can use that bed. </sp>
 
 <stage>At Cosmo Canyon...</stage>
-<sp> <speaker name="Kid near the Cosmo Candle">Kid near the Cosmo Candle</speaker><boxstart/>Nanaki, are you leaving again? We want you to stay here forever... </sp>
+<sp> <speaker name="Kid near the Cosmo Candle">Kid near the Cosmo Candle</speaker><boxstart/><referent name="Nanaki">Nanaki</referent>, are you leaving again? We want you to stay here forever... </sp>
 <sp> <speaker name="Innkeeper">Innkeeper</speaker><boxstart/>Welcome to 'Shildra Inn' As long as there are guests, our lights will always be on.<boxstart/>It is 100 Gil a night. Would you like to stay? </sp>
 <stage> If Nanaki is not in the party...</stage>
-<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Ho Ho Hoooo. You people.<boxstart/>Where is Nanaki? I hope he's not bothering you. </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Ho Ho Hoooo. You people.<boxstart/>Where is <referent name="Nanaki">Nanaki</referent>? I hope he's not bothering you. </sp>
 <stage>If Nanaki is in the party...</stage>
-<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Ho Ho Hoooo. I'm glad you're back, Nanaki.<boxstart/>I hate to ask you but, please look after Nanaki from now on. </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Ho Ho Hoooo. I'm glad you're back, Nanaki.<boxstart/>I hate to ask you but, please look after <referent name="Nanaki">Nanaki</referent> from now on. </sp>
 
 <stage>On returning to Rocket Town...</stage>
 <stage>At the Shanghai Inn...</stage>
 <sp> <speaker name="Barkeeper">Barkeeper</speaker><boxstart/>Would you like something to drink? </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Let me hear your story </sp>
-<sp> <speaker name="Barkeeper">Barkeeper</speaker><boxstart/>Y'know, I heard Rufus rushed back to headquarters in Midgar... </sp>
+<sp> <speaker name="Barkeeper">Barkeeper</speaker><boxstart/>Y'know, I heard <referent name="Rufus">Rufus</referent> rushed back to headquarters in Midgar... </sp>
 <sp> <speaker name="Man at Table">Man at Table</speaker><boxstart/>How long's that guy gonna be in the bathroom? I need to go too... </sp>
 <stage>Back outside...</stage>
-<sp> <speaker name="Redhead">Redhead</speaker><boxstart/>Oh, it's you? I heard you and the Captain really made a BANG!<boxstart/>I also heard that Rufus was so pissed off he went on a rampage and that no one's been able to get near him! </sp>
+<sp> <speaker name="Redhead">Redhead</speaker><boxstart/>Oh, it's you? I heard you and the Captain really made a BANG!<boxstart/>I also heard that <referent name="Rufus">Rufus</referent> was so pissed off he went on a rampage and that no one's been able to get near him! </sp>
 <sp> <speaker name="Mechanic">Mechanic</speaker><boxstart/>I heard Tiny Bronco broke...<boxstart/>That sucks. I was secretly eyeing that thing. Broke, huh? What a drag. </sp>
-<sp> <speaker name="Old Man">Old Man</speaker><boxstart/>Because those Shinra creeps locked us up in our houses, we couldn't even watch the rocket lift off.<boxstart/>I never thought that my only hobby would be destroyed by that arrogant young Rufus...! </sp>
+<sp> <speaker name="Old Man">Old Man</speaker><boxstart/>Because those Shinra creeps locked us up in our houses, we couldn't even watch the rocket lift off.<boxstart/>I never thought that my only hobby would be destroyed by that arrogant young <referent name="Rufus">Rufus</referent>...! </sp>
 <stage>Inside the house on the right...</stage>
 <sp> <speaker name="Old Man">Old Man</speaker><boxstart/>Hmm, let's see... do I know any good jokes...? </sp>
 <stage>At Cid's house, Shera is working on the car inside.</stage>
@@ -220,9 +220,9 @@
 
 <stage>At Bone Village...</stage>
 <sp> <speaker name="Excavator">Excavator</speaker><boxstart/>Welcome to Bone Village, a town for nature lovers.<boxstart/>What do you want? </sp>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Have you seen Sephiroth?<boxstart/>- What are you doing? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Have you seen <referent name="Sephiroth">Sephiroth</referent>?<boxstart/>- What are you doing? </sp>
 
-  <sp> <speaker name="Cloud"/><boxstart/>Have you seen Sephiroth? </sp>
+  <sp> <speaker name="Cloud"/><boxstart/>Have you seen <referent name="Sephiroth">Sephiroth</referent>? </sp>
   <sp> <speaker name="Excavator">Excavator</speaker><boxstart/>Oh, the man in a Black Cape. He was looking for the Temple of the Ancients. </sp>
   <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- The Temple of the Ancients? </sp>
   <sp> <speaker name="Excavator">Excavator</speaker><boxstart/>It's way down south. It's right on the other side between this town and the inland sea.<boxstart/>It's the pyramid that rises within the forest. </sp>
