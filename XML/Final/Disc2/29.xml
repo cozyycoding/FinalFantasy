@@ -115,8 +115,8 @@
     <sp><speaker name="Ifalna">Ifalna</speaker><boxstart/>What are you going to tape? Is there still something I haven't mentioned? </sp>
     <sp><speaker name="Gast">Gast</speaker><boxstart/>No, that's not it. I'm going to record my beautiful daughter.<boxstart/>And when she's sleeping, her face... looks like an angel. </sp>
     <sp><speaker name="Ifalna">Ifalna</speaker><boxstart/>First, we have to figure out her name. We can take the video later! </sp>
-    <sp><speaker name="Gast">Gast</speaker><boxstart/>I've already decided! If it's a girl, then it'll be Aerith. That's that! </sp>
-    <sp><speaker name="Ifalna">Ifalna</speaker><boxstart/>You are SO selfish! But Aerith is a good name!<boxstart/>Hee hee... it's a good name, considering it came out of that forgetful head of yours! </sp>
+    <sp><speaker name="Gast">Gast</speaker><boxstart/>I've already decided! If it's a girl, then it'll be <referent name="Aerith">Aerith</referent>. That's that! </sp>
+    <sp><speaker name="Ifalna">Ifalna</speaker><boxstart/>You are SO selfish! But <referent name="Aerith">Aerith</referent> is a good name!<boxstart/>Hee hee... it's a good name, considering it came out of that forgetful head of yours! </sp>
     <sp><speaker name="Gast">Gast</speaker><boxstart/>Right!? Oh, the video tape...... </sp>
   <boxstart/>
   
@@ -124,8 +124,8 @@
   
     <sp><speaker name="Ifalna">Ifalna</speaker><boxstart/>Video again? You just got through taping! </sp>
     <sp><speaker name="Gast">Gast</speaker><boxstart/>.........Please don't say it that way.<boxstart/>It's our lovely daughter, both yours... and mine!<boxstart/>Don't you want to capture her childhood on videotape? </sp>
-    <sp><speaker name="Ifalna">Ifalna</speaker><boxstart/>If you keep doting on her like that, she won't grow up to be strong...<boxstart/>Aerith is different from the other children. I wonder what dangers await her...? </sp>
-    <sp><speaker name="Gast">Gast</speaker><boxstart/>Never say that! I will protect you and Aerith no matter what!!<boxstart/>You and Aerith are my only treasures. I'll never let you go!! </sp>
+    <sp><speaker name="Ifalna">Ifalna</speaker><boxstart/>If you keep doting on her like that, she won't grow up to be strong...<boxstart/><referent name="Aerith">Aerith</referent> is different from the other children. I wonder what dangers await her...? </sp>
+    <sp><speaker name="Gast">Gast</speaker><boxstart/>Never say that! I will protect you and Aerith no matter what!!<boxstart/>You and <referent name="Aerith">Aerith</referent> are my only treasures. I'll never let you go!! </sp>
     <sp><speaker name="Ifalna">Ifalna</speaker><boxstart/>I feel so much better now, darling.<boxstart/>If I hadn't met you, I...... </sp>
     <stage>They start to embrace, but there is a knock on the door.</stage>
     <sp><speaker name="Gast">Gast</speaker><boxstart/>Who could that--I was just about to...<boxstart/>Damn!!<boxstart/>How dare they intrude on our 'private time' together! </sp>
@@ -137,11 +137,11 @@
     <sp><speaker name="Gast">Gast</speaker><boxstart/>Hojo... How did you know? </sp>
     <sp><speaker name="Hojo">Hojo</speaker><boxstart/>Believe me, I had to turn over a stone or two to find you.<boxstart/>Two years I waited... That's how much I wanted this new sample...... Ha, ha, ha. </sp>
     <stage>Ifalna buries her face in her hands and Gast shakes his head.</stage>
-    <sp><speaker name="Gast">Gast</speaker><boxstart/>...New sample? You don't mean Aerith!? </sp>
-    <sp><speaker name="Hojo">Hojo</speaker><boxstart/>Hmm, Aerith? What a nice name...... Ha, ha, ha. </sp>
+    <sp><speaker name="Gast">Gast</speaker><boxstart/>...New sample? You don't mean <referent name="Aerith">Aerith</referent>!? </sp>
+    <sp><speaker name="Hojo">Hojo</speaker><boxstart/>Hmm, <referent name="Aerith">Aerith</referent>? What a nice name...... Ha, ha, ha. </sp>
     <sp><speaker name="Gast">Gast</speaker><boxstart/>That's it! I'm severing all ties with the Shinra.<boxstart/>Hojo, please leave. </sp>
     <stage>Ifalna moves to kneel at Hojo's feet.</stage>
-    <sp><speaker name="Ifalna">Ifalna</speaker><boxstart/>Please, Aerith has nothing to do with it! All you want is me, right? </sp>
+    <sp><speaker name="Ifalna">Ifalna</speaker><boxstart/>Please, <referent name="Aerith">Aerith</referent> has nothing to do with it! All you want is me, right? </sp>
     <sp><speaker name="Gast">Gast</speaker><boxstart/>Ifalna! </sp>
     <sp><speaker name="Hojo">Hojo</speaker><boxstart/>I'll need all of you for my experiment.<boxstart/>You understand don't you, Professor Gast? We can change the future of the Planet! </sp>
     <stage>Gast kneels down beside Ifalna.</stage>
@@ -150,7 +150,7 @@
     <stage>One of the soldiers turns to shoot out the camera. The video feed fails.</stage>
     <sp><speaker name="Hojo">Hojo</speaker><boxstart/>Be careful with her!! Ha, ha, ha...... </sp>
     <sp><speaker name="Ifalna">Ifalna</speaker><boxstart/>Wh... what are you doing, Professor!? </sp>
-    <sp><speaker name="Gast">Gast</speaker><boxstart/>Ifalna! Take Aerith and run!! </sp>
+    <sp><speaker name="Gast">Gast</speaker><boxstart/>Ifalna! Take <referent name="Aerith">Aerith</referent> and run!! </sp>
     <stage>There is a gunshot and a thud.</stage>
     <sp><speaker name="Ifalna">Ifalna</speaker><boxstart/>Eyaaaaaah... Darling......!! </sp>
     <sp><speaker name="Hojo">Hojo</speaker><boxstart/>Oh, and uh... don't forget the child!<boxstart/>Hmm, a video? The Ancients... Weapon!?<boxstart/>Heh, heh, heh... a mountain of treasure! Thank you Professor... Ha, ha, ha </sp>
@@ -181,12 +181,12 @@
 <sp><speaker name="Elena">Elena</speaker><boxstart/>There they are, hurry!! </sp>
 <sp><speaker name="Soldiers">Soldiers</speaker><boxstart/>Yes ma'am!! </sp>
 <stage>Elena and two soldiers run up to Cloud.</stage>
-<sp><speaker name="Elena">Elena</speaker><boxstart/>Cloud... huff... wheeze.<boxstart/>I won't let you go any further! </sp>
+<sp><speaker name="Elena">Elena</speaker><boxstart/><referent name="Cloud">Cloud</referent>... huff... wheeze.<boxstart/>I won't let you go any further! </sp>
 <sp><speaker name="Cloud">Cloud</speaker><boxstart/>What's down there? </sp>
 <sp><speaker name="Elena">Elena</speaker><boxstart/>It's a SE-CR-ET.<boxstart/>It really doesn't matter! But you really got guts doin' my boss in like that! </sp>
-<sp><speaker name="Cloud">Cloud</speaker><boxstart/>You mean Boss...... Tseng? That wasn't us. Sephiroth did it. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>You mean Boss...... <referent name="Tseng">Tseng</referent>? That wasn't us. <referent name="Sephiroth">Sephiroth</referent> did it. </sp>
 <sp><speaker name="Elena">Elena</speaker><boxstart/>No! Don't think you can fool me, liar! </sp>
-<sp><speaker name="Cloud">Cloud</speaker><boxstart/>I'm not lying... it was Sephiroth. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>I'm not lying... it was <referent name="Sephiroth">Sephiroth</referent>. </sp>
 <sp><speaker name="Elena">Elena</speaker><boxstart/>Don't try to act innocent. I'll never forget it!! </sp>
 <sp><speaker name="Cloud">Cloud</speaker><boxstart/>Oh, man... </sp>
 <sp><speaker name="Elena">Elena</speaker><boxstart/>Looks like talking alone won't cut it. You're going to have to feel some pain! </sp>
@@ -194,13 +194,13 @@
 <sp><speaker name="Elena">Elena</speaker><boxstart/>No, I can handle him! There's no way he can avoid my punch. </sp>
 <sp><speaker name="Soldier">Soldier</speaker><boxstart/>What? Yeah...... </sp>
 
-  <sp><speaker name="Cloud"/><boxstart/>If Cloud dodges Elena's punch...</sp>
+  <sp><speaker name="Cloud"/><boxstart/>If <referent name="Cloud">Cloud</referent> dodges <referent name="Elena">Elena</referent>'s punch...</sp>
   <stage>Elena goes rolling past him on down the hill, and the soldiers chase after her.</stage>
-  <sp><speaker name="Soldier">Soldier</speaker><boxstart/>Ele... Elena!? </sp>
+  <sp><speaker name="Soldier">Soldier</speaker><boxstart/>Ele... <referent name="Elena">Elena</referent>!? </sp>
   <sp><speaker name="Man in Thicket">Man in Thicket</speaker><boxstart/>What the...? They sure were weak for Shinras. </sp>
 
 
-  <sp><speaker name="Cloud"/><boxstart/>If Cloud doesn't dodge...</sp>
+  <sp><speaker name="Cloud"/><boxstart/>If <referent name="Cloud">Cloud</referent> doesn't dodge...</sp>
   <stage>Elena punches him, knocking him out cold.</stage>
   <sp><speaker name="Elena">Elena</speaker><boxstart/>Why? Why didn't you try to avoid it...<boxstart/>There's no way they can climb the Great Glacier anyway.<boxstart/>Put them in some house in the village. </sp>
   <stage>Cloud wakes in Gast's house.</stage>

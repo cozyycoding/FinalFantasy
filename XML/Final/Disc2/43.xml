@@ -21,7 +21,7 @@
 <sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>OK, can we go now!? </sp>
 <sp><speaker name="Cid">Cid</speaker><boxstart/>To my ship! </sp>
 <stage>The others run out. Cloud's PHS rings.</stage>
-<sp><speaker name="unspecified"/><boxstart/><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Oh no! Let's hurry out of here!<boxstart/>Something big... I'm talkin' REALLY BIG's comin'! </sp>
+<sp><speaker name="unspecified"/><boxstart/><speaker name="Cait Sith"><referent name="Cait Sith">Cait Sith</referent></speaker><boxstart/>Oh no! Let's hurry out of here!<boxstart/>Something big... I'm talkin' REALLY BIG's comin'! </sp>
 
 <stage>Meanwhile at Shinra HQ...</stage>
 <sp><speaker name="unspecified"/><boxstart/><speaker name="Heidegger">Heidegger</speaker><boxstart/>Hah, hah, hah, Mr. President, preparations for Sister Ray are now in order. </sp>
@@ -35,7 +35,7 @@
 <stage>The shot from the Sister Ray goes right through Diamond Weapon as the Highwind flies by. The Weapon falls.</stage>
 <sp><speaker name="Barret">Barret</speaker><boxstart/>Damn... </sp>
 <sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>It went right through Weapon...... </sp>
-<sp><speaker name="Cloud">Cloud</speaker><boxstart/>I see! They're after Sephiroth! The crater on the Northern boundary! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>I see! They're after <referent name="Sephiroth">Sephiroth</referent>! The crater on the Northern boundary! </sp>
 
 <stage>The shot continues on to the Northern Crater and destroys the barrier. Back at Shinra HQ...</stage>
 <sp><speaker name="unspecified"/><boxstart/><speaker name="(operator)">(operator)</speaker><boxstart/>Sir! Weapon's been defeated!!<boxstart/>The barrier has disappeared! </sp>
@@ -46,22 +46,22 @@
 <stage>Rufus stands motionless in his office as the blast hits.</stage>
 
 <stage>Back on the Highwind...</stage>
-<sp><speaker name="Cloud">Cloud</speaker><boxstart/>What happened to...... Sephiroth?<boxstart/>Northern Cave...<boxstart/>Let's go see what happened to it. </sp>
-<sp><speaker name="Barret">Barret</speaker><boxstart/>When AVALANCHE was jes startin', we used to put up flyers everywhere.<boxstart/>And now, we're up against Sephiroth. How about that?<boxstart/>Feels like a long time ago. </sp>
-<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Now we're going to fight Sephiroth.<boxstart/>I wonder what the inside of that cave looks like? You think Sephiroth is just sitting there waiting for Meteor? </sp>
-<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>Will we save the world if we beat Sephiroth?<boxstart/>I'm frightened, but I'll do my best. Let's hurry to the Northern Cave! </sp>
-<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>......Wonder what that Sephiroth feller's up to? </sp>
-<sp><speaker name="Vincent">Vincent</speaker><boxstart/>Defeat Sephiroth... Defeat the son of that beloved woman...<boxstart/>Am I on the verge of committing another sin......?<boxstart/>Or am I atoning as best I can for only watching...? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>What happened to...... <referent name="Sephiroth">Sephiroth</referent>?<boxstart/>Northern Cave...<boxstart/>Let's go see what happened to it. </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>When AVALANCHE was jes startin', we used to put up flyers everywhere.<boxstart/>And now, we're up against <referent name="Sephiroth">Sephiroth</referent>. How about that?<boxstart/>Feels like a long time ago. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Now we're going to fight Sephiroth.<boxstart/>I wonder what the inside of that cave looks like? You think <referent name="Sephiroth">Sephiroth</referent> is just sitting there waiting for Meteor? </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>Will we save the world if we beat <referent name="Sephiroth">Sephiroth</referent>?<boxstart/>I'm frightened, but I'll do my best. Let's hurry to the Northern Cave! </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>......Wonder what that <referent name="Sephiroth">Sephiroth</referent> feller's up to? </sp>
+<sp><speaker name="Vincent">Vincent</speaker><boxstart/>Defeat <referent name="Sephiroth">Sephiroth</referent>... Defeat the son of that beloved woman...<boxstart/>Am I on the verge of committing another sin......?<boxstart/>Or am I atoning as best I can for only watching...? </sp>
 <sp><speaker name="Cid">Cid</speaker><boxstart/>Maybe this is the time? </sp>
-<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>What's the pilot like?<boxstart/>Tell him Yuffie says if he pilots the plane smoothly, give him my autograph... </sp>
-<sp><speaker name="Learner Pilot (L14)">Learner Pilot (L14)</speaker><boxstart/>Hey, Cloud!!! </sp>
+<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>What's the pilot like?<boxstart/>Tell him <referent name="Yuffie">Yuffie</referent> says if he pilots the plane smoothly, give him my autograph... </sp>
+<sp><speaker name="Learner Pilot (L14)">Learner Pilot (L14)</speaker><boxstart/>Hey, <referent name="Cloud">Cloud</referent>!!! </sp>
 <sp><speaker name="Cloud">Cloud</speaker><boxstart/>- Y, yeah, let's go!<boxstart/>- U, uh wait </sp>
 <stage>They fly to the Northern Crater.</stage>
-<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Sephiroth's energy barrier is gone......<boxstart/>Cid! Can the Airship get inside? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Sephiroth">Sephiroth</referent>'s energy barrier is gone......<boxstart/><referent name="Cid">Cid</referent>! Can the Airship get inside? </sp>
 <sp><speaker name="Cid">Cid</speaker><boxstart/>Huh? He's my student, ain't he!? Of course he can go anywhere! </sp>
 <sp><speaker name="Cloud">Cloud</speaker><boxstart/>Right, sorry about that. </sp>
 <stage>Cait Sith gives a sudden start.</stage>
-<sp><speaker name="Barret">Barret</speaker><boxstart/>Yo, Cait Sith! Now what? </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Yo, <referent name="Cait Sith">Cait Sith</referent>! Now what? </sp>
 <sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Hold it!<boxstart/>Scarlet! Heidegger! What's going on? </sp>
 
 <stage>Back at Shinra HQ...</stage>
@@ -80,11 +80,11 @@
 <sp><speaker name="Reeve">Reeve</speaker><boxstart/>I don't give a damn about the details!! </sp>
 
 <stage>At the Sister Ray's controls...</stage>
-<sp><speaker name="Hojo">Hojo</speaker><boxstart/>Ha, ha, ha...... Just you wait, Sephiroth.<boxstart/>I'll give you all the Mako you want. </sp>
+<sp><speaker name="Hojo">Hojo</speaker><boxstart/>Ha, ha, ha...... Just you wait, <referent name="Sephiroth">Sephiroth</referent>.<boxstart/>I'll give you all the Mako you want. </sp>
 <sp><speaker name="unspecified"/><boxstart/><speaker name="Reeve">Reeve</speaker><boxstart/>Hojo, STOP! The cannon, no, Midgar itself is in danger! </sp>
 <sp><speaker name="Hojo">Hojo</speaker><boxstart/>Ha, ha, ha...... One or two Midgars? ...it's a small price to pay. </sp>
 <sp><speaker name="unspecified"/><boxstart/><speaker name="Reeve">Reeve</speaker><boxstart/>Hojo! HOJO......!! </sp>
-<sp><speaker name="Hojo">Hojo</speaker><boxstart/>Show me...... Sephiroth.<boxstart/>It should be near...<boxstart/>Ha, ha, ha...... Go beyond the powers of science...<boxstart/>Before your presence, science is powerless...<boxstart/>I hate it, but I'll concede to it.<boxstart/>Just... let me see it.<boxstart/>Ha, ha, ha...... </sp>
+<sp><speaker name="Hojo">Hojo</speaker><boxstart/>Show me...... <referent name="Sephiroth">Sephiroth</referent>.<boxstart/>It should be near...<boxstart/>Ha, ha, ha...... Go beyond the powers of science...<boxstart/>Before your presence, science is powerless...<boxstart/>I hate it, but I'll concede to it.<boxstart/>Just... let me see it.<boxstart/>Ha, ha, ha...... </sp>
 
 <stage>Back on the Highwind...</stage>
 <sp><speaker name="Barret">Barret</speaker><boxstart/>YO! Do somethin'! Ya big cat! </sp>
@@ -107,13 +107,13 @@
 <sp><speaker name="Cloud">Cloud</speaker><boxstart/>Must stop Hojo... first. </sp>
 
 <stage>At Shinra HQ...</stage>
-<sp><speaker name="Reeve">Reeve</speaker><boxstart/>Looks like Cloud and the others are on their way. Stay out of the way! </sp>
+<sp><speaker name="Reeve">Reeve</speaker><boxstart/>Looks like <referent name="Cloud">Cloud</referent> and the others are on their way. Stay out of the way! </sp>
 <sp><speaker name="Heidegger">Heidegger</speaker><boxstart/>Ghaa haah hah hah!<boxstart/>Don't be so ludicrous! I don't recall you giving me any orders!<boxstart/>The Peace Preservation will give their best effort to make the enemy retreat!<boxstart/>Because of them, I...... I...! </sp>
 <sp><speaker name="Reeve">Reeve</speaker><boxstart/>That's a private matter...... </sp>
 <sp><speaker name="Heidegger">Heidegger</speaker><boxstart/>The President is dead! Now I'm doing things my way!<boxstart/>Ghaa haah hah hah! </sp>
 <sp><speaker name="Scarlet">Scarlet</speaker><boxstart/>Ha, ha, ha.<boxstart/>Heidegger! Now I'm going to use the new weapon! </sp>
 <stage>Two Shinra soldiers run in to restrain Reeve. Scarlet and Heidegger leave the Conference Room.</stage>
-<sp><speaker name="Reeve">Reeve</speaker><boxstart/>Hey! Wait!!<boxstart/>Cloud, everybody! Sorry......<boxstart/>But!! </sp>
+<sp><speaker name="Reeve">Reeve</speaker><boxstart/>Hey! Wait!!<boxstart/><referent name="Cloud">Cloud</referent>, everybody! Sorry......<boxstart/>But!! </sp>
 
 <stage>Back on the Highwind...</stage>
 <sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>But!<boxstart/>But you'll come, won't you!? </sp>
@@ -127,7 +127,7 @@
 <sp><speaker name="Vincent">Vincent</speaker><boxstart/>Hojo... what a queer fellow.<boxstart/>Such utter lack of scientific talent... compared with the genius of Dr. Gast......<boxstart/>Lucrecia chose him trying to protect him...<boxstart/>Now I understand... I understand... but... </sp>
 <sp><speaker name="Cid">Cid</speaker><boxstart/>We're busy runnin' back and forth!<boxstart/>Even my bikini goddess would be pantin' about now! </sp>
 <sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>Headed for... Midgar?<boxstart/>Uh, a, anywhere's fine... I don't care. Just hurry up and land this thing. </sp>
-<sp><speaker name="Learner Pilot (LV14 Limit Break!)">Learner Pilot (LV14 Limit Break!)</speaker><boxstart/>Yo, Cloud! Whacha gonna do? </sp>
+<sp><speaker name="Learner Pilot (LV14 Limit Break!)">Learner Pilot (LV14 Limit Break!)</speaker><boxstart/>Yo, <referent name="Cloud">Cloud</referent>! Whacha gonna do? </sp>
 <sp><speaker name="Cloud">Cloud</speaker><boxstart/>- Move it!<boxstart/>- Wait </sp>
 <stage>They fly back to Midgar.</stage>
 <sp><speaker name="Pilot">Pilot</speaker><boxstart/>We've reached Midgar! </sp>
@@ -158,8 +158,8 @@
 <sp><speaker name="Elena">Elena</speaker><boxstart/>Oh no! They're here! </sp>
 <stage>Cloud and the others turn to face her as Reno and Rude walk up.</stage>
 <sp><speaker name="Elena">Elena</speaker><boxstart/>What are we going to do!? I think it's okay for you to ignore your orders now. </sp>
-<sp><speaker name="Reno">Reno</speaker><boxstart/>...Elena, don't act so weak. </sp>
-<sp><speaker name="Rude">Rude</speaker><boxstart/>We're Turks, Elena. </sp>
+<sp><speaker name="Reno">Reno</speaker><boxstart/>...<referent name="Elena">Elena</referent>, don't act so weak. </sp>
+<sp><speaker name="Rude">Rude</speaker><boxstart/>We're Turks, <referent name="Elena">Elena</referent>. </sp>
 <sp><speaker name="Elena">Elena</speaker><boxstart/>...Yes, sir. You're right. </sp>
 <sp><speaker name="Rude">Rude</speaker><boxstart/>Come on, we've got work to do. </sp>
 <sp><speaker name="Reno">Reno</speaker><boxstart/>I'm not really up for it, but... </sp>
@@ -182,12 +182,12 @@
 
   <sp><speaker name="Cloud"/><boxstart/>No, let's not go </sp>
   <sp><speaker name="Elena">Elena</speaker><boxstart/>You showing pity!? Don't take the Turks for fools! </sp>
-  <sp><speaker name="Reno">Reno</speaker><boxstart/>Wait, Elena. </sp>
-  <sp><speaker name="Elena">Elena</speaker><boxstart/>Reno! You're not violating the order... are you!? </sp>
+  <sp><speaker name="Reno">Reno</speaker><boxstart/>Wait, <referent name="Elena">Elena</referent>. </sp>
+  <sp><speaker name="Elena">Elena</speaker><boxstart/><referent name="Reno">Reno</referent>! You're not violating the order... are you!? </sp>
   <sp><speaker name="Reno">Reno</speaker><boxstart/>Shinra's finished. It's come down to this. </sp>
   <sp><speaker name="Rude">Rude</speaker><boxstart/>...... </sp>
-  <sp><speaker name="Elena">Elena</speaker><boxstart/>Rude... </sp>
-  <sp><speaker name="Reno">Reno</speaker><boxstart/>Elena, you were a great Turk! </sp>
+  <sp><speaker name="Elena">Elena</speaker><boxstart/><referent name="Rude">Rude</referent>... </sp>
+  <sp><speaker name="Reno">Reno</speaker><boxstart/><referent name="Elena">Elena</referent>, you were a great Turk! </sp>
   <sp><speaker name="Elena">Elena</speaker><boxstart/>...... </sp>
   <sp><speaker name="Reno">Reno</speaker><boxstart/>Farewell. If we both survive...<boxstart/>If we can save our lives... </sp>
   He walks off.
@@ -222,7 +222,7 @@
 <sp><speaker name="Scarlet">Scarlet</speaker><boxstart/>Not that! This is the proud Clod.........!? </sp>
 <sp><speaker name="Heidegger">Heidegger</speaker><boxstart/>Whoooooa!! </sp>
 <stage>The Proud Clod explodes. It starts to rain, and Cloud and the others move on down the street and start up the stairs to the Sister Ray.</stage>
-<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>This way, Cloud! </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>This way, <referent name="Cloud">Cloud</referent>! </sp>
 <sp><speaker name="Vincent">Vincent</speaker> (on a lower platform, watching)<boxstart/>Damn! Hojo...! </sp>
 <sp><speaker name="Barret">Barret</speaker><boxstart/>Hey! This is... </sp>
 <sp><speaker name="unspecified"/><boxstart/>Received "Missing Score"! </sp>
@@ -230,23 +230,23 @@
 <stage>They reach Hojo, who is working at the cannon's controls.</stage>
 <sp><speaker name="Cloud">Cloud</speaker><boxstart/>Hojo! Stop right there!! </sp>
 <sp><speaker name="Hojo">Hojo</speaker><boxstart/>Oh... the failure. </sp>
-<sp><speaker name="Cloud">Cloud</speaker><boxstart/>At least remember my name! It's Cloud! </sp>
-<sp><speaker name="Hojo">Hojo</speaker><boxstart/>Every time I see you, I...<boxstart/>It pains me that I had so little scientific sense...<boxstart/>I evaluated you as a failed project.<boxstart/>But, you are the only one that succeeded as a Sephiroth-clone.<boxstart/>Heh, heh, heh...... I'm even beginning to hate myself. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>At least remember my name! It's <referent name="Cloud">Cloud</referent>! </sp>
+<sp><speaker name="Hojo">Hojo</speaker><boxstart/>Every time I see you, I...<boxstart/>It pains me that I had so little scientific sense...<boxstart/>I evaluated you as a failed project.<boxstart/>But, you are the only one that succeeded as a <referent name="Sephiroth">Sephiroth</referent>-clone.<boxstart/>Heh, heh, heh...... I'm even beginning to hate myself. </sp>
 <sp><speaker name="Cloud">Cloud</speaker><boxstart/>None of that matters... just stop this nonsense! </sp>
 <sp><speaker name="Hojo">Hojo</speaker> (pausing)<boxstart/>...nonsense?<boxstart/>Oh, this? </sp>
 <stage>He turns around.</stage>
-<sp><boxstart/>Ha, ha, ha...<boxstart/>Sephiroth seems to be counting on the energy.<boxstart/>So I'm going to lend him a hand. </sp>
+<sp><boxstart/>Ha, ha, ha...<boxstart/><referent name="Sephiroth">Sephiroth</referent> seems to be counting on the energy.<boxstart/>So I'm going to lend him a hand. </sp>
 <sp><speaker name="Cloud">Cloud</speaker><boxstart/>Why!? Why do that!? </sp>
 <sp><speaker name="Hojo">Hojo</speaker><boxstart/>Quit asking me why, you moron.<boxstart/>Hmm... actually, you might be cut out to be a scientist. </sp>
 <stage>He turns back to the controls.</stage>
 <sp><boxstart/>Energy level is at...... 83%. It's taking too long.<boxstart/>My son is in need of power and help. ...That's the only reason. </sp>
 <sp><speaker name="Cloud">Cloud</speaker><boxstart/>...your son? </sp>
-<sp><speaker name="Hojo">Hojo</speaker><boxstart/>Ha, ha, ha... Although he doesn't know.<boxstart/>Ha, ha, ha... HA, HA, HA...!!<boxstart/>What will Sephiroth think when he finds out I'm his father?<boxstart/>Always looking down on me like that.<boxstart/>HA, HA, HA...!! </sp>
-<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Sephiroth is your son!? </sp>
+<sp><speaker name="Hojo">Hojo</speaker><boxstart/>Ha, ha, ha... Although he doesn't know.<boxstart/>Ha, ha, ha... HA, HA, HA...!!<boxstart/>What will <referent name="Sephiroth">Sephiroth</referent> think when he finds out I'm his father?<boxstart/>Always looking down on me like that.<boxstart/>HA, HA, HA...!! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Sephiroth">Sephiroth</referent> is your son!? </sp>
 <sp><speaker name="Vincent">Vincent</speaker><boxstart/>......! </sp>
-<sp><speaker name="Hojo">Hojo</speaker><boxstart/>Ha, ha, ha...<boxstart/>I offered the woman with my child to Professor Gast's Jenova Project.<boxstart/>When Sephiroth was still in the womb, we took the cells of Jenova...<boxstart/>HA, HA, HA!! </sp>
+<sp><speaker name="Hojo">Hojo</speaker><boxstart/>Ha, ha, ha...<boxstart/>I offered the woman with my child to Professor Gast's Jenova Project.<boxstart/>When <referent name="Sephiroth">Sephiroth</referent> was still in the womb, we took the cells of Jenova...<boxstart/>HA, HA, HA!! </sp>
 <sp><speaker name="Vincent">Vincent</speaker><boxstart/>You......! </sp>
-<sp><speaker name="Cloud">Cloud</speaker><boxstart/>I can't believe you're the one who did this...<boxstart/>The illusionary crime against Sephiroth... </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>I can't believe you're the one who did this...<boxstart/>The illusionary crime against <referent name="Sephiroth">Sephiroth</referent>... </sp>
 <stage>Hojo turns around.</stage>
 <sp><speaker name="Hojo">Hojo</speaker><boxstart/>Heee, hee, hee, hee! No you're wrong!<boxstart/>It's my desire as a scientist! Heee, hee, hee, hee! </sp>
 <sp><speaker name="Vincent">Vincent</speaker><boxstart/>......<boxstart/>I was...wrong. The one that should have slept was...<boxstart/>...You, Hojo! </sp>
@@ -256,7 +256,7 @@
 <stage>Hojo morphs into Helletic Hojo, and later into Lifeform Hojo. Cloud and the others manage to defeat him.</stage>
 <sp><speaker name="Cloud">Cloud</speaker><boxstart/>...... </sp>
 <sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>The father... </sp>
-<sp><speaker name="Tifa">Tifa</speaker><boxstart/>I can't believe Sephiroth is Hojo's son... </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>I can't believe <referent name="Sephiroth">Sephiroth</referent> is Hojo's son... </sp>
 <sp><speaker name="Barret">Barret</speaker><boxstart/>Anyway... that's the end of the cannon... </sp>
 <sp><speaker name="Cid">Cid</speaker><boxstart/>%$#&amp;$*&amp;^%^ </sp>
 <sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>How sad... for him... </sp>

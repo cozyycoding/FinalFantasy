@@ -92,13 +92,13 @@
 <stage>At Lower Junon...</stage>
 <sp><speaker name="Woman">Woman</speaker><boxstart/>I almost passed out when I saw Weapon.<boxstart/>It seems Weapon was beaten, but a Shinra soldier told me there are 4 more. </sp>
 <sp><speaker name="Fisherman">Fisherman</speaker><boxstart/>Once Meteor hits, not just the fish, but the whole ocean will be destroyed... </sp>
-<sp><speaker name="Older Man">Older Man</speaker><boxstart/>What? Cloud is missing? </sp>
-<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Maybe... he dropped some from the North Caves into the Lifestream...<boxstart/>Sir, do you know where the Lifestream runs through?<boxstart/>Cloud might have drifted from there. </sp>
+<sp><speaker name="Older Man">Older Man</speaker><boxstart/>What? <referent name="Cloud">Cloud</referent> is missing? </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Maybe... he dropped some from the North Caves into the Lifestream...<boxstart/>Sir, do you know where the Lifestream runs through?<boxstart/><referent name="Cloud">Cloud</referent> might have drifted from there. </sp>
 <sp><speaker name="Older Man">Older Man</speaker><boxstart/>What? The Northern... what? Sorry, but I don't think I follow.<boxstart/>But... I think I remember hearing Priscilla saying 'Life... something' before. </sp>
 <stage>Tifa goes to Priscilla's house.</stage>
 <sp><speaker name="Priscilla">Priscilla</speaker><boxstart/>Who are you---?<boxstart/>Lifestream?<boxstart/>Yeah, I know! It's Mr. Dolphin's playground.<boxstart/>There's a Three-taloned island south of the continent. I heard the Lifestream runs below that island.<boxstart/>But why are you asking about the Lifestream? </sp>
-<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Cloud fell into the Lifestream at the North Cave, and has been missing ever since. </sp>
-<sp><speaker name="Priscilla">Priscilla</speaker><boxstart/>Huh, Cloud!?<boxstart/>Hurry up and help him!! He's very important to me. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent> fell into the Lifestream at the North Cave, and has been missing ever since. </sp>
+<sp><speaker name="Priscilla">Priscilla</speaker><boxstart/>Huh, <referent name="Cloud">Cloud</referent>!?<boxstart/>Hurry up and help him!! He's very important to me. </sp>
 <stage>In Upper Junon...</stage>
 <sp><speaker name="Soldier">Soldier</speaker><boxstart/>It's kinda lonely at the airport without the Highwind, isn't it?<boxstart/>I miss that bikini girl on the side of the plane. </sp>
 <sp><speaker name="Soldiers at the Airport">Soldiers at the Airport</speaker><boxstart/>I sure was frightened when Weapon attacked. It gives me the chills knowing there's still two of them left.<boxstart/>Oh yeah? Well, I'm ready to fight the worst enemy mankind's ever had like a real warrior. It's not everyday you get to fight in an inter-planetary war. </sp>
@@ -204,17 +204,17 @@
 <sp><speaker name="Woman">Woman</speaker><boxstart/>Hmm... I wonder what's going to happen now... </sp>
 <sp><speaker name="Kid">Kid</speaker><boxstart/>Don't worry, mom! All of us just need to go through that door!<boxstart/>Mr. Bugenhagen sealed it so we wouldn't have to worry bout it!<boxstart/>But what's a seal...? </sp>
 <stage>Up at the observatory...</stage>
-<sp><speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Ho Ho Hoooo.<boxstart/>...no time to be humming now. The planet is nearing imminent death.<boxstart/>Where is Cloud? Wasn't he with you? </sp>
-<sp><speaker name="Tifa">Tifa</speaker><boxstart/>That's why we're here... Cloud... Cloud has... </sp>
+<sp><speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Ho Ho Hoooo.<boxstart/>...no time to be humming now. The planet is nearing imminent death.<boxstart/>Where is <referent name="Cloud">Cloud</referent>? Wasn't he with you? </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>That's why we're here... Cloud... <referent name="Cloud">Cloud</referent> has... </sp>
 <stage>She explains.</stage>
-<sp><speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>I see... Cloud has......<boxstart/>It's true that there are several places on the planet where Lifestream is gathered.<boxstart/>But most of those places are below the surface where humans cannot reach them.<boxstart/>There's only one place. An island floating in the Southern Sea...<boxstart/>What did you say? I haven't left here in years... No good. I can't remember.<boxstart/>In the Southern Seas I think there was an island where Lifestream is.<boxstart/>But even if you find Cloud there...<boxstart/>Life's dream is a mass of spiritual energy,<boxstart/>and one person alone probably couldn't stand against such an incredible spiritual current... </sp>
+<sp><speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>I see... Cloud has......<boxstart/>It's true that there are several places on the planet where Lifestream is gathered.<boxstart/>But most of those places are below the surface where humans cannot reach them.<boxstart/>There's only one place. An island floating in the Southern Sea...<boxstart/>What did you say? I haven't left here in years... No good. I can't remember.<boxstart/>In the Southern Seas I think there was an island where Lifestream is.<boxstart/>But even if you find <referent name="Cloud">Cloud</referent> there...<boxstart/>Life's dream is a mass of spiritual energy,<boxstart/>and one person alone probably couldn't stand against such an incredible spiritual current... </sp>
 
 <stage>At Nibelheim...</stage>
 <sp><speaker name="Woman in Shop">Woman in Shop</speaker><boxstart/>How can you shop at a time like this?<boxstart/>What? 'Me, in business'?<boxstart/>Don't worry, it's all right. I get paid by the company.<boxstart/>My real job is to protect the secret of Nibelheim.<boxstart/>What? Secret?<boxstart/>We don't have a clue. But it's all right.<boxstart/>It's all over anyway!<boxstart/>The end, the end, the end!! Yeah, even as we speak, Meteor...! The End...! </sp>
 <stage>In Cloud's house...</stage>
 <sp><speaker name="Woman">Woman</speaker><boxstart/>What's going to happen to this planet!? What the hell's Shinra doing!? </sp>
 <stage>In Tifa's room, at the piano...</stage>
-<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Cloud... Cloud was playing.<boxstart/>I wonder what... this is... </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Cloud... <referent name="Cloud">Cloud</referent> was playing.<boxstart/>I wonder what... this is... </sp>
 <sp><speaker name="unspecified"/><boxstart/>Received "Elemental" Materia! </sp>
 
 <stage>At Rocket Town...</stage>
@@ -258,11 +258,11 @@
 <stage>In the shrine...</stage>
 <sp><speaker name="People Praying">People Praying</speaker><boxstart/>num, num...... I hope the planet doesn't fall anywhere around here......<boxstart/>He's in the pagoda next to Lord Godo. Lord Godo says we're stuck...<boxstart/>Help me. Help me. Help me...... </sp>
 <stage>Going in the Pagoda without Yuffie...</stage>
-<sp><speaker name="Gorky">Gorky</speaker><boxstart/>Oh, you there! How is Miss Yuffie doing? </sp>
+<sp><speaker name="Gorky">Gorky</speaker><boxstart/>Oh, you there! How is Miss <referent name="Yuffie">Yuffie</referent> doing? </sp>
 <sp><speaker name="Shake">Shake</speaker><boxstart/>Did that kid mature at all? </sp>
 <sp><speaker name="Chekhov">Chekhov</speaker><boxstart/>She's always like this. It'll be rougher on you. </sp>
-<sp><speaker name="Staniv">Staniv</speaker><boxstart/>Please take care of Miss Yuffie. </sp>
-<sp><speaker name="Godo">Godo</speaker><boxstart/>Your Mat-...<boxstart/>I mean, please look after Yuffie...! </sp>
+<sp><speaker name="Staniv">Staniv</speaker><boxstart/>Please take care of Miss <referent name="Yuffie">Yuffie</referent>. </sp>
+<sp><speaker name="Godo">Godo</speaker><boxstart/>Your Mat-...<boxstart/>I mean, please look after <referent name="Yuffie">Yuffie</referent>...! </sp>
 
 <stage>At Bone Village...</stage>
 <sp><speaker name="Excavator">Excavator</speaker><boxstart/>Welcome to Bone Village, a town for nature lovers.<boxstart/>You need something? </sp>

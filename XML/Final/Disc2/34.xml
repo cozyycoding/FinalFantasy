@@ -9,7 +9,7 @@
 <sp>Back on the Highwind </sp>
 
 <stage>At Kalm...</stage>
-<sp><speaker name="Redhead">Redhead</speaker><boxstart/>Hey, listen to me! The Shinra troops are on the move.<boxstart/>The TV news said Rufus came up with 2 plans. One, is to launch a rocket into space containing Huge Materia......<boxstart/>Is Huge Materia really that destructive? </sp>
+<sp><speaker name="Redhead">Redhead</speaker><boxstart/>Hey, listen to me! The Shinra troops are on the move.<boxstart/>The TV news said <referent name="Rufus">Rufus</referent> came up with 2 plans. One, is to launch a rocket into space containing Huge Materia......<boxstart/>Is Huge Materia really that destructive? </sp>
 
 <stage>At Corel...</stage>
 <sp><speaker name="Man">Man</speaker><boxstart/>Shinra soldiers came around sayin' they were gathering up all the Huge Materia.<boxstart/>I think they're gonna bring it here by coal train, from the Corel Reactor. </sp>
@@ -35,13 +35,13 @@
 	<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Wha... you're not thinking about giving up... </sp>
 	<sp><speaker name="Vincent">Vincent</speaker><boxstart/>...go after them? </sp>
 
-<sp><speaker name="Cid">Cid</speaker><boxstart/>Hey, do you know who I am?<boxstart/>I'm Cid - that's who the hell I am! Now just let me handle it! </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Hey, do you know who I am?<boxstart/>I'm <referent name="Cid">Cid</referent> - that's who the hell I am! Now just let me handle it! </sp>
 <stage>They run inside the reactor and another whistle sounds.</stage>
 <sp><speaker name="Cid">Cid</speaker><boxstart/>Hey, hey, hey, hey---! </sp>
 <stage>They come out riding a smaller train.</stage>
 
 	<sp><speaker name="Barret">Barret</speaker><boxstart/>How can they even drive this? </sp>
-	<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>It sure helped having Cid here. I had no idea he could drive a train... </sp>
+	<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>It sure helped having <referent name="Cid">Cid</referent> here. I had no idea he could drive a train... </sp>
 	<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>Pretty good for an old guy. I'm impressed you can move this thing! </sp>
 	<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Way to go, Mister! You used to drivin' this thing too? </sp>
 	<sp><speaker name="Vincent">Vincent</speaker><boxstart/>I'm impressed. You can drive this too...? </sp>
@@ -101,7 +101,7 @@
 		<sp><speaker name="Vincent">Vincent</speaker><boxstart/>	......!! </sp>
 	
 	
-	  <sp><speaker name="Cloud"/><boxstart/>If Cid slows the train down in time...</sp>
+	  <sp><speaker name="Cloud"/><boxstart/>If <referent name="Cid">Cid</referent> slows the train down in time...</sp>
 	  <sp><speaker name="Cid">Cid</speaker><boxstart/>SHI---------!! </sp>
 	  <stage>The train stops just at the entrance to North Corel.</stage>
 	  Received Key Item "Huge Materia"!
@@ -135,7 +135,7 @@
 	  <sp><speaker name="Kid">Kid</speaker><boxstart/>When I grow up, I'm gonna travel the world collecting glowing stones! </sp>
 	
 	
-	  <sp><speaker name="Cloud"/><boxstart/>If Cid fails to slow the train down in time...</sp>
+	  <sp><speaker name="Cloud"/><boxstart/>If <referent name="Cid">Cid</referent> fails to slow the train down in time...</sp>
 	  <sp><speaker name="Cid">Cid</speaker><boxstart/>Oh ^%$#&amp;$! We're gonna crash into North Corel! </sp>
 	  <stage>The train crashes into North Corel. Cid comes to in the inn, rolling off the bed.</stage>
 	  <sp><speaker name="Innkeeper">Innkeeper</speaker><boxstart/>You all right?<boxstart/>Some townspeople carried you here so the Shinra wouldn't find you.<boxstart/>How much more will they have to destroy before they're satisfied!?<boxstart/>Isn't anyone brave enough to stick it to Shinra? </sp>
@@ -179,13 +179,13 @@
 <stage>Back on the Highwind...</stage>
 <sp><speaker name="Cid">Cid</speaker><boxstart/>What's next? Shall we head for Fort Condor? </sp>
 <sp><speaker name="Barret">Barret</speaker><boxstart/>Huh? Mr. Leader, what's next!? </sp>
-<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>We'll do our best for Cloud and you.<boxstart/>......And Aerith, too. </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>We'll do our best for <referent name="Cloud">Cloud</referent> and you.<boxstart/>......And <referent name="Aerith">Aerith</referent>, too. </sp>
 <sp><speaker name="Vincent">Vincent</speaker><boxstart/>......Don't expect anything else from me except fighting beside you.<boxstart/>I don't have any comforting words.<boxstart/>Of course, I don't believe you're the type of guy who needs kindness from other's......  </sp>
 <stage>It is possible to do Fort Condor first and Corel second, in which case the dialogue is different:</stage>
 <sp><speaker name="Cid">Cid</speaker><boxstart/>There's only one more Huge Materia the Shinra needs... That's the one at the Underwater Reactor. </sp>
 <sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>We've got to hurry and stop 'em!! </sp>
 <sp><speaker name="Cid">Cid</speaker><boxstart/>With us always in their face, even the Shinra's gotta be getting tired of it all.<boxstart/>We have to hurry that much... ...right now I'm more worried about him than anything else! </sp>
-<sp><speaker name="Vincent">Vincent</speaker><boxstart/>Cloud... </sp>
-<sp><speaker name="Cid">Cid</speaker><boxstart/>Yeah, and I'm worried about Tifa, too.<boxstart/>Let's go see what's going on at Mideel... </sp>
+<sp><speaker name="Vincent">Vincent</speaker><boxstart/><referent name="Cloud">Cloud</referent>... </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Yeah, and I'm worried about <referent name="Tifa">Tifa</referent>, too.<boxstart/>Let's go see what's going on at Mideel... </sp>
 
 </scene>

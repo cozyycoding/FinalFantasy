@@ -12,16 +12,16 @@
 <sp>Gongaga </sp>
 
 <stage>At Kalm...</stage>
-<sp><speaker name="Redhead">Redhead</speaker><boxstart/>Listen to me! Something really big's happening in Midgar.<boxstart/>They were just saying on TV it was Rufus second strategy and...<boxstart/>That big cannon's pointed due north...... You think the target's...... Sephiroth? </sp>
-<sp><speaker name="Man">Man</speaker><boxstart/>Sephiroth put up a huge barrier around the North Crater.<boxstart/>Rufus wants to use a mammoth cannon to smash the barrier.<boxstart/>He plans to have Shinra troops rush in and attack Sephiroth after the barrier falls. </sp>
+<sp><speaker name="Redhead">Redhead</speaker><boxstart/>Listen to me! Something really big's happening in Midgar.<boxstart/>They were just saying on TV it was <referent name="Rufus">Rufus</referent> second strategy and...<boxstart/>That big cannon's pointed due north...... You think the target's...... <referent name="Sephiroth">Sephiroth</referent>? </sp>
+<sp><speaker name="Man">Man</speaker><boxstart/>Sephiroth put up a huge barrier around the North Crater.<boxstart/><referent name="Rufus">Rufus</referent> wants to use a mammoth cannon to smash the barrier.<boxstart/>He plans to have Shinra troops rush in and attack <referent name="Sephiroth">Sephiroth</referent> after the barrier falls. </sp>
 <stage>Inside the second house...</stage>
 <sp><speaker name="Old Man">Old Man</speaker><boxstart/>Everyone at Shinra's in an uproar because they heard Weapon's coming.<boxstart/>I heard a big hydroplane carrying secret weapons, got attacked by Weapon and was sunk at sea...... </sp>
 
 <stage>At Lower Junon...</stage>
 <sp><speaker name="Woman">Woman</speaker><boxstart/>I heard a war's about to start! And that's why they're moving the big cannon! </sp>
-<sp><speaker name="Older Man">Older Man</speaker><boxstart/>Listen Cloud, I'm over the hill, but Priscilla is still a child.<boxstart/>Isn't there a way to protect at least her from Meteor? </sp>
+<sp><speaker name="Older Man">Older Man</speaker><boxstart/>Listen <referent name="Cloud">Cloud</referent>, I'm over the hill, but Priscilla is still a child.<boxstart/>Isn't there a way to protect at least her from Meteor? </sp>
 <stage>In Upper Junon...</stage>
-<sp><speaker name="Soldier">Soldier</speaker><boxstart/>The Shinra Army's gathered at Midgar. Now it's just a matter of time Sephiroth's dead.<boxstart/>What... me? I don't mind. I'll just wait here. My life is important to me. </sp>
+<sp><speaker name="Soldier">Soldier</speaker><boxstart/>The Shinra Army's gathered at Midgar. Now it's just a matter of time <referent name="Sephiroth">Sephiroth</referent>'s dead.<boxstart/>What... me? I don't mind. I'll just wait here. My life is important to me. </sp>
 
 <stage>At Costa del Sol...</stage>
 <stage>Johnny's House...</stage>
