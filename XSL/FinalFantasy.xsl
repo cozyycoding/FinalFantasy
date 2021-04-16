@@ -24,7 +24,7 @@
             <xsl:apply-templates/></speaker>     
     </xsl:template>
     
-    <xsl:template match="//p not([@class='italic'])//span[@class='highlight']">
+    <xsl:template match="//p//span[@class='highlight']">
         <speaker name="Cloud"/><boxstart/>
             <xsl:apply-templates/>
         

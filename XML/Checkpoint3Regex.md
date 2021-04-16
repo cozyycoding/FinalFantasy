@@ -6,3 +6,7 @@
 1. Replace: ```<sp>\0 </sp>```
 1. Find: ```^<boxstart/>.+ ```
 1. Replace: ```<sp>\0 </sp>```
+1. Find: ```<stage><sp>```
+1. Replace ```<sp>```
+1. Find```</stage> </sp>```
+1. Replace ```</sp>```

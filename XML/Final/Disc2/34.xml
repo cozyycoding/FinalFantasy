@@ -2,190 +2,190 @@
 
 
 
-<sp> North Corel - Huge Materia </sp>
+<sp>North Corel - Huge Materia </sp>
 
-<sp> Arrival at the Corel Reactor </sp>
-<sp> Return to North Corel </sp>
-<sp> Back on the Highwind </sp>
+<sp>Arrival at the Corel Reactor </sp>
+<sp>Return to North Corel </sp>
+<sp>Back on the Highwind </sp>
 
-<sp> At Kalm... </sp>
-<sp> RedheadHey, listen to me! The Shinra troops are on the move.The TV news said Rufus came up with 2 plans. One, is to launch a rocket into space containing Huge Materia......Is Huge Materia really that destructive? </sp>
+<stage>At Kalm...</stage>
+<sp><speaker name="Redhead">Redhead</speaker><boxstart/>Hey, listen to me! The Shinra troops are on the move.<boxstart/>The TV news said Rufus came up with 2 plans. One, is to launch a rocket into space containing Huge Materia......<boxstart/>Is Huge Materia really that destructive? </sp>
 
-<sp> At Corel... </sp>
-<sp> ManShinra soldiers came around sayin' they were gathering up all the Huge Materia.I think they're gonna bring it here by coal train, from the Corel Reactor. </sp>
-<sp> Big ManSome Shinra soldiers went up to Mt. Corel. They said they're collecting Huge Materia to blow up Meteor!Ya think they can really do it...? I'll bet the reactor destroys everything even before Meteor hits! </sp>
-<sp> Cid and the others travel through the mountains to the Corel Reactor. </sp>
-<sp> SoldierYou guys are...! </sp>
-<sp> They fight and defeat the two soldiers guarding the door. </sp>
-<sp> CidGuess we're safe for now...! </sp>
-<sp> A train whistle sounds. </sp>
+<stage>At Corel...</stage>
+<sp><speaker name="Man">Man</speaker><boxstart/>Shinra soldiers came around sayin' they were gathering up all the Huge Materia.<boxstart/>I think they're gonna bring it here by coal train, from the Corel Reactor. </sp>
+<sp><speaker name="Big Man">Big Man</speaker><boxstart/>Some Shinra soldiers went up to Mt. Corel. They said they're collecting Huge Materia to blow up Meteor!<boxstart/>Ya think they can really do it...? I'll bet the reactor destroys everything even before Meteor hits! </sp>
+<stage>Cid and the others travel through the mountains to the Corel Reactor.</stage>
+<sp><speaker name="Soldier">Soldier</speaker><boxstart/>You guys are...! </sp>
+<stage>They fight and defeat the two soldiers guarding the door.</stage>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Guess we're safe for now...! </sp>
+<stage>A train whistle sounds.</stage>
 
-	BarretDa---mn!
-	NanakiOhh!
-	YuffieWa... wait!
-	Cait SithWha... what is it, what is it!
-	Vincent!!
+	<sp><speaker name="Barret">Barret</speaker><boxstart/>Da---mn! </sp>
+	<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>Ohh! </sp>
+	<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>Wa... wait! </sp>
+	<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Wha... what is it, what is it! </sp>
+	<sp><speaker name="Vincent">Vincent</speaker><boxstart/>!! </sp>
 
-<sp> They get out of the way as a train exits the reactor. </sp>
-<sp> CidLooks like they're takin' off with the Huge Materia in that train! </sp>
+<stage>They get out of the way as a train exits the reactor.</stage>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Looks like they're takin' off with the Huge Materia in that train! </sp>
 
-	BarretNO! You damn boneheads!
-	NanakiDid the Shinra beat us!?
-	YuffieWhat are ya gonna do!? Huge Materia!?
-	Cait SithWha... you're not thinking about giving up...
-	Vincent...go after them?
+	<sp><speaker name="Barret">Barret</speaker><boxstart/>NO! You damn boneheads! </sp>
+	<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>Did the Shinra beat us!? </sp>
+	<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>What are ya gonna do!? Huge Materia!? </sp>
+	<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Wha... you're not thinking about giving up... </sp>
+	<sp><speaker name="Vincent">Vincent</speaker><boxstart/>...go after them? </sp>
 
-<sp> CidHey, do you know who I am?I'm Cid - that's who the hell I am! Now just let me handle it! </sp>
-<sp> They run inside the reactor and another whistle sounds. </sp>
-<sp> CidHey, hey, hey, hey---! </sp>
-<sp> They come out riding a smaller train. </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Hey, do you know who I am?<boxstart/>I'm Cid - that's who the hell I am! Now just let me handle it! </sp>
+<stage>They run inside the reactor and another whistle sounds.</stage>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Hey, hey, hey, hey---! </sp>
+<stage>They come out riding a smaller train.</stage>
 
-	BarretHow can they even drive this?
-	NanakiIt sure helped having Cid here. I had no idea he could drive a train...
-	YuffiePretty good for an old guy. I'm impressed you can move this thing!
-	Cait SithWay to go, Mister! You used to drivin' this thing too?
-	VincentI'm impressed. You can drive this too...?
+	<sp><speaker name="Barret">Barret</speaker><boxstart/>How can they even drive this? </sp>
+	<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>It sure helped having Cid here. I had no idea he could drive a train... </sp>
+	<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>Pretty good for an old guy. I'm impressed you can move this thing! </sp>
+	<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Way to go, Mister! You used to drivin' this thing too? </sp>
+	<sp><speaker name="Vincent">Vincent</speaker><boxstart/>I'm impressed. You can drive this too...? </sp>
 
-<sp> CidDon't ask me... I don't know! </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Don't ask me... I don't know! </sp>
 
-	BarretWhat!?
-	NanakiWa...What!?
-	YuffieWhat!? You serious!?
-	Cait SithHuh? What'd you just say!?
-	VincentWha... what...!?
+	<sp><speaker name="Barret">Barret</speaker><boxstart/>What!? </sp>
+	<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>Wa...What!? </sp>
+	<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>What!? You serious!? </sp>
+	<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Huh? What'd you just say!? </sp>
+	<sp><speaker name="Vincent">Vincent</speaker><boxstart/>Wha... what...!? </sp>
 
-<sp> CidDon't worry! I can handle this kinda stuff!Two levers; one on the right and one on the left...I see, just alternate the two levers up and down, right!?Judging from the enemy's speed, I'd say it'll take about 10 minutes.We're gonna fly!! Hold on tight!! </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Don't worry! I can handle this kinda stuff!<boxstart/>Two levers; one on the right and one on the left...<boxstart/>I see, just alternate the two levers up and down, right!?<boxstart/>Judging from the enemy's speed, I'd say it'll take about 10 minutes.<boxstart/>We're gonna fly!! Hold on tight!! </sp>
 
-  If they fail to catch up to Shinra's train...
-  CidDAMN!Sorry! I couldn't catch up to them!
-  They walk into North Corel, which is unharmed.
-  CidSorry... I never shoulda gave that Huge Materia to the Shinra so easily...
+  <sp><speaker name="Cloud"/><boxstart/>If they fail to catch up to Shinra's train...</sp>
+  <sp><speaker name="Cid">Cid</speaker><boxstart/>DAMN!<boxstart/>Sorry! I couldn't catch up to them! </sp>
+  <stage>They walk into North Corel, which is unharmed.</stage>
+  <sp><speaker name="Cid">Cid</speaker><boxstart/>Sorry... I never shoulda gave that Huge Materia to the Shinra so easily... </sp>
   
-	  BarretCan't keep regrettin' the past... It's the future we gotta think about now.
-	  NanakiWhat are we going to do now?
-	  YuffieNo use baggin' on yourself! It's not like you, OLD guy!
-	  Cait SithIt's not all over yet. Cheer up!
-	  Vincent...Isn't it too early to give up?
+	  <sp><speaker name="Barret">Barret</speaker><boxstart/>Can't keep regrettin' the past... It's the future we gotta think about now. </sp>
+	  <sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>What are we going to do now? </sp>
+	  <sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>No use baggin' on yourself! It's not like you, OLD guy! </sp>
+	  <sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>It's not all over yet. Cheer up! </sp>
+	  <sp><speaker name="Vincent">Vincent</speaker><boxstart/>...Isn't it too early to give up? </sp>
   
 
 
-  If they catch up to Shinra's train in time...
-	CidAll right! We're gonna jump!!
-	They jump to the other train and fight their way to the front.
-	Soldier DrivingWhat the! You... you guys!
-	CidAll right--- Just hand over the Huge Materia!
-	Soldier DrivingSh......Whooooa----!
-	They fight off the soldier.
-	CidYou got guts comin' after me!I'll never forget you!
+  <sp><speaker name="Cloud"/><boxstart/>If they catch up to Shinra's train in time...</sp>
+	<sp><speaker name="Cid">Cid</speaker><boxstart/>All right! We're gonna jump!! </sp>
+	<stage>They jump to the other train and fight their way to the front.</stage>
+	<sp><speaker name="Soldier Driving">Soldier Driving</speaker><boxstart/>What the! You... you guys! </sp>
+	<sp><speaker name="Cid">Cid</speaker><boxstart/>All right--- Just hand over the Huge Materia! </sp>
+	<sp><speaker name="Soldier Driving">Soldier Driving</speaker><boxstart/>Sh......<boxstart/>Whooooa----! </sp>
+	<stage>They fight off the soldier.</stage>
+	<sp><speaker name="Cid">Cid</speaker><boxstart/>You got guts comin' after me!<boxstart/>I'll never forget you! </sp>
 	
-		BarretGot no time for that now!
-		NanakiWe got it going, but what about the brakes?
-		YuffieForget about the Huge Materia, WE'RE the ones in deep trouble!
-		Cait SithWhat are we gonna do, kill off the engineer!?
-		VincentHit the brakes, Chief.
+		<sp><speaker name="Barret">Barret</speaker><boxstart/>Got no time for that now! </sp>
+		<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>We got it going, but what about the brakes? </sp>
+		<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>Forget about the Huge Materia, WE'RE the ones in deep trouble! </sp>
+		<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>What are we gonna do, kill off the engineer!? </sp>
+		<sp><speaker name="Vincent">Vincent</speaker><boxstart/>Hit the brakes, Chief. </sp>
 	
-	CidI KNOW, already! Just shut up and keep quiet! If we keep this up, we'll crash right into North Corel!Let's see... If we alternately use the levers to accelerate, ...It should brake if we move the levers up or down simultaneously!
+	<sp><speaker name="Cid">Cid</speaker><boxstart/>I KNOW, already! Just shut up and keep quiet! If we keep this up, we'll crash right into North Corel!<boxstart/>Let's see... If we alternately use the levers to accelerate, ...<boxstart/>It should brake if we move the levers up or down simultaneously! </sp>
 	
-		BarretHey, it's not working!
-		NanakiWe're gaining speed!
-		YuffieWhat are you doin' accelerating!?
-		Cait SithHey---------WAIT! ...other way, other way, other way!
-		VincentIsn't it... the other way?
+		<sp><speaker name="Barret">Barret</speaker><boxstart/>Hey, it's not working! </sp>
+		<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>We're gaining speed! </sp>
+		<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>What are you doin' accelerating!? </sp>
+		<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Hey---------WAIT! ...other way, other way, other way! </sp>
+		<sp><speaker name="Vincent">Vincent</speaker><boxstart/>Isn't it... the other way? </sp>
 	
-	Cid@#*#! The other way!? Just watch, this time, I'll...
+	<sp><speaker name="Cid">Cid</speaker><boxstart/>@#*#! The other way!? Just watch, this time, I'll... </sp>
 	
-		BarretHey... HEY HEY!!
-		NanakiWHOOOOOO----A!!
-		YuffieGet serious, you old man!
-		Cait SithNo... DON'T----!!
-		Vincent	......!!
+		<sp><speaker name="Barret">Barret</speaker><boxstart/>Hey... HEY HEY!! </sp>
+		<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>WHOOOOOO----A!! </sp>
+		<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>Get serious, you old man! </sp>
+		<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>No... DON'T----!! </sp>
+		<sp><speaker name="Vincent">Vincent</speaker><boxstart/>	......!! </sp>
 	
 	
-	  If Cid slows the train down in time...
-	  CidSHI---------!!
-	  The train stops just at the entrance to North Corel.
+	  <sp><speaker name="Cloud"/><boxstart/>If Cid slows the train down in time...</sp>
+	  <sp><speaker name="Cid">Cid</speaker><boxstart/>SHI---------!! </sp>
+	  <stage>The train stops just at the entrance to North Corel.</stage>
 	  Received Key Item "Huge Materia"!
-	  Older WomanYou sure are brave. I'm impressed!
-	  ManYou guys are really something!
-	  Big ManAren't you the ones that stopped the Shinra Train?The Shinra was just about to destroy our lives again...
-	  ManTo you it may be a junk yard, but to us its home.
+	  <sp><speaker name="Older Woman">Older Woman</speaker><boxstart/>You sure are brave. I'm impressed! </sp>
+	  <sp><speaker name="Man">Man</speaker><boxstart/>You guys are really something! </sp>
+	  <sp><speaker name="Big Man">Big Man</speaker><boxstart/>Aren't you the ones that stopped the Shinra Train?<boxstart/>The Shinra was just about to destroy our lives again... </sp>
+	  <sp><speaker name="Man">Man</speaker><boxstart/>To you it may be a junk yard, but to us its home. </sp>
 	  If Barret is in the party, he will instead say:
 	  It might be full of junk, but this is the only home we got, Barret!!
-	  BarretOf... of course! We're all born and raised in the coal mines!!No matter how tough it gets, our hearts burn bright red like coal!
-	  ManTo hell with Meteor! We're Coal Miners, ain't we?We'll dig a deep tunnel and hide from the Meteor!
-	  Big ManThat's it!Hey, kid! How about givin' somethin' to these guys fightin' the Shinra?
-	  A kid comes down from above.
-	  KidI got it out of the well. Isn't it an amazing rock!!
+	  <sp><speaker name="Barret">Barret</speaker><boxstart/>Of... of course! We're all born and raised in the coal mines!!<boxstart/>No matter how tough it gets, our hearts burn bright red like coal! </sp>
+	  <sp><speaker name="Man">Man</speaker><boxstart/>To hell with Meteor! We're Coal Miners, ain't we?<boxstart/>We'll dig a deep tunnel and hide from the Meteor! </sp>
+	  <sp><speaker name="Big Man">Big Man</speaker><boxstart/>That's it!<boxstart/>Hey, kid! How about givin' somethin' to these guys fightin' the Shinra? </sp>
+	  <stage>A kid comes down from above.</stage>
+	  <sp><speaker name="Kid">Kid</speaker><boxstart/>I got it out of the well. Isn't it an amazing rock!! </sp>
 	  Received "Ultima" Materia!
-	  ManMust've been a horrific battle. You have scars all over your body.I already talked to the Inn's owner, today you can rest for free.
-	  Cid and the others spend the night.
-	  The next day, inside the crumbling house...
-	  ManI don't want to die, but who can stop Meteor?
-	  WomanIs Meteor really going to crash down on us......?I'm still young...... I'll never marry again.This memento is all I have left of my husband... I'll give it to you if you'll please stop Meteor...
+	  <sp><speaker name="Man">Man</speaker><boxstart/>Must've been a horrific battle. You have scars all over your body.<boxstart/>I already talked to the Inn's owner, today you can rest for free. </sp>
+	  <stage>Cid and the others spend the night.</stage>
+	  <stage>The next day, inside the crumbling house...</stage>
+	  <sp><speaker name="Man">Man</speaker><boxstart/>I don't want to die, but who can stop Meteor? </sp>
+	  <sp><speaker name="Woman">Woman</speaker><boxstart/>Is Meteor really going to crash down on us......?<boxstart/>I'm still young...... I'll never marry again.<boxstart/>This memento is all I have left of my husband... I'll give it to you if you'll please stop Meteor... </sp>
 	  Received "Catastrophe"!
-	  Little GirlHey, what's a Meteor?
-	  Back outside...
-	  ManWhenever I look up in the sky, I see Meteor staring me right in the face......If you're comin' down, then hurry up do it!! 'Cause I'm gonna kick the $#@&amp; outta ya!
-	  Big ManI figure if I stay alive long enough, something good's bound to happen.
-	  Inside a tent...
-	  Old ManWhat the? Don't get hit by the train!
-	  Black WomanWith Meteor coming, I guess it won't make any difference...
-	  In another tent...
-	  WomanYou saved my life. Not that I have much longer to live anyway...
-	  KidWhen I grow up, I'm gonna travel the world collecting glowing stones!
+	  <sp><speaker name="Little Girl">Little Girl</speaker><boxstart/>Hey, what's a Meteor? </sp>
+	  <stage>Back outside...</stage>
+	  <sp><speaker name="Man">Man</speaker><boxstart/>Whenever I look up in the sky, I see Meteor staring me right in the face......<boxstart/>If you're comin' down, then hurry up do it!! 'Cause I'm gonna kick the $#@&amp; outta ya! </sp>
+	  <sp><speaker name="Big Man">Big Man</speaker><boxstart/>I figure if I stay alive long enough, something good's bound to happen. </sp>
+	  <stage>Inside a tent...</stage>
+	  <sp><speaker name="Old Man">Old Man</speaker><boxstart/>What the? Don't get hit by the train! </sp>
+	  <sp><speaker name="Black Woman">Black Woman</speaker><boxstart/>With Meteor coming, I guess it won't make any difference... </sp>
+	  <stage>In another tent...</stage>
+	  <sp><speaker name="Woman">Woman</speaker><boxstart/>You saved my life. Not that I have much longer to live anyway... </sp>
+	  <sp><speaker name="Kid">Kid</speaker><boxstart/>When I grow up, I'm gonna travel the world collecting glowing stones! </sp>
 	
 	
-	  If Cid fails to slow the train down in time...
-	  CidOh ^%$#&amp;$! We're gonna crash into North Corel!
-	  The train crashes into North Corel. Cid comes to in the inn, rolling off the bed.
-	  InnkeeperYou all right?Some townspeople carried you here so the Shinra wouldn't find you.How much more will they have to destroy before they're satisfied!?Isn't anyone brave enough to stick it to Shinra?
-	  Cid and the others step outside to see the damage.
-	  Cid^$#@%$! We couldn't stop the train...
+	  <sp><speaker name="Cloud"/><boxstart/>If Cid fails to slow the train down in time...</sp>
+	  <sp><speaker name="Cid">Cid</speaker><boxstart/>Oh ^%$#&amp;$! We're gonna crash into North Corel! </sp>
+	  <stage>The train crashes into North Corel. Cid comes to in the inn, rolling off the bed.</stage>
+	  <sp><speaker name="Innkeeper">Innkeeper</speaker><boxstart/>You all right?<boxstart/>Some townspeople carried you here so the Shinra wouldn't find you.<boxstart/>How much more will they have to destroy before they're satisfied!?<boxstart/>Isn't anyone brave enough to stick it to Shinra? </sp>
+	  <stage>Cid and the others step outside to see the damage.</stage>
+	  <sp><speaker name="Cid">Cid</speaker><boxstart/>^$#@%$! We couldn't stop the train... </sp>
 	  
-		  BarretI did it again... I can't keep up with this.
-		  NanakiI could never forgive Shinra!
-		  YuffieI'd be sad if this place was my hometown...
-		  Cait SithWe got into this situation because we goofed...
-		  VincentA spectacular sight...
+		  <sp><speaker name="Barret">Barret</speaker><boxstart/>I did it again... I can't keep up with this. </sp>
+		  <sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>I could never forgive Shinra! </sp>
+		  <sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>I'd be sad if this place was my hometown... </sp>
+		  <sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>We got into this situation because we goofed... </sp>
+		  <sp><speaker name="Vincent">Vincent</speaker><boxstart/>A spectacular sight... </sp>
 	  
-	  Man in HardhatHey, what's this world coming to...?Even the Gold Saucer is closing. So does that mean there's no time to be playing around?
-	  Inside the crumbling house...
-	  ManThe town is in shambles...... and Meteor is falling our way...
-	  Older WomanAll we have left is our love for each other.
-	  WomanIs Meteor really going to crash down on us......?I'm still young...... I'll never marry again.This memento is all I have left of my husband... I'll give it to you if you'll please stop Meteor...
+	  <sp><speaker name="Man in Hardhat">Man in Hardhat</speaker><boxstart/>Hey, what's this world coming to...?<boxstart/>Even the Gold Saucer is closing. So does that mean there's no time to be playing around? </sp>
+	  <stage>Inside the crumbling house...</stage>
+	  <sp><speaker name="Man">Man</speaker><boxstart/>The town is in shambles...... and Meteor is falling our way... </sp>
+	  <sp><speaker name="Older Woman">Older Woman</speaker><boxstart/>All we have left is our love for each other. </sp>
+	  <sp><speaker name="Woman">Woman</speaker><boxstart/>Is Meteor really going to crash down on us......?<boxstart/>I'm still young...... I'll never marry again.<boxstart/>This memento is all I have left of my husband... I'll give it to you if you'll please stop Meteor... </sp>
 	  Received "Catastrophe"!
-	  Little GirlHey, what's a Meteor?
-	  Weapons ShopkeeperMy store was all right!
-	  Big ManWe've lost everything... Now we have to start again from '1'... no, from '0'.
-	  ManGod, what have we done...?Well, no use just sitting around talking about it. What can we do to get things back to normal?
-	  Man 2While you guys were relaxing, Shinra troops took the Huge Materia.
-	  Old ManUm... where was the next train station?
-	  Black WomanSeeing that train got Grandpa more excited than I've seen him for some time.
-	  KidI got a glowing rock from the well.I'll sell it to you for 50000 gil!
-	  Cid- Buy it- Don't buy it
+	  <sp><speaker name="Little Girl">Little Girl</speaker><boxstart/>Hey, what's a Meteor? </sp>
+	  <sp><speaker name="Weapons Shopkeeper">Weapons Shopkeeper</speaker><boxstart/>My store was all right! </sp>
+	  <sp><speaker name="Big Man">Big Man</speaker><boxstart/>We've lost everything... Now we have to start again from '1'... no, from '0'. </sp>
+	  <sp><speaker name="Man">Man</speaker><boxstart/>God, what have we done...?<boxstart/>Well, no use just sitting around talking about it. What can we do to get things back to normal? </sp>
+	  <sp><speaker name="Man 2">Man 2</speaker><boxstart/>While you guys were relaxing, Shinra troops took the Huge Materia. </sp>
+	  <sp><speaker name="Old Man">Old Man</speaker><boxstart/>Um... where was the next train station? </sp>
+	  <sp><speaker name="Black Woman">Black Woman</speaker><boxstart/>Seeing that train got Grandpa more excited than I've seen him for some time. </sp>
+	  <sp><speaker name="Kid">Kid</speaker><boxstart/>I got a glowing rock from the well.<boxstart/>I'll sell it to you for 50000 gil! </sp>
+	  <sp><speaker name="Cid">Cid</speaker><boxstart/>- Buy it<boxstart/>- Don't buy it </sp>
 	  
-		Buy it
+		<sp><speaker name="Cloud"/><boxstart/>Buy it </sp>
 		Received "Ultima" Materia!
-		KidYay! My house is finished!!
+		<sp><speaker name="Kid">Kid</speaker><boxstart/>Yay! My house is finished!! </sp>
 		Or, if you don't have enough money:
 		You don't have enough money! Don't try to take advantage of me just because I'm a kid!!
 	  
 	  
-		Don't buy it
-		KidI wish someone would buy this rock off of me...
+		<sp><speaker name="Cloud"/><boxstart/>Don't buy it </sp>
+		<sp><speaker name="Kid">Kid</speaker><boxstart/>I wish someone would buy this rock off of me... </sp>
 	  
 	
 
-<sp> Back on the Highwind... </sp>
-<sp> CidWhat's next? Shall we head for Fort Condor? </sp>
-<sp> BarretHuh? Mr. Leader, what's next!? </sp>
-<sp> NanakiWe'll do our best for Cloud and you.......And Aerith, too. </sp>
-<sp> Vincent......Don't expect anything else from me except fighting beside you.I don't have any comforting words.Of course, I don't believe you're the type of guy who needs kindness from other's......  </sp>
-<sp> It is possible to do Fort Condor first and Corel second, in which case the dialogue is different: </sp>
-<sp> CidThere's only one more Huge Materia the Shinra needs... That's the one at the Underwater Reactor. </sp>
-<sp> YuffieWe've got to hurry and stop 'em!! </sp>
-<sp> CidWith us always in their face, even the Shinra's gotta be getting tired of it all.We have to hurry that much... ...right now I'm more worried about him than anything else! </sp>
-<sp> VincentCloud... </sp>
-<sp> CidYeah, and I'm worried about Tifa, too.Let's go see what's going on at Mideel... </sp>
+<stage>Back on the Highwind...</stage>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>What's next? Shall we head for Fort Condor? </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Huh? Mr. Leader, what's next!? </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>We'll do our best for Cloud and you.<boxstart/>......And Aerith, too. </sp>
+<sp><speaker name="Vincent">Vincent</speaker><boxstart/>......Don't expect anything else from me except fighting beside you.<boxstart/>I don't have any comforting words.<boxstart/>Of course, I don't believe you're the type of guy who needs kindness from other's......  </sp>
+<stage>It is possible to do Fort Condor first and Corel second, in which case the dialogue is different:</stage>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>There's only one more Huge Materia the Shinra needs... That's the one at the Underwater Reactor. </sp>
+<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>We've got to hurry and stop 'em!! </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>With us always in their face, even the Shinra's gotta be getting tired of it all.<boxstart/>We have to hurry that much... ...right now I'm more worried about him than anything else! </sp>
+<sp><speaker name="Vincent">Vincent</speaker><boxstart/>Cloud... </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Yeah, and I'm worried about Tifa, too.<boxstart/>Let's go see what's going on at Mideel... </sp>
 
 </scene>
