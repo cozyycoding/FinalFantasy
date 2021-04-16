@@ -88,10 +88,10 @@
 <sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Too bad. It happens, though.<boxstart/>I know! Let's stay at the hotel! They know me here. I'll go talk to them. </sp>
 <sp> <speaker name="Staff">Staff</speaker><boxstart/>I will let you know once the repairs are completed. </sp>
 <stage>At the hotel, the entire team gathers in the lobby.</stage>
-<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>We don't usually get the chance to be together like this, huh?<boxstart/>Cloud, how 'bout it? Can you tell us what's happened so far?<boxstart/>I don't really know what's goin' on because I wasn't here in the beginning. </sp>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>We don't usually get the chance to be together like this, huh?<boxstart/><referent name="Cloud">Cloud</referent>, how 'bout it? Can you tell us what's happened so far?<boxstart/>I don't really know what's goin' on because I wasn't here in the beginning. </sp>
 <sp> <speaker name="Cid">Cid</speaker><boxstart/>Yeah! I'm all for it! </sp>
 <sp> <speaker name="Vincent">Vincent</speaker><boxstart/>Good idea. </sp>
-<sp> <speaker name="Barret">Barret</speaker><boxstart/>I been here since the beginnin', an' I still don't know what the hell's goin' on either.<boxstart/>Cloud, the hell's goin' on? C'mon, tell us! </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>I been here since the beginnin', an' I still don't know what the hell's goin' on either.<boxstart/><referent name="Cloud">Cloud</referent>, the hell's goin' on? C'mon, tell us! </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- I'm tired...<boxstart/>- All right, I'll give it a shot... </sp>
 
   <sp> <speaker name="Cloud"/><boxstart/>I'm tired... </sp>
@@ -101,7 +101,7 @@
   <sp> <speaker name="Cloud"/><boxstart/>All right, I'll give it a shot... </sp>
   <stage>Nothing special happens.</stage>
 
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Phew...<boxstart/>We are going after Sephiroth.<boxstart/>Sephiroth must be in search of the Promised Land. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Phew...<boxstart/>We are going after Sephiroth.<boxstart/><referent name="Sephiroth">Sephiroth</referent> must be in search of the Promised Land. </sp>
 <sp> <speaker name="Cid">Cid</speaker><boxstart/>The Promised Land? </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>A land full of Mako energy. ...or at least that's what the Shinra believe.<boxstart/>I don't know if it actually exists. </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>The Cetras return to the Promised Land. A land that promises boundless happiness. </sp>
@@ -109,9 +109,9 @@
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>That's what the Ancients call themselves.<boxstart/>Hey, didn't you listen to the elders at Cosmo Canyon? </sp>
 <stage>Barret scratches his head.</stage>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>...You don't 'know' where the Promised Land of the Ancients is.<boxstart/>You search and travel, until you feel it. Like you just know, '...this is the Promised Land.' </sp>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Aerith... can you feel it too? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Aerith">Aerith</referent>... can you feel it too? </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I think so. </sp>
-<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>So Sephiroth is traveling the world because he's searching for the Promised Land? Is that it? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>So <referent name="Sephiroth">Sephiroth</referent> is traveling the world because he's searching for the Promised Land? Is that it? </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>That, and one other thing he's searching for. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>The Black Materia... </sp>
 <sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>I heard from Dio that a man in a Black Cape was lookin' for the Black Materia. </sp>
@@ -120,7 +120,7 @@
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>How did you get that tattoo? </sp>
 <sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>...Hojo put it on me. Everything else is just war scars, but the number was done by Hojo. </sp>
 <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>So there are at least 13!? </sp>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>...You know......<boxstart/>I think Hojo did something to those men in the Black Capes.<boxstart/>But I don't know what it has to do with Sephiroth though...<boxstart/>That's why I think we should just go after Sephiroth himself. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>...You know......<boxstart/>I think Hojo did something to those men in the Black Capes.<boxstart/>But I don't know what it has to do with Sephiroth though...<boxstart/>That's why I think we should just go after <referent name="Sephiroth">Sephiroth</referent> himself. </sp>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>Yeah, me too! It's all just too damn confusin'. </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>And...<boxstart/>I'm sorry, forget it!<boxstart/>I think I'm tired. I'm going to bed now. </sp>
 <stage>She runs upstairs.</stage>
@@ -131,19 +131,19 @@
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>You wouldn't understand even if I told you. </sp>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>Now all we gotta do is take action! We're startin' tomorrow!! </sp>
 <stage>He runs upstairs.</stage>
-<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>Cloud...<boxstart/>I'm number 13. Am I going to go mad too? </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/><referent name="Cloud">Cloud</referent>...<boxstart/>I'm number 13. Am I going to go mad too? </sp>
 <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>I don't know what Hojo did to you, but you've been all right so far, right? </sp>
 <sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>But... </sp>
 <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Be strong. </sp>
 <sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>But, I... </sp>
-<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Stop it, Nanaki! Be strong! </sp>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Tifa? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Stop it, <referent name="Nanaki">Nanaki</referent>! Be strong! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Tifa">Tifa</referent>? </sp>
 <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>You're not the only one who's worried! </sp>
 <sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>I don't know what's goin' on, but we're in a bad situation... </sp>
-<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>Hey Cid, let's go back to our rooms. </sp>
+<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>Hey <referent name="Cid">Cid</referent>, let's go back to our rooms. </sp>
 <sp> <speaker name="Cid">Cid</speaker><boxstart/>...zzzz... zzzz... </sp>
 <stage>Cloud retires to his room. There comes a knock on the door.</stage>
-[Aerith enters.]<boxstart/>[Tifa enters.]<boxstart/>[Yuffie enters.]<boxstart/>[Barret enters.]
+[Aerith enters.]<boxstart/>[<referent name="Tifa">Tifa</referent> enters.]<boxstart/>[<referent name="Yuffie">Yuffie</referent> enters.]<boxstart/>[<referent name="Barret">Barret</referent> enters.]
 
 <stage>Aerith enters Cloud's room.</stage>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Hee, hee! </sp>
@@ -171,7 +171,7 @@
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Wha? </sp>
 <sp> <speaker name="Man">Man</speaker><boxstart/>Oh, now, it's not hard. Just play it however you want to and the rest of the cast will cover up for you.<boxstart/>Come this way. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>H, hey! </sp>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>This sounds like fun. Come on Cloud, let's do it. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>This sounds like fun. Come on <referent name="Cloud">Cloud</referent>, let's do it. </sp>
 <stage>She runs off after the man. Cloud shrugs and follows. The show opens to an empty stage and the narration begins.</stage>
 <sp> <speaker name="Narrator">Narrator</speaker><boxstart/>Long, long ago...<boxstart/>An evil shadow appeared over the peaceful kingdom of Galdia...<boxstart/>Princess Rosa was just kidnapped by the Evil Dragon King, Valvados. What will become of her?<boxstart/>Just then, the legendary hero, Alfred, appears!! </sp>
 <sp> <speaker name="Knight">Knight</speaker><boxstart/>Oh...... You must be the legendary hero...Alfred! </sp>
@@ -199,7 +199,7 @@
     
       <sp> <speaker name="Cloud"/><boxstart/>To the Princess </sp>
       <stage>Cloud goes to Aerith and kisses her hand.</stage>
-      <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Cloud... I mean, Alfred... </sp>
+      <sp> <speaker name="Aerith">Aerith</speaker><boxstart/><referent name="Cloud">Cloud</referent>... I mean, Alfred... </sp>
       <sp> <speaker name="EDK">EDK</speaker><boxstart/>Arrggaahhh!! Curses......The power of...love!! </sp>
       <sp> <speaker name="King">King</speaker><boxstart/>Oh...look! Love has...triumphed!<boxstart/>Now let's all return... And celebrate. </sp>
       <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>Yes let's...yes let's...! </sp>
@@ -222,7 +222,7 @@
     
       <sp> <speaker name="Cloud"/><boxstart/>To home </sp>
       <sp> <speaker name="King">King</speaker><boxstart/>Come on! No more! </sp>
-      <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Stop it Cloud! What are you doing!?<boxstart/>The play's a disaster! Now I'm getting mad!<stage>She slaps Cloud and he falls over.</sp>
+      <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Stop it Cloud! What are you doing!?<boxstart/>The play's a disaster! Now I'm getting mad!<stage>She slaps <referent name="Cloud">Cloud</referent> and he falls over.</sp>
       <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaahh! You dare ignore me!! </sp>
       <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Why don't you shut up, Blabbermouth!!<stage>She knocks the EDK out, too.</sp>
       <sp> <speaker name="Narrator">Narrator</speaker><boxstart/>Oh my...... what an unusually strong Princess! And so the new legendary hero Rosa and our story ends happily ever after. </sp>
@@ -252,7 +252,7 @@
     
       <sp> <speaker name="Cloud"/><boxstart/>The King </sp>
       <sp> <speaker name="King">King</speaker><boxstart/>Come on! No more! </sp>
-      <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Stop it Cloud! What are you doing!?<boxstart/>The play's a disaster! Now I'm getting mad! </sp>
+      <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Stop it <referent name="Cloud">Cloud</referent>! What are you doing!?<boxstart/>The play's a disaster! Now I'm getting mad! </sp>
       She slaps Cloud and he falls over.
       <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaahh! You dare ignore me!! </sp>
       <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Why don't you shut up, Blabbermouth!! </sp>
@@ -263,7 +263,7 @@
     
       <sp> <speaker name="Cloud"/><boxstart/>That Knight </sp>
       <sp> <speaker name="King">King</speaker><boxstart/>Come on! No more! </sp>
-      <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Stop it Cloud! What are you doing!?<boxstart/>The play's a disaster! Now I'm getting mad! </sp>
+      <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Stop it <referent name="Cloud">Cloud</referent>! What are you doing!?<boxstart/>The play's a disaster! Now I'm getting mad! </sp>
       She slaps Cloud and he falls over.
       <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaahh! You dare ignore me!! </sp>
       <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Why don't you shut up, Blabbermouth!! </sp>
@@ -290,7 +290,7 @@
     
       <sp> <speaker name="Cloud"/><boxstart/>Kiss the Princess </sp>
       <stage>Cloud goes to Aerith and kisses her hand.</stage>
-      <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Cloud... I mean, Alfred... </sp>
+      <sp> <speaker name="Aerith">Aerith</speaker><boxstart/><referent name="Cloud">Cloud</referent>... I mean, Alfred... </sp>
       <sp> <speaker name="EDK">EDK</speaker><boxstart/>Arrggaahhh!! Curses......The power of...love!! </sp>
       <sp> <speaker name="King">King</speaker><boxstart/>Oh...look! Love has...triumphed!<boxstart/>Now let's all return... And celebrate. </sp>
       <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>Yes let's...yes let's...! </sp>
@@ -346,7 +346,7 @@
     
       <sp> <speaker name="Cloud"/><boxstart/>The King </sp>
       <sp> <speaker name="King">King</speaker><boxstart/>Come on! No more! </sp>
-      <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Stop it Cloud! What are you doing!?<boxstart/>The play's a disaster! Now I'm getting mad! </sp>
+      <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Stop it <referent name="Cloud">Cloud</referent>! What are you doing!?<boxstart/>The play's a disaster! Now I'm getting mad! </sp>
       She slaps Cloud and he falls over.
       <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaahh! You dare ignore me!! </sp>
       <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Why don't you shut up, Blabbermouth!! </sp>
@@ -357,7 +357,7 @@
     
       <sp> <speaker name="Cloud"/><boxstart/>That Knight </sp>
       <sp> <speaker name="King">King</speaker><boxstart/>Come on! No more! </sp>
-      <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Stop it Cloud! What are you doing!?<boxstart/>The play's a disaster! Now I'm getting mad! </sp>
+      <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Stop it <referent name="Cloud">Cloud</referent>! What are you doing!?<boxstart/>The play's a disaster! Now I'm getting mad! </sp>
       She slaps Cloud and he falls over.
       <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaahh! You dare ignore me!! </sp>
       <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Why don't you shut up, Blabbermouth!! </sp>
@@ -373,9 +373,9 @@
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Two, please. </sp>
 <sp> <speaker name="Woman at Ticket Booth">Woman at Ticket Booth</speaker><boxstart/>Here you are, two tickets.<boxstart/>Enjoy the sights of Gold Saucer. </sp>
 <stage>Cloud and Aerith get on the gondola.</stage>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Wow, how nice.<boxstart/>Oh! Look, Cloud.<boxstart/>It's so pretty. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Wow, how nice.<boxstart/>Oh! Look, <referent name="Cloud">Cloud</referent>.<boxstart/>It's so pretty. </sp>
 <stage>At length, she turns away from the window.</stage>
-<sp> <boxstart/>......it's beautiful, isn't it?<boxstart/>......first off, it bothered me how you looked exactly alike.<boxstart/>Two completely different people, but look exactly the same.<boxstart/>The way you walk, gesture...<boxstart/>I think I must have seen him again, in you...<boxstart/>But you're different.<boxstart/>Things are different.<boxstart/>Cloud...<boxstart/>I'm searching for you. </sp>
+<sp> <boxstart/>......it's beautiful, isn't it?<boxstart/>......first off, it bothered me how you looked exactly alike.<boxstart/>Two completely different people, but look exactly the same.<boxstart/>The way you walk, gesture...<boxstart/>I think I must have seen him again, in you...<boxstart/>But you're different.<boxstart/>Things are different.<boxstart/><referent name="Cloud">Cloud</referent>...<boxstart/>I'm searching for you. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>............? </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I want to meet you. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>But I'm right here. </sp>
@@ -394,9 +394,9 @@
 [Cloud and Aerith return to the Station...]
 
 <stage>Tifa enters Cloud's room.</stage>
-<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Cloud... </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>... </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What's wrong? </sp>
-<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>......<boxstart/>I thought about what I was going to say, but, it's kinda embarrassing...<boxstart/>Hey, Cloud!<boxstart/>Why don't the two of us sneak out of here and spend some time together? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>......<boxstart/>I thought about what I was going to say, but, it's kinda embarrassing...<boxstart/>Hey, <referent name="Cloud">Cloud</referent>!<boxstart/>Why don't the two of us sneak out of here and spend some time together? </sp>
 <stage>She runs around behind him and starts pushing him out of the room.</stage>
 <sp> <boxstart/>Come on, let's go! </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Hey. </sp>
@@ -408,7 +408,7 @@
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Wha? </sp>
 <sp> <speaker name="Man">Man</speaker><boxstart/>Oh, now, it's not hard. Just play it however you want to and the rest of the cast will cover up for you.<boxstart/>Come this way. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>H, hey! </sp>
-<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Sounds like fun. Come on Cloud, let's give it a try. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Sounds like fun. Come on <referent name="Cloud">Cloud</referent>, let's give it a try. </sp>
 <stage>She runs off after the man. Cloud shrugs and follows. The show opens to an empty stage and the narration begins.</stage>
 <sp> <speaker name="Narrator">Narrator</speaker><boxstart/>Long, long ago...<boxstart/>An evil shadow appeared over the peaceful kingdom of Galdia...<boxstart/>Princess Rosa was just kidnapped by the Evil Dragon King, Valvados. What will become of her?<boxstart/>Just then, the legendary hero, Alfred, appears!! </sp>
 <sp> <speaker name="Knight">Knight</speaker><boxstart/>Oh...... You must be the legendary hero...Alfred! </sp>
@@ -436,7 +436,7 @@
     
       <sp> <speaker name="Cloud"/><boxstart/>To the Princess </sp>
       <stage>Cloud goes to Tifa and kisses her hand.</stage>
-      <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Cloud... I mean, Alfred... </sp>
+      <sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>... I mean, Alfred... </sp>
       <sp> <speaker name="EDK">EDK</speaker><boxstart/>Arrggaahhh!! Curses......The power of...love!! </sp>
       <sp> <speaker name="King">King</speaker><boxstart/>Oh...look! Love has...triumphed!<boxstart/>Now let's all return... And celebrate. </sp>
       <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>Yes let's...yes let's...! </sp>
@@ -459,7 +459,7 @@
     
       <sp> <speaker name="Cloud"/><boxstart/>To home </sp>
       <sp> <speaker name="King">King</speaker><boxstart/>Come on! No more! </sp>
-      <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Cloud!! Be serious!! You really don't want to be in the play that much!?<boxstart/>Now I'm mad! </sp>
+      <sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>!! Be serious!! You really don't want to be in the play that much!?<boxstart/>Now I'm mad! </sp>
       She slaps Cloud and he falls over.
       <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaahh! You dare ignore me!! </sp>
       <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Shut up!! </sp>
@@ -492,7 +492,7 @@
     
       <sp> <speaker name="Cloud"/><boxstart/>The King </sp>
       <sp> <speaker name="King">King</speaker><boxstart/>Come on! No more! </sp>
-      <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Cloud!! Be serious!! You really don't want to be in the play that much!?<boxstart/>Now I'm mad! </sp>
+      <sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>!! Be serious!! You really don't want to be in the play that much!?<boxstart/>Now I'm mad! </sp>
       She slaps Cloud and he falls over.
       <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaahh! You dare ignore me!! </sp>
       <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Shut up!! </sp>
@@ -503,7 +503,7 @@
     
       <sp> <speaker name="Cloud"/><boxstart/>That Knight </sp>
       <sp> <speaker name="King">King</speaker><boxstart/>Come on! No more! </sp>
-      <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Cloud!! Be serious!! You really don't want to be in the play that much!?<boxstart/>Now I'm mad! </sp>
+      <sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>!! Be serious!! You really don't want to be in the play that much!?<boxstart/>Now I'm mad! </sp>
       She slaps Cloud and he falls over.
       <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaahh! You dare ignore me!! </sp>
       <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Shut up!! </sp>
@@ -530,7 +530,7 @@
     
       <sp> <speaker name="Cloud"/><boxstart/>Kiss the Princess </sp>
       <stage>Cloud goes to Tifa and kisses her hand.</stage>
-      <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Cloud... I mean, Alfred... </sp>
+      <sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>... I mean, Alfred... </sp>
       <sp> <speaker name="EDK">EDK</speaker><boxstart/>Arrggaahhh!! Curses......The power of...love!! </sp>
       <sp> <speaker name="King">King</speaker><boxstart/>Oh...look! Love has...triumphed!<boxstart/>Now let's all return... And celebrate. </sp>
       <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>Yes let's...yes let's...! </sp>
@@ -585,7 +585,7 @@
     
       <sp> <speaker name="Cloud"/><boxstart/>The King </sp>
       <sp> <speaker name="King">King</speaker><boxstart/>Come on! No more! </sp>
-      <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Cloud!! Be serious!! You really don't want to be in the play that much!?<boxstart/>Now I'm mad! </sp>
+      <sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>!! Be serious!! You really don't want to be in the play that much!?<boxstart/>Now I'm mad! </sp>
       She slaps Cloud and he falls over.
       <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaahh! You dare ignore me!! </sp>
       <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Shut up!! </sp>
@@ -596,7 +596,7 @@
     
       <sp> <speaker name="Cloud"/><boxstart/>That Knight </sp>
       <sp> <speaker name="King">King</speaker><boxstart/>Come on! No more! </sp>
-      <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Cloud!! Be serious!! You really don't want to be in the play that much!?<boxstart/>Now I'm mad! </sp>
+      <sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>!! Be serious!! You really don't want to be in the play that much!?<boxstart/>Now I'm mad! </sp>
       She slaps Cloud and he falls over.
       <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaahh! You dare ignore me!! </sp>
       <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Shut up!! </sp>
@@ -612,15 +612,15 @@
 <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Two, please. </sp>
 <sp> <speaker name="Woman at Ticket Booth">Woman at Ticket Booth</speaker><boxstart/>Here you are, two tickets.<boxstart/>Enjoy the sights of Gold Saucer. </sp>
 <stage>Cloud and Tifa get on the gondola.</stage>
-<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Oh, how pretty.<boxstart/>Look, Cloud.<boxstart/>Oh, Cloud. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Oh, how pretty.<boxstart/>Look, Cloud.<boxstart/>Oh, <referent name="Cloud">Cloud</referent>. </sp>
 <stage>At length, she turns away from the window.</stage>
 <sp> <boxstart/>...it's really pretty, isn't it?<boxstart/>Ok, I'm going to just go ahead and say it... </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...what? </sp>
-<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Aerith would be able to just come out and say it, probably.<boxstart/>Cloud...?<boxstart/>Sometimes being old friends is hard.<boxstart/>I mean, timing is everything. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Aerith">Aerith</referent> would be able to just come out and say it, probably.<boxstart/><referent name="Cloud">Cloud</referent>...?<boxstart/>Sometimes being old friends is hard.<boxstart/>I mean, timing is everything. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Yeah... </sp>
-<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Cloud...?<boxstart/>I......<boxstart/>........................ </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>...?<boxstart/>I......<boxstart/>........................ </sp>
 <stage>The gondola returns to Round Square, and they get off.</stage>
-<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Cloud I really had fun tonight. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent> I really had fun tonight. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>By the way, What did you want to say a minute ago...? </sp>
 <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>N, nothing!<boxstart/>Nothing... </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>? </sp>
@@ -628,7 +628,7 @@
 [Cloud and Tifa return to the Station...]
 
 <stage>Yuffie enters Cloud's room.</stage>
-<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Cloud you up? </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/><referent name="Cloud">Cloud</referent> you up? </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What's wrong? </sp>
 <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Would you...... keep me company for a bit. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>? Keep you company where? </sp>
@@ -637,13 +637,13 @@
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Hey. </sp>
 <stage>Upon arriving together at the Station...</stage>
 <sp> <speaker name="Man">Man</speaker><boxstart/>Tonight's Enchantment Night! All the attractions are free.<boxstart/>How 'bout it you two? There's going to be an entertaining show in Event Square! </sp>
-<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Cloud, let's go. </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/><referent name="Cloud">Cloud</referent>, let's go. </sp>
 <stage>The two of them head for Event Square, where they are greeted immediately.</stage>
 <sp> <speaker name="Man">Man</speaker><boxstart/>Congratulations!!<boxstart/>You are our 100th couple today!!<boxstart/>You two will be the leads in tonight's show!!!! </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Wha? </sp>
 <sp> <speaker name="Man">Man</speaker><boxstart/>Oh, now, it's not hard. Just play it however you want to and the rest of the cast will cover up for you.<boxstart/>Come this way. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>H, hey! </sp>
-<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>I don't know what it's all about but sounds kind of cool. Wanna try it, Cloud? </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>I don't know what it's all about but sounds kind of cool. Wanna try it, <referent name="Cloud">Cloud</referent>? </sp>
 <stage>She runs off after the man. Cloud shrugs and follows. The show opens to an empty stage and the narration begins.</stage>
 <sp> <speaker name="Narrator">Narrator</speaker><boxstart/>Long, long ago...<boxstart/>An evil shadow appeared over the peaceful kingdom of Galdia...<boxstart/>Princess Rosa was just kidnapped by the Evil Dragon King, Valvados. What will become of her?<boxstart/>Just then, the legendary hero, Alfred, appears!! </sp>
 <sp> <speaker name="Knight">Knight</speaker><boxstart/>Oh...... You must be the legendary hero...Alfred! </sp>
@@ -671,7 +671,7 @@
     
       <sp> <speaker name="Cloud"/><boxstart/>To the Princess </sp>
       <stage>Cloud goes to Yuffie and kisses her hand.</stage>
-      <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Cloud... I mean, Alfred... </sp>
+      <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/><referent name="Cloud">Cloud</referent>... I mean, Alfred... </sp>
       <sp> <speaker name="EDK">EDK</speaker><boxstart/>Arrggaahhh!! Curses......The power of...love!! </sp>
       <sp> <speaker name="King">King</speaker><boxstart/>Oh...look! Love has...triumphed!<boxstart/>Now let's all return... And celebrate. </sp>
       <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>Yes let's...yes let's...! </sp>
@@ -694,7 +694,7 @@
     
       <sp> <speaker name="Cloud"/><boxstart/>To home </sp>
       <sp> <speaker name="King">King</speaker><boxstart/>Come on! No more! </sp>
-      <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Come on, Cloud!! I'm tryin' to be serious here and you...<boxstart/>Ok, now I'm pissed! </sp>
+      <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Come on, <referent name="Cloud">Cloud</referent>!! I'm tryin' to be serious here and you...<boxstart/>Ok, now I'm pissed! </sp>
       She slaps Cloud and he falls over.
       <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaahh! You dare ignore me!! </sp>
       <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Just shut up!! </sp>
@@ -727,7 +727,7 @@
     
       <sp> <speaker name="Cloud"/><boxstart/>The King </sp>
       <sp> <speaker name="King">King</speaker><boxstart/>Come on! No more! </sp>
-      <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Come on, Cloud!! I'm tryin' to be serious here and you...<boxstart/>Ok, now I'm pissed! </sp>
+      <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Come on, <referent name="Cloud">Cloud</referent>!! I'm tryin' to be serious here and you...<boxstart/>Ok, now I'm pissed! </sp>
       She slaps Cloud and he falls over.
       <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaahh! You dare ignore me!! </sp>
       <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Just shut up!! </sp>
@@ -738,7 +738,7 @@
     
       <sp> <speaker name="Cloud"/><boxstart/>That Knight </sp>
       <sp> <speaker name="King">King</speaker><boxstart/>Come on! No more! </sp>
-      <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Come on, Cloud!! I'm tryin' to be serious here and you...<boxstart/>Ok, now I'm pissed! </sp>
+      <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Come on, <referent name="Cloud">Cloud</referent>!! I'm tryin' to be serious here and you...<boxstart/>Ok, now I'm pissed! </sp>
       She slaps Cloud and he falls over.
       <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaahh! You dare ignore me!! </sp>
       <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Just shut up!! </sp>
@@ -765,7 +765,7 @@
     
       <sp> <speaker name="Cloud"/><boxstart/>Kiss the Princess </sp>
       <stage>Cloud goes to Yuffie and kisses her hand.</stage>
-      <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Cloud... I mean, Alfred... </sp>
+      <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/><referent name="Cloud">Cloud</referent>... I mean, Alfred... </sp>
       <sp> <speaker name="EDK">EDK</speaker><boxstart/>Arrggaahhh!! Curses......The power of...love!! </sp>
       <sp> <speaker name="King">King</speaker><boxstart/>Oh...look! Love has...triumphed!<boxstart/>Now let's all return... And celebrate. </sp>
       <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>Yes let's...yes let's...! </sp>
@@ -821,7 +821,7 @@
     
       <sp> <speaker name="Cloud"/><boxstart/>The King </sp>
       <sp> <speaker name="King">King</speaker><boxstart/>Come on! No more! </sp>
-      <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Come on, Cloud!! I'm tryin' to be serious here and you...<boxstart/>Ok, now I'm pissed! </sp>
+      <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Come on, <referent name="Cloud">Cloud</referent>!! I'm tryin' to be serious here and you...<boxstart/>Ok, now I'm pissed! </sp>
       She slaps Cloud and he falls over.
       <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaahh! You dare ignore me!! </sp>
       <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Just shut up!! </sp>
@@ -832,7 +832,7 @@
     
       <sp> <speaker name="Cloud"/><boxstart/>That Knight </sp>
       <sp> <speaker name="King">King</speaker><boxstart/>Come on! No more! </sp>
-      <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Come on, Cloud!! I'm tryin' to be serious here and you...<boxstart/>Ok, now I'm pissed! </sp>
+      <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Come on, <referent name="Cloud">Cloud</referent>!! I'm tryin' to be serious here and you...<boxstart/>Ok, now I'm pissed! </sp>
       She slaps Cloud and he falls over.
       <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaahh! You dare ignore me!! </sp>
       <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Just shut up!! </sp>
@@ -843,14 +843,14 @@
   
 
 <stage>After the play is over, Cloud and Yuffie return to the Station.</stage>
-<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>I didn't get it. Cloud, let's go on the Gondola next. </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>I didn't get it. <referent name="Cloud">Cloud</referent>, let's go on the Gondola next. </sp>
 <stage>At Round Square, Yuffie walks up to the ticket booth.</stage>
 <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>There will be two of us. </sp>
 <sp> <speaker name="Woman at Ticket Booth">Woman at Ticket Booth</speaker><boxstart/>Here you are, two tickets.<boxstart/>Enjoy the sights of Gold Saucer. </sp>
 <stage>Cloud and Yuffie get on the gondola.</stage>
-<sp> <speaker name="Yuffie">Yuffie</speaker> (sitting backwards to lean out the window)<boxstart/>Wow!<boxstart/>Geez!!<boxstart/>Cloud! </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker> (sitting backwards to lean out the window)<boxstart/>Wow!<boxstart/>Geez!!<boxstart/><referent name="Cloud">Cloud</referent>! </sp>
 <stage>She turns around.</stage>
-<sp> <boxstart/>Cloud......? </sp>
+<sp> <boxstart/><referent name="Cloud">Cloud</referent>......? </sp>
 <stage>She gets up and kisses him on the cheek.</stage>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>............ </sp>
 <sp> <speaker name="Yuffie">Yuffie</speaker> (scratching her head)<boxstart/>I just felt like doing that. </sp>
@@ -867,18 +867,18 @@
 <stage>The gondola returns to Round Square, and they get off.</stage>
 <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>I'll think I'll sleep really well tonight.<boxstart/>Thanks... for coming with me. </sp>
 <stage>Cloud nods.</stage>
-<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>You wanna go back, Cloud? </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>You wanna go back, <referent name="Cloud">Cloud</referent>? </sp>
 [Cloud and Yuffie return to the Station...]
 
 <stage>Barret enters Cloud's room.</stage>
-<sp> <speaker name="Barret">Barret</speaker><boxstart/>Yo, Cloud. You still up? </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Yo, <referent name="Cloud">Cloud</referent>. You still up? </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What's wrong? </sp>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>Uh, I was jes thinkin' of goin' for a walk... </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What, just the two of us? </sp>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>What's wrong with that!? Don't gimme no lip!! I say we go! </sp>
 <stage>He turns to leave. Cloud shrugs and follows him out. Upon arriving together at the Station...</stage>
 <sp> <speaker name="Man">Man</speaker><boxstart/>Tonight's Enchantment Night! All the attractions are free.<boxstart/>How 'bout it you two? There's going to be an entertaining show in Event Square! </sp>
-<sp> <speaker name="Barret">Barret</speaker><boxstart/>Cloud, wanna take a peek? </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/><referent name="Cloud">Cloud</referent>, wanna take a peek? </sp>
 <stage>The two of them head for Event Square, where they are greeted immediately.</stage>
 <sp> <speaker name="Man">Man</speaker><boxstart/>Congratulations!!<boxstart/>You are our 100th couple today...... Oh, wait...... no you're not...... Sorry. </sp>
 <stage>Cloud and Barret return to the Station.</stage>
@@ -893,7 +893,7 @@
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Not having fun? </sp>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>You should've asked one or the other! </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Which would you have asked? </sp>
-<sp> <speaker name="Barret">Barret</speaker><boxstart/>Oh man, there just ain't no choice!<boxstart/>Tifa, Aerith.<boxstart/>Ah, Yuffie? </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Oh man, there just ain't no choice!<boxstart/><referent name="Tifa">Tifa</referent>, <referent name="Aerith">Aerith</referent>.<boxstart/>Ah, <referent name="Yuffie">Yuffie</referent>? </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>(hoo boy) </sp>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>What the hell's that supposed to mean?<boxstart/>Hey, you don't mean... Marlene?<boxstart/>NO WAY! Forget it!<boxstart/>There ain't no way I'm lettin' a wacko like you anywhere near my little Marlene!<boxstart/>She's my baby. My prized possession.<boxstart/>......Marlene.<boxstart/>Wish I could've brought Marlene here. She'd love the fireworks.<boxstart/>Why the hell do I gotta be here with a foo like you...<boxstart/>Shit... the more I think 'bout it the madder I get!<boxstart/>Damn fireworks anyways. </sp>
 <stage>He fires his gun arm.</stage>
@@ -904,54 +904,54 @@
 
 <stage>When Cloud and his date reach the Station, they see Cait Sith there, looking furtive.</stage>
 
-	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Hey? What's Cait Sith doing? </sp>
-	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>That's...... Cait Sith. He seems strange. </sp>
-	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Hey, isn't that Cait Sith? What's he doing? </sp>
-	<sp> <speaker name="Barret">Barret</speaker><boxstart/>...it's Cait Sith. What's he doin' so quietly? </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Hey? What's <referent name="Cait Sith">Cait Sith</referent> doing? </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>That's...... <referent name="Cait Sith">Cait Sith</referent>. He seems strange. </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Hey, isn't that <referent name="Cait Sith">Cait Sith</referent>? What's he doing? </sp>
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>...it's <referent name="Cait Sith">Cait Sith</referent>. What's he doin' so quietly? </sp>
 
 <stage>Cait Sith pulls out the Keystone.</stage>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>!!<boxstart/>Is that the... Keystone?<boxstart/>Hey! Cait Sith! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>!!<boxstart/>Is that the... Keystone?<boxstart/>Hey! <referent name="Cait Sith">Cait Sith</referent>! </sp>
 <stage>Cait jumps and runs. If Cloud attempts to do anything besides give chase, his date will stop him. Trying to buy tickets at Speed Square...</stage>
 
-	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>We've got no time for this! Let's go after Cait Sith! </sp>
-	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>We've got no time to relax. Let's go after Cait Sith! </sp>
-	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Is it all right to relax like that? Aren't we going after Cait Sith? </sp>
-	<sp> <speaker name="Barret">Barret</speaker><boxstart/>What're ya doin'? We're goin' after Cait Sith! </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>We've got no time for this! Let's go after <referent name="Cait Sith">Cait Sith</referent>! </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>We've got no time to relax. Let's go after <referent name="Cait Sith">Cait Sith</referent>! </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Is it all right to relax like that? Aren't we going after <referent name="Cait Sith">Cait Sith</referent>? </sp>
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>What're ya doin'? We're goin' after <referent name="Cait Sith">Cait Sith</referent>! </sp>
 
 <stage>Trying to buy tickets at Round Square...</stage>
 
-	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>We don't have time for this! We've got to go after Cait Sith. </sp>
-	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>There's no time to be riding this. Let's hurry after Cait Sith! </sp>
-	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Can we be wasting time like this? Aren't we going after Cait Sith? </sp>
-	<sp> <speaker name="Barret">Barret</speaker><boxstart/>The hell you doin'!? We gotta go after Cait Sith! </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>We don't have time for this! We've got to go after <referent name="Cait Sith">Cait Sith</referent>. </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>There's no time to be riding this. Let's hurry after <referent name="Cait Sith">Cait Sith</referent>! </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Can we be wasting time like this? Aren't we going after <referent name="Cait Sith">Cait Sith</referent>? </sp>
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>The hell you doin'!? We gotta go after <referent name="Cait Sith">Cait Sith</referent>! </sp>
 
 <stage>Trying to make reservations at Ghost Square...</stage>
 
-	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>here's no time for this! We have to go after Cait Sith. </sp>
-	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>There's no time to waste. Let's hurry and go after Cait Sith! </sp>
-	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Should we be wasting time like this? Aren't we going after Cait Sith? </sp>
-	<sp> <speaker name="Barret">Barret</speaker><boxstart/>The hell're you doin'!? We're goin' after Cait Sith! </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>here's no time for this! We have to go after <referent name="Cait Sith">Cait Sith</referent>. </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>There's no time to waste. Let's hurry and go after <referent name="Cait Sith">Cait Sith</referent>! </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Should we be wasting time like this? Aren't we going after <referent name="Cait Sith">Cait Sith</referent>? </sp>
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>The hell're you doin'!? We're goin' after <referent name="Cait Sith">Cait Sith</referent>! </sp>
 
 <stage>Trying to register at Battle Square...</stage>
 
-	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>We don't have time for that!? Let's hurry and go after Cait Sith! </sp>
-	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>There's no time to waste. Let's hurry after Cait Sith! </sp>
-	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Should we be doing that? We've got to go after Cait Sith? </sp>
-	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Whacha doin!? We're goin' after Cait Sith! </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>We don't have time for that!? Let's hurry and go after <referent name="Cait Sith">Cait Sith</referent>! </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>There's no time to waste. Let's hurry after <referent name="Cait Sith">Cait Sith</referent>! </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Should we be doing that? We've got to go after <referent name="Cait Sith">Cait Sith</referent>? </sp>
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Whacha doin!? We're goin' after <referent name="Cait Sith">Cait Sith</referent>! </sp>
 
 <stage>Trying to enter the game area at Wonder Square...</stage>
 
-	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>There's no time for that!! Let's hurry and go after Cait Sith! </sp>
-	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>We got no time to relax. Let's hurry and go after Cait Sith! </sp>
-	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>You got time to fool around like that? Aren't you goin' after Cait Sith? </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>There's no time for that!! Let's hurry and go after <referent name="Cait Sith">Cait Sith</referent>! </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>We got no time to relax. Let's hurry and go after <referent name="Cait Sith">Cait Sith</referent>! </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>You got time to fool around like that? Aren't you goin' after <referent name="Cait Sith">Cait Sith</referent>? </sp>
 	<sp> <speaker name="Barret">Barret</speaker><boxstart/>What the hell are you doing!? We gotta go after that damn cat! </sp>
 
 <stage>Trying to board the Ropeway...</stage>
 
-	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>There's no time for this, right!? Let's hurry after Cait Sith! </sp>
-	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>There's no time to relax. Let's hurry after Cait Sith! </sp>
-	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Should we be this laid back? Aren't we going after Cait Sith? </sp>
-	<sp> <speaker name="Barret">Barret</speaker><boxstart/>What the hell are you doing! Let's get Cait Sith! </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>There's no time for this, right!? Let's hurry after <referent name="Cait Sith">Cait Sith</referent>! </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>There's no time to relax. Let's hurry after <referent name="Cait Sith">Cait Sith</referent>! </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Should we be this laid back? Aren't we going after <referent name="Cait Sith">Cait Sith</referent>? </sp>
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>What the hell are you doing! Let's get <referent name="Cait Sith">Cait Sith</referent>! </sp>
 
 <stage>Cloud and his date chase after Cait Sith. Eventually they wind up at Chocobo Square.</stage>
 <sp> <speaker name="Lady at Entrance">Lady at Entrance</speaker><boxstart/>Sir, we can't have you doing that! </sp>
@@ -991,24 +991,24 @@
 
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>He'll never tell the truth. Once a spy, always a spy.<boxstart/>We can't go on with someone like that. C'mon get real!! </sp>
 <sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>...just as I thought. Talking won't make a bit of difference.<boxstart/>But I prepared something in case this happened.<boxstart/>Why don't you listen to this? </sp>
-<sp> <speaker name="unspecified"/><boxstart/><speaker name="Marlene">Marlene</speaker><boxstart/>Papa! Tifa! </sp>
+<sp> <speaker name="unspecified"/><boxstart/><speaker name="Marlene">Marlene</speaker><boxstart/>Papa! <referent name="Tifa">Tifa</referent>! </sp>
 
-	<sp> <speaker name="Cloud"/><boxstart/>If Aerith is Cloud's date...</sp>
+	<sp> <speaker name="Cloud"/><boxstart/>If <referent name="Aerith">Aerith</referent> is <referent name="Cloud">Cloud</referent>'s date...</sp>
 	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Hey! That's Marlene! </sp>
 	<sp> <speaker name="Marlene">Marlene</speaker><boxstart/>Hey! It's the flower lady! Flower lady... </sp>
 
 
-	<sp> <speaker name="Cloud"/><boxstart/>If Tifa is Cloud's date...</sp>
+	<sp> <speaker name="Cloud"/><boxstart/>If <referent name="Tifa">Tifa</referent> is <referent name="Cloud">Cloud</referent>'s date...</sp>
 	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Marlene! </sp>
-	<sp> <speaker name="Marlene">Marlene</speaker><boxstart/>Hey! It's Tifa! Tifa! Help, I'm- </sp>
+	<sp> <speaker name="Marlene">Marlene</speaker><boxstart/>Hey! It's Tifa! <referent name="Tifa">Tifa</referent>! Help, I'm- </sp>
 
 
-	<sp> <speaker name="Cloud"/><boxstart/>If Yuffie is Cloud's date...</sp>
+	<sp> <speaker name="Cloud"/><boxstart/>If <referent name="Yuffie">Yuffie</referent> is <referent name="Cloud">Cloud</referent>'s date...</sp>
 	<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...Marlene? </sp>
-	<sp> <speaker name="Marlene">Marlene</speaker><boxstart/>Hey! It's Cloud! </sp>
+	<sp> <speaker name="Marlene">Marlene</speaker><boxstart/>Hey! It's <referent name="Cloud">Cloud</referent>! </sp>
 
 
-	<sp> <speaker name="Cloud"/><boxstart/>If Barret is Cloud's date...</sp>
+	<sp> <speaker name="Cloud"/><boxstart/>If <referent name="Barret">Barret</referent> is <referent name="Cloud">Cloud</referent>'s date...</sp>
 	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Ma......Marlene!? </sp>
 	<sp> <speaker name="Marlene">Marlene</speaker><boxstart/>Hey! It's Dad! Dad! It's me, Marlene! </sp>
 
@@ -1016,11 +1016,11 @@
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...you're the lowest... </sp>
 <sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>I didn't want to do this... using dirty tricks and taking hostages...<boxstart/>But this is how it is... no compromises. So why don't we continue on as we did? </sp>
 
-	<sp> <speaker name="Cloud"/><boxstart/>If Cloud has learned what the Keystone is for...</sp>
+	<sp> <speaker name="Cloud"/><boxstart/>If <referent name="Cloud">Cloud</referent> has learned what the Keystone is for...</sp>
 	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Tomorrow is the Temple of the Ancients, right? I know where it is so I'll tell you later.<boxstart/>Of course, we'll get there after the Shinra, but you'll have to deal with that. </sp>
 
 
-	<sp> <speaker name="Cloud"/><boxstart/>If Cloud hasn't learned about the Keystone...</sp>
+	<sp> <speaker name="Cloud"/><boxstart/>If <referent name="Cloud">Cloud</referent> hasn't learned about the Keystone...</sp>
 	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Oh, you didn't seem to know this, but...<boxstart/>The Keystone is the key to the Temple of the Ancients. Even so, you're all going, right?<boxstart/>I know where it is, so I'll show you later.<boxstart/>The Shinra have already been there, but I guess you have to deal with that. </sp>
 
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...Well, we're stuck... We'll have to do what he says. </sp>
@@ -1028,15 +1028,15 @@
 	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I wonder if Marlene is all right... I wonder what happened to Mom. </sp>
 	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>......Marlene. </sp>
 	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Uh, yup. </sp>
-	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Sorry, Cloud. </sp>
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Sorry, <referent name="Cloud">Cloud</referent>. </sp>
 
 
 <stage>Cloud and the others spend the night at Gold Saucer. In the morning, they again gather in the lobby. Cloud is the last to arrive.</stage>
-<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>What took you so long, Cloud?<boxstart/>Oh yeah, about the Temple of the Ancients. I think if we take the Tiny Bronco East towards the sea, we should be able to find it.<boxstart/>Well then, shall we get goin'? Who's gonna go? </sp>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>What took you so long, <referent name="Cloud">Cloud</referent>?<boxstart/>Oh yeah, about the Temple of the Ancients. I think if we take the Tiny Bronco East towards the sea, we should be able to find it.<boxstart/>Well then, shall we get goin'? Who's gonna go? </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I want to go! I'm going for sure! </sp>
-<sp> <speaker name="Barret">Barret</speaker><boxstart/>Yo! I'm goin' too, Cloud! Gotta keep movin'!! </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Yo! I'm goin' too, <referent name="Cloud">Cloud</referent>! Gotta keep movin'!! </sp>
 <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>You know...... no, forget it. Let's go. </sp>
-<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>I'm so excited, my tail's starting to tingle. Let's go, Cloud! </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>I'm so excited, my tail's starting to tingle. Let's go, <referent name="Cloud">Cloud</referent>! </sp>
 <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>I'm startin' to get nervous. </sp>
 <sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>The Temple of the Ancients is to the east. Shall we go? </sp>
 <sp> <speaker name="Vincent">Vincent</speaker><boxstart/>The Temple of the Ancients... This might be pretty interesting... </sp>

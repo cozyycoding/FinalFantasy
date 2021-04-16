@@ -47,14 +47,14 @@
 
 
 <stage>At Kalm...</stage>
-<sp> <speaker name="Redhead">Redhead</speaker><boxstart/>Hey, listen to me! I heard the barrier protecting Sephiroth is gone!<boxstart/>But with Rufus dead, the Shinra troops don't know what to do. Heidegger and Scarlet don't have what it takes to lead the troops......<boxstart/>I really thought something was finally going to get done, but everything's the same... not a damn thing's changed! </sp>
+<sp> <speaker name="Redhead">Redhead</speaker><boxstart/>Hey, listen to me! I heard the barrier protecting <referent name="Sephiroth">Sephiroth</referent> is gone!<boxstart/>But with <referent name="Rufus">Rufus</referent> dead, the Shinra troops don't know what to do. Heidegger and Scarlet don't have what it takes to lead the troops......<boxstart/>I really thought something was finally going to get done, but everything's the same... not a damn thing's changed! </sp>
 <sp> <speaker name="Old Man">Old Man</speaker><boxstart/>Ah, youth... You really believe that big meteor filling up the sky's going to fall here?<boxstart/>If Shinra, Inc was our last hope, and they've been beaten by terrorists...... Are we all going to die? </sp>
 <stage>Inside the first house...</stage>
 <sp> <speaker name="Woman">Woman</speaker><boxstart/>Dear, can you believe it!? They say that Shinra's gone under!!<boxstart/>This world is coming to an end all because those terrorists called AVALANCHE stuck their noses in the wrong place! </sp>
 <stage>Inside the second house...</stage>
-<sp> <speaker name="Old Man">Old Man</speaker><boxstart/>If something ever happened to President Rufus, That'd be the end of Shinra, Inc...... and the rest of the world, too. </sp>
+<sp> <speaker name="Old Man">Old Man</speaker><boxstart/>If something ever happened to President <referent name="Rufus">Rufus</referent>, That'd be the end of Shinra, Inc...... and the rest of the world, too. </sp>
 <stage>Back outside...</stage>
-<sp> <speaker name="Man">Man</speaker><boxstart/>The North Crater barrier's been demolished?<boxstart/>So now's the time to defeat Sephiroth. </sp>
+<sp> <speaker name="Man">Man</speaker><boxstart/>The North Crater barrier's been demolished?<boxstart/>So now's the time to defeat <referent name="Sephiroth">Sephiroth</referent>. </sp>
 <stage>In the bar...</stage>
 <sp> <speaker name="Barkeeper">Barkeeper</speaker><boxstart/>They say the remaining members of AVALANCHE broke Shinra's resistance and destroyed the Mako cannon at Midgar.<boxstart/>What's going to happen to the world...? </sp>
 <sp> <speaker name="Person in Blue">Person in Blue</speaker><boxstart/>I heard the remaining members of AVALANCHE smashed the Shinra troops at Midgar.<boxstart/>Lately, there's been a number of scary incidents. I hate it. Just hate it! </sp>
@@ -81,6 +81,6 @@
 <sp> <speaker name="Old Man Upstairs">Old Man Upstairs</speaker><boxstart/>Ok then, it's a done deal!<boxstart/>It's a 3-piece Master Materia set... and it's all yours!<boxstart/>I guess it's time to go on a journey for the souls of my departed friends......<stage>He walks out of the room.</sp>
 
 <stage>In Upper Junon...</stage>
-<sp> <speaker name="Soldier on the Path to the Airport">Soldier on the Path to the Airport</speaker><boxstart/>I finally got orders to join the Great Sephiroth Plan. I even get to go on the Gelnika too...<boxstart/>But, I'm just gonna ignore them. I wanna live to see the end of the world.<boxstart/>If I'm lucky... There'll be a good place for me in the New World. </sp>
+<sp> <speaker name="Soldier on the Path to the Airport">Soldier on the Path to the Airport</speaker><boxstart/>I finally got orders to join the Great <referent name="Sephiroth">Sephiroth</referent> Plan. I even get to go on the Gelnika too...<boxstart/>But, I'm just gonna ignore them. I wanna live to see the end of the world.<boxstart/>If I'm lucky... There'll be a good place for me in the New World. </sp>
 
 </scene>

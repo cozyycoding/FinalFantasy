@@ -12,7 +12,7 @@
 <stage>Cloud lands in the prison town below Gold Saucer.</stage>
 
 	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>You all right? </sp>
-	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Cloud, you all right? </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>, you all right? </sp>
 	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>Are you all right? </sp>
 	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Hey, you okay? </sp>
 
@@ -22,27 +22,27 @@
 <sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Yup, a natural prison in the middle of the desert... surrounded entirely by quicksand.<boxstart/>I heard that once you get in, you never get out...<boxstart/>But, there was one special exception... </sp>
 <stage>The third party member turns around suddenly to notice Barret a ways off.</stage>
 
-	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Hey!! Barret!! </sp>
-	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Barret!? </sp>
-	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>Mmm!? Isn't that Barret? </sp>
-	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Hey? Isn't that guy, Barret? </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Hey!! <referent name="Barret">Barret</referent>!! </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Barret">Barret</referent>!? </sp>
+	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>Mmm!? Isn't that <referent name="Barret">Barret</referent>? </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Hey? Isn't that guy, <referent name="Barret">Barret</referent>? </sp>
 
 <stage>They all run over to Barret. Near him is a corpse.</stage>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Barret...<boxstart/>Did he really...... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Barret">Barret</referent>...<boxstart/>Did he really...... </sp>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>Stay back! This's something I gotta deal with.<boxstart/>Jes' leave me alone... </sp>
 <stage>He runs off.</stage>
 <sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Whew! That's one of your friends? He sure looks dangerous... </sp>
 
-	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Cloud, what should we do? Barret's not his normal self. </sp>
-	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>...Barret...... </sp>
-	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>Barret... </sp>
-	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Hey, Cloud! Just leave him alone.<boxstart/>I mean, he told us to, didn't he? Then that's that, right? </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/><referent name="Cloud">Cloud</referent>, what should we do? <referent name="Barret">Barret</referent>'s not his normal self. </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>...<referent name="Barret">Barret</referent>...... </sp>
+	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/><referent name="Barret">Barret</referent>... </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Hey, <referent name="Cloud">Cloud</referent>! Just leave him alone.<boxstart/>I mean, he told us to, didn't he? Then that's that, right? </sp>
 
 <stage>Cloud kneels down by the corpse.</stage>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>This one's been shot too... </sp>
 <sp> <speaker name="Man Near Gate">Man Near Gate</speaker><boxstart/>Wo-ho! Welcome to Corel Prison.<boxstart/>Hold---it. If you wanna pass, Then you're gonna need the boss's permission. </sp>
 <stage>If Cloud tries to run out into the desert...</stage>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>We should find Barret before we go out into the desert. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>We should find <referent name="Barret">Barret</referent> before we go out into the desert. </sp>
 <stage>Cloud and the others follow Barret. A man starts following them.</stage>
 <sp> <speaker name="Man Following">Man Following</speaker><boxstart/>Ha ha ha </sp>
 <sp> <speaker name="Man">Man</speaker><boxstart/>I'll tell you one thing, rookie. This desert is extremely dangerous.<boxstart/>It'll welcome you in, but when you try to leave it, it'll swallow ya.<boxstart/>I hear tell, some of them never make it out... the best thing is to stay out of the desert entirely. </sp>
@@ -82,30 +82,30 @@
 <stage>Barret fires, and a man behind the couch collapses.</stage>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>Didn't want none of ya to get involved... </sp>
 <stage>Cloud shrugs, and the others run in.</stage>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Hey that's Cloud's line! '...It's too dangerous, I can't let you get involved...' blah, blah, blah... </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Hey that's <referent name="Cloud">Cloud</referent>'s line! '...It's too dangerous, I can't let you get involved...' blah, blah, blah... </sp>
 <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Yeah. We're already involved in this. </sp>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>We saw you and hurried here. Barret, just tell us what's going on. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>We saw you and hurried here. <referent name="Barret">Barret</referent>, just tell us what's going on. </sp>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>You guys... </sp>
 <sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>I heard that the murders at the Battle Arena were done by a man with a gun-arm. ...Was that you? </sp>
 <stage>Barret shakes his head violently.</stage>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>There's another... another man that got a gun grafted inta one of his arms. It was four years ago... </sp>
-<sp> <speaker name="unspecified"/><boxstart/><stage>Flashback. Barret and Dyne are walking along the train tracks that lead to North Corel.</sp>
+<sp> <speaker name="unspecified"/><boxstart/><stage>Flashback. <referent name="Barret">Barret</referent> and Dyne are walking along the train tracks that lead to North Corel.</sp>
 <sp> <speaker name="Barret">Barret</speaker> (narrating)<boxstart/>I remember... I was on my way home from visiting a Mako Reactor being built. </sp>
-<sp> <speaker name="Village Headman">Village Headman</speaker><boxstart/>Barret! Dyne! Come quick! The village's being attacked! It's Shinra soldiers! </sp>
+<sp> <speaker name="Village Headman">Village Headman</speaker><boxstart/><referent name="Barret">Barret</referent>! Dyne! Come quick! The village's being attacked! It's Shinra soldiers! </sp>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>What!!!? </sp>
 <stage>Barret and Dyne turn to one another and nod. They run to an overlook where they can see the village burning.</stage>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>What the hell happened?...... </sp>
-<sp> <speaker name="Dyne">Dyne</speaker><boxstart/>Hey, Barret! It's not over yet!<boxstart/>Everyone's waiting! Let's go back to the village! </sp>
+<sp> <speaker name="Dyne">Dyne</speaker><boxstart/>Hey, <referent name="Barret">Barret</referent>! It's not over yet!<boxstart/>Everyone's waiting! Let's go back to the village! </sp>
 <stage>They start back towards the village.</stage>
-<sp> <speaker name="Village Headman">Village Headman</speaker><boxstart/>Barret! Dyne! Protect the village...! </sp>
+<sp> <speaker name="Village Headman">Village Headman</speaker><boxstart/><referent name="Barret">Barret</referent>! Dyne! Protect the village...! </sp>
 <stage>Shinra soldiers enter and shoot the village headman.</stage>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>Hmp!! Old man!! </sp>
 <stage>Barret and Dyne make a run for it, and the soldiers start shooting at them.</stage>
-<sp> <speaker name="Dyne">Dyne</speaker><boxstart/>C'mon, Barret! We gotta hurry! </sp>
+<sp> <speaker name="Dyne">Dyne</speaker><boxstart/>C'mon, <referent name="Barret">Barret</referent>! We gotta hurry! </sp>
 <sp> Dyne runs ahead. </sp>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>Krggh!! </sp>
 <sp> Barret runs after him. </sp>
-<sp> <speaker name="Dyne">Dyne</speaker><boxstart/>Barret!! You stay here!! </sp>
+<sp> <speaker name="Dyne">Dyne</speaker><boxstart/><referent name="Barret">Barret</referent>!! You stay here!! </sp>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>Shu'up!! </sp>
 <sp> <speaker name="Scarlet">Scarlet</speaker><boxstart/>Kyaa haa, ha!!<boxstart/>You can shoot all day and never hit them with aim like that. </sp>
 <stage>Scarlet punches one of the soldiers off the bridge, and the others hold their hands up.</stage>
@@ -122,12 +122,12 @@
 <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Yeah, that's right. He was deceived by the Shinra too.<boxstart/>He'll probably join us to fight against the Shinra. </sp>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>...wouldn't bet on it. I gotta 'pologize to Dyne before I can rest in peace.<boxstart/>An' that's why, I gotta go alone. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Do whatever you want... Is that what you want to hear?<boxstart/>Well, I can't let you do it. Because, if you die on me, I'm gonna have nightmares. </sp>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Barret, this isn't the end. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/><referent name="Barret">Barret</referent>, this isn't the end. </sp>
 <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Weren't you going to save the Planet? </sp>
-<sp> <speaker name="Barret">Barret</speaker><boxstart/>Shit! Tifa, you oughtta know by now. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Shit! <referent name="Tifa">Tifa</referent>, you oughtta know by now. </sp>
 <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>...That's all right. I'm not so different from you. </sp>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>That's easier to understand. It's you, Barret. </sp>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>So there it is, Barret. So I guess it'll be Barret, me, and...... </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>That's easier to understand. It's you, <referent name="Barret">Barret</referent>. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>So there it is, Barret. So I guess it'll be <referent name="Barret">Barret</referent>, me, and...... </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I wonder if Dyne will join us? </sp>
 <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Be careful. </sp>
 <sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>Hmm? Shall I go with you? </sp>
@@ -162,7 +162,7 @@
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>I went back into town. I thought she was gone for sure.<boxstart/>That is why I wanted to be by her side till the end.<boxstart/>That's when I found her...... found Marlene. </sp>
 <sp> <speaker name="Dyne">Dyne</speaker><boxstart/>... </sp>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>She's in Midgar. Let's go see her together, all right? </sp>
-<sp> <speaker name="Dyne">Dyne</speaker><boxstart/>So...... she's still alive...<boxstart/>All right, Barret. I guess that means you and I gotta fight. </sp>
+<sp> <speaker name="Dyne">Dyne</speaker><boxstart/>So...... she's still alive...<boxstart/>All right, <referent name="Barret">Barret</referent>. I guess that means you and I gotta fight. </sp>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>What!? </sp>
 <sp> <speaker name="Dyne">Dyne</speaker><boxstart/>Eleanor's alone all by herself. I've got to take Marlene to her. </sp>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>Dyne... are you insane!? </sp>
@@ -171,8 +171,8 @@
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>Stop, Dyne! I can't die yet! </sp>
 <sp> <speaker name="Dyne">Dyne</speaker><boxstart/>Oh yeah? Well my life's been over ever since then. </sp>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>Stop it! I don't wanna fight you! </sp>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Barret! </sp>
-<sp> <speaker name="Barret">Barret</speaker><boxstart/>Cloud, you stay the hell out of it! This is MY problem!! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Barret">Barret</referent>! </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/><referent name="Cloud">Cloud</referent>, you stay the hell out of it! This is MY problem!! </sp>
 <stage>Barret fights and defeats Dyne, who falls to his knees.</stage>
 <sp> <speaker name="Dyne">Dyne</speaker><boxstart/>Urgh! </sp>
 <stage>He starts to get back up.</stage>
@@ -182,15 +182,15 @@
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>Dyne... I don't know either, man.<boxstart/>Is this the only way... we can resolve this? </sp>
 <sp> <speaker name="Dyne">Dyne</speaker><boxstart/>I told you... I... I want to destroy everything...<boxstart/>Everything... This crazy world... Even me... </sp>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>An' what 'bout Marlene? What's gonna happen to her!? </sp>
-<sp> <speaker name="Dyne">Dyne</speaker><boxstart/>...Think about it... Barret... How old was Marlene back then...?<boxstart/>Even if I did go to her now... she wouldn't even know me...<boxstart/>And what's more... Barret...<boxstart/>These hands are a little too stained to carry Marlene anymore... </sp>
+<sp> <speaker name="Dyne">Dyne</speaker><boxstart/>...Think about it... Barret... How old was Marlene back then...?<boxstart/>Even if I did go to her now... she wouldn't even know me...<boxstart/>And what's more... <referent name="Barret">Barret</referent>...<boxstart/>These hands are a little too stained to carry Marlene anymore... </sp>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>...... </sp>
-<sp> <speaker name="Dyne">Dyne</speaker><boxstart/>Barret... </sp>
+<sp> <speaker name="Dyne">Dyne</speaker><boxstart/><referent name="Barret">Barret</referent>... </sp>
 <stage>He pulls a necklace off and tosses it to Barret.</stage>
 <sp> <boxstart/>Give that pendant to Marlene... It was... Eleanor's... my wife's... memento... </sp>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>All right... </sp>
 <sp> <speaker name="Dyne">Dyne</speaker><boxstart/>...wow... Marlene's... already...... 4...... </sp>
 <stage>He limps to the edge of the ravine.</stage>
-<sp> <boxstart/>Barret... Don't...... make... ......Don't ever make Marlene...... cry... </sp>
+<sp> <boxstart/><referent name="Barret">Barret</referent>... Don't...... make... ......Don't ever make Marlene...... cry... </sp>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>Dyne...?<boxstart/>Dyne! </sp>
 <stage>Dyne lets himself fall backwards over the edge as Barret runs towards him.</stage>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>Dy------ne!! </sp>
@@ -214,13 +214,13 @@
 <sp> <speaker name="Mr. Coates">Mr. Coates</speaker><boxstart/>Huh? Oh man, you guys are mistaken.<boxstart/>I already told you, there's only one way to get outta here.<boxstart/>That's to win the Chocobo Race and that's held up there, in the Gold Saucer.<boxstart/>And, only one racer can go up at a time. </sp>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>Say what!? </sp>
 <sp> <speaker name="Mr. Coates">Mr. Coates</speaker><boxstart/>Noooo! Really, even if you threaten me!!<boxstart/>A rule's a rule. I can't change it.<boxstart/>If I do, the whole system down here'll get messed up!! An' I can't do that!<boxstart/>Okay, ok, I'll let one go up there. After that, he's gotta deal with Dio. </sp>
-<sp> <speaker name="Barret">Barret</speaker><boxstart/>Awright then.<boxstart/>Cloud, you go.<boxstart/>We'll wait down here.<boxstart/>Hurry up an' win that Chocobo Race, an' get us outta here! </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Awright then.<boxstart/><referent name="Cloud">Cloud</referent>, you go.<boxstart/>We'll wait down here.<boxstart/>Hurry up an' win that Chocobo Race, an' get us outta here! </sp>
 
-	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Yes, good luck, Cloud. </sp>
-	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Right, Cloud. We'll be waiting and rooting for you. </sp>
-	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>You're right. Cloud should do it. </sp>
-	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Well, Cloud go get 'em! </sp>
-	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Ok Cloud, knock 'em dead! </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Yes, good luck, <referent name="Cloud">Cloud</referent>. </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Right, <referent name="Cloud">Cloud</referent>. We'll be waiting and rooting for you. </sp>
+	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>You're right. <referent name="Cloud">Cloud</referent> should do it. </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Well, <referent name="Cloud">Cloud</referent> go get 'em! </sp>
+	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Ok <referent name="Cloud">Cloud</referent>, knock 'em dead! </sp>
 
 <stage>Cloud shrugs.</stage>
 <sp> <speaker name="Mr. Coates">Mr. Coates</speaker><boxstart/>Have you decided?<boxstart/>All you need now is a manager.<boxstart/>...and register and get a Chocobo... </sp>
@@ -229,8 +229,8 @@
 <stage>A girl walks in, wearing a pink dress and a chocobo feather in her hair.</stage>
 <sp> <speaker name="Ester">Ester</speaker><boxstart/>I'll be your manager. </sp>
 <sp> <speaker name="Mr. Coates">Mr. Coates</speaker><boxstart/>Well, I have nothing against it, but...<boxstart/>This is Ester. She may look kinda funny...<boxstart/>But there's no better manager in the races... </sp>
-<sp> <speaker name="Ester">Ester</speaker><boxstart/>That's so rude...<boxstart/>Yeah, well. Nice to meet you, Cloud. </sp>
-<sp> <speaker name="Mr. Coates">Mr. Coates</speaker><boxstart/>All right then, Cloud.<boxstart/>I'll send you up the elevator. Ester'll fill you in on the details. </sp>
+<sp> <speaker name="Ester">Ester</speaker><boxstart/>That's so rude...<boxstart/>Yeah, well. Nice to meet you, <referent name="Cloud">Cloud</referent>. </sp>
+<sp> <speaker name="Mr. Coates">Mr. Coates</speaker><boxstart/>All right then, <referent name="Cloud">Cloud</referent>.<boxstart/>I'll send you up the elevator. Ester'll fill you in on the details. </sp>
 <stage>On the elevator...</stage>
 <sp> <speaker name="Ester">Ester</speaker><boxstart/>Hmm, so that's what happened. I'll talk to Dio directly. You just concentrate on the race.<boxstart/>Oh yeah, getting back to the other thing, there are many different types of Chocobo jockeys. It's not only for criminals.<boxstart/>Some people compete for the fame, some people compete for the money, some for glory... And then there're people like you.<boxstart/>Oh yeah, I'll teach you how to ride a Chocobo. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- All right<boxstart/>- Not interested </sp>
@@ -239,20 +239,20 @@
 <sp> <speaker name="Man">Man</speaker><boxstart/>You new? </sp>
 <sp> <speaker name="Ester">Ester</speaker><boxstart/>Hi, Joe. </sp>
 <sp> <speaker name="Joe">Joe</speaker><boxstart/>Hey, Ester you're looking pretty as usual. </sp>
-<sp> <speaker name="Ester">Ester</speaker><boxstart/>Thanks.<boxstart/>Let me introduce you, Cloud.<boxstart/>This is Joe, one of the top Chocobo Jockeys. </sp>
-<sp> <speaker name="Joe">Joe</speaker><boxstart/>Nice to meet you, Cloud.<boxstart/>If you're with Ester, then... </sp>
+<sp> <speaker name="Ester">Ester</speaker><boxstart/>Thanks.<boxstart/>Let me introduce you, <referent name="Cloud">Cloud</referent>.<boxstart/>This is Joe, one of the top Chocobo Jockeys. </sp>
+<sp> <speaker name="Joe">Joe</speaker><boxstart/>Nice to meet you, <referent name="Cloud">Cloud</referent>.<boxstart/>If you're with Ester, then... </sp>
 <sp> <speaker name="Ester">Ester</speaker><boxstart/>Right! He's an up and coming jockey.<boxstart/>He's only been down here for a day and already he made it up here!! </sp>
-<sp> <speaker name="Joe">Joe</speaker><boxstart/>What!?<boxstart/>Oh, I see...<boxstart/>So what did you do down there?<boxstart/>Sorry... you're not supposed to ask about the past here...<boxstart/>Pretty interesting... I have a feeling that we'll meet again.<boxstart/>Then, until we meet again, Cloud. </sp>
+<sp> <speaker name="Joe">Joe</speaker><boxstart/>What!?<boxstart/>Oh, I see...<boxstart/>So what did you do down there?<boxstart/>Sorry... you're not supposed to ask about the past here...<boxstart/>Pretty interesting... I have a feeling that we'll meet again.<boxstart/>Then, until we meet again, <referent name="Cloud">Cloud</referent>. </sp>
 <stage>He leaves the room.</stage>
 <sp> <speaker name="Ester">Ester</speaker><boxstart/>I'm going to check on the Chocobo. You just wait here for a while.<boxstart/>I'll be right back. </sp>
 <sp> <speaker name="Jockeys">Jockeys</speaker><boxstart/>......<boxstart/>I got nothing to say.<boxstart/>......<boxstart/>Don't get cocky. Skills don't matter once you get in the race... </sp>
 <sp> <speaker name="unspecified"/><boxstart/>The race will start in a few moments. Will the jockeys for the next race, please proceed to the paddock.<boxstart/>I repeat... </sp>
 <stage>All the jockeys leave, but Cloud stays behind. Eventually Ester returns.</stage>
-<sp> <speaker name="Ester">Ester</speaker><boxstart/>Cloud<boxstart/>Thanks for waiting. I registered you in the next race.<boxstart/>This is a Chocobo I prepared myself. He won't lose easily.<boxstart/>Oh yeah... You know how to ride one? </sp>
+<sp> <speaker name="Ester">Ester</speaker><boxstart/><referent name="Cloud">Cloud</referent><boxstart/>Thanks for waiting. I registered you in the next race.<boxstart/>This is a Chocobo I prepared myself. He won't lose easily.<boxstart/>Oh yeah... You know how to ride one? </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Uh, how was it again?<boxstart/>- Yeah, I got it </sp>
 <sp> <speaker name="Ester">Ester</speaker><boxstart/>Then, good luck. </sp>
 
-	<sp> <speaker name="Cloud"/><boxstart/>If Cloud loses the race...</sp>
+	<sp> <speaker name="Cloud"/><boxstart/>If <referent name="Cloud">Cloud</referent> loses the race...</sp>
 	<sp> <speaker name="Ester">Ester</speaker><boxstart/>Too bad. </sp>
 	If Cloud comes in 4th place or worse:
 	You had a tough situation there.
@@ -261,15 +261,15 @@
 	If Cloud comes in 2nd place:
 	You were so close.
 	
-		<sp> <speaker name="Cloud"/><boxstart/>If it is Cloud's 1st or 2nd loss...</sp>
+		<sp> <speaker name="Cloud"/><boxstart/>If it is <referent name="Cloud">Cloud</referent>'s 1st or 2nd loss...</sp>
 		<sp> <speaker name="Ester">Ester</speaker><boxstart/>Let me find a better Chocobo for you. Wait here for a while, OK? </sp>
 	
 	
-		<sp> <speaker name="Cloud"/><boxstart/>If Cloud has lost 3 times...</sp>
+		<sp> <speaker name="Cloud"/><boxstart/>If <referent name="Cloud">Cloud</referent> has lost 3 times...</sp>
 		<sp> <speaker name="Ester">Ester</speaker><boxstart/>If you couldn't win with that last Chocobo...<boxstart/>All right, I'll go get the best Chocobo there is! </sp>
 	
 	
-		<sp> <speaker name="Cloud"/><boxstart/>If Cloud has lost 4 or more times...</sp>
+		<sp> <speaker name="Cloud"/><boxstart/>If <referent name="Cloud">Cloud</referent> has lost 4 or more times...</sp>
 		<sp> <speaker name="Ester">Ester</speaker><boxstart/>You gotta be kidding me!? There aren't any other Chocobos better than the last one!<boxstart/>Well, if you really want to win, just push the 'SELECT'<boxstart/>and try the 'AUTO' mode. </sp>
 	
 
@@ -278,8 +278,8 @@
 <sp> <speaker name="Dio">Dio</speaker><boxstart/>Boy, if you're reading this letter, then you must've won. And won a victory that I am sure you earned.<boxstart/>I heard about Dyne from Ester. Now that you are victorious, I promise that you and all your friends will get a full pardon, and you all will be set free.<boxstart/>And also, by way of apology, I prepared a little gift for you to use on your journey.<boxstart/>Sorry I couldn't be there to tell you this in person, but I'm a very busy man.<boxstart/>Sincerely, Dio </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>A gift? </sp>
 <stage>His PHS rings, and he answers it.</stage>
-<sp> <speaker name="unspecified"/><boxstart/><speaker name="Aerith">Aerith</speaker><boxstart/>Cloud, isn't this great!? The assistant manager just stopped by and dropped off a 'buggy' for you!<boxstart/>Now you can go over 'deserts' and 'rivers' no problem.<boxstart/>OK, Cloud. I'll be waiting outside. </sp>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>(Hmm? The letter continues...)<boxstart/>P.S. I just recently met Sephiroth. He must have a lot of fans with boys your age.<boxstart/>Why don't you get his autograph? It seems he's headed toward the South of the river, towards Gongaga.<boxstart/>Sephiroth... </sp>
+<sp> <speaker name="unspecified"/><boxstart/><speaker name="Aerith"><referent name="Aerith">Aerith</referent></speaker><boxstart/>Cloud, isn't this great!? The assistant manager just stopped by and dropped off a 'buggy' for you!<boxstart/>Now you can go over 'deserts' and 'rivers' no problem.<boxstart/>OK, <referent name="Cloud">Cloud</referent>. I'll be waiting outside. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>(Hmm? The letter continues...)<boxstart/>P.S. I just recently met Sephiroth. He must have a lot of fans with boys your age.<boxstart/>Why don't you get his autograph? It seems he's headed toward the South of the river, towards Gongaga.<boxstart/><referent name="Sephiroth">Sephiroth</referent>... </sp>
 <sp> <speaker name="Ester">Ester</speaker><boxstart/>I guess this is goodbye.<boxstart/>Yeah. Well, if you ever get your own Race Chocobo, come back again.<boxstart/>I'll take care of your registration and everything. I'll see you again. </sp>
 <stage>Cloud and the others leave via their new buggy, headed South towards Gongaga.</stage>
 

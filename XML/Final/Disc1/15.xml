@@ -12,7 +12,7 @@
 <sp> <speaker name="Old Man">Old Man</speaker><boxstart/>Whew!!<boxstart/>Hey!<boxstart/>You're actually talking to me. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What is it? </sp>
 <sp> <speaker name="Old Man">Old Man</speaker><boxstart/>I just passed a guy in a black cloak back there.<boxstart/>I just tried to tell him that it's dangerous up ahead, and he ignored me! </sp>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Sephiroth... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Sephiroth">Sephiroth</referent>... </sp>
 
 	<sp> <speaker name="Barret">Barret</speaker><boxstart/>............ahh. </sp>
 	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>There was a black-cloaked guy here, too? </sp>
@@ -23,23 +23,23 @@
 <sp> <speaker name="Old Man">Old Man</speaker><boxstart/>It's dangerous up ahead. Be careful on your way.<boxstart/>If any strangers should greet you warmly while traveling, make sure to greet them back.<boxstart/>Whew! I guess that's the fun of being on the road. </sp>
 <stage>Cloud and his party continue up Mt. Corel and on past the Mako reactor. They follow the train tracks through the mountains and find the others gathered near a raised bridge.</stage>
 
-	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Cloud!!<boxstart/>I was just wishing you were here!<boxstart/>Unless someone lets down the bridge, we're stuck.<boxstart/>Cloud should be able to do something.<boxstart/>But let's take a breather first. </sp>
-	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>OH!! Cloud! That's it!<boxstart/>We can't go on until the bridge is let down.<boxstart/>I think there's a switch in that shack over there...<boxstart/>But there's too many monsters around and I'm beat... </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Cloud!!<boxstart/>I was just wishing you were here!<boxstart/>Unless someone lets down the bridge, we're stuck.<boxstart/><referent name="Cloud">Cloud</referent> should be able to do something.<boxstart/>But let's take a breather first. </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>OH!! <referent name="Cloud">Cloud</referent>! That's it!<boxstart/>We can't go on until the bridge is let down.<boxstart/>I think there's a switch in that shack over there...<boxstart/>But there's too many monsters around and I'm beat... </sp>
 	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>Wha? Oh, it's you.<boxstart/>There seems to be an instrument in that hut that manipulates this bridge.<boxstart/>Perhaps it's best if we rest a moment. </sp>
 
 <stage>An arrow appears, pointing to the shack and proclaiming, "The shack is here!! (^^);"</stage>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Come on, Cloud. Let's rest a minute. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Come on, <referent name="Cloud">Cloud</referent>. Let's rest a minute. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Ok, then...<boxstart/>- PHS<boxstart/>- Let's move on! </sp>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>......whew! </sp>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I'm sure glad I'm with you, Cloud! </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I'm sure glad I'm with you, <referent name="Cloud">Cloud</referent>! </sp>
 <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>I'm beat... </sp>
 <sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>What...? </sp>
 <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>I'm pooped! </sp>
 <stage>Cloud heads for the shack. If Aerith or Tifa are not in the party, they start jumping up and down as Cloud passes on the track above.</stage>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Oh, Cloud!! Good Luck!! </sp>
-<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Cloud!! Go Cloud!! Go!! </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Oh, <referent name="Cloud">Cloud</referent>!! Good Luck!! </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Cloud!! Go <referent name="Cloud">Cloud</referent>!! Go!! </sp>
 <stage>Further down, Cloud enters the tiny shack.</stage>
-<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>OW!! Sure is tight in here...<boxstart/>Come on, Cloud, don't let it get to you. Let's see... this is it.<boxstart/>Maybe if I turn this...<boxstart/>...something should happen.<boxstart/>- Do it<boxstart/>- Leave it </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>OW!! Sure is tight in here...<boxstart/>Come on, <referent name="Cloud">Cloud</referent>, don't let it get to you. Let's see... this is it.<boxstart/>Maybe if I turn this...<boxstart/>...something should happen.<boxstart/>- Do it<boxstart/>- Leave it </sp>
 <stage>Cloud turns the switch, and the others run across the bridge to go on ahead. Climbing up from near the shack, the party finds a bird's nest full of Phoenix Down.</stage>
 
 	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Haaeyy! </sp>
@@ -54,8 +54,8 @@
   Times are tough... I'm taking the treasure.
   
 	  <sp> <speaker name="Barret">Barret</speaker><boxstart/>Haeey!! Baaeby!! </sp>
-	  <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Cloud...... </sp>
-	  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Oh! Cloud! Your hair looks like a Chocobo! </sp>
+	  <sp> <speaker name="Aerith">Aerith</speaker><boxstart/><referent name="Cloud">Cloud</referent>...... </sp>
+	  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Oh! <referent name="Cloud">Cloud</referent>! Your hair looks like a Chocobo! </sp>
 	  <sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>Glu... glug...! </sp>
 	  <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Come to mommy!! </sp>
   
@@ -67,7 +67,7 @@
   ...it's got nothing to do with us. Just forget about it.
   
 	  <sp> <speaker name="Barret">Barret</speaker><boxstart/>Haeey!! Baaeby!! </sp>
-	  <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Cloud...... </sp>
+	  <sp> <speaker name="Aerith">Aerith</speaker><boxstart/><referent name="Cloud">Cloud</referent>...... </sp>
 	  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Right! That was admirable of you. </sp>
 	  <sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>Glu... glug...! </sp>
 	  <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>You kiddin'? </sp>
@@ -77,15 +77,15 @@
 <sp> <speaker name="Man">Man</speaker><boxstart/>Hey! How'd you ever wind up around here?<boxstart/>Look, I'm sorry but, I can't do a thing for you!<boxstart/>Oh boy!! Corel sure has gone to pot. It used to be a famous coal mining town!<boxstart/>They say there were more jobs than you could shake a...<boxstart/>Well, you get the picture!<boxstart/>Now, it's nothing but a miserable pit! Me, my bulldozer... everything's out of work.<boxstart/>Got no job... I can't even show my face. 'Bout all that's left for me is to just live in this hole all day. </sp>
 <stage>The train tracks eventually dead-end into the camp of North Corel.</stage>
 
-  <sp> <speaker name="Cloud"/><boxstart/>If Barret is in the party...</sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If <referent name="Barret">Barret</referent> is in the party...</sp>
   <sp> <speaker name="Man">Man</speaker><boxstart/>You, you're...<boxstart/>Hey!! He's back! </sp>
   He runs off.
   <sp> <speaker name="Barret">Barret</speaker><boxstart/>Wait here... </sp>
   <stage>Barret walks over to where a trio of men have gathered. One of them punches him.</stage>
-  <sp> <speaker name="Men">Men</speaker><boxstart/>Well, lookey here! Never thought I'd ever see your face again.<boxstart/>Those people over there, they with you?<boxstart/>Well, I feel sorry for 'em! Hangin' around a walkin' death sentence like Barret. </sp>
+  <sp> <speaker name="Men">Men</speaker><boxstart/>Well, lookey here! Never thought I'd ever see your face again.<boxstart/>Those people over there, they with you?<boxstart/>Well, I feel sorry for 'em! Hangin' around a walkin' death sentence like <referent name="Barret">Barret</referent>. </sp>
 
 
-  <sp> <speaker name="Cloud"/><boxstart/>If Barret is not in the party...</sp>
+  <sp> <speaker name="Cloud"/><boxstart/>If <referent name="Barret">Barret</referent> is not in the party...</sp>
   <stage>Cloud and the others find him already accosted by the three men. One of them punches him.</stage>
   <sp> <speaker name="Men">Men</speaker><boxstart/>Well, lookey here! Never thought I'd ever see your face again.<boxstart/>They kick you out of another town or somethin'?<boxstart/>You destroy everything you touch. </sp>
 
@@ -125,7 +125,7 @@
   <sp> <speaker name="Man in Hardhat">Man in Hardhat</speaker><boxstart/>I guess I should get a '0' tattoo! For a poor man like me, '0' oughtta be perfect. </sp>
 
 <stage>Cloud the others continue to the ropeway station.</stage>
-<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Barret, what happened? </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/><referent name="Barret">Barret</referent>, what happened? </sp>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>Sorry. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What happened? </sp>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>My hometown used to be around here. </sp>
@@ -161,10 +161,10 @@
   He gets on the ropeway.
   <sp> <speaker name="Barret">Barret</speaker><boxstart/>Dyne was my best friend. We was close ever since we was kids... </sp>
   He follows Cloud.
-  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>I never knew. Barret never said a thing... </sp>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>I never knew. <referent name="Barret">Barret</referent> never said a thing... </sp>
   <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>......... </sp>
   <sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>......... </sp>
-  <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>I'm not sympathizing with Barret! He never should have trusted Shinra, Inc. ... </sp>
+  <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>I'm not sympathizing with <referent name="Barret">Barret</referent>! He never should have trusted Shinra, Inc. ... </sp>
   She gets on, and the others watch her.
   <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>.........<boxstart/>We better go on! </sp>
   <stage>She, Aerith, and Red XIII get on, and the ropeway leaves the station.</stage>
@@ -174,7 +174,7 @@
   <sp> <speaker name="Barret">Barret</speaker><boxstart/>Dyne was my best friend. We was close ever since we was kids... </sp>
   <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>I'm waiting inside. </sp>
   She gets on the ropeway.
-  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>I never knew. Barret never said a thing... </sp>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>I never knew. <referent name="Barret">Barret</referent> never said a thing... </sp>
   <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Everything Shinra does seem to make everyone miserable... </sp>
   <sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>......... </sp>
   <sp> <speaker name="Barret">Barret</speaker><boxstart/>It's all my fault... </sp>
