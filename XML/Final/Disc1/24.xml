@@ -222,9 +222,9 @@
     
       <sp> <speaker name="Cloud"/><boxstart/>To home </sp>
       <sp> <speaker name="King">King</speaker><boxstart/>Come on! No more! </sp>
-      <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Stop it Cloud! What are you doing!?<boxstart/>The play's a disaster! Now I'm getting mad!<stage>She slaps <referent name="Cloud">Cloud</referent> and he falls over.</sp>
+  <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Stop it Cloud! What are you doing!?<boxstart/>The play's a disaster! Now I'm getting mad!</sp><stage>She slaps <referent name="Cloud">Cloud</referent> and he falls over.</stage>
       <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaahh! You dare ignore me!! </sp>
-      <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Why don't you shut up, Blabbermouth!!<stage>She knocks the EDK out, too.</sp>
+  <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Why don't you shut up, Blabbermouth!!</sp><stage>She knocks the EDK out, too.</stage>
       <sp> <speaker name="Narrator">Narrator</speaker><boxstart/>Oh my...... what an unusually strong Princess! And so the new legendary hero Rosa and our story ends happily ever after. </sp>
       [Back to the Station.]
     
@@ -240,7 +240,7 @@
     
       <sp> <speaker name="Cloud"/><boxstart/>The Evil... Dragon... King... </sp>
       <stage>Cloud runs to the EDK and kisses his hand.</stage>
-      <sp> <speaker name="EDK">EDK</speaker><boxstart/>What...<boxstart/>Urrrrrgh<stage>The EDK turns into a black-haired girl.</sp>
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>What...<boxstart/>Urrrrrgh<stage>The EDK turns into a black-haired girl.</stage></sp>
       <sp> <speaker name="Beautiful Girl">Beautiful Girl</speaker><boxstart/>Thank...you. You've released me...from the spell and I am back to my normal self... </sp>
       <sp> <speaker name="King">King</speaker><boxstart/>Oh...look! Love has...triumphed!<boxstart/>Now let's all return... And celebrate. </sp>
       <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>Yes let's...yes let's...! </sp>
@@ -301,7 +301,7 @@
     
       <sp> <speaker name="Cloud"/><boxstart/>Kiss the Evil Dragon King </sp>
       <stage>Cloud runs to the EDK and kisses his hand.</stage>
-      <sp> <speaker name="EDK">EDK</speaker><boxstart/>What...<boxstart/>Urrrrrgh<stage>The EDK turns into a black-haired girl.</sp>
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>What...<boxstart/>Urrrrrgh<stage>The EDK turns into a black-haired girl.</stage></sp>
       <sp> <speaker name="Beautiful Girl">Beautiful Girl</speaker><boxstart/>Thank...you. You've released me...from the spell and I am back to my normal self... </sp>
       <sp> <speaker name="King">King</speaker><boxstart/>Oh...look! Love has...triumphed!<boxstart/>Now let's all return... And celebrate. </sp>
       <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>Yes let's...yes let's...! </sp>
@@ -541,7 +541,7 @@
     
       <sp> <speaker name="Cloud"/><boxstart/>Kiss the Evil Dragon King </sp>
       <stage>Cloud runs to the EDK and kisses his hand.</stage>
-      <sp> <speaker name="EDK">EDK</speaker><boxstart/>What...<boxstart/>Urrrrrgh<stage>The EDK turns into a black-haired girl.</sp>
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>What...<boxstart/>Urrrrrgh<stage>The EDK turns into a black-haired girl.</stage></sp>
       <sp> <speaker name="Beautiful Girl">Beautiful Girl</speaker><boxstart/>Thank...you. You've released me...from the spell and I am back to my normal self... </sp>
       <sp> <speaker name="King">King</speaker><boxstart/>Oh...look! Love has...triumphed!<boxstart/>Now let's all return... And celebrate. </sp>
       <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>Yes let's...yes let's...! </sp>
@@ -573,7 +573,7 @@
     
       <sp> <speaker name="Cloud"/><boxstart/>The Evil... Dragon... King... </sp>
       <stage>Cloud runs to the EDK and kisses his hand.</stage>
-      <sp> <speaker name="EDK">EDK</speaker><boxstart/>What...<boxstart/>Urrrrrgh<stage>The EDK turns into a black-haired girl.</sp>
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>What...<boxstart/>Urrrrrgh<stage>The EDK turns into a black-haired girl.</stage></sp>
       <sp> <speaker name="Beautiful Girl">Beautiful Girl</speaker><boxstart/>Thank...you. You've released me...from the spell and I am back to my normal self... </sp>
       <sp> <speaker name="King">King</speaker><boxstart/>Oh...look! Love has...triumphed!<boxstart/>Now let's all return... And celebrate. </sp>
       <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>Yes let's...yes let's...! </sp>
@@ -776,7 +776,7 @@
     
       <sp> <speaker name="Cloud"/><boxstart/>Kiss the Evil Dragon King </sp>
       <stage>Cloud runs to the EDK and kisses his hand.</stage>
-      <sp> <speaker name="EDK">EDK</speaker><boxstart/>What...<boxstart/>Urrrrrgh<stage>The EDK turns into a black-haired girl.</sp>
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>What...<boxstart/>Urrrrrgh<stage>The EDK turns into a black-haired girl.</stage></sp>
       <sp> <speaker name="Beautiful Girl">Beautiful Girl</speaker><boxstart/>Thank...you. You've released me...from the spell and I am back to my normal self... </sp>
       <sp> <speaker name="King">King</speaker><boxstart/>Oh...look! Love has...triumphed!<boxstart/>Now let's all return... And celebrate. </sp>
       <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>Yes let's...yes let's...! </sp>

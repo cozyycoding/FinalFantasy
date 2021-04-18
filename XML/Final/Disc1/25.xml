@@ -79,7 +79,7 @@
 <sp> <boxstart/>What?<boxstart/>What is it? </sp>
 <stage>She gets back to her feet.</stage>
 <sp> <boxstart/>...Danger? An evil... consciousness?<boxstart/>...show? You're going to show me? </sp>
-<sp> <speaker name="unspecified"/><boxstart/><stage>The scene changes to another room where <referent name="Tseng">Tseng</referent> is observing a mural. <referent name="Cloud">Cloud</referent> and the others stand translucent in the foreground.</sp>
+<stage>The scene changes to another room where <referent name="Tseng">Tseng</referent> is observing a mural. <referent name="Cloud">Cloud</referent> and the others stand translucent in the foreground.</stage>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...What's going on? </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Wait! Look! It's showing us! </sp>
 <sp> <speaker name="Elena">Elena</speaker><boxstart/><referent name="Tseng">Tseng</referent>, what's this? Can we find the Promised Land with this? </sp>
@@ -87,7 +87,7 @@
 <sp> <speaker name="Elena">Elena</speaker><boxstart/>Be careful, <referent name="Tseng">Tseng</referent>. </sp>
 <sp> <speaker name="Tseng">Tseng</speaker><boxstart/>Yeah...<boxstart/>Hey <referent name="Elena">Elena</referent>, how 'bout dinner after this job's over? </sp>
 <sp> <speaker name="Elena">Elena</speaker><boxstart/>Th... Thank you very much.<boxstart/>If I may be excused... </sp>
-<sp> She runs off, leaving Tseng alone. </sp>
+<stage> She runs off, leaving Tseng alone. </stage>
 <sp> <speaker name="Tseng">Tseng</speaker><boxstart/>Is this the Promised Land? No, it can't be... </sp>
 <stage>Sephiroth appears in the foreground with Cloud and the others. He seems to look at them, then solidifies in the mural room with Tseng.</stage>
 <sp> <speaker name="Tseng">Tseng</speaker><boxstart/><referent name="Sephiroth">Sephiroth</referent>!! </sp>
@@ -156,7 +156,7 @@
 <sp> In the fourth, they stand near a low table with two jar-like objects on it.<boxstart/> </sp>
 <sp> In the fifth, a woman holds the Black Materia while Meteor falls from the sky.<boxstart/> </sp>
 <sp> In the sixth, people are looking about in confusion.<boxstart/> </sp>
-<sp> In the seventh, people are dying in flames.</sp>
+<sp> In the seventh, people are dying in flames.</sp> </stage>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>This is the room with the murals... </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Where are you!? <referent name="Sephiroth">Sephiroth</referent>!! </sp>
 <stage>Sephiroth appears a ways in front of them.</stage>

@@ -11,7 +11,7 @@ let $ff-speeches-per := $discs//scene//sp[./speaker/data(@name)= $ff-spkr]
 /string() ! normalize-space()
 for $ff-spch-pr in $ff-speeches-per
 
-let $referents := $ff-speeches-per[./string() ! normalize-space() = $ff-spch-pr]
+let $referents := $ff-speech[./string() ! normalize-space() = $ff-spch-pr]
 //referent/data(@name) ! normalize-space() => distinct-values()
 for $r in $referents
 

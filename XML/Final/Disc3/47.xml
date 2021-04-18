@@ -78,7 +78,8 @@
 <sp> <boxstart/>It's a Chocobo. Take it, it's yours! </sp>
 <sp> <speaker name="Old Man Upstairs">Old Man Upstairs</speaker><boxstart/>OH! It's the Earth Harp! Wanna trade it for some Master Materia?<boxstart/>I'm not bein' stingy either! I'll give you all three of 'em!<boxstart/>How about it? </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Trade </sp>
-<sp> <speaker name="Old Man Upstairs">Old Man Upstairs</speaker><boxstart/>Ok then, it's a done deal!<boxstart/>It's a 3-piece Master Materia set... and it's all yours!<boxstart/>I guess it's time to go on a journey for the souls of my departed friends......<stage>He walks out of the room.</sp>
+  <sp> <speaker name="Old Man Upstairs">Old Man Upstairs</speaker><boxstart/>Ok then, it's a done deal!<boxstart/>It's a 3-piece Master Materia set... and it's all yours!<boxstart/>I guess it's time to go on a journey for the souls of my departed friends......</sp>
+  <stage>He walks out of the room.</stage>
 
 <stage>In Upper Junon...</stage>
 <sp> <speaker name="Soldier on the Path to the Airport">Soldier on the Path to the Airport</speaker><boxstart/>I finally got orders to join the Great <referent name="Sephiroth">Sephiroth</referent> Plan. I even get to go on the Gelnika too...<boxstart/>But, I'm just gonna ignore them. I wanna live to see the end of the world.<boxstart/>If I'm lucky... There'll be a good place for me in the New World. </sp>

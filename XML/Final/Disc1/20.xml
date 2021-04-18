@@ -41,7 +41,7 @@
 		<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/><referent name="Cloud">Cloud</referent>... Did you lie to us? </sp>
 		<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>What happened? </sp>
 		<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/><referent name="Cloud">Cloud</referent>, did you make up your story just to get our support? </sp>
-	
+
 
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I'm not lying!<boxstart/>I remember... the intense heat of the flames... </sp>
 <stage>At the inn...</stage>
@@ -170,7 +170,7 @@
 <stage>Cloud gestures as he tells his story.</stage>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...That's how it was. </sp>
 <sp> <speaker name="Vincent">Vincent</speaker><boxstart/>So <referent name="Sephiroth">Sephiroth</referent> knows he was created five years ago? And about the Jenova Project?<boxstart/>...He was missing, but has just recently reappeared.<boxstart/>He has taken many lives and is seeking the Promised Land. </sp>
-<stage>* <sp> <speaker name="Note">Note</speaker>: Vincent's comment here is likely a translation error and should have been something like "So five years ago, Sephiroth learned that he had been created?"</sp>
+<stage>* <sp> <speaker name="Note">Note</speaker>: Vincent's comment here is likely a translation error and should have been something like "So five years ago, Sephiroth learned that he had been created?"</sp></stage>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Now it's your turn. </sp>
 <sp> <speaker name="Vincent">Vincent</speaker><boxstart/>Sorry... I cannot speak. </sp>
 

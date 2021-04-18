@@ -170,7 +170,7 @@
 <sp><speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>... look.<boxstart/>Here's the well...<boxstart/>And that's Gramps' Inn, too.<boxstart/>The only truck in town. It's been here since we were little kids, right?<boxstart/>This is the Nibelheim you remember, right?<boxstart/>It's the same as my Nibelheim. That's why this place is...... our Nibelheim. </sp>
 <stage>Cloud appears sitting near the truck.</stage>
 <sp><speaker name="Tifa">Tifa</speaker><boxstart/>Five Years ago... two men from SOLDIER came...<boxstart/><referent name="Sephiroth">Sephiroth</referent> and...... a young and vibrant soldier.<boxstart/>Can you tell me again what happened? </sp>
-<sp><speaker name="unspecified"/><boxstart/><stage><referent name="Sephiroth">Sephiroth</referent> appears and turns to talk to someone behind him.</sp>
+<stage><referent name="Sephiroth">Sephiroth</referent> appears and turns to talk to someone behind him.</stage>
 <sp><speaker name="Sephiroth">Sephiroth</speaker><boxstart/>How does it feel? </sp>
 <sp><speaker name="Tifa">Tifa</speaker><boxstart/>Five Years ago... I saw the real <referent name="Sephiroth">Sephiroth</referent> for the very first time. </sp>
 <sp><speaker name="Sephiroth">Sephiroth</speaker><boxstart/>It's your first time back to your hometown in a long time, right?<boxstart/>So how does it feel?<boxstart/>I wouldn't know because I don't have a hometown... </sp>
@@ -226,7 +226,7 @@
 <sp><speaker name="Cloud">Cloud</speaker><boxstart/>It was my first time there. </sp>
 <sp><speaker name="Tifa">Tifa</speaker><boxstart/>Was... it? </sp>
 <sp><speaker name="Cloud">Cloud</speaker><boxstart/>I only used to look up at it from outside. </sp>
-<sp><speaker name="unspecified"/><boxstart/><stage>A flash, and a young <referent name="Tifa">Tifa</referent> is sitting in the corner with a trio of boys around her.</sp>
+<stage>A flash, and a young <referent name="Tifa">Tifa</referent> is sitting in the corner with a trio of boys around her.</stage>
 <sp><speaker name="Boy">Boy</speaker><boxstart/>Hey, look!<boxstart/><referent name="Cloud">Cloud</referent>'s coming! </sp>
 <stage>Out the window, they see Cloud approach the house.</stage>
 <sp><speaker name="Boy">Boy</speaker><boxstart/>You think he wants to come in? </sp>
@@ -275,7 +275,7 @@
 <stage>They run through Nibelheim. Tifa stops as they pass Cloud's house.</stage>
 <sp><speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>, wait.<boxstart/>Where are you going? </sp>
 <sp><speaker name="Cloud">Cloud</speaker><boxstart/>......The reactor......?<boxstart/>To the reactor! The Mako reactor of five years ago! </sp>
-<sp><speaker name="unspecified"/><boxstart/><stage>In the reactor, <referent name="Tifa">Tifa</referent> attacks <referent name="Sephiroth">Sephiroth</referent>. He cuts her and she flies back down the stairs just as Zack runs in.</sp>
+<stage>In the reactor, <referent name="Tifa">Tifa</referent> attacks <referent name="Sephiroth">Sephiroth</referent>. He cuts her and she flies back down the stairs just as Zack runs in.</stage>
 <sp><speaker name="Tifa">Tifa</speaker><boxstart/>Hey! It's <referent name="Cloud">Cloud</referent>! </sp>
 <stage>Sephiroth turns into the Jenova chamber.</stage>
 <sp><speaker name="Cloud">Cloud</speaker><boxstart/>Za...... ck...... Zac......k. Zack... </sp>

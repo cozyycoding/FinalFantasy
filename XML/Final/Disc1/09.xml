@@ -119,7 +119,7 @@
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>So I guess you'd call him a war buddy...... We trusted each other. Until one day...... </sp>
 <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>...one day? </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>After the war it was SOLDIER's duty to put down any resistance against the Shinra.<boxstart/>......that was 5 years ago.<boxstart/>I was 16...... </sp>
-<sp> <speaker name="unspecified"/><boxstart/><stage>A flashback sequence begins. <referent name="Cloud">Cloud</referent> and <referent name="Sephiroth">Sephiroth</referent> are riding in the back of a truck with two Shinra infantrymen.</sp>
+<stage>A flashback sequence begins. <referent name="Cloud">Cloud</referent> and <referent name="Sephiroth">Sephiroth</referent> are riding in the back of a truck with two Shinra infantrymen.</stage>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>It sure is raining hard. </sp>
 <sp> He walks to one of the infantrymen. </sp>
 <sp> Hey, how are you doing? </sp>
@@ -152,7 +152,7 @@
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Me? I was mesmerized by the way <referent name="Sephiroth">Sephiroth</referent> fought. </sp>
 <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>......... </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>......and then we reached Nibelheim. </sp>
-<sp> <speaker name="unspecified"/><boxstart/><stage>Another flashback sequence opens: <referent name="Sephiroth">Sephiroth</referent> approaches the gate to Nibelheim, then turns around to face the others, who are still off-screen behind him.</sp>
+<stage>Another flashback sequence opens: <referent name="Sephiroth">Sephiroth</referent> approaches the gate to Nibelheim, then turns around to face the others, who are still off-screen behind him.</stage>
 <sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>How does it feel?<boxstart/>It's your first time back to your hometown in a long time, right?<boxstart/>So how does it feel?<boxstart/>I wouldn't know because I don't have a hometown... </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Ummm... how 'bout your parents? </sp>
 <sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>My mother is Jenova. She died right after she gave birth to me. My father... </sp>
@@ -252,7 +252,7 @@
   <sp> <speaker name="Cloud"/><boxstart/>All right...... </sp>
   I don't know if you could call it a 'family'......<boxstart/>My father... died when I was still very young.<boxstart/>That's why my mom...... was living alone in this house.<boxstart/>Yeah, I saw my mom.<boxstart/>My mom... she was a vibrant woman. Hadn't changed at all.<boxstart/>But a few days later, she died...<boxstart/>But when I saw her, she looked fine.
 
-<sp> <speaker name="unspecified"/><boxstart/><stage>Back in the flashback, <referent name="Cloud">Cloud</referent> walks farther into his house.</sp>
+<stage>Back in the flashback, <referent name="Cloud">Cloud</referent> walks farther into his house.</stage>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Uh...? </sp>
 <sp> <speaker name="Cloud's Mom">Cloud's Mom</speaker><boxstart/>Ye----s? </sp>
 <sp> She runs over. </sp>
@@ -515,7 +515,7 @@
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>We found him inside the biggest building in Nibelheim. </sp>
 <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>The villagers used to call it Shinra mansion. </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Long ago, people from Shinra used to live in that mansion... </sp>
-<sp> <speaker name="unspecified"/><boxstart/><stage>Flashback scene: <referent name="Cloud">Cloud</referent> and the soldier join Zangan, Tifa, <referent name="Tifa">Tifa</referent>'s father, and the man with the camera at the gate to the Shinra mansion.</sp>
+<stage>Flashback scene: <referent name="Cloud">Cloud</referent> and the soldier join Zangan, Tifa, <referent name="Tifa">Tifa</referent>'s father, and the man with the camera at the gate to the Shinra mansion.</stage>
 <sp> <speaker name="Man with Camera">Man with Camera</speaker><boxstart/>What's <referent name="Sephiroth">Sephiroth</referent> doing? </sp>
 <sp> <speaker name="Zangan">Zangan</speaker><boxstart/>There's nothing that'll harm the town, right? </sp>
 <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Why...?<boxstart/>- No way! </sp>

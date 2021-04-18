@@ -89,7 +89,7 @@
 <sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>I heard that the murders at the Battle Arena were done by a man with a gun-arm. ...Was that you? </sp>
 <stage>Barret shakes his head violently.</stage>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>There's another... another man that got a gun grafted inta one of his arms. It was four years ago... </sp>
-<sp> <speaker name="unspecified"/><boxstart/><stage>Flashback. <referent name="Barret">Barret</referent> and Dyne are walking along the train tracks that lead to North Corel.</sp>
+<stage>Flashback. <referent name="Barret">Barret</referent> and Dyne are walking along the train tracks that lead to North Corel.</stage>
 <sp> <speaker name="Barret">Barret</speaker> (narrating)<boxstart/>I remember... I was on my way home from visiting a Mako Reactor being built. </sp>
 <sp> <speaker name="Village Headman">Village Headman</speaker><boxstart/><referent name="Barret">Barret</referent>! Dyne! Come quick! The village's being attacked! It's Shinra soldiers! </sp>
 <sp> <speaker name="Barret">Barret</speaker><boxstart/>What!!!? </sp>
