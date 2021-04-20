@@ -1,20 +1,59 @@
-declare option saxon:output "method=text";
-declare variable $disc1 := collection('Final/Disc1/?select=*.xml');
-declare variable $disc2 := collection('Final/Disc2/?select=*.xml');
-declare variable $disc3 := collection('Final/Disc3/?select=*.xml');
-declare variable $discs := ($disc1, $disc2, $disc3);
-let $ff-speech := $discs//scene//speaker
-let $ff-speakers := $ff-speech/data(@name)=> distinct-values()
-for $ff-spkr in $ff-speakers
-
-let $spkr-speech-count := $discs//speaker[./data(@name) = $ff-spkr]
-let $ff-speech-count := $ff-speech => count()
-for $ff-spch in $spkr-speech-count
-
-let $referents := $ff-spkr[.//speaker/string() ! normalize-space() = $ff-spch]
-//referent/data(@char) ! normalize-space() => distinct-values()
-for $r in $referents
-(: I was really clueless on how to handle the referent aspect of this. I also am guessing I don't need to
-define my discs but I couldn't remember how to go about doing that either. :)
-
-return concat($ff-spkr, "&#x9;", "Speaker", "&#x9;", $ff-spch, "&#x9;", $r, "&#x9;", "Referent", "&#10;")
+Gatekeeper	Speaker	Nanaki	Referent
+ Elder Bugah	Speaker	Nanaki	Referent
+ Kid in Nanaki's Room	Speaker	Nanaki	Referent
+ Elder Hargo	Speaker	Nanaki	Referent
+ Nanaki	Speaker	Cloud	Referent
+ Nanaki	Speaker	Nanaki	Referent
+ Nanaki	Speaker	Sephiroth	Referent
+ Nanaki	Speaker	Cloud	Referent
+ Nanaki	Speaker	Cloud	Referent
+ Nanaki	Speaker	Yuffie	Referent
+ Bugenhagen	Speaker	Nanaki	Referent
+ Bugenhagen	Speaker	Nanaki	Referent
+ Bugenhagen	Speaker	Cloud	Referent
+ Cloud	Speaker	Nanaki	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Barret	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ unspecified	Speaker	Tifa	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Yuffie	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Sephiroth	Referent
+ Barret	Speaker	Aerith	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Aerith	Referent
+ Tifa	Speaker	Aerith	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Cait Sith	Speaker	Cloud	Referent
+ Vincent	Speaker	Cloud	Referent
+ Vincent	Speaker	Sephiroth	Referent
+ Cid	Speaker	Cloud	Referent
+ Cid	Speaker	Sephiroth	Referent
+ Cid	Speaker	Sephiroth	Referent
+ Cid	Speaker	Barret	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Nanaki	Referent
+ Yuffie	Speaker	Yuffie	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Sephiroth	Referent
+ Full Fledged Pilot	Speaker	Cloud	Referent
+ Man	Speaker	Sephiroth	Referent
+ Zack	Speaker	Cloud	Referent
+ Zack	Speaker	Cloud	Referent
+ Redhead	Speaker	Sephiroth	Referent
+ Redhead	Speaker	Rufus	Referent
+ Old Man	Speaker	Rufus	Referent
+ Soldier on the Path to the Airport	Speaker	Sephiroth	Referent
