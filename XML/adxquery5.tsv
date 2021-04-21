@@ -1,16 +1,552 @@
-Gatekeeper	Speaker	Nanaki	Referent
- Elder Bugah	Speaker	Nanaki	Referent
- Kid in Nanaki's Room	Speaker	Nanaki	Referent
- Elder Hargo	Speaker	Nanaki	Referent
- Nanaki	Speaker	Cloud	Referent
- Nanaki	Speaker	Nanaki	Referent
- Nanaki	Speaker	Sephiroth	Referent
- Nanaki	Speaker	Cloud	Referent
- Nanaki	Speaker	Cloud	Referent
- Nanaki	Speaker	Yuffie	Referent
- Bugenhagen	Speaker	Nanaki	Referent
- Bugenhagen	Speaker	Nanaki	Referent
- Bugenhagen	Speaker	Cloud	Referent
+unspecified	Speaker	Cloud	Referent
+ unspecified	Speaker	Sephiroth	Referent
+ unspecified	Speaker	Aerith	Referent
+ unspecified	Speaker	Cloud	Referent
+ unspecified	Speaker	Aerith	Referent
+ unspecified	Speaker	Sephiroth	Referent
+ unspecified	Speaker	Cloud	Referent
+ unspecified	Speaker	Barret	Referent
+ unspecified	Speaker	Tifa	Referent
+ unspecified	Speaker	Cait Sith	Referent
+ unspecified	Speaker	Cait Sith	Referent
+ unspecified	Speaker	Cait Sith	Referent
+ unspecified	Speaker	Rufus	Referent
+ unspecified	Speaker	Cait Sith	Referent
+ unspecified	Speaker	Rufus	Referent
+ unspecified	Speaker	Sephiroth	Referent
+ unspecified	Speaker	Tifa	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Rufus	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Sephiroth	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Tifa	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Tifa	Referent
+ Barret	Speaker	Yuffie	Referent
+ Barret	Speaker	Yuffie	Referent
+ Barret	Speaker	Yuffie	Referent
+ Barret	Speaker	Tifa	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Sephiroth	Referent
+ Barret	Speaker	Sephiroth	Referent
+ Barret	Speaker	Aerith	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Aerith	Referent
+ Barret	Speaker	Aerith	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Sephiroth	Referent
+ Barret	Speaker	Sephiroth	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Rufus	Referent
+ Barret	Speaker	Tifa	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Aerith	Referent
+ Barret	Speaker	Sephiroth	Referent
+ Barret	Speaker	Tifa	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Sephiroth	Referent
+ Barret	Speaker	Barret	Referent
+ Barret	Speaker	Aerith	Referent
+ Barret	Speaker	Aerith	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Tifa	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Aerith	Referent
+ Barret	Speaker	Tifa	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Aerith	Referent
+ Barret	Speaker	Rufus	Referent
+ Barret	Speaker	Rufus	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Barret	Referent
+ Barret	Speaker	Tifa	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Aerith	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Sephiroth	Referent
+ Barret	Speaker	Sephiroth	Referent
+ Barret	Speaker	Tifa	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Sephiroth	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Tifa	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Tifa	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Tifa	Referent
+ Barret	Speaker	Tifa	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Tifa	Referent
+ Barret	Speaker	Aerith	Referent
+ Barret	Speaker	Yuffie	Referent
+ Barret	Speaker	Cait Sith	Referent
+ Barret	Speaker	Cait Sith	Referent
+ Barret	Speaker	Cait Sith	Referent
+ Barret	Speaker	Cait Sith	Referent
+ Barret	Speaker	Cait Sith	Referent
+ Barret	Speaker	Cait Sith	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Sephiroth	Referent
+ Barret	Speaker	Sephiroth	Referent
+ Barret	Speaker	Rufus	Referent
+ Barret	Speaker	Tifa	Referent
+ Barret	Speaker	Tifa	Referent
+ Barret	Speaker	Tifa	Referent
+ Barret	Speaker	Tifa	Referent
+ Barret	Speaker	Tifa	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Reno	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Cid	Referent
+ Barret	Speaker	Tifa	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Sephiroth	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Tifa	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Tifa	Referent
+ Barret	Speaker	Sephiroth	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Cid	Referent
+ Barret	Speaker	Tifa	Referent
+ Barret	Speaker	Tifa	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Sephiroth	Referent
+ Barret	Speaker	Cait Sith	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Aerith	Referent
+ Barret	Speaker	Sephiroth	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Tifa	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Yuffie	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Cloud	Referent
+ Barret	Speaker	Sephiroth	Referent
+ Barret	Speaker	Aerith	Referent
+ Biggs	Speaker	Cloud	Referent
+ Biggs	Speaker	Cloud	Referent
+ Biggs	Speaker	Cloud	Referent
+ Biggs	Speaker	Cloud	Referent
+ Biggs	Speaker	Cloud	Referent
+ Biggs	Speaker	Barret	Referent
+ Biggs	Speaker	Cloud	Referent
+ Biggs	Speaker	Barret	Referent
+ Biggs	Speaker	Cloud	Referent
+ Biggs	Speaker	Cloud	Referent
+ Biggs	Speaker	Barret	Referent
+ Jessie	Speaker	Cloud	Referent
+ Jessie	Speaker	Cloud	Referent
+ Jessie	Speaker	Cloud	Referent
+ Jessie	Speaker	Cloud	Referent
+ Jessie	Speaker	Cloud	Referent
+ Jessie	Speaker	Cloud	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Barret	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Barret	Referent
+ Cloud	Speaker	Barret	Referent
+ Cloud	Speaker	Barret	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Tseng	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Cait Sith	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Cait Sith	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Nanaki	Referent
+ Cloud	Speaker	Nanaki	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Barret	Referent
+ Cloud	Speaker	Yuffie	Referent
+ Cloud	Speaker	Yuffie	Referent
+ Cloud	Speaker	Yuffie	Referent
+ Cloud	Speaker	Yuffie	Referent
+ Cloud	Speaker	Elena	Referent
+ Cloud	Speaker	Barret	Referent
+ Cloud	Speaker	Barret	Referent
+ Cloud	Speaker	Barret	Referent
+ Cloud	Speaker	Barret	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Yuffie	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Cid	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Barret	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Rufus	Referent
+ Cloud	Speaker	Rufus	Referent
+ Cloud	Speaker	Rufus	Referent
+ Cloud	Speaker	Cid	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Rufus	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Barret	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Barret	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Barret	Referent
+ Cloud	Speaker	Red XIII	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Barret	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Barret	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Barret	Referent
+ Cloud	Speaker	Red XIII	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Barret	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Barret	Referent
+ Cloud	Speaker	Barret	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Barret	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Barret	Referent
+ Cloud	Speaker	Barret	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Barret	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Cait Sith	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Yuffie	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Barret	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Cid	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Cid	Referent
+ Cloud	Speaker	Cid	Referent
+ Cloud	Speaker	Cid	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Cid	Referent
+ Cloud	Speaker	Cid	Referent
+ Cloud	Speaker	Rufus	Referent
+ Cloud	Speaker	Nanaki	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Barret	Referent
+ Cloud	Speaker	Cid	Referent
+ Cloud	Speaker	Nanaki	Referent
+ Cloud	Speaker	Vincent	Referent
+ Cloud	Speaker	Yuffie	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Cid	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Cid	Referent
+ Cloud	Speaker	Tseng	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Elena	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Barret	Referent
+ Cloud	Speaker	Yuffie	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Cid	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Cid	Referent
+ Cloud	Speaker	Cid	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Aerith	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Barret	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Nanaki	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Cloud	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Sephiroth	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Barret	Referent
+ Cloud	Speaker	Tifa	Referent
+ Cloud	Speaker	Cloud	Referent
  Cloud	Speaker	Nanaki	Referent
  Cloud	Speaker	Tifa	Referent
  Cloud	Speaker	Sephiroth	Referent
@@ -20,13 +556,499 @@ Gatekeeper	Speaker	Nanaki	Referent
  Cloud	Speaker	Aerith	Referent
  Cloud	Speaker	Aerith	Referent
  Cloud	Speaker	Sephiroth	Referent
- unspecified	Speaker	Tifa	Referent
- Barret	Speaker	Cloud	Referent
- Barret	Speaker	Yuffie	Referent
- Barret	Speaker	Cloud	Referent
- Barret	Speaker	Cloud	Referent
- Barret	Speaker	Sephiroth	Referent
- Barret	Speaker	Aerith	Referent
+ Wedge	Speaker	Cloud	Referent
+ Wedge	Speaker	Cloud	Referent
+ Wedge	Speaker	Barret	Referent
+ Wedge	Speaker	Cloud	Referent
+ Wedge	Speaker	Cloud	Referent
+ Wedge	Speaker	Cloud	Referent
+ Wedge	Speaker	Cloud	Referent
+ Wedge	Speaker	Cloud	Referent
+ Wedge	Speaker	Cloud	Referent
+ Wedge	Speaker	Tifa	Referent
+ Wedge	Speaker	Tifa	Referent
+ Wedge	Speaker	Cloud	Referent
+ Wedge	Speaker	Cloud	Referent
+ Wedge	Speaker	Cloud	Referent
+ Wedge	Speaker	Barret	Referent
+ Wedge	Speaker	Cloud	Referent
+ Flower Girl	Speaker	Aerith	Referent
+ Redhead	Speaker	Rufus	Referent
+ Redhead	Speaker	Rufus	Referent
+ Redhead	Speaker	Sephiroth	Referent
+ Redhead	Speaker	Rufus	Referent
+ Redhead	Speaker	Sephiroth	Referent
+ Redhead	Speaker	Rufus	Referent
+ Soldier	Speaker	Rufus	Referent
+ Soldier	Speaker	Rufus	Referent
+ Soldier	Speaker	Rufus	Referent
+ Soldier	Speaker	Reno	Referent
+ Soldier	Speaker	Sephiroth	Referent
+ Soldier	Speaker	Sephiroth	Referent
+ Soldier	Speaker	Sephiroth	Referent
+ Soldier	Speaker	Elena	Referent
+ Soldier	Speaker	Tifa	Referent
+ Soldiers	Speaker	Rufus	Referent
+ Soldiers	Speaker	Sephiroth	Referent
+ Soldiers	Speaker	Reno	Referent
+ Shinra Manager	Speaker	Rufus	Referent
+ Aerith	Speaker	Tifa	Referent
+ Aerith	Speaker	Tifa	Referent
+ Aerith	Speaker	Tifa	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Tifa	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Tifa	Referent
+ Aerith	Speaker	Tifa	Referent
+ Aerith	Speaker	Aerith	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Tifa	Referent
+ Aerith	Speaker	Aerith	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Rufus	Referent
+ Aerith	Speaker	Sephiroth	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Tseng	Referent
+ Aerith	Speaker	Tseng	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Sephiroth	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Sephiroth	Referent
+ Aerith	Speaker	Sephiroth	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cait Sith	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cait Sith	Referent
+ Aerith	Speaker	Sephiroth	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Sephiroth	Referent
+ Aerith	Speaker	Sephiroth	Referent
+ Aerith	Speaker	Nanaki	Referent
+ Aerith	Speaker	Nanaki	Referent
+ Aerith	Speaker	Yuffie	Referent
+ Aerith	Speaker	Yuffie	Referent
+ Aerith	Speaker	Barret	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Barret	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Barret	Referent
+ Aerith	Speaker	Barret	Referent
+ Aerith	Speaker	Barret	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Aerith	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Sephiroth	Referent
+ Aerith	Speaker	Barret	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Aerith	Referent
+ Aerith	Speaker	Aerith	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Barret	Referent
+ Aerith	Speaker	Sephiroth	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Aerith	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Tifa	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Barret	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Barret	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Aerith	Referent
+ Aerith	Speaker	Sephiroth	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Tifa	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Tifa	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Tifa	Referent
+ Aerith	Speaker	Sephiroth	Referent
+ Aerith	Speaker	Sephiroth	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Barret	Referent
+ Aerith	Speaker	Tifa	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Sephiroth	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cait Sith	Referent
+ Aerith	Speaker	Cait Sith	Referent
+ Aerith	Speaker	Cait Sith	Referent
+ Aerith	Speaker	Cait Sith	Referent
+ Aerith	Speaker	Cait Sith	Referent
+ Aerith	Speaker	Cait Sith	Referent
+ Aerith	Speaker	Cait Sith	Referent
+ Aerith	Speaker	Cloud	Referent
+ Aerith	Speaker	Cloud	Referent
+ Johnny	Speaker	Tifa	Referent
+ Johnny	Speaker	Aerith	Referent
+ Johnny	Speaker	Tifa	Referent
+ Johnny	Speaker	Tifa	Referent
+ Punk	Speaker	Aerith	Referent
+ Older Man	Speaker	Tifa	Referent
+ Older Man	Speaker	Cloud	Referent
+ Older Man	Speaker	Cloud	Referent
+ Older Man	Speaker	Cloud	Referent
+ Redhead in Suit	Speaker	Aerith	Referent
+ Man	Speaker	Yuffie	Referent
+ Man	Speaker	Rufus	Referent
+ Man	Speaker	Rufus	Referent
+ Man	Speaker	Sephiroth	Referent
+ Man	Speaker	Sephiroth	Referent
+ Barkeeper	Speaker	Cid	Referent
+ Barkeeper	Speaker	Rufus	Referent
+ Old Man	Speaker	Rufus	Referent
+ Old Man	Speaker	Cid	Referent
+ Old Man	Speaker	Rufus	Referent
+ Woman 2	Speaker	Rufus	Referent
+ Woman 3	Speaker	Cloud	Referent
+ Men	Speaker	Barret	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Aerith	Referent
+ Tifa	Speaker	Barret	Referent
+ Tifa	Speaker	Barret	Referent
+ Tifa	Speaker	Aerith	Referent
+ Tifa	Speaker	Barret	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Red XIII	Referent
+ Tifa	Speaker	Nanaki	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Barret	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Sephiroth	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Barret	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Yuffie	Referent
+ Tifa	Speaker	Yuffie	Referent
+ Tifa	Speaker	Yuffie	Referent
+ Tifa	Speaker	Yuffie	Referent
+ Tifa	Speaker	Yuffie	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Barret	Referent
+ Tifa	Speaker	Barret	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Tifa	Referent
+ Tifa	Speaker	Cid	Referent
+ Tifa	Speaker	Aerith	Referent
+ Tifa	Speaker	Sephiroth	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Aerith	Referent
+ Tifa	Speaker	Aerith	Referent
+ Tifa	Speaker	Aerith	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Aerith	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Aerith	Referent
+ Tifa	Speaker	Sephiroth	Referent
+ Tifa	Speaker	Aerith	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Sephiroth	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Aerith	Referent
+ Tifa	Speaker	Aerith	Referent
+ Tifa	Speaker	Sephiroth	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Sephiroth	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Aerith	Referent
+ Tifa	Speaker	Tifa	Referent
+ Tifa	Speaker	Cid	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Aerith	Referent
+ Tifa	Speaker	Barret	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Aerith	Referent
+ Tifa	Speaker	Aerith	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Aerith	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Aerith	Referent
+ Tifa	Speaker	Red XIII	Referent
+ Tifa	Speaker	Sephiroth	Referent
+ Tifa	Speaker	Sephiroth	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Rufus	Referent
+ Tifa	Speaker	Barret	Referent
+ Tifa	Speaker	Barret	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Barret	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Sephiroth	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Sephiroth	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Tifa	Referent
+ Tifa	Speaker	Sephiroth	Referent
+ Tifa	Speaker	Sephiroth	Referent
+ Tifa	Speaker	Sephiroth	Referent
+ Tifa	Speaker	Sephiroth	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Sephiroth	Referent
+ Tifa	Speaker	Barret	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Barret	Referent
+ Tifa	Speaker	Barret	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Barret	Referent
+ Tifa	Speaker	Barret	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Sephiroth	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Barret	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Barret	Referent
+ Tifa	Speaker	Aerith	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Barret	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Barret	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Aerith	Referent
+ Tifa	Speaker	Aerith	Referent
+ Tifa	Speaker	Barret	Referent
+ Tifa	Speaker	Barret	Referent
+ Tifa	Speaker	Barret	Referent
+ Tifa	Speaker	Aerith	Referent
+ Tifa	Speaker	Aerith	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Aerith	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Sephiroth	Referent
+ Tifa	Speaker	Nanaki	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Aerith	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cait Sith	Referent
+ Tifa	Speaker	Cait Sith	Referent
+ Tifa	Speaker	Cait Sith	Referent
+ Tifa	Speaker	Cait Sith	Referent
+ Tifa	Speaker	Cait Sith	Referent
+ Tifa	Speaker	Cait Sith	Referent
+ Tifa	Speaker	Cait Sith	Referent
+ Tifa	Speaker	Tifa	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Sephiroth	Referent
+ Tifa	Speaker	Sephiroth	Referent
+ Tifa	Speaker	Sephiroth	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Barret	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Tifa	Referent
+ Tifa	Speaker	Barret	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cid	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cid	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Sephiroth	Referent
+ Tifa	Speaker	Sephiroth	Referent
+ Tifa	Speaker	Sephiroth	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Sephiroth	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Sephiroth	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Barret	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Sephiroth	Referent
+ Tifa	Speaker	Sephiroth	Referent
+ Tifa	Speaker	Cait Sith	Referent
+ Tifa	Speaker	Barret	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Aerith	Referent
+ Tifa	Speaker	Aerith	Referent
+ Tifa	Speaker	Aerith	Referent
+ Tifa	Speaker	Sephiroth	Referent
+ Tifa	Speaker	Sephiroth	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Sephiroth	Referent
+ Tifa	Speaker	Sephiroth	Referent
+ Tifa	Speaker	Sephiroth	Referent
+ Tifa	Speaker	Sephiroth	Referent
+ Tifa	Speaker	Sephiroth	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Barret	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Cloud	Referent
+ Tifa	Speaker	Sephiroth	Referent
+ Tifa	Speaker	Cloud	Referent
  Tifa	Speaker	Cloud	Referent
  Tifa	Speaker	Cloud	Referent
  Tifa	Speaker	Cloud	Referent
@@ -37,23 +1059,579 @@ Gatekeeper	Speaker	Nanaki	Referent
  Tifa	Speaker	Cloud	Referent
  Tifa	Speaker	Cloud	Referent
  Tifa	Speaker	Cloud	Referent
- Cait Sith	Speaker	Cloud	Referent
- Vincent	Speaker	Cloud	Referent
- Vincent	Speaker	Sephiroth	Referent
- Cid	Speaker	Cloud	Referent
- Cid	Speaker	Sephiroth	Referent
- Cid	Speaker	Sephiroth	Referent
- Cid	Speaker	Barret	Referent
+ Corneo	Speaker	Barret	Referent
+ Priscilla	Speaker	Cloud	Referent
+ Priscilla	Speaker	Cloud	Referent
+ Priscilla	Speaker	Cloud	Referent
+ Red XIII	Speaker	Cloud	Referent
+ Red XIII	Speaker	Rufus	Referent
+ Red XIII	Speaker	Cloud	Referent
+ Red XIII	Speaker	Nanaki	Referent
+ Red XIII	Speaker	Barret	Referent
+ Red XIII	Speaker	Barret	Referent
+ Red XIII	Speaker	Cloud	Referent
+ Red XIII	Speaker	Cloud	Referent
+ Red XIII	Speaker	Cloud	Referent
+ Red XIII	Speaker	Cloud	Referent
+ Red XIII	Speaker	Cloud	Referent
+ Red XIII	Speaker	Red XIII	Referent
+ Red XIII	Speaker	Cloud	Referent
+ Red XIII	Speaker	Sephiroth	Referent
+ Red XIII	Speaker	Cloud	Referent
+ Red XIII	Speaker	Cloud	Referent
+ Red XIII	Speaker	Cloud	Referent
+ Red XIII	Speaker	Cloud	Referent
+ Red XIII	Speaker	Barret	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Aerith	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Barret	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Yuffie	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Aerith	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Sephiroth	Referent
+ Yuffie	Speaker	Sephiroth	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Sephiroth	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Yuffie	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Barret	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Cait Sith	Referent
+ Yuffie	Speaker	Cait Sith	Referent
+ Yuffie	Speaker	Cait Sith	Referent
+ Yuffie	Speaker	Cait Sith	Referent
+ Yuffie	Speaker	Cait Sith	Referent
+ Yuffie	Speaker	Cait Sith	Referent
+ Yuffie	Speaker	Cait Sith	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Yuffie	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Tifa	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Tifa	Referent
+ Yuffie	Speaker	Cid	Referent
+ Yuffie	Speaker	Tifa	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Yuffie	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Cloud	Referent
+ Yuffie	Speaker	Sephiroth	Referent
+ Yuffie	Speaker	Sephiroth	Referent
+ Yuffie	Speaker	Cloud	Referent
  Yuffie	Speaker	Cloud	Referent
  Yuffie	Speaker	Nanaki	Referent
  Yuffie	Speaker	Yuffie	Referent
  Yuffie	Speaker	Cloud	Referent
  Yuffie	Speaker	Sephiroth	Referent
- Full Fledged Pilot	Speaker	Cloud	Referent
- Man	Speaker	Sephiroth	Referent
- Zack	Speaker	Cloud	Referent
- Zack	Speaker	Cloud	Referent
- Redhead	Speaker	Sephiroth	Referent
- Redhead	Speaker	Rufus	Referent
- Old Man	Speaker	Rufus	Referent
+ Commander	Speaker	Rufus	Referent
+ Commander	Speaker	Rufus	Referent
+ Commander	Speaker	Rufus	Referent
+ Commander	Speaker	Rude	Referent
+ Rufus	Speaker	Sephiroth	Referent
+ Rufus	Speaker	Cloud	Referent
+ Rufus	Speaker	Sephiroth	Referent
+ Rufus	Speaker	Sephiroth	Referent
+ Rufus	Speaker	Rufus	Referent
+ Rufus	Speaker	Sephiroth	Referent
+ Rufus	Speaker	Sephiroth	Referent
+ Rufus	Speaker	Cloud	Referent
+ Rufus	Speaker	Cloud	Referent
+ Rufus	Speaker	Sephiroth	Referent
+ Rufus	Speaker	Sephiroth	Referent
+ Heidegger	Speaker	Sephiroth	Referent
+ Rude	Speaker	Reno	Referent
+ Rude	Speaker	Elena	Referent
+ Rude	Speaker	Elena	Referent
+ Rude	Speaker	Reno	Referent
+ Rude	Speaker	Tifa	Referent
+ Rude	Speaker	Tseng	Referent
+ Rude	Speaker	Elena	Referent
+ Tseng	Speaker	Sephiroth	Referent
+ Tseng	Speaker	Elena	Referent
+ Tseng	Speaker	Sephiroth	Referent
+ Tseng	Speaker	Elena	Referent
+ Tseng	Speaker	Elena	Referent
+ Tseng	Speaker	Sephiroth	Referent
+ Tseng	Speaker	Aerith	Referent
+ Tseng	Speaker	Sephiroth	Referent
+ Tseng	Speaker	Aerith	Referent
+ Tseng	Speaker	Aerith	Referent
+ Tseng	Speaker	Aerith	Referent
+ Tseng	Speaker	Aerith	Referent
+ Tseng	Speaker	Aerith	Referent
+ Reno	Speaker	Elena	Referent
+ Reno	Speaker	Rude	Referent
+ Reno	Speaker	Elena	Referent
+ Reno	Speaker	Rude	Referent
+ Reno	Speaker	Elena	Referent
+ Reno	Speaker	Yuffie	Referent
+ Reno	Speaker	Rude	Referent
+ Reno	Speaker	Elena	Referent
+ Reno	Speaker	Reno	Referent
+ Reno	Speaker	Cloud	Referent
+ Reno	Speaker	Reno	Referent
+ Reno	Speaker	Rude	Referent
+ Reno	Speaker	Elena	Referent
+ Reno	Speaker	Tseng	Referent
+ Reno	Speaker	Rude	Referent
+ Reno	Speaker	Sephiroth	Referent
+ Reno	Speaker	Sephiroth	Referent
+ Reno	Speaker	Elena	Referent
+ Reno	Speaker	Elena	Referent
+ Reno	Speaker	Elena	Referent
+ Elena	Speaker	Tseng	Referent
+ Elena	Speaker	Tseng	Referent
+ Elena	Speaker	Reno	Referent
+ Elena	Speaker	Rude	Referent
+ Elena	Speaker	Rude	Referent
+ Elena	Speaker	Elena	Referent
+ Elena	Speaker	Reno	Referent
+ Elena	Speaker	Sephiroth	Referent
+ Elena	Speaker	Tseng	Referent
+ Elena	Speaker	Tseng	Referent
+ Elena	Speaker	Rude	Referent
+ Elena	Speaker	Sephiroth	Referent
+ Elena	Speaker	Tseng	Referent
+ Elena	Speaker	Tseng	Referent
+ Elena	Speaker	Cloud	Referent
+ Elena	Speaker	Reno	Referent
+ Elena	Speaker	Rude	Referent
+ Innkeeper	Speaker	Cloud	Referent
+ Nanaki	Speaker	Cloud	Referent
+ Nanaki	Speaker	Sephiroth	Referent
+ Nanaki	Speaker	Cloud	Referent
+ Nanaki	Speaker	Aerith	Referent
+ Nanaki	Speaker	Cloud	Referent
+ Nanaki	Speaker	Nanaki	Referent
+ Nanaki	Speaker	Yuffie	Referent
+ Nanaki	Speaker	Yuffie	Referent
+ Nanaki	Speaker	Aerith	Referent
+ Nanaki	Speaker	Sephiroth	Referent
+ Nanaki	Speaker	Cloud	Referent
+ Nanaki	Speaker	Sephiroth	Referent
+ Nanaki	Speaker	Nanaki	Referent
+ Nanaki	Speaker	Red XIII	Referent
+ Nanaki	Speaker	Cloud	Referent
+ Nanaki	Speaker	Cloud	Referent
+ Nanaki	Speaker	Cloud	Referent
+ Nanaki	Speaker	Cloud	Referent
+ Nanaki	Speaker	Cloud	Referent
+ Nanaki	Speaker	Cid	Referent
+ Nanaki	Speaker	Cloud	Referent
+ Nanaki	Speaker	Tifa	Referent
+ Nanaki	Speaker	Cloud	Referent
+ Nanaki	Speaker	Tifa	Referent
+ Nanaki	Speaker	Cloud	Referent
+ Nanaki	Speaker	Cloud	Referent
+ Nanaki	Speaker	Tifa	Referent
+ Nanaki	Speaker	Cloud	Referent
+ Nanaki	Speaker	Cid	Referent
+ Nanaki	Speaker	Yuffie	Referent
+ Nanaki	Speaker	Cloud	Referent
+ Nanaki	Speaker	Cloud	Referent
+ Nanaki	Speaker	Tifa	Referent
+ Nanaki	Speaker	Tifa	Referent
+ Nanaki	Speaker	Cloud	Referent
+ Nanaki	Speaker	Cid	Referent
+ Nanaki	Speaker	Cloud	Referent
+ Nanaki	Speaker	Tifa	Referent
+ Nanaki	Speaker	Tifa	Referent
+ Nanaki	Speaker	Cloud	Referent
+ Nanaki	Speaker	Cloud	Referent
+ Nanaki	Speaker	Sephiroth	Referent
+ Nanaki	Speaker	Cid	Referent
+ Nanaki	Speaker	Cloud	Referent
+ Nanaki	Speaker	Aerith	Referent
+ Nanaki	Speaker	Aerith	Referent
+ Nanaki	Speaker	Aerith	Referent
+ Nanaki	Speaker	Cloud	Referent
+ Nanaki	Speaker	Sephiroth	Referent
+ Nanaki	Speaker	Cloud	Referent
+ Nanaki	Speaker	Cloud	Referent
+ Nanaki	Speaker	Sephiroth	Referent
+ Nanaki	Speaker	Cloud	Referent
+ Nanaki	Speaker	Tifa	Referent
+ Nanaki	Speaker	Cloud	Referent
+ Nanaki	Speaker	Cloud	Referent
+ Nanaki	Speaker	Cloud	Referent
+ Nanaki	Speaker	Cloud	Referent
+ Nanaki	Speaker	Nanaki	Referent
+ Nanaki	Speaker	Sephiroth	Referent
+ Nanaki	Speaker	Cloud	Referent
+ Nanaki	Speaker	Cloud	Referent
+ Nanaki	Speaker	Yuffie	Referent
+ Cait Sith	Speaker	Tseng	Referent
+ Cait Sith	Speaker	Cloud	Referent
+ Cait Sith	Speaker	Cloud	Referent
+ Cait Sith	Speaker	Cloud	Referent
+ Cait Sith	Speaker	Cloud	Referent
+ Cait Sith	Speaker	Cait Sith	Referent
+ Cait Sith	Speaker	Cloud	Referent
+ Cait Sith	Speaker	Cloud	Referent
+ Cait Sith	Speaker	Aerith	Referent
+ Cait Sith	Speaker	Cloud	Referent
+ Cait Sith	Speaker	Cait Sith	Referent
+ Cait Sith	Speaker	Cloud	Referent
+ Cait Sith	Speaker	Yuffie	Referent
+ Cait Sith	Speaker	Yuffie	Referent
+ Cait Sith	Speaker	Cloud	Referent
+ Cait Sith	Speaker	Cait Sith	Referent
+ Cait Sith	Speaker	Sephiroth	Referent
+ Cait Sith	Speaker	Cloud	Referent
+ Cait Sith	Speaker	Cloud	Referent
+ Cait Sith	Speaker	Aerith	Referent
+ Cait Sith	Speaker	Cloud	Referent
+ Cait Sith	Speaker	Cloud	Referent
+ Cait Sith	Speaker	Aerith	Referent
+ Cait Sith	Speaker	Sephiroth	Referent
+ Cait Sith	Speaker	Cloud	Referent
+ Cait Sith	Speaker	Cloud	Referent
+ Cait Sith	Speaker	Cait Sith	Referent
+ Cait Sith	Speaker	Cloud	Referent
+ Cait Sith	Speaker	Sephiroth	Referent
+ Cait Sith	Speaker	Cloud	Referent
+ Cait Sith	Speaker	Cloud	Referent
+ Cait Sith	Speaker	Cloud	Referent
+ Cait Sith	Speaker	Cloud	Referent
+ Cait Sith	Speaker	Cloud	Referent
+ Cait Sith	Speaker	Cloud	Referent
+ Cait Sith	Speaker	Cloud	Referent
+ Cait Sith	Speaker	Tifa	Referent
+ Cait Sith	Speaker	Tifa	Referent
+ Cait Sith	Speaker	Cloud	Referent
+ Cait Sith	Speaker	Cloud	Referent
+ Cait Sith	Speaker	Cloud	Referent
+ Cait Sith	Speaker	Cloud	Referent
+ Cait Sith	Speaker	Tifa	Referent
+ Cait Sith	Speaker	Cloud	Referent
+ Cait Sith	Speaker	Cloud	Referent
+ Cait Sith	Speaker	Barret	Referent
+ Cait Sith	Speaker	Cloud	Referent
+ Cait Sith	Speaker	Cloud	Referent
+ Cait Sith	Speaker	Cloud	Referent
+ Cait Sith	Speaker	Cloud	Referent
+ Cait Sith	Speaker	Cait Sith	Referent
+ Cait Sith	Speaker	Sephiroth	Referent
+ Cait Sith	Speaker	Cloud	Referent
+ Cait Sith	Speaker	Cait Sith	Referent
+ Cait Sith	Speaker	Cait Sith	Referent
+ Cait Sith	Speaker	Rufus	Referent
+ Cait Sith	Speaker	Cait Sith	Referent
+ Cait Sith	Speaker	Rufus	Referent
+ Cait Sith	Speaker	Sephiroth	Referent
+ Cait Sith	Speaker	Aerith	Referent
+ Cait Sith	Speaker	Barret	Referent
+ Cait Sith	Speaker	Cloud	Referent
+ Cait Sith	Speaker	Cloud	Referent
+ Cait Sith	Speaker	Aerith	Referent
+ Cait Sith	Speaker	Rufus	Referent
+ Cait Sith	Speaker	Sephiroth	Referent
+ Cait Sith	Speaker	Tifa	Referent
+ Cait Sith	Speaker	Cloud	Referent
+ Cait Sith	Speaker	Cloud	Referent
+ Vincent	Speaker	Cloud	Referent
+ Vincent	Speaker	Yuffie	Referent
+ Vincent	Speaker	Cloud	Referent
+ Vincent	Speaker	Aerith	Referent
+ Vincent	Speaker	Sephiroth	Referent
+ Vincent	Speaker	Vincent	Referent
+ Vincent	Speaker	Sephiroth	Referent
+ Vincent	Speaker	Sephiroth	Referent
+ Vincent	Speaker	Vincent	Referent
+ Vincent	Speaker	Sephiroth	Referent
+ Vincent	Speaker	Cid	Referent
+ Vincent	Speaker	Cloud	Referent
+ Vincent	Speaker	Tifa	Referent
+ Vincent	Speaker	Reno	Referent
+ Vincent	Speaker	Sephiroth	Referent
+ Vincent	Speaker	Cid	Referent
+ Vincent	Speaker	Sephiroth	Referent
+ Vincent	Speaker	Sephiroth	Referent
+ Vincent	Speaker	Cloud	Referent
+ Vincent	Speaker	Cloud	Referent
+ Vincent	Speaker	Sephiroth	Referent
+ Vincent	Speaker	Sephiroth	Referent
+ Vincent	Speaker	Sephiroth	Referent
+ Vincent	Speaker	Sephiroth	Referent
+ Vincent	Speaker	Cloud	Referent
+ Vincent	Speaker	Cloud	Referent
+ Vincent	Speaker	Sephiroth	Referent
+ Cid	Speaker	Cloud	Referent
+ Cid	Speaker	Yuffie	Referent
+ Cid	Speaker	Yuffie	Referent
+ Cid	Speaker	Yuffie	Referent
+ Cid	Speaker	Yuffie	Referent
+ Cid	Speaker	Cid	Referent
+ Cid	Speaker	Tifa	Referent
+ Cid	Speaker	Cid	Referent
+ Cid	Speaker	Cloud	Referent
+ Cid	Speaker	Aerith	Referent
+ Cid	Speaker	Cloud	Referent
+ Cid	Speaker	Sephiroth	Referent
+ Cid	Speaker	Cid	Referent
+ Cid	Speaker	Rufus	Referent
+ Cid	Speaker	Rufus	Referent
+ Cid	Speaker	Sephiroth	Referent
+ Cid	Speaker	Tifa	Referent
+ Cid	Speaker	Tifa	Referent
+ Cid	Speaker	Tifa	Referent
+ Cid	Speaker	Cloud	Referent
+ Cid	Speaker	Cloud	Referent
+ Cid	Speaker	Cloud	Referent
+ Cid	Speaker	Cloud	Referent
+ Cid	Speaker	Cloud	Referent
+ Cid	Speaker	Sephiroth	Referent
+ Cid	Speaker	Nanaki	Referent
+ Cid	Speaker	Cloud	Referent
+ Cid	Speaker	Tifa	Referent
+ Cid	Speaker	Cloud	Referent
+ Cid	Speaker	Tifa	Referent
+ Cid	Speaker	Tifa	Referent
+ Cid	Speaker	Cloud	Referent
+ Cid	Speaker	Cloud	Referent
+ Cid	Speaker	Cloud	Referent
+ Cid	Speaker	Tifa	Referent
+ Cid	Speaker	Cloud	Referent
+ Cid	Speaker	Cloud	Referent
+ Cid	Speaker	Cid	Referent
+ Cid	Speaker	Tifa	Referent
+ Cid	Speaker	Cloud	Referent
+ Cid	Speaker	Aerith	Referent
+ Cid	Speaker	Cloud	Referent
+ Cid	Speaker	Cloud	Referent
+ Cid	Speaker	Cloud	Referent
+ Cid	Speaker	Sephiroth	Referent
+ Cid	Speaker	Sephiroth	Referent
+ Cid	Speaker	Barret	Referent
+ Sephiroth	Speaker	Cloud	Referent
+ Sephiroth	Speaker	Cloud	Referent
+ Sephiroth	Speaker	Cloud	Referent
+ Sephiroth	Speaker	Sephiroth	Referent
+ Sephiroth	Speaker	Tifa	Referent
+ Sephiroth	Speaker	Tifa	Referent
+ Sephiroth	Speaker	Cloud	Referent
+ Sephiroth	Speaker	Cloud	Referent
+ Little Cloud	Speaker	Tifa	Referent
+ Little Cloud	Speaker	Tifa	Referent
+ Gatekeeper	Speaker	Nanaki	Referent
+ Gatekeeper	Speaker	Nanaki	Referent
+ Gatekeeper	Speaker	Nanaki	Referent
+ Gatekeeper	Speaker	Nanaki	Referent
+ Bugenhagen	Speaker	Nanaki	Referent
+ Bugenhagen	Speaker	Nanaki	Referent
+ Bugenhagen	Speaker	Nanaki	Referent
+ Bugenhagen	Speaker	Nanaki	Referent
+ Bugenhagen	Speaker	Nanaki	Referent
+ Bugenhagen	Speaker	Cloud	Referent
+ Bugenhagen	Speaker	Cloud	Referent
+ Bugenhagen	Speaker	Nanaki	Referent
+ Bugenhagen	Speaker	Nanaki	Referent
+ Bugenhagen	Speaker	Cloud	Referent
+ Bugenhagen	Speaker	Nanaki	Referent
+ Bugenhagen	Speaker	Cloud	Referent
+ Bugenhagen	Speaker	Cloud	Referent
+ Bugenhagen	Speaker	Sephiroth	Referent
+ Bugenhagen	Speaker	Nanaki	Referent
+ Bugenhagen	Speaker	Nanaki	Referent
+ Bugenhagen	Speaker	Cloud	Referent
+ Bugenhagen	Speaker	Nanaki	Referent
+ Bugenhagen	Speaker	Nanaki	Referent
+ Bugenhagen	Speaker	Nanaki	Referent
+ Bugenhagen	Speaker	Cloud	Referent
+ Bugenhagen	Speaker	Cloud	Referent
+ Bugenhagen	Speaker	Aerith	Referent
+ Bugenhagen	Speaker	Nanaki	Referent
+ Bugenhagen	Speaker	Nanaki	Referent
+ Bugenhagen	Speaker	Cloud	Referent
+ Elder Bugah	Speaker	Nanaki	Referent
+ Elder Bugah	Speaker	Nanaki	Referent
+ Kid near the Cosmo Candle	Speaker	Nanaki	Referent
+ Kid near the Cosmo Candle	Speaker	Nanaki	Referent
+ Elder Hargo	Speaker	Nanaki	Referent
+ Elder Hargo	Speaker	Nanaki	Referent
+ Boy	Speaker	Cloud	Referent
+ President Shinra	Speaker	Sephiroth	Referent
+ Man on the Path to Godo's House	Speaker	Yuffie	Referent
+ Man on the Path to Godo's House	Speaker	Yuffie	Referent
+ Man on the Path to Godo's House	Speaker	Yuffie	Referent
+ Man on the Path to Godo's House	Speaker	Yuffie	Referent
+ Man on the Path to Godo's House	Speaker	Yuffie	Referent
+ Gorky	Speaker	Yuffie	Referent
+ Gorky	Speaker	Yuffie	Referent
+ Gorky	Speaker	Yuffie	Referent
+ Gorky	Speaker	Yuffie	Referent
+ Gorky	Speaker	Yuffie	Referent
+ Gorky	Speaker	Yuffie	Referent
+ Godo	Speaker	Yuffie	Referent
+ Godo	Speaker	Yuffie	Referent
+ Godo	Speaker	Yuffie	Referent
+ Godo	Speaker	Yuffie	Referent
+ Godo	Speaker	Yuffie	Referent
+ Godo	Speaker	Yuffie	Referent
+ Godo	Speaker	Yuffie	Referent
+ Godo	Speaker	Yuffie	Referent
+ Godo	Speaker	Yuffie	Referent
+ Godo	Speaker	Yuffie	Referent
+ Godo	Speaker	Yuffie	Referent
+ Woman Walking near River	Speaker	Yuffie	Referent
+ Staniv	Speaker	Yuffie	Referent
+ Staniv	Speaker	Yuffie	Referent
+ Mr. Coates	Speaker	Cloud	Referent
+ Village Headman	Speaker	Barret	Referent
+ Village Headman	Speaker	Barret	Referent
+ Dyne	Speaker	Barret	Referent
+ Dyne	Speaker	Barret	Referent
+ Dyne	Speaker	Barret	Referent
+ Dyne	Speaker	Barret	Referent
+ Dyne	Speaker	Barret	Referent
+ Dyne	Speaker	Barret	Referent
+ Ester	Speaker	Cloud	Referent
+ Ester	Speaker	Cloud	Referent
+ Ester	Speaker	Cloud	Referent
+ Joe	Speaker	Cloud	Referent
+ Joe	Speaker	Cloud	Referent
+ Elmyra	Speaker	Cloud	Referent
+ Elmyra	Speaker	Aerith	Referent
+ Elmyra	Speaker	Aerith	Referent
+ Elmyra	Speaker	Aerith	Referent
+ Elmyra	Speaker	Aerith	Referent
+ Elmyra	Speaker	Tseng	Referent
+ Elmyra	Speaker	Aerith	Referent
+ Elmyra	Speaker	Cloud	Referent
+ Elmyra	Speaker	Aerith	Referent
+ Elmyra	Speaker	Aerith	Referent
+ Marlene	Speaker	Aerith	Referent
+ Marlene	Speaker	Cloud	Referent
+ Marlene	Speaker	Tifa	Referent
+ Marlene	Speaker	Cloud	Referent
+ Marlene	Speaker	Cloud	Referent
+ Marlene	Speaker	Tifa	Referent
+ Marlene	Speaker	Tifa	Referent
+ Marlene	Speaker	Cloud	Referent
+ All	Speaker	Cloud	Referent
+ Sailor 3	Speaker	Rufus	Referent
+ Someone	Speaker	Sephiroth	Referent
+ Mechanic	Speaker	Rufus	Referent
+ Shera	Speaker	Rufus	Referent
+ Shera	Speaker	Cloud	Referent
+ Shera	Speaker	Rufus	Referent
+ Shera	Speaker	Cid	Referent
+ Palmer	Speaker	Cid	Referent
+ Palmer	Speaker	Sephiroth	Referent
+ Clone	Speaker	Sephiroth	Referent
+ Letter	Speaker	Tifa	Referent
+ Letter	Speaker	Cloud	Referent
+ Letter	Speaker	Tifa	Referent
+ Cloud + Vincent	Speaker	Sephiroth	Referent
+ Man 3	Speaker	Aerith	Referent
+ Reeve	Speaker	Cloud	Referent
+ Reeve	Speaker	Cloud	Referent
+ Hojo	Speaker	Aerith	Referent
+ Hojo	Speaker	Cloud	Referent
+ Hojo	Speaker	Cloud	Referent
+ Hojo	Speaker	Aerith	Referent
+ Hojo	Speaker	Sephiroth	Referent
+ Hojo	Speaker	Sephiroth	Referent
+ Hojo	Speaker	Sephiroth	Referent
+ Hojo	Speaker	Sephiroth	Referent
+ Hojo	Speaker	Sephiroth	Referent
+ Hojo	Speaker	Sephiroth	Referent
+ Hojo	Speaker	Sephiroth	Referent
+ Hojo	Speaker	Sephiroth	Referent
+ Hojo	Speaker	Sephiroth	Referent
+ Red	Speaker	Red XIII	Referent
+ Bald Black Man	Speaker	Rude	Referent
+ Soldier outside Cargo Ship	Speaker	Rufus	Referent
+ Woman Lounging on Sea Plane	Speaker	Rufus	Referent
+ Sailor Running Around	Speaker	Rufus	Referent
+ Sailor Running Around	Speaker	Rufus	Referent
+ Sailor Running Around	Speaker	Rufus	Referent
+ Cloud's Mom	Speaker	Cloud	Referent
+ Cloud's Mom	Speaker	Cloud	Referent
+ Cloud's Mom	Speaker	Cloud	Referent
+ Man with Camera	Speaker	Sephiroth	Referent
+ Man with Camera	Speaker	Cloud	Referent
+ Man with Camera	Speaker	Sephiroth	Referent
+ Man with Camera	Speaker	Tifa	Referent
+ Man with Camera	Speaker	Sephiroth	Referent
+ Man with camera	Speaker	Cloud	Referent
+ Man with camera	Speaker	Sephiroth	Referent
+ Tifa's Father	Speaker	Cloud	Referent
+ Tifa's Father	Speaker	Tifa	Referent
+ Tifa's Father	Speaker	Sephiroth	Referent
+ Tifa's Father	Speaker	Tifa	Referent
+ Tifa's Father	Speaker	Cloud	Referent
+ Tifa's Father	Speaker	Tifa	Referent
+ Black-haired Woman	Speaker	Cloud	Referent
+ Black-haired Woman	Speaker	Cloud	Referent
+ Gramps	Speaker	Cloud	Referent
+ Zangan	Speaker	Tifa	Referent
+ Zangan	Speaker	Tifa	Referent
+ Gossip	Speaker	Tifa	Referent
+ Gossip	Speaker	Barret	Referent
+ Gossip	Speaker	Tifa	Referent
+ Johnny's Cousin	Speaker	Barret	Referent
+ Johnny's Cousin	Speaker	Tifa	Referent
+ Crew Member	Speaker	Cid	Referent
+ Crew Member	Speaker	Barret	Referent
+ Crew Member	Speaker	Cloud	Referent
+ Crew Member	Speaker	Cloud	Referent
+ Pilot in Training (LV3)	Speaker	Cid	Referent
+ Crew Member 4	Speaker	Tifa	Referent
  Soldier on the Path to the Airport	Speaker	Sephiroth	Referent
+ Soldiers in Reactor	Speaker	Cloud	Referent
+ Kid in Nanaki's Room	Speaker	Nanaki	Referent
+ Kid in Nanaki's Room	Speaker	Nanaki	Referent
+ Lucrecia	Speaker	Vincent	Referent
+ Lucrecia	Speaker	Sephiroth	Referent
+ Lucrecia	Speaker	Sephiroth	Referent
+ Lucrecia	Speaker	Vincent	Referent
+ Lucrecia	Speaker	Vincent	Referent
+ Lucrecia	Speaker	Sephiroth	Referent
+ Lucrecia	Speaker	Vincent	Referent
+ Lucrecia	Speaker	Sephiroth	Referent
+ Lucrecia	Speaker	Vincent	Referent
+ Gast	Speaker	Aerith	Referent
+ Gast	Speaker	Aerith	Referent
+ Gast	Speaker	Aerith	Referent
+ Gast	Speaker	Aerith	Referent
+ Ifalna	Speaker	Aerith	Referent
+ Ifalna	Speaker	Aerith	Referent
+ Ifalna	Speaker	Aerith	Referent
+ Zack	Speaker	Cloud	Referent
+ Zack	Speaker	Cloud	Referent
+ Zack	Speaker	Sephiroth	Referent
+ Zack	Speaker	Cloud	Referent
+ Zack	Speaker	Cloud	Referent
+ Learner Pilot (L14)	Speaker	Cloud	Referent
+ Learner Pilot (LV14 Limit Break!)	Speaker	Cloud	Referent
+ Learner Pilot (L13)	Speaker	Cloud	Referent
+ Everyone	Speaker	Cloud	Referent
+ Full Fledged Pilot	Speaker	Cloud	Referent
