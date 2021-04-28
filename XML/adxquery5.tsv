@@ -1,20 +1,3 @@
-unspecified	Speaker	Cloud's HP/MP Restored!	Cloud	Referent
- unspecified	Speaker	Gave "Black Materia" to Sephiroth!	Sephiroth	Referent
- unspecified	Speaker	AerithCloud, isn't this great!? The assistant manager just stopped by and dropped off a 'buggy' for you!Now you can go over 'deserts' and 'rivers' no problem.OK, Cloud. I'll be waiting outside.	Aerith	Referent
- unspecified	Speaker	AerithCloud, isn't this great!? The assistant manager just stopped by and dropped off a 'buggy' for you!Now you can go over 'deserts' and 'rivers' no problem.OK, Cloud. I'll be waiting outside.	Cloud	Referent
- unspecified	Speaker	AerithMom.Please don't cry.	Aerith	Referent
- unspecified	Speaker	"Periodic Report to Professor Hojo"1 Clone Activity ReportUnfortunately, no 'CLONES' have left this town this quarter.As previously reported, the 'CLONES' seem to be sensing something.But all they say is, 'reunion' or 'Sephiroth' and show no other signs of activity.2 Confidentiality ReportA total of eight people have visited this town this quarter.Fortunately, none knew about the incident five years ago.Therefore, no one knows the town was restored exactly as it was five years ago.Our staff, disguised as townspeople have improved their acting skills, and we do not report any problems at this time.That is all.	Sephiroth	Referent
- unspecified	Speaker	Cloud (narrating)...The town was quiet.Everyone must be staying in their houses, afraid to come out because of the monsters.No, maybe they're afraid of us...	Cloud	Referent
- unspecified	Speaker	Received Barret's stash, 1500 gil!	Barret	Referent
- unspecified	Speaker	MarlenePapa! Tifa!	Tifa	Referent
- unspecified	Speaker	Cait SithOh no! Let's hurry out of here!Something big... I'm talkin' REALLY BIG's comin'!	Cait Sith	Referent
- unspecified	Speaker	Cait Sithwhisper... whisper... (sorry I was a little surprised).	Cait Sith	Referent
- unspecified	Speaker	Cait SithYou remember when the Junon Cannon disappeared? Actually, Rufus moved it.	Cait Sith	Referent
- unspecified	Speaker	Cait SithYou remember when the Junon Cannon disappeared? Actually, Rufus moved it.	Rufus	Referent
- unspecified	Speaker	Cait SithRufus wants to destroy Sephiroth with it.That cannon operates on Huge Materia. But the Huge Materia has already been used in the Rocket Plan.So since the cannon's useless right now, he decided to move it.To a place where Materia... no, where Mako is gathered...	Cait Sith	Referent
- unspecified	Speaker	Cait SithRufus wants to destroy Sephiroth with it.That cannon operates on Huge Materia. But the Huge Materia has already been used in the Rocket Plan.So since the cannon's useless right now, he decided to move it.To a place where Materia... no, where Mako is gathered...	Rufus	Referent
- unspecified	Speaker	Cait SithRufus wants to destroy Sephiroth with it.That cannon operates on Huge Materia. But the Huge Materia has already been used in the Rocket Plan.So since the cannon's useless right now, he decided to move it.To a place where Materia... no, where Mako is gathered...	Sephiroth	Referent
- unspecified	Speaker	Tifa,	Tifa	Referent
  Barret	Speaker	BarretThe planet's dyin', Cloud!	Cloud	Referent
  Barret	Speaker	BarretWhen we blow this place, this ain't gonna be nothin' more than a hunka junk.Cloud, you set the bomb.	Cloud	Referent
  Barret	Speaker	BarretWhat's wrong, Cloud? Hurry it up!	Cloud	Referent
@@ -24,7 +7,7 @@ unspecified	Speaker	Cloud's HP/MP Restored!	Cloud	Referent
  Barret	Speaker	BarretHey!! Cloud!!	Cloud	Referent
  Barret	Speaker	BarretThen just leave it.If we can't take it, then neither can Sephiroth, right?	Sephiroth	Referent
  Barret	Speaker	BarretUrrggggggh!!!! Cloud!!	Cloud	Referent
- Barret	Speaker	BarretHEY! Cloud, you #$#&@!	Cloud	Referent
+ Barret	Speaker	BarretHEY! Cloud, you #$#&amp;@!	Cloud	Referent
  Barret	Speaker	BarretThat's one damn tiny hole. You tellin' me to squeeze into that to get under the Plate? No way!Yo, Cloud, what're we gonna do?	Cloud	Referent
  Barret	Speaker	BarretDon't be wastin' time. Never know when the Shinra'll find us.Cloud you jes' gotta go.	Cloud	Referent
  Barret	Speaker	BarretDamn straight.Tifa's old friend... That ain't good enough.	Tifa	Referent
