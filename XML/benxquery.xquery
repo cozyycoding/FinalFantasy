@@ -14,8 +14,8 @@ declare variable $scenes := $discs//scene;
 
         <svg
             xmlns="http://www.w3.org/2000/svg"
-            width="100%"
-            height="100%">
+            width="1200"
+            height="2500">
             <g
                 transform="translate(150,100)">
                 <g>
@@ -32,7 +32,7 @@ declare variable $scenes := $discs//scene;
                         let $speeches := $scenes//Q{}sp
                         let $sceneName :=$scene/Q{}sp[1]/text()
                         let $count := $scene//Q{}speaker => count()
-                        let $barSize := 100
+                        let $barSize := 1000
                             
                             let $count := $scene//Q{}speaker => count()
                             
@@ -84,7 +84,7 @@ declare variable $scenes := $discs//scene;
                             return
                             <g>
                                 <text
-                                    x="-95"
+                                    x="-155"
                                     y="{$pos * $yspacer + 5}"
                                     font-family="sans-serif"
                                     font-size="12px"
@@ -97,57 +97,57 @@ declare variable $scenes := $discs//scene;
                                     stroke="Cyan"
                                     stroke-width="15"/>
                                                                 <line 
-                                    x1="{$TifaBarStart}"
+                                    x1="{$TifaBarStart * $xspacer}"
                                     y1="{$pos * $yspacer}"
-                                    x2="{$TifaBar * $xspacer}"
+                                    x2="{$TifaBar * $xspacer +$TifaBarStart * $xspacer}"
                                     y2="{$pos * $yspacer}"
                                     stroke="blue"
                                     stroke-width="15"/>
                                                                 <line 
-                                    x1="{$BarretBarStart}"
+                                    x1="{$BarretBarStart * $xspacer}"
                                     y1="{$pos * $yspacer}"
-                                    x2="{$BarretBar * $xspacer}"
+                                    x2="{$BarretBar * $xspacer + $BarretBarStart * $xspacer}"
                                     y2="{$pos * $yspacer}"
                                     stroke="blue"
                                     stroke-width="15"/>
                                                                 <line 
-                                    x1="{$YuffieBarStart}"
+                                    x1="{$YuffieBarStart * $xspacer}"
                                     y1="{$pos * $yspacer}"
-                                    x2="{$YuffieBar * $xspacer}"
+                                    x2="{$YuffieBar * $xspacer +$YuffieBarStart* $xspacer}"
                                     y2="{$pos * $yspacer}"
                                     stroke="blue"
                                     stroke-width="15"/>
                                                                 <line 
-                                    x1="{$NanakiBarStart}"
+                                    x1="{$NanakiBarStart * $xspacer}"
                                     y1="{$pos * $yspacer}"
-                                    x2="{$NanakiBar * $xspacer}"
+                                    x2="{$NanakiBar * $xspacer + $NanakiBarStart* $xspacer}"
                                     y2="{$pos * $yspacer}"
                                     stroke="blue"
                                     stroke-width="15"/>
                                                                 <line 
-                                    x1="{$VincentBarStart}"
+                                    x1="{$VincentBarStart * $xspacer}"
                                     y1="{$pos * $yspacer}"
-                                    x2="{$VincentBar * $xspacer}"
+                                    x2="{$VincentBar * $xspacer +$VincentBarStart * $xspacer}"
                                     y2="{$pos * $yspacer}"
                                     stroke="blue"
                                     stroke-width="15"/>                            <line 
-                                    x1="{$CidBarStart}"
+                                    x1="{$CidBarStart * $xspacer}"
                                     y1="{$pos * $yspacer}"
-                                    x2="{$CidBarStart * $xspacer}"
+                                    x2="{$CidBarStart * $xspacer = $CidBarStart * $xspacer}"
                                     y2="{$pos * $yspacer}"
                                     stroke="blue"
                                     stroke-width="15"/>
                                                                 <line 
-                                    x1="{$AerithBarStart}"
+                                    x1="{$AerithBarStart * $xspacer}"
                                     y1="{$pos * $yspacer}"
-                                    x2="{$AerithBar * $xspacer}"
+                                    x2="{$AerithBar * $xspacer + $AerithBarStart * $xspacer}"
                                     y2="{$pos * $yspacer}"
                                     stroke="blue"
                                     stroke-width="15"/>
                                                                 <line 
-                                    x1="{$CaitSithBarStart}"
+                                    x1="{$CaitSithBarStart * $xspacer}"
                                     y1="{$pos * $yspacer}"
-                                    x2="{$CaitSithBar * $xspacer}"
+                                    x2="{$CaitSithBar * $xspacer + $CaitSithBarStart * $xspacer}"
                                     y2="{$pos * $yspacer}"
                                     stroke="blue"
                                     stroke-width="15"/>
