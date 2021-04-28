@@ -14,7 +14,7 @@ declare variable $scenes := $discs//scene;
 
         <svg
             xmlns="http://www.w3.org/2000/svg"
-            width="1200"
+            width="14000"
             height="2500">
             <g
                 transform="translate(250,100)">
@@ -31,8 +31,7 @@ declare variable $scenes := $discs//scene;
                         for $scene at $pos in $scenes
                         let $speeches := $scenes//Q{}sp
                         let $sceneName :=$scene/Q{}sp[1]/text()
-                        let $count := $scene//Q{}speaker => count()
-                        let $barSize := 1000
+                        let $barSize := 950
                             
                             let $count := $scene//Q{}speaker => count()
                             
@@ -81,10 +80,14 @@ declare variable $scenes := $discs//scene;
                             let $CaitSithBar := $CaitSithPercent * $barSize
                             let $CaitSithBarStart := $AerithBar + $AerithBarStart
                             
+                            let $otherCount := $scene//Q{}sp/Q{}speaker[not(contains(@name, 'Cloud')) and not(contains(@name, 'Barret')) and not(contains(@name, 'Tifa')) and not(contains(@name, 'Yuffie')) and not(contains(@name, 'Nanaki')) and not(contains(@name, 'Vincent')) and not(contains(@name, 'Cid')) and not(contains(@name, 'Cait Sith')) and not(contains(@name, 'Aerith'))] => count() div $count
+                            let $otherPercent := $otherCount div $count
+                            let $otherBar := $otherPercent *$barSize
+                            let $otherBarStart := $CaitSithBarStart + $CaitSithBar
                             return
                             <g>
                                 <text
-                                    x="-150"
+                                    x="-250"
                                     y="{$pos * $yspacer + 5}"
                                     font-family="sans-serif"
                                     font-size="12px"
@@ -130,10 +133,11 @@ declare variable $scenes := $discs//scene;
                                     x2="{$VincentBar * $xspacer +$VincentBarStart * $xspacer}"
                                     y2="{$pos * $yspacer}"
                                     stroke="red"
-                                    stroke-width="15"/>                            <line 
+                                    stroke-width="15"/>                          
+                                    <line 
                                     x1="{$CidBarStart * $xspacer}"
                                     y1="{$pos * $yspacer}"
-                                    x2="{$CidBarStart * $xspacer = $CidBarStart * $xspacer}"
+                                    x2="{$CidBar * $xspacer + $CidBarStart * $xspacer}"
                                     y2="{$pos * $yspacer}"
                                     stroke="yellow"
                                     stroke-width="15"/>
@@ -149,7 +153,14 @@ declare variable $scenes := $discs//scene;
                                     y1="{$pos * $yspacer}"
                                     x2="{$CaitSithBar * $xspacer + $CaitSithBarStart * $xspacer}"
                                     y2="{$pos * $yspacer}"
-                                    stroke="black"
+                                    stroke="purple"
+                                    stroke-width="15"/>
+                                                                                                    <line 
+                                    x1="{$otherBarStart * $xspacer}"
+                                    y1="{$pos * $yspacer}"
+                                    x2="{$otherBar * $xspacer + $otherBarStart * $xspacer}"
+                                    y2="{$pos * $yspacer}"
+                                    stroke="blue"
                                     stroke-width="15"/>
                                 <line
                                     x1="0"
