@@ -1,4 +1,7 @@
-declare variable $discs := collection("/Final//?select*.xml");
+declare variable $disc1 := collection('Final/Disc1/?select=*.xml'); 
+declare variable $disc2 := collection('Final/Disc2/?select=*.xml'); 
+declare variable $disc3 := collection('Final/Disc3/?select=*.xml');
+declare variable $discs := ($disc1, $disc2, $disc3); 
 declare variable $xspacer := 20;
 declare variable $yspacer := 25;
 declare variable $scenes := $discs//scene;
