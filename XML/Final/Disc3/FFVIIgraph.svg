@@ -1,0 +1,690 @@
+<!DOCTYPE HTML>
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+      <title>Lines of dialogue per Character per Scene</title>
+   </head>
+   <body>
+      <p>The graph here lets us see the number of times each character speaks. This is relevant
+         to our research question, as it lets us see the impact that each character has on
+         the story.</p><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+         <g transform="translate(150,100)">
+            <g>
+               <text x="0" y="-5" font-family="sans-serif" font-size="20px" fill="black">Reccuring Characters in Final Fantasy</text>
+            </g>
+            <g>
+               <g>
+                  <text x="-95" y="50" font-family="sans-serif" font-size="12px" fill="black"> Sector 1 - The No. 1 Reactor </text>
+                  <line x1="0" y1="45" x2="9.41230486685032139393939393939394" y2="45" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.2353076216712580348484848484848485" y1="45" x2="0" y2="45" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2353076216712580348484848484848485" y1="45" x2="6.198347107438016515151515151515152" y2="45" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3902662993572084477272727272727273" y1="45" x2="0" y2="45" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3902662993572084477272727272727273" y1="45" x2="0" y2="45" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3902662993572084477272727272727273" y1="45" x2="0" y2="45" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3902662993572084477272727272727273" y1="45" x2="15.610651974288337909090909090909092" y2="45" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3902662993572084477272727272727273" y1="45" x2="0" y2="45" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3902662993572084477272727272727273" y1="45" x2="0" y2="45" stroke="blue" stroke-width="15"></line>
+                  <text x="5290" y="50" font-family="sans-serif" font-size="12px" fill="black">132</text>
+                  <line x1="0" y1="0" x2="0" y2="90" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="95" font-family="sans-serif" font-size="12px" fill="black"> Sector 7 - Seventh Heaven </text>
+                  <line x1="0" y1="90" x2="4.759071980963712069686411149825784" y2="90" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.1189767995240928017421602787456446" y1="90" x2="1.991040318566450968641114982578396" y2="90" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1687528074882540759581881533101045" y1="90" x2="1.068363097767363930313588850174216" y2="90" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1954618849324381742160278745644599" y1="90" x2="0" y2="90" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1954618849324381742160278745644599" y1="90" x2="0" y2="90" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1954618849324381742160278745644599" y1="90" x2="0" y2="90" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1954618849324381742160278745644599" y1="90" x2="7.818475397297526968641114982578396" y2="90" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1954618849324381742160278745644599" y1="90" x2="0" y2="90" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1954618849324381742160278745644599" y1="90" x2="0" y2="90" stroke="blue" stroke-width="15"></line>
+                  <text x="11490" y="95" font-family="sans-serif" font-size="12px" fill="black">287</text>
+                  <line x1="0" y1="0" x2="0" y2="135" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="140" font-family="sans-serif" font-size="12px" fill="black"> Sector 4 - The No. 5 Reactor </text>
+                  <line x1="0" y1="135" x2="4.759071980963712073170731707317072" y2="135" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.1189767995240928018292682926829268" y1="135" x2="4.164187983343248073170731707317072" y2="135" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2230814991076740036585365853658536" y1="135" x2="7.13860797144556812195121951219512" y2="135" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.4015466983938132067073170731707316" y1="135" x2="0" y2="135" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.4015466983938132067073170731707316" y1="135" x2="0" y2="135" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.4015466983938132067073170731707316" y1="135" x2="0" y2="135" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.4015466983938132067073170731707316" y1="135" x2="16.061867935752528268292682926829264" y2="135" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.4015466983938132067073170731707316" y1="135" x2="0" y2="135" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.4015466983938132067073170731707316" y1="135" x2="0" y2="135" stroke="blue" stroke-width="15"></line>
+                  <text x="6570" y="140" font-family="sans-serif" font-size="12px" fill="black">164</text>
+                  <line x1="0" y1="0" x2="0" y2="180" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="185" font-family="sans-serif" font-size="12px" fill="black"> Sector 5 - Aerith </text>
+                  <line x1="0" y1="180" x2="8.719280957926483322404371584699452" y2="180" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.2179820239481620830601092896174863" y1="180" x2="0" y2="180" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2179820239481620830601092896174863" y1="180" x2="0" y2="180" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2179820239481620830601092896174863" y1="180" x2="0" y2="180" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2179820239481620830601092896174863" y1="180" x2="0" y2="180" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2179820239481620830601092896174863" y1="180" x2="0" y2="180" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2179820239481620830601092896174863" y1="180" x2="8.719280957926483322404371584699452" y2="180" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2179820239481620830601092896174863" y1="180" x2="5.972110245155125573770491803278688" y2="180" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3672847800770402224043715846994535" y1="180" x2="0" y2="180" stroke="blue" stroke-width="15"></line>
+                  <text x="7330" y="185" font-family="sans-serif" font-size="12px" fill="black">183</text>
+                  <line x1="0" y1="0" x2="0" y2="225" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="230" font-family="sans-serif" font-size="12px" fill="black"> Sector 6 - Wall Market </text>
+                  <line x1="0" y1="225" x2="2.120081143581864476021314387211368" y2="225" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.0530020285895466119005328596802842" y1="225" x2="0.403824979729878948490230905861456" y2="225" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.0630976530827935856127886323268206" y1="225" x2="0" y2="225" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.0630976530827935856127886323268206" y1="225" x2="0" y2="225" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.0630976530827935856127886323268206" y1="225" x2="0" y2="225" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.0630976530827935856127886323268206" y1="225" x2="0" y2="225" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.0630976530827935856127886323268206" y1="225" x2="2.523906123311743424511545293072824" y2="225" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.0630976530827935856127886323268206" y1="225" x2="0.996942918708138650088809946714032" y2="225" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.0880212260504970518650088809946714" y1="225" x2="0" y2="225" stroke="blue" stroke-width="15"></line>
+                  <text x="22530" y="230" font-family="sans-serif" font-size="12px" fill="black">563</text>
+                  <line x1="0" y1="0" x2="0" y2="270" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="275" font-family="sans-serif" font-size="12px" fill="black"> Sector 7 - Fall of the Pillar </text>
+                  <line x1="0" y1="270" x2="6.24256837098692034482758620689656" y2="270" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.156064209274673008620689655172414" y1="270" x2="8.917954815695600482758620689655172" y2="270" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3790130796670630206896551724137933" y1="270" x2="6.539833531510107" y2="270" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.5425089179548156956896551724137933" y1="270" x2="0" y2="270" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.5425089179548156956896551724137933" y1="270" x2="0" y2="270" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.5425089179548156956896551724137933" y1="270" x2="0" y2="270" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.5425089179548156956896551724137933" y1="270" x2="21.700356718192627827586206896551732" y2="270" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.5425089179548156956896551724137933" y1="270" x2="2.972651605231866827586206896551724" y2="270" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.6168252080856123663793103448275864" y1="270" x2="0" y2="270" stroke="blue" stroke-width="15"></line>
+                  <text x="4650" y="275" font-family="sans-serif" font-size="12px" fill="black">116</text>
+                  <line x1="0" y1="0" x2="0" y2="315" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="320" font-family="sans-serif" font-size="12px" fill="black"> Sector 5 - Aerith's Story </text>
+                  <line x1="0" y1="315" x2="6.320022981901752372881355932203388" y2="315" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.1580005745475438093220338983050847" y1="315" x2="2.872737719046251084745762711864408" y2="315" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2298190175237000864406779661016949" y1="315" x2="3.447285262855501288135593220338984" y2="315" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3160011490950876186440677966101695" y1="315" x2="0" y2="315" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3160011490950876186440677966101695" y1="315" x2="0" y2="315" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3160011490950876186440677966101695" y1="315" x2="0" y2="315" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3160011490950876186440677966101695" y1="315" x2="12.64004596380350474576271186440678" y2="315" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3160011490950876186440677966101695" y1="315" x2="1.436368859523125525423728813559324" y2="315" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3519103705831657567796610169491526" y1="315" x2="0" y2="315" stroke="blue" stroke-width="15"></line>
+                  <text x="4730" y="320" font-family="sans-serif" font-size="12px" fill="black">118</text>
+                  <line x1="0" y1="0" x2="0" y2="360" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="365" font-family="sans-serif" font-size="12px" fill="black"> The Shinra Building </text>
+                  <line x1="0" y1="360" x2="2.27112538178400814159292035398232" y2="360" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.056778134544600203539823008849558" y1="360" x2="1.29219202756676325663716814159292" y2="360" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.089082935233769284955752212389381" y1="360" x2="1.762080037591040805309734513274336" y2="360" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1331349361735453050884955752212394" y1="360" x2="0" y2="360" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1331349361735453050884955752212394" y1="360" x2="0" y2="360" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1331349361735453050884955752212394" y1="360" x2="0" y2="360" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1331349361735453050884955752212394" y1="360" x2="5.325397446941812203539823008849576" y2="360" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1331349361735453050884955752212394" y1="360" x2="0.587360012530346938053097345132744" y2="360" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.147818936486803978539823008849558" y1="360" x2="0" y2="360" stroke="blue" stroke-width="15"></line>
+                  <text x="18090" y="365" font-family="sans-serif" font-size="12px" fill="black">452</text>
+                  <line x1="0" y1="0" x2="0" y2="405" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="410" font-family="sans-serif" font-size="12px" fill="black"> Kalm - Cloud's Story </text>
+                  <line x1="0" y1="405" x2="3.349070210864777771883289124668436" y2="405" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.0837267552716194442970822281167109" y1="405" x2="1.294598568905712413793103448275864" y2="405" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1160917194942622546419098143236075" y1="405" x2="0.675442731602980392572944297082228" y2="405" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1329777877843367644562334217506632" y1="405" x2="0" y2="405" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1329777877843367644562334217506632" y1="405" x2="0" y2="405" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1329777877843367644562334217506632" y1="405" x2="0" y2="405" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1329777877843367644562334217506632" y1="405" x2="5.319111511373470578249336870026528" y2="405" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1329777877843367644562334217506632" y1="405" x2="0.534725495852359480106100795755968" y2="405" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1463459251806457514588859416445624" y1="405" x2="0" y2="405" stroke="blue" stroke-width="15"></line>
+                  <text x="15090" y="410" font-family="sans-serif" font-size="12px" fill="black">377</text>
+                  <line x1="0" y1="0" x2="0" y2="450" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="455" font-family="sans-serif" font-size="12px" fill="black"> The Road to Junon - Yuffie </text>
+                  <line x1="0" y1="450" x2="4.48707676106316246889952153110048" y2="450" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.112176919026579061722488038277512" y1="450" x2="1.648313912227284172248803827751196" y2="450" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1533847668322611660287081339712919" y1="450" x2="1.190448936608594124401913875598088" y2="450" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1831459902474760191387559808612441" y1="450" x2="1.465167921979808153110047846889952" y2="450" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2197751882969712229665071770334929" y1="450" x2="0" y2="450" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2197751882969712229665071770334929" y1="450" x2="1.007302946361118105263157894736844" y2="450" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.244957761955999175598086124401914" y1="450" x2="9.79831047823996702392344497607656" y2="450" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2815869600054943794258373205741628" y1="450" x2="1.373594926856070143540669856459332" y2="450" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3159268331768961330143540669856461" y1="450" x2="1.007302946361118105263157894736844" y2="450" stroke="blue" stroke-width="15"></line>
+                  <text x="8370" y="455" font-family="sans-serif" font-size="12px" fill="black">209</text>
+                  <line x1="0" y1="0" x2="0" y2="495" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="500" font-family="sans-serif" font-size="12px" fill="black"> Fort Condor - Fighting the Shinra </text>
+                  <line x1="0" y1="495" x2="7.137345679012345666666666666666668" y2="495" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.1784336419753086416666666666666667" y1="495" x2="2.507716049382716055555555555555556" y2="495" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2411265432098765430555555555555556" y1="495" x2="1.7361111111111111112" y2="495" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2845293209876543208355555555555556" y1="495" x2="1.7361111111111111112" y2="495" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3279320987654320986155555555555556" y1="495" x2="0" y2="495" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3279320987654320986155555555555556" y1="495" x2="1.7361111111111111112" y2="495" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3713348765432098763955555555555556" y1="495" x2="14.853395061728395055822222222222224" y2="495" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.4099151234567901236177777777777778" y1="495" x2="1.543209876543209888888888888888888" y2="495" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.44849537037037037084" y1="495" x2="1.543209876543209888888888888888888" y2="495" stroke="blue" stroke-width="15"></line>
+                  <text x="5770" y="500" font-family="sans-serif" font-size="12px" fill="black">144</text>
+                  <line x1="0" y1="0" x2="0" y2="540" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="545" font-family="sans-serif" font-size="12px" fill="black"> Junon - The New President Rufus </text>
+                  <line x1="0" y1="540" x2="3.389268544272320360515021459227468" y2="540" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.0847317136068080090128755364806867" y1="540" x2="0.736797509624417476394849785407724" y2="540" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1031516513474184459227467811158798" y1="540" x2="0.810477260586859210300429184549356" y2="540" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1234135828620899261802575107296137" y1="540" x2="0.44207850577465048927038626609442" y2="540" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1344655455064561884120171673819742" y1="540" x2="0" y2="540" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1344655455064561884120171673819742" y1="540" x2="0" y2="540" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1344655455064561884120171673819742" y1="540" x2="5.378621820258247536480686695278968" y2="540" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1344655455064561884120171673819742" y1="540" x2="0.589438007699533974248927038626608" y2="540" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1492014956989445377682403433476394" y1="540" x2="0" y2="540" stroke="blue" stroke-width="15"></line>
+                  <text x="9330" y="545" font-family="sans-serif" font-size="12px" fill="black">233</text>
+                  <line x1="0" y1="0" x2="0" y2="585" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="590" font-family="sans-serif" font-size="12px" fill="black"> Cargo Ship - Ocean Crossing </text>
+                  <line x1="0" y1="585" x2="10.650794893883624389380530973451328" y2="585" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.2662698723470906097345132743362832" y1="585" x2="4.072362753543738725663716814159292" y2="585" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3680789411856840778761061946902655" y1="585" x2="3.759104080194220389380530973451328" y2="585" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.4620565431905395876106194690265487" y1="585" x2="4.072362753543738725663716814159292" y2="585" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.563865612029133055752212389380531" y1="585" x2="0" y2="585" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.563865612029133055752212389380531" y1="585" x2="0" y2="585" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.563865612029133055752212389380531" y1="585" x2="22.55462448116532223008849557522124" y2="585" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.563865612029133055752212389380531" y1="585" x2="4.072362753543738725663716814159292" y2="585" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.6656746808677265238938053097345133" y1="585" x2="0" y2="585" stroke="blue" stroke-width="15"></line>
+                  <text x="4530" y="590" font-family="sans-serif" font-size="12px" fill="black">113</text>
+                  <line x1="0" y1="0" x2="0" y2="630" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="635" font-family="sans-serif" font-size="12px" fill="black"> Costa del Sol - Taking a Break </text>
+                  <line x1="0" y1="630" x2="4.759329367225527311627906976744188" y2="630" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.1189832341806381827906976744186047" y1="630" x2="1.29799891833423471627906976744186" y2="630" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1514332071389940506976744186046512" y1="630" x2="0.7787993510005408372093023255814" y2="630" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1709031909140075716279069767441862" y1="630" x2="0.34613304488912926511627906976744" y2="630" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1795565170362358032558139534883722" y1="630" x2="0" y2="630" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1795565170362358032558139534883722" y1="630" x2="0" y2="630" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1795565170362358032558139534883722" y1="630" x2="7.182260681449432130232558139534888" y2="630" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1795565170362358032558139534883722" y1="630" x2="1.211465657111952409302325581395348" y2="630" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2098431584640346134883720930232559" y1="630" x2="0" y2="630" stroke="blue" stroke-width="15"></line>
+                  <text x="8610" y="635" font-family="sans-serif" font-size="12px" fill="black">215</text>
+                  <line x1="0" y1="0" x2="0" y2="675" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="680" font-family="sans-serif" font-size="12px" fill="black"> Corel - Garbage Dump of a Town </text>
+                  <line x1="0" y1="675" x2="5.746691871455576556521739130434784" y2="675" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.1436672967863894139130434782608696" y1="675" x2="3.629489603024574678260869565217392" y2="675" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2344045368620037808695652173913044" y1="675" x2="6.9565217391304348" y2="675" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.4083175803402646508695652173913044" y1="675" x2="2.117202268431001878260869565217392" y2="675" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.4612476370510396978260869565217392" y1="675" x2="0" y2="675" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.4612476370510396978260869565217392" y1="675" x2="0" y2="675" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.4612476370510396978260869565217392" y1="675" x2="18.449905482041587913043478260869568" y2="675" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.4612476370510396978260869565217392" y1="675" x2="3.629489603024574678260869565217392" y2="675" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.551984877126654064782608695652174" y1="675" x2="0" y2="675" stroke="blue" stroke-width="15"></line>
+                  <text x="4610" y="680" font-family="sans-serif" font-size="12px" fill="black">115</text>
+                  <line x1="0" y1="0" x2="0" y2="720" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="725" font-family="sans-serif" font-size="12px" fill="black"> Gold Saucer - Meeting Cait Sith </text>
+                  <line x1="0" y1="720" x2="4.536862003780718330434782608695652" y2="720" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.1134215500945179582608695652173913" y1="720" x2="1.058601134215500939130434782608696" y2="720" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1398865784499054817391304347826087" y1="720" x2="0.151228733459357269565217391304348" y2="720" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1436672967863894134782608695652174" y1="720" x2="0.831758034026465026086956521739132" y2="720" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1644612476370510391304347826086957" y1="720" x2="0" y2="720" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1644612476370510391304347826086957" y1="720" x2="0" y2="720" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1644612476370510391304347826086957" y1="720" x2="6.578449905482041565217391304347828" y2="720" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1644612476370510391304347826086957" y1="720" x2="1.209829867674858226086956521739132" y2="720" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.194706994328922494782608695652174" y1="720" x2="0.756143667296786382608695652173912" y2="720" stroke="blue" stroke-width="15"></line>
+                  <text x="9210" y="725" font-family="sans-serif" font-size="12px" fill="black">230</text>
+                  <line x1="0" y1="0" x2="0" y2="765" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="770" font-family="sans-serif" font-size="12px" fill="black"> Corel Prison - Confronting Dyne </text>
+                  <line x1="0" y1="765" x2="3.224939532383767803278688524590164" y2="765" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.0806234883095941950819672131147541" y1="765" x2="1.074979844127922601092896174863388" y2="765" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1074979844127922601092896174863388" y1="765" x2="4.8971304010272029726775956284153" y2="765" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2299262444384723344262295081967213" y1="765" x2="0.597211024515512546448087431693988" y2="765" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.244856520051360148087431693989071" y1="765" x2="0" y2="765" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.244856520051360148087431693989071" y1="765" x2="0" y2="765" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.244856520051360148087431693989071" y1="765" x2="9.79426080205440592349726775956284" y2="765" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.244856520051360148087431693989071" y1="765" x2="1.313864253934127628415300546448088" y2="765" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2777031263997133387978142076502732" y1="765" x2="0.71665322941861506010928961748634" y2="765" stroke="blue" stroke-width="15"></line>
+                  <text x="7330" y="770" font-family="sans-serif" font-size="12px" fill="black">183</text>
+                  <line x1="0" y1="0" x2="0" y2="810" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="815" font-family="sans-serif" font-size="12px" fill="black"> Gongaga - A Ruined Reactor </text>
+                  <line x1="0" y1="810" x2="9.125173576671295380281690140845072" y2="810" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.2281293394167823845070422535211268" y1="810" x2="2.578853402102757380281690140845072" y2="810" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2926006744693513190140845070422536" y1="810" x2="0.396746677246578056338028169014084" y2="810" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3025193414005157704225352112676057" y1="810" x2="0.396746677246578056338028169014084" y2="810" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3124380083316802218309859154929578" y1="810" x2="0" y2="810" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3124380083316802218309859154929578" y1="810" x2="0.396746677246578056338028169014084" y2="810" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3223566752628446732394366197183099" y1="810" x2="12.894267010513786929577464788732396" y2="810" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.332275342194009124647887323943662" y1="810" x2="2.975600079349335436619718309859156" y2="810" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.4066653441777425105633802816901409" y1="810" x2="0.396746677246578056338028169014084" y2="810" stroke="blue" stroke-width="15"></line>
+                  <text x="5690" y="815" font-family="sans-serif" font-size="12px" fill="black">142</text>
+                  <line x1="0" y1="0" x2="0" y2="855" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="860" font-family="sans-serif" font-size="12px" fill="black"> Cosmo Canyon - Nanaki </text>
+                  <line x1="0" y1="855" x2="3.447285262855501288135593220338984" y2="855" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.0861821315713875322033898305084746" y1="855" x2="0.71818442976156276271186440677966" y2="855" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1041367423154266012711864406779661" y1="855" x2="1.005458201666187881355932203389832" y2="855" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1292731973570812983050847457627119" y1="855" x2="0.64636598678540649152542372881356" y2="855" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1454323470267164605932203389830509" y1="855" x2="2.370008618213157135593220338983052" y2="855" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2046825624820453889830508474576272" y1="855" x2="0" y2="855" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2046825624820453889830508474576272" y1="855" x2="8.187302499281815559322033898305088" y2="855" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2046825624820453889830508474576272" y1="855" x2="0.861821315713875322033898305084744" y2="855" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2262280953748922720338983050847458" y1="855" x2="0.430910657856937661016949152542372" y2="855" stroke="blue" stroke-width="15"></line>
+                  <text x="9450" y="860" font-family="sans-serif" font-size="12px" fill="black">236</text>
+                  <line x1="0" y1="0" x2="0" y2="900" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="905" font-family="sans-serif" font-size="12px" fill="black"> Nibelheim - Reconstructed </text>
+                  <line x1="0" y1="900" x2="7.889546351084812615384615384615384" y2="900" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.1972386587771203153846153846153846" y1="900" x2="1.150558842866535179487179487179488" y2="900" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2260026298487836948717948717948718" y1="900" x2="1.150558842866535179487179487179488" y2="900" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.254766600920447074358974358974359" y1="900" x2="1.150558842866535179487179487179488" y2="900" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2835305719921104538461538461538462" y1="900" x2="1.150558842866535179487179487179488" y2="900" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3122945430637738333333333333333334" y1="900" x2="3.45167652859960551282051282051282" y2="900" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3985864562787639711538461538461539" y1="900" x2="15.943458251150558846153846153846156" y2="900" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.4150230111768573307692307692307693" y1="900" x2="1.150558842866535179487179487179488" y2="900" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.4437869822485207102564102564102565" y1="900" x2="1.150558842866535179487179487179488" y2="900" stroke="blue" stroke-width="15"></line>
+                  <text x="6250" y="905" font-family="sans-serif" font-size="12px" fill="black">156</text>
+                  <line x1="0" y1="0" x2="0" y2="945" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="950" font-family="sans-serif" font-size="12px" fill="black"> Rocket Town - Meeting Cid </text>
+                  <line x1="0" y1="945" x2="4.395470223741644022099447513812156" y2="945" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.1098867555935411005524861878453039" y1="945" x2="0.73257837062360733701657458563536" y2="945" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1282012148591312839779005524861879" y1="945" x2="0.73257837062360733701657458563536" y2="945" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1465156741247214674033149171270719" y1="945" x2="0.854674765727541900552486187845304" y2="945" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1678825432679100149171270718232045" y1="945" x2="0.73257837062360733701657458563536" y2="945" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1861970025335001983425414364640885" y1="945" x2="0.73257837062360733701657458563536" y2="945" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2045114617990903817679558011049725" y1="945" x2="8.1804584719636152707182320441989" y2="945" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3418699062910167574585635359116025" y1="945" x2="0.73257837062360733701657458563536" y2="945" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3601843655566069408839779005524865" y1="945" x2="0.73257837062360733701657458563536" y2="945" stroke="blue" stroke-width="15"></line>
+                  <text x="7250" y="950" font-family="sans-serif" font-size="12px" fill="black">181</text>
+                  <line x1="0" y1="0" x2="0" y2="990" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="995" font-family="sans-serif" font-size="12px" fill="black"> Wutai - Stolen Materia </text>
+                  <line x1="0" y1="990" x2="0.7166110439999180995475113122172" y2="990" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.01791527609999795248868778280543" y1="990" x2="0.511865031428512932126696832579184" y2="990" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.0307119018857107757918552036199096" y1="990" x2="0.327593620114248271493212669683256" y2="990" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.038901742388566982579185520361991" y1="990" x2="1.351323682971274135746606334841628" y2="990" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.0726848344628488359728506787330317" y1="990" x2="0.327593620114248271493212669683256" y2="990" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.0808746749657050427601809954751131" y1="990" x2="0.28664441759996723981900452488688" y2="990" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.0880407854057042237556561085972851" y1="990" x2="3.521631416228168950226244343891404" y2="990" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1018611412542740728506787330316742" y1="990" x2="0.327593620114248271493212669683256" y2="990" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1100509817571302796380090497737556" y1="990" x2="0.307119018857107755656108597285068" y2="990" stroke="blue" stroke-width="15"></line>
+                  <text x="17690" y="995" font-family="sans-serif" font-size="12px" fill="black">442</text>
+                  <line x1="0" y1="0" x2="0" y2="1035" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="1040" font-family="sans-serif" font-size="12px" fill="black"> The World - Before the Temple of the Ancients </text>
+                  <line x1="0" y1="1035" x2="9.216" y2="1035" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.2304" y1="1035" x2="0" y2="1035" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2304" y1="1035" x2="0" y2="1035" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2304" y1="1035" x2="0" y2="1035" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2304" y1="1035" x2="0" y2="1035" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2304" y1="1035" x2="0" y2="1035" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2304" y1="1035" x2="9.216" y2="1035" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2304" y1="1035" x2="0" y2="1035" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2304" y1="1035" x2="0" y2="1035" stroke="blue" stroke-width="15"></line>
+                  <text x="5010" y="1040" font-family="sans-serif" font-size="12px" fill="black">125</text>
+                  <line x1="0" y1="0" x2="0" y2="1080" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="1085" font-family="sans-serif" font-size="12px" fill="black"> Gold Saucer - Interrupted by Fireworks </text>
+                  <line x1="0" y1="1080" x2="1.47106544077879934883720930232558" y2="1080" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.0367766360194699837209302325581395" y1="1080" x2="0.50958476053121807751937984496124" y2="1080" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.0495162550327504356589147286821705" y1="1080" x2="0.27882939727179856744186046511628" y2="1080" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.0564869899645453998449612403100775" y1="1080" x2="0.461510726518839013953488372093024" y2="1080" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.0680247581275163751937984496124031" y1="1080" x2="0.05768884081485487751937984496124" y2="1080" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.0694669791478877471317829457364341" y1="1080" x2="0.028844420407427435658914728682172" y2="1080" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.0701880896580734330232558139534884" y1="1080" x2="2.807523586322937320930232558139536" y2="1080" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.0713899405083829096124031007751938" y1="1080" x2="0.548043987741121327131782945736436" y2="1080" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.0850910402019109427906976744186047" y1="1080" x2="0.211525749654467882170542635658916" y2="1080" stroke="blue" stroke-width="15"></line>
+                  <text x="25810" y="1085" font-family="sans-serif" font-size="12px" fill="black">645</text>
+                  <line x1="0" y1="0" x2="0" y2="1125" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="1130" font-family="sans-serif" font-size="12px" fill="black"> The Temple of the Ancients </text>
+                  <line x1="0" y1="1125" x2="4.317391787431945529880478087649404" y2="1125" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.1079347946857986382470119521912351" y1="1125" x2="0.6984016126728147250996015936255" y2="1125" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1253948350026190063745019920318726" y1="1125" x2="0.6984016126728147250996015936255" y2="1125" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1428548753194393745019920318725101" y1="1125" x2="0.6984016126728147250996015936255" y2="1125" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1603149156362597426294820717131476" y1="1125" x2="0.6984016126728147250996015936255" y2="1125" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1777749559530801107569721115537851" y1="1125" x2="0.6984016126728147250996015936255" y2="1125" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1952349962699004788844621513944226" y1="1125" x2="7.809399850796019155378486055776904" y2="1125" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2126950365867208470119521912350601" y1="1125" x2="3.428517007666544972111553784860556" y2="1125" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.298407961778384471314741035856574" y1="1125" x2="1.523785336740686661354581673306772" y2="1125" stroke="blue" stroke-width="15"></line>
+                  <text x="10050" y="1130" font-family="sans-serif" font-size="12px" fill="black">251</text>
+                  <line x1="0" y1="0" x2="0" y2="1170" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="1175" font-family="sans-serif" font-size="12px" fill="black"> Gongaga - Afraid to Go On </text>
+                  <line x1="0" y1="1170" x2="40.905770635500365189189189189189188" y2="1170" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="1.0226442658875091297297297297297297" y1="1170" x2="26.29656683710737762162162162162162" y2="1170" stroke="blue" stroke-width="15"></line>
+                  <line x1="1.6800584368151935702702702702702702" y1="1170" x2="37.983929875821767675675675675675676" y2="1170" stroke="blue" stroke-width="15"></line>
+                  <line x1="2.6296566837107377621621621621621621" y1="1170" x2="0" y2="1170" stroke="blue" stroke-width="15"></line>
+                  <line x1="2.6296566837107377621621621621621621" y1="1170" x2="0" y2="1170" stroke="blue" stroke-width="15"></line>
+                  <line x1="2.6296566837107377621621621621621621" y1="1170" x2="0" y2="1170" stroke="blue" stroke-width="15"></line>
+                  <line x1="2.6296566837107377621621621621621621" y1="1170" x2="105.186267348429510486486486486486484" y2="1170" stroke="blue" stroke-width="15"></line>
+                  <line x1="2.6296566837107377621621621621621621" y1="1170" x2="0" y2="1170" stroke="blue" stroke-width="15"></line>
+                  <line x1="2.6296566837107377621621621621621621" y1="1170" x2="0" y2="1170" stroke="blue" stroke-width="15"></line>
+                  <text x="1490" y="1175" font-family="sans-serif" font-size="12px" fill="black">37</text>
+                  <line x1="0" y1="0" x2="0" y2="1215" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="1220" font-family="sans-serif" font-size="12px" fill="black"> Bone Village - A Town of Excavators </text>
+                  <line x1="0" y1="1215" x2="77.562326869806094105263157894736844" y2="1215" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="1.9390581717451523526315789473684211" y1="1215" x2="0" y2="1215" stroke="blue" stroke-width="15"></line>
+                  <line x1="1.9390581717451523526315789473684211" y1="1215" x2="0" y2="1215" stroke="blue" stroke-width="15"></line>
+                  <line x1="1.9390581717451523526315789473684211" y1="1215" x2="0" y2="1215" stroke="blue" stroke-width="15"></line>
+                  <line x1="1.9390581717451523526315789473684211" y1="1215" x2="0" y2="1215" stroke="blue" stroke-width="15"></line>
+                  <line x1="1.9390581717451523526315789473684211" y1="1215" x2="0" y2="1215" stroke="blue" stroke-width="15"></line>
+                  <line x1="1.9390581717451523526315789473684211" y1="1215" x2="77.562326869806094105263157894736844" y2="1215" stroke="blue" stroke-width="15"></line>
+                  <line x1="1.9390581717451523526315789473684211" y1="1215" x2="0" y2="1215" stroke="blue" stroke-width="15"></line>
+                  <line x1="1.9390581717451523526315789473684211" y1="1215" x2="0" y2="1215" stroke="blue" stroke-width="15"></line>
+                  <text x="770" y="1220" font-family="sans-serif" font-size="12px" fill="black">19</text>
+                  <line x1="0" y1="0" x2="0" y2="1260" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="1265" font-family="sans-serif" font-size="12px" fill="black"> The City of the Ancients - Aerith's Sacrifice </text>
+                  <line x1="0" y1="1260" x2="6.051975792096831622641509433962264" y2="1260" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.1512993948024207905660377358490566" y1="1260" x2="4.271982912068351735849056603773584" y2="1260" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2580989676041295839622641509433962" y1="1260" x2="4.271982912068351735849056603773584" y2="1260" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3648985404058383773584905660377358" y1="1260" x2="4.271982912068351735849056603773584" y2="1260" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.4716981132075471707547169811320754" y1="1260" x2="4.271982912068351735849056603773584" y2="1260" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.578497686009255964150943396226415" y1="1260" x2="4.271982912068351735849056603773584" y2="1260" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.6852972588109647575471698113207546" y1="1260" x2="27.411890352438590301886792452830184" y2="1260" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.7920968316126735509433962264150942" y1="1260" x2="0" y2="1260" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.7920968316126735509433962264150942" y1="1260" x2="4.271982912068351735849056603773584" y2="1260" stroke="blue" stroke-width="15"></line>
+                  <text x="4250" y="1265" font-family="sans-serif" font-size="12px" fill="black">106</text>
+                  <line x1="0" y1="0" x2="0" y2="1305" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="1310" font-family="sans-serif" font-size="12px" fill="black">Icicle Inn - Aerith's Birthplace </text>
+                  <line x1="0" y1="1305" x2="4.8979591836734694" y2="1305" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.122448979591836735" y1="1305" x2="0" y2="1305" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.122448979591836735" y1="1305" x2="0" y2="1305" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.122448979591836735" y1="1305" x2="0" y2="1305" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.122448979591836735" y1="1305" x2="0" y2="1305" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.122448979591836735" y1="1305" x2="0" y2="1305" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.122448979591836735" y1="1305" x2="4.8979591836734694" y2="1305" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.122448979591836735" y1="1305" x2="0" y2="1305" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.122448979591836735" y1="1305" x2="0" y2="1305" stroke="blue" stroke-width="15"></line>
+                  <text x="5610" y="1310" font-family="sans-serif" font-size="12px" fill="black">140</text>
+                  <line x1="0" y1="0" x2="0" y2="1350" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="1355" font-family="sans-serif" font-size="12px" fill="black">Northern Crater - Shinra's Promised Land </text>
+                  <line x1="0" y1="1350" x2="3.474546101815592739622641509433964" y2="1350" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.0868636525453898184905660377358491" y1="1350" x2="2.107511569953720181132075471698112" y2="1350" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1395514417942328230188679245283019" y1="1350" x2="1.423994304022783909433962264150944" y2="1350" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1751512993948024207547169811320755" y1="1350" x2="0.797436810252758988679245283018868" y2="1350" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1950872196511213954716981132075472" y1="1350" x2="1.310074759700961192452830188679244" y2="1350" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2278390886436454252830188679245283" y1="1350" x2="0.797436810252758988679245283018868" y2="1350" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2477750088999644" y1="1350" x2="9.911000355998576" y2="1350" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2677109291562833747169811320754717" y1="1350" x2="0" y2="1350" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2677109291562833747169811320754717" y1="1350" x2="0.797436810252758988679245283018868" y2="1350" stroke="blue" stroke-width="15"></line>
+                  <text x="10610" y="1355" font-family="sans-serif" font-size="12px" fill="black">265</text>
+                  <line x1="0" y1="0" x2="0" y2="1395" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="1400" font-family="sans-serif" font-size="12px" fill="black">Junon - A Public Execution </text>
+                  <line x1="0" y1="1395" x2="1.41723356009070295238095238095238" y2="1395" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.0354308390022675738095238095238095" y1="1395" x2="5.668934240362811785714285714285716" y2="1395" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1771541950113378684523809523809524" y1="1395" x2="4.676870748299319738095238095238096" y2="1395" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2940759637188208619047619047619048" y1="1395" x2="0.56689342403628119047619047619048" y2="1395" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3082482993197278916666666666666668" y1="1395" x2="0.992063492063492071428571428571428" y2="1395" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3330498866213151934523809523809525" y1="1395" x2="0.28344671201814059523809523809524" y2="1395" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3401360544217687083333333333333335" y1="1395" x2="13.60544217687074833333333333333334" y2="1395" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3720238095238095244047619047619049" y1="1395" x2="0" y2="1395" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3720238095238095244047619047619049" y1="1395" x2="1.558956916099773238095238095238096" y2="1395" stroke="blue" stroke-width="15"></line>
+                  <text x="6730" y="1400" font-family="sans-serif" font-size="12px" fill="black">168</text>
+                  <line x1="0" y1="0" x2="0" y2="1440" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="1445" font-family="sans-serif" font-size="12px" fill="black">The World - After Meteor is Summoned </text>
+                  <line x1="0" y1="1440" x2="1.417818644315172748858447488584476" y2="1440" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.0354454661078793187214611872146119" y1="1440" x2="1.33441754759075081278538812785388" y2="1440" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.0688059047976480890410958904109589" y1="1440" x2="0" y2="1440" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.0688059047976480890410958904109589" y1="1440" x2="0" y2="1440" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.0688059047976480890410958904109589" y1="1440" x2="0" y2="1440" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.0688059047976480890410958904109589" y1="1440" x2="0" y2="1440" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.0688059047976480890410958904109589" y1="1440" x2="2.752236191905923561643835616438356" y2="1440" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.0813160693063113780821917808219178" y1="1440" x2="0" y2="1440" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.0813160693063113780821917808219178" y1="1440" x2="0" y2="1440" stroke="blue" stroke-width="15"></line>
+                  <text x="8770" y="1445" font-family="sans-serif" font-size="12px" fill="black">219</text>
+                  <line x1="0" y1="0" x2="0" y2="1485" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="1490" font-family="sans-serif" font-size="12px" fill="black">Mideel - Finding Cloud </text>
+                  <line x1="0" y1="1485" x2="0.881542699724517915151515151515152" y2="1485" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.0220385674931129478787878787878788" y1="1485" x2="4.260789715335169890909090909090908" y2="1485" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1285583103764921951515151515151515" y1="1485" x2="3.673094582185491272727272727272728" y2="1485" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2203856749311294769696969696969697" y1="1485" x2="1.76308539944903580606060606060606" y2="1485" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2644628099173553721212121212121212" y1="1485" x2="1.910009182736455466666666666666668" y2="1485" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3122130394857667587878787878787879" y1="1485" x2="1.028466483011937551515151515151516" y2="1485" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3379247015610651975757575757575758" y1="1485" x2="13.516988062442607903030303030303032" y2="1485" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3930211202938475666666666666666667" y1="1485" x2="0" y2="1485" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3930211202938475666666666666666667" y1="1485" x2="2.203856749311294763636363636363636" y2="1485" stroke="blue" stroke-width="15"></line>
+                  <text x="6610" y="1490" font-family="sans-serif" font-size="12px" fill="black">165</text>
+                  <line x1="0" y1="0" x2="0" y2="1530" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="1535" font-family="sans-serif" font-size="12px" fill="black">North Corel - Huge Materia </text>
+                  <line x1="0" y1="1530" x2="1.783590963139120103448275862068964" y2="1530" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.0445897740784780025862068965517241" y1="1530" x2="0" y2="1530" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.0445897740784780025862068965517241" y1="1530" x2="3.269916765755053517241379310344828" y2="1530" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1263376932223543405172413793103448" y1="1530" x2="2.972651605231866827586206896551724" y2="1530" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2006539833531510112068965517241379" y1="1530" x2="2.972651605231866827586206896551724" y2="1530" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.274970273483947681896551724137931" y1="1530" x2="3.269916765755053517241379310344828" y2="1530" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3567181926278240198275862068965517" y1="1530" x2="14.268727705112960793103448275862068" y2="1530" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.5127824019024970284482758620689657" y1="1530" x2="0" y2="1530" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.5127824019024970284482758620689657" y1="1530" x2="2.67538644470868013793103448275862" y2="1530" stroke="blue" stroke-width="15"></line>
+                  <text x="4650" y="1535" font-family="sans-serif" font-size="12px" fill="black">116</text>
+                  <line x1="0" y1="0" x2="0" y2="1575" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="1580" font-family="sans-serif" font-size="12px" fill="black">Fort Condor - Huge Materia </text>
+                  <line x1="0" y1="1575" x2="2.13599145603417584905660377358492" y2="1575" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.053399786400854396226415094339623" y1="1575" x2="0" y2="1575" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.053399786400854396226415094339623" y1="1575" x2="4.271982912068351735849056603773584" y2="1575" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1601993592025631896226415094339626" y1="1575" x2="4.271982912068351735849056603773584" y2="1575" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2669989320042719830188679245283022" y1="1575" x2="3.55998576005695977358490566037736" y2="1575" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3559985760056959773584905660377362" y1="1575" x2="3.55998576005695977358490566037736" y2="1575" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.4449982200071199716981132075471702" y1="1575" x2="17.799928800284798867924528301886808" y2="1575" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.6407974368102527594339622641509438" y1="1575" x2="0" y2="1575" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.6407974368102527594339622641509438" y1="1575" x2="3.55998576005695977358490566037736" y2="1575" stroke="blue" stroke-width="15"></line>
+                  <text x="4250" y="1580" font-family="sans-serif" font-size="12px" fill="black">106</text>
+                  <line x1="0" y1="0" x2="0" y2="1620" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="1625" font-family="sans-serif" font-size="12px" fill="black">Mideel - Inside Cloud's Mind </text>
+                  <line x1="0" y1="1620" x2="3.921499973739955531380753138075312" y2="1620" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.0980374993434988882845188284518828" y1="1620" x2="4.831848181929588066945606694560668" y2="1620" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2188337038917385899581589958158995" y1="1620" x2="0.84032142294427618410041841004184" y2="1620" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2398417394653454945606694560669455" y1="1620" x2="0.42016071147213809205020920502092" y2="1620" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2503457572521489468619246861924685" y1="1620" x2="0.42016071147213809205020920502092" y2="1620" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2608497750389523991631799163179915" y1="1620" x2="0.210080355736069054393305439330544" y2="1620" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2661017839323541255230125523012551" y1="1620" x2="10.644071357294165020920502092050204" y2="1620" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.309868524710701843514644351464435" y1="1620" x2="0" y2="1620" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.309868524710701843514644351464435" y1="1620" x2="0.42016071147213809205020920502092" y2="1620" stroke="blue" stroke-width="15"></line>
+                  <text x="9570" y="1625" font-family="sans-serif" font-size="12px" fill="black">239</text>
+                  <line x1="0" y1="0" x2="0" y2="1665" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="1670" font-family="sans-serif" font-size="12px" fill="black">Junon - Huge Materia </text>
+                  <line x1="0" y1="1665" x2="6.557747752840748481203007518796992" y2="1665" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.1639436938210187120300751879699248" y1="1665" x2="1.582904629996042736842105263157896" y2="1665" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2035163095709197804511278195488722" y1="1665" x2="1.809033862852620270676691729323308" y2="1665" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2487421561422352872180451127819549" y1="1665" x2="1.582904629996042736842105263157896" y2="1665" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2883147718921363556390977443609023" y1="1665" x2="1.35677539713946520300751879699248" y2="1665" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3222341568206229857142857142857143" y1="1665" x2="1.582904629996042736842105263157896" y2="1665" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3618067725705240541353383458646617" y1="1665" x2="14.472270902820962165413533834586468" y2="1665" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.4013793883204251225563909774436091" y1="1665" x2="0" y2="1665" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.4013793883204251225563909774436091" y1="1665" x2="1.35677539713946520300751879699248" y2="1665" stroke="blue" stroke-width="15"></line>
+                  <text x="5330" y="1670" font-family="sans-serif" font-size="12px" fill="black">133</text>
+                  <line x1="0" y1="0" x2="0" y2="1710" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="1715" font-family="sans-serif" font-size="12px" fill="black">Rocket Town - Huge Materia </text>
+                  <line x1="0" y1="1710" x2="3.91217174433957650349650349650348" y2="1710" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.097804293608489412587412587412587" y1="1710" x2="1.5648686977358306013986013986014" y2="1710" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.136926011051885177622377622377622" y1="1710" x2="1.369260110518851776223776223776224" y2="1710" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1711575138148564720279720279720276" y1="1710" x2="0.7824343488679153006993006993007" y2="1710" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1907183725365543545454545454545451" y1="1710" x2="1.369260110518851776223776223776224" y2="1710" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2249498752995256489510489510489507" y1="1710" x2="0.7824343488679153006993006993007" y2="1710" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2445107340212235314685314685314682" y1="1710" x2="9.780429360848941258741258741258728" y2="1710" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.4254486771969289447552447552447549" y1="1710" x2="0" y2="1710" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.4254486771969289447552447552447549" y1="1710" x2="0.978042936084894125874125874125876" y2="1710" stroke="blue" stroke-width="15"></line>
+                  <text x="5730" y="1715" font-family="sans-serif" font-size="12px" fill="black">143</text>
+                  <line x1="0" y1="0" x2="0" y2="1755" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="1760" font-family="sans-serif" font-size="12px" fill="black">The World - After the Rocket's Failure </text>
+                  <line x1="0" y1="1755" x2="11.080332409972299157894736842105264" y2="1755" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.2770083102493074789473684210526316" y1="1755" x2="0" y2="1755" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2770083102493074789473684210526316" y1="1755" x2="0" y2="1755" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2770083102493074789473684210526316" y1="1755" x2="0" y2="1755" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2770083102493074789473684210526316" y1="1755" x2="0" y2="1755" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2770083102493074789473684210526316" y1="1755" x2="0" y2="1755" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2770083102493074789473684210526316" y1="1755" x2="11.080332409972299157894736842105264" y2="1755" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2770083102493074789473684210526316" y1="1755" x2="0" y2="1755" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2770083102493074789473684210526316" y1="1755" x2="0" y2="1755" stroke="blue" stroke-width="15"></line>
+                  <text x="770" y="1760" font-family="sans-serif" font-size="12px" fill="black">19</text>
+                  <line x1="0" y1="0" x2="0" y2="1800" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="1805" font-family="sans-serif" font-size="12px" fill="black">Lucrecia's Cave - Vincent's Past </text>
+                  <line x1="0" y1="1800" x2="0" y2="1800" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0" y1="1800" x2="0" y2="1800" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="1800" x2="0" y2="1800" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="1800" x2="0" y2="1800" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="1800" x2="0" y2="1800" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="1800" x2="109.375" y2="1800" stroke="blue" stroke-width="15"></line>
+                  <line x1="2.734375" y1="1800" x2="109.375" y2="1800" stroke="blue" stroke-width="15"></line>
+                  <line x1="2.734375" y1="1800" x2="0" y2="1800" stroke="blue" stroke-width="15"></line>
+                  <line x1="2.734375" y1="1800" x2="0" y2="1800" stroke="blue" stroke-width="15"></line>
+                  <text x="650" y="1805" font-family="sans-serif" font-size="12px" fill="black">16</text>
+                  <line x1="0" y1="0" x2="0" y2="1845" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="1850" font-family="sans-serif" font-size="12px" fill="black">Cosmo Canyon - Remembering Aerith </text>
+                  <line x1="0" y1="1845" x2="13.840830449826989647058823529411764" y2="1845" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.3460207612456747411764705882352941" y1="1845" x2="7.68935024990388313725490196078432" y2="1845" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.5382545174932718196078431372549021" y1="1845" x2="6.151480199923106509803921568627452" y2="1845" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.6920415224913494823529411764705884" y1="1845" x2="4.613610149942329882352941176470588" y2="1845" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.8073817762399077294117647058823531" y1="1845" x2="10.76509034986543639215686274509804" y2="1845" stroke="blue" stroke-width="15"></line>
+                  <line x1="1.0765090349865436392156862745098041" y1="1845" x2="3.075740099961553254901960784313724" y2="1845" stroke="blue" stroke-width="15"></line>
+                  <line x1="1.1534025374855824705882352941176472" y1="1845" x2="46.136101499423298823529411764705888" y2="1845" stroke="blue" stroke-width="15"></line>
+                  <line x1="1.3456362937331795490196078431372552" y1="1845" x2="0" y2="1845" stroke="blue" stroke-width="15"></line>
+                  <line x1="1.3456362937331795490196078431372552" y1="1845" x2="4.613610149942329882352941176470588" y2="1845" stroke="blue" stroke-width="15"></line>
+                  <text x="2050" y="1850" font-family="sans-serif" font-size="12px" fill="black">51</text>
+                  <line x1="0" y1="0" x2="0" y2="1890" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="1895" font-family="sans-serif" font-size="12px" fill="black">City of the Ancients - Aerith's Prayer </text>
+                  <line x1="0" y1="1890" x2="14.462809917355371909090909090909092" y2="1890" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.3615702479338842977272727272727273" y1="1890" x2="1.549586776859504136363636363636364" y2="1890" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.4003099173553719011363636363636364" y1="1890" x2="2.066115702479338863636363636363636" y2="1890" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.4519628099173553727272727272727273" y1="1890" x2="1.033057851239669409090909090909092" y2="1890" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.4777892561983471079545454545454546" y1="1890" x2="0.516528925619834727272727272727272" y2="1890" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.4907024793388429761363636363636364" y1="1890" x2="1.033057851239669409090909090909092" y2="1890" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.5165289256198347113636363636363637" y1="1890" x2="20.661157024793388454545454545454548" y2="1890" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.5810950413223140500000000000000001" y1="1890" x2="0" y2="1890" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.5810950413223140500000000000000001" y1="1890" x2="4.648760330578512409090909090909092" y2="1890" stroke="blue" stroke-width="15"></line>
+                  <text x="3530" y="1895" font-family="sans-serif" font-size="12px" fill="black">88</text>
+                  <line x1="0" y1="0" x2="0" y2="1935" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="1940" font-family="sans-serif" font-size="12px" fill="black">Midgar - Shinra's Collapse </text>
+                  <line x1="0" y1="1935" x2="2.7994736989445984126984126984127" y2="1935" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.0699868424736149603174603174603175" y1="1935" x2="1.007810531620055428571428571428572" y2="1935" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.0951821057641163460317460317460318" y1="1935" x2="2.127600011197894793650793650793652" y2="1935" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1483721060440637158730158730158731" y1="1935" x2="0.783852635704487555555555555555556" y2="1935" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.167968421936675904761904761904762" y1="1935" x2="0.895831583662271492063492063492064" y2="1935" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.1903642115282326920634920634920636" y1="1935" x2="1.11978947957783936507936507936508" y2="1935" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2183589485176786761904761904761906" y1="1935" x2="8.734357940707147047619047619047624" y2="1935" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2603510540018476523809523809523811" y1="1935" x2="0" y2="1935" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.2603510540018476523809523809523811" y1="1935" x2="2.015621063240110857142857142857144" y2="1935" stroke="blue" stroke-width="15"></line>
+                  <text x="7570" y="1940" font-family="sans-serif" font-size="12px" fill="black">189</text>
+                  <line x1="0" y1="0" x2="0" y2="1980" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="1985" font-family="sans-serif" font-size="12px" fill="black">The Highwind - What We're Fighting For </text>
+                  <line x1="0" y1="1980" x2="19.424210891432535569892473118279568" y2="1980" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.4856052722858133892473118279569892" y1="1980" x2="10.174586657417042451612903225806452" y2="1980" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.7399699387212394505376344086021505" y1="1980" x2="3.699849693606197247311827956989248" y2="1980" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.8324661810613943817204301075268817" y1="1980" x2="0.924962423401549333333333333333332" y2="1980" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.855590241646433115053763440860215" y1="1980" x2="2.312406058503873290322580645161292" y2="1980" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.9134003931090299473118279569892473" y1="1980" x2="0.924962423401549333333333333333332" y2="1980" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.9365244536940686806451612903225806" y1="1980" x2="37.460978147762747225806451612903224" y2="1980" stroke="blue" stroke-width="15"></line>
+                  <line x1="1.0405827263267429784946236559139784" y1="1980" x2="0" y2="1980" stroke="blue" stroke-width="15"></line>
+                  <line x1="1.0405827263267429784946236559139784" y1="1980" x2="0.924962423401549333333333333333332" y2="1980" stroke="blue" stroke-width="15"></line>
+                  <text x="3730" y="1985" font-family="sans-serif" font-size="12px" fill="black">93</text>
+                  <line x1="0" y1="0" x2="0" y2="2025" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="2030" font-family="sans-serif" font-size="12px" fill="black"> Cosmo Canyon - Bugenhagen's Farewell </text>
+                  <line x1="0" y1="2025" x2="19.2" y2="2025" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.48" y1="2025" x2="0" y2="2025" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.48" y1="2025" x2="0" y2="2025" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.48" y1="2025" x2="0" y2="2025" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.48" y1="2025" x2="57.6" y2="2025" stroke="blue" stroke-width="15"></line>
+                  <line x1="1.92" y1="2025" x2="0" y2="2025" stroke="blue" stroke-width="15"></line>
+                  <line x1="1.92" y1="2025" x2="76.8" y2="2025" stroke="blue" stroke-width="15"></line>
+                  <line x1="1.92" y1="2025" x2="0" y2="2025" stroke="blue" stroke-width="15"></line>
+                  <line x1="1.92" y1="2025" x2="0" y2="2025" stroke="blue" stroke-width="15"></line>
+                  <text x="1010" y="2030" font-family="sans-serif" font-size="12px" fill="black">25</text>
+                  <line x1="0" y1="0" x2="0" y2="2070" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="2075" font-family="sans-serif" font-size="12px" fill="black"> Nibelheim - Memories of a Nightmare </text>
+                  <line x1="0" y1="2070" x2="37.807183364839319478260869565217392" y2="2070" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.9451795841209829869565217391304348" y1="2070" x2="7.561436672967863826086956521739132" y2="2070" stroke="blue" stroke-width="15"></line>
+                  <line x1="1.1342155009451795826086956521739131" y1="2070" x2="0" y2="2070" stroke="blue" stroke-width="15"></line>
+                  <line x1="1.1342155009451795826086956521739131" y1="2070" x2="0" y2="2070" stroke="blue" stroke-width="15"></line>
+                  <line x1="1.1342155009451795826086956521739131" y1="2070" x2="0" y2="2070" stroke="blue" stroke-width="15"></line>
+                  <line x1="1.1342155009451795826086956521739131" y1="2070" x2="0" y2="2070" stroke="blue" stroke-width="15"></line>
+                  <line x1="1.1342155009451795826086956521739131" y1="2070" x2="45.368620037807183304347826086956524" y2="2070" stroke="blue" stroke-width="15"></line>
+                  <line x1="1.1342155009451795826086956521739131" y1="2070" x2="0" y2="2070" stroke="blue" stroke-width="15"></line>
+                  <line x1="1.1342155009451795826086956521739131" y1="2070" x2="0" y2="2070" stroke="blue" stroke-width="15"></line>
+                  <text x="930" y="2075" font-family="sans-serif" font-size="12px" fill="black">23</text>
+                  <line x1="0" y1="0" x2="0" y2="2115" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="2120" font-family="sans-serif" font-size="12px" fill="black"> The World - Before the End </text>
+                  <line x1="0" y1="2115" x2="18.595041322314049545454545454545456" y2="2115" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.4648760330578512386363636363636364" y1="2115" x2="0" y2="2115" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.4648760330578512386363636363636364" y1="2115" x2="0" y2="2115" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.4648760330578512386363636363636364" y1="2115" x2="0" y2="2115" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.4648760330578512386363636363636364" y1="2115" x2="0" y2="2115" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.4648760330578512386363636363636364" y1="2115" x2="0" y2="2115" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.4648760330578512386363636363636364" y1="2115" x2="18.595041322314049545454545454545456" y2="2115" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.4648760330578512386363636363636364" y1="2115" x2="0" y2="2115" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.4648760330578512386363636363636364" y1="2115" x2="0" y2="2115" stroke="blue" stroke-width="15"></line>
+                  <text x="1770" y="2120" font-family="sans-serif" font-size="12px" fill="black">44</text>
+                  <line x1="0" y1="0" x2="0" y2="2160" stroke="black" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-95" y="2165" font-family="sans-serif" font-size="12px" fill="black"> Northern Crater - The Settling of Everything </text>
+                  <line x1="0" y1="2160" x2="8.48337950138504155263157894736842" y2="2160" stroke="Cyan" stroke-width="15"></line>
+                  <line x1="0.2120844875346260388157894736842105" y1="2160" x2="3.808864265927977842105263157894736" y2="2160" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3073060941828254848684210526315789" y1="2160" x2="3.4626038781163435" y2="2160" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.3938711911357340723684210526315789" y1="2160" x2="1.904432132963988921052631578947368" y2="2160" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.4414819944598337953947368421052631" y1="2160" x2="2.077562326869806105263157894736844" y2="2160" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.4934210526315789480263157894736842" y1="2160" x2="1.03878116343490305263157894736842" y2="2160" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.5193905817174515243421052631578947" y1="2160" x2="20.775623268698060973684210526315788" y2="2160" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.5886426592797783940789473684210526" y1="2160" x2="0" y2="2160" stroke="blue" stroke-width="15"></line>
+                  <line x1="0.5886426592797783940789473684210526" y1="2160" x2="1.385041551246537394736842105263156" y2="2160" stroke="blue" stroke-width="15"></line>
+                  <text x="6090" y="2165" font-family="sans-serif" font-size="12px" fill="black">152</text>
+                  <line x1="0" y1="0" x2="0" y2="2205" stroke="black" stroke-width="2"></line>
+               </g>
+            </g>
+         </g></svg></body>
+</html>

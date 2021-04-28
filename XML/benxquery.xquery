@@ -30,6 +30,7 @@ declare variable $scenes := $discs//scene;
                     {
                         for $scene at $pos in $scenes
                         let $speeches := $scenes//Q{}sp
+                        let $sceneName :=$scene/Q{}sp[1]/text()
                         let $count := $scene//Q{}speaker => count()
                         let $barSize := 100
                             
@@ -83,11 +84,11 @@ declare variable $scenes := $discs//scene;
                             return
                             <g>
                                 <text
-                                    x="-75"
+                                    x="-95"
                                     y="{$pos * $yspacer + 5}"
                                     font-family="sans-serif"
                                     font-size="12px"
-                                    fill="black">{$scene}</text>
+                                    fill="black">{$sceneName}</text>
                                 <line 
                                     x1="0"
                                     y1="{$pos * $yspacer}"
