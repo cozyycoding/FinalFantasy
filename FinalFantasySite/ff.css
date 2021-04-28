@@ -4,7 +4,7 @@ font-family: FFFont;
 font-size: 210%;
 text-align: center;
 color: white;
-overflow: hidden;
+overflow: scroll;
 background: #210068;
 background: linear-gradient(45deg, #000080, #000050);
 min-height: 100%;
