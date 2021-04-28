@@ -17,7 +17,7 @@ declare variable $scenes := $discs//scene;
             width="1200"
             height="2500">
             <g
-                transform="translate(150,100)">
+                transform="translate(250,100)">
                 <g>
                     <text
                         x="0"
@@ -84,7 +84,7 @@ declare variable $scenes := $discs//scene;
                             return
                             <g>
                                 <text
-                                    x="-155"
+                                    x="-150"
                                     y="{$pos * $yspacer + 5}"
                                     font-family="sans-serif"
                                     font-size="12px"
@@ -94,69 +94,63 @@ declare variable $scenes := $discs//scene;
                                     y1="{$pos * $yspacer}"
                                     x2="{$CloudBar * $xspacer}"
                                     y2="{$pos * $yspacer}"
-                                    stroke="Cyan"
+                                    stroke="cyan"
                                     stroke-width="15"/>
                                                                 <line 
                                     x1="{$TifaBarStart * $xspacer}"
                                     y1="{$pos * $yspacer}"
                                     x2="{$TifaBar * $xspacer +$TifaBarStart * $xspacer}"
                                     y2="{$pos * $yspacer}"
-                                    stroke="blue"
+                                    stroke="black"
                                     stroke-width="15"/>
                                                                 <line 
                                     x1="{$BarretBarStart * $xspacer}"
                                     y1="{$pos * $yspacer}"
                                     x2="{$BarretBar * $xspacer + $BarretBarStart * $xspacer}"
                                     y2="{$pos * $yspacer}"
-                                    stroke="blue"
+                                    stroke="gray"
                                     stroke-width="15"/>
                                                                 <line 
                                     x1="{$YuffieBarStart * $xspacer}"
                                     y1="{$pos * $yspacer}"
                                     x2="{$YuffieBar * $xspacer +$YuffieBarStart* $xspacer}"
                                     y2="{$pos * $yspacer}"
-                                    stroke="blue"
+                                    stroke="green"
                                     stroke-width="15"/>
                                                                 <line 
                                     x1="{$NanakiBarStart * $xspacer}"
                                     y1="{$pos * $yspacer}"
                                     x2="{$NanakiBar * $xspacer + $NanakiBarStart* $xspacer}"
                                     y2="{$pos * $yspacer}"
-                                    stroke="blue"
+                                    stroke="orange"
                                     stroke-width="15"/>
                                                                 <line 
                                     x1="{$VincentBarStart * $xspacer}"
                                     y1="{$pos * $yspacer}"
                                     x2="{$VincentBar * $xspacer +$VincentBarStart * $xspacer}"
                                     y2="{$pos * $yspacer}"
-                                    stroke="blue"
+                                    stroke="red"
                                     stroke-width="15"/>                            <line 
                                     x1="{$CidBarStart * $xspacer}"
                                     y1="{$pos * $yspacer}"
                                     x2="{$CidBarStart * $xspacer = $CidBarStart * $xspacer}"
                                     y2="{$pos * $yspacer}"
-                                    stroke="blue"
+                                    stroke="yellow"
                                     stroke-width="15"/>
                                                                 <line 
                                     x1="{$AerithBarStart * $xspacer}"
                                     y1="{$pos * $yspacer}"
                                     x2="{$AerithBar * $xspacer + $AerithBarStart * $xspacer}"
                                     y2="{$pos * $yspacer}"
-                                    stroke="blue"
+                                    stroke="pink"
                                     stroke-width="15"/>
                                                                 <line 
                                     x1="{$CaitSithBarStart * $xspacer}"
                                     y1="{$pos * $yspacer}"
                                     x2="{$CaitSithBar * $xspacer + $CaitSithBarStart * $xspacer}"
                                     y2="{$pos * $yspacer}"
-                                    stroke="blue"
+                                    stroke="black"
                                     stroke-width="15"/>
-                                <text
-                                    x="{$count * $xspacer + 10}"
-                                    y="{$pos * $yspacer + 5}"
-                                    font-family="sans-serif"
-                                    font-size="12px"
-                                    fill="black">{$count}</text>
                                 <line
                                     x1="0"
                                     y1="0"
