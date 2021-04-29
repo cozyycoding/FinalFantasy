@@ -12,7 +12,10 @@ position: relative;
 z-index: 1;
 box-shadow: inset -20px 0 38px -18px #000050,inset -3px -13px 65px -18px #000080;
 }
-
+text{
+    font-family: FFFont;
+    font-size: 65%;
+}
 html:before,html:after{
     content:'';
     position:absolute;
@@ -27,6 +30,9 @@ html:before{
     left: -72%;
     opacity: 0.8;
     border-radius: 100%;
+}
+span.cyan{
+    color: cyan;
 }
 html:after{
     background: #000020;

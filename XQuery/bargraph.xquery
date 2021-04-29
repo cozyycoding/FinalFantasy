@@ -1,16 +1,26 @@
-declare variable $disc1 := collection('Final/Disc1/?select=*.xml'); 
-declare variable $disc2 := collection('Final/Disc2/?select=*.xml'); 
-declare variable $disc3 := collection('Final/Disc3/?select=*.xml');
-declare variable $discs := ($disc1, $disc2, $disc3); 
-declare variable $xspacer := 1;
-declare variable $yspacer := 25;
-declare variable $scenes := $discs//scene;
-<html>
-    <head>
-    <title>Lines of dialogue per Character per Scene</title>
-    </head>
-    <body>
-<p>The graph here lets us see the number of times each character speaks. This is relevant to our research question, as it lets us see the impact that each character has on the story.</p>
+
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <title>Lines of dialogue per Character per Scene</title>
+       <link type="text/css" href="ff.css" rel="stylesheet" />
+   </head>
+   <body>
+      <hr/>
+      <!--#include virtual="mainmenu.html" -->
+      <p>The graph here lets us see the number of times each character speaks. This is relevant
+         to our research question, as it lets us see the impact that each character has on
+         the story.</p><br/><p>Proportion of speeches per character per scene</p>
+      <p >Cloud is Cyan</p>
+      <p>Barret is Gray</p>
+      <p>Tifa is Black</p>
+      <p>Yuffie is Green</p>
+      <p>Nanaki is Orange</p>
+      <p>Vincent is Red</p>
+      <p>Cid is Yellow</p>
+      <p>Aerith is Pink</p>
+      <p>Cait Sith is White</p>
+      <p>Other Characters are Blue</p>
+      <svg xmlns="http://www.w3.org/2000
 
         <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -24,7 +34,7 @@ declare variable $scenes := $discs//scene;
                         y="-5"
                         font-family="sans-serif"
                         font-size="20px"
-                        fill="black">Recurring Characters in Final Fantasy</text>
+                        fill="white">Recurring Characters in Final Fantasy</text>
                 </g>
                 <g>
                     {
@@ -91,7 +101,7 @@ declare variable $scenes := $discs//scene;
                                     y="{$pos * $yspacer + 5}"
                                     font-family="sans-serif"
                                     font-size="12px"
-                                    fill="black">{$sceneName}</text>
+                                    fill="white">{$sceneName}</text>
                                 <line 
                                     x1="0"
                                     y1="{$pos * $yspacer}"
@@ -153,7 +163,7 @@ declare variable $scenes := $discs//scene;
                                     y1="{$pos * $yspacer}"
                                     x2="{$CaitSithBar * $xspacer + $CaitSithBarStart * $xspacer}"
                                     y2="{$pos * $yspacer}"
-                                    stroke="purple"
+                                    stroke="white"
                                     stroke-width="15"/>
                                                                                                     <line 
                                     x1="{$otherBarStart * $xspacer}"
@@ -167,12 +177,23 @@ declare variable $scenes := $discs//scene;
                                     y1="0"
                                     x2="0"
                                     y2="{max($pos + 1) * $yspacer}"
-                                    stroke="black"
+                                    stroke="white"
                                     stroke-width="2"/>
                             </g>
                     }
                 </g>
             </g>
-        </svg>
+        </svg>      
+      <p>Cloud is Cyan</p>
+      <p>Barret is Gray</p>
+      <p>Tifa is Black</p>
+      <p>Yuffie is Green</p>
+      <p>Nanaki is Orange</p>
+      <p>Vincent is Red</p>
+      <p>Cid is Yellow</p>
+      <p>Aerith is Pink</p>
+      <p>Cait Sith is White</p>
+      <p>Other Characters are Blue</p>
+      <svg xmlns="http://www.w3.org/2000
     </body>
 </html>
