@@ -1,5 +1,5 @@
 
 function playSound() {
-            var audio = new Audio("Music/sample.mp3");
+            var audio = new Audio("Cursor/cursor.mp3");
     audio.play();
 }
