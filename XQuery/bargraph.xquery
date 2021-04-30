@@ -1,6 +1,12 @@
-
-   <head>
-      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+declare variable $disc1 := collection('../XML/Final/Disc1/?select=*.xml'); 
+declare variable $disc2 := collection('../XML/Final/Disc2/?select=*.xml'); 
+declare variable $disc3 := collection('../XML/Final/Disc3/?select=*.xml');
+declare variable $discs := ($disc1, $disc2, $disc3); 
+declare variable $xspacer := 1;
+declare variable $yspacer := 25;
+declare variable $scenes := $discs//scene;
+<html>
+  <head>
       <title>Lines of dialogue per Character per Scene</title>
        <link type="text/css" href="ff.css" rel="stylesheet" />
    </head>
@@ -20,9 +26,7 @@
       <p>Aerith is Pink</p>
       <p>Cait Sith is White</p>
       <p>Other Characters are Blue</p>
-      <svg xmlns="http://www.w3.org/2000
-
-        <svg
+      <svg
             xmlns="http://www.w3.org/2000/svg"
             width="1100"
             height="2200">
@@ -45,7 +49,7 @@
                             
                             let $count := $scene//Q{}speaker => count()
                             
-                            let $CloudCount := $scene//Q{}sp/Q{}speaker[data(@name) = 'Cloud'] => count()
+                            let $CloudCount := $scene//Q{}sp/Q{}speaker[data(@name) = 'Cloud' or data(@name) = 'Little Cloud'] => count()
                             let $CloudPercent := $CloudCount div $count
                             let $CloudBar := $CloudPercent * $barSize
                             
@@ -64,7 +68,7 @@
                             let $YuffieBar := $YuffiePercent * $barSize
                             let $YuffieBarStart := $BarretBarStart + $BarretBar
                             
-                            let $NanakiCount := $scene//Q{}sp/Q{}speaker[data(@name) = 'Nanaki'] => count() 
+                            let $NanakiCount := $scene//Q{}sp/Q{}speaker[data(@name) = 'Nanaki' or data(@name) = 'Red XIII'] => count() 
                             let $NanakiPercent := $NanakiCount div $count
                             let $NanakiBar := $NanakiPercent * $barSize
                             let $NanakiBarStart := $YuffieBarStart + $YuffieBar
@@ -80,7 +84,7 @@
                             let $CidBar := $CidPercent * $barSize
                             let $CidBarStart := $VincentBarStart + $VincentBar
                             
-                            let $AerithCount := $scene//Q{}sp/Q{}speaker[data(@name) = 'Aerith'] => count()
+                            let $AerithCount := $scene//Q{}sp/Q{}speaker[data(@name) = 'Aerith' or data(@name) = 'Flower Girl'] => count()
                             let $AerithPercent := $AerithCount div $count
                             let $AerithBar := $AerithPercent * $barSize
                             let $AerithBarStart := $CidBarStart + $CidBar
@@ -90,7 +94,7 @@
                             let $CaitSithBar := $CaitSithPercent * $barSize
                             let $CaitSithBarStart := $AerithBar + $AerithBarStart
                             
-                            let $otherCount := $scene//Q{}sp/Q{}speaker[not(contains(@name, 'Cloud')) and not(contains(@name, 'Barret')) and not(contains(@name, 'Tifa')) and not(contains(@name, 'Yuffie')) and not(contains(@name, 'Nanaki')) and not(contains(@name, 'Vincent')) and not(contains(@name, 'Cid')) and not(contains(@name, 'Cait Sith')) and not(contains(@name, 'Aerith'))] => count()
+                            let $otherCount := $scene//Q{}sp/Q{}speaker[not(contains(@name, 'Cloud')) and not(contains(@name, 'Barret')) and not(contains(@name, 'Tifa')) and not(contains(@name, 'Yuffie')) and not(contains(@name, 'Nanaki')) and not(contains(@name, 'Vincent')) and not(contains(@name, 'Cid')) and not(contains(@name, 'Cait Sith')) and not(contains(@name, 'Aerith')) and not(contains(@name,'Red XIII')) and not(contains(@name, 'Flower Girl')) or (contains(@name,'Kid')) or not(contains(@name,',')) or not(contains(@name,'+'))] => count()
                             let $otherPercent := $otherCount div $count
                             let $otherBar := $otherPercent *$barSize
                             let $otherBarStart := $CaitSithBarStart + $CaitSithBar
@@ -194,6 +198,5 @@
       <p>Aerith is Pink</p>
       <p>Cait Sith is White</p>
       <p>Other Characters are Blue</p>
-      <svg xmlns="http://www.w3.org/2000
     </body>
 </html>
