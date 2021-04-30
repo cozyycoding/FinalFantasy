@@ -29,117 +29,117 @@ declare variable $scenes := $discs//scene;
                     <g>
                         <line
                             x1="0"
-                            y1="{0}"
+                            y1="{10+0}"
                             x2="{$CloudCount}"
-                            y2="{0}"
+                            y2="{10+0}"
                             stroke="cyan"
                             stroke-width="15"/>
                         <text
-                            x="{$CloudCount   + 10}"
-                            y="{0}"
+                            x="{$CloudCount}"
+                            y="{15+0}"
                             font-family="sans-serif"
                             font-size="12px"
                             fill="white">{$CloudCount}</text>
                                                     <line
                             x1="0"
-                            y1="{25}"
+                            y1="{10+25}"
                             x2="{$TifaCount}"
-                            y2="{25}"
+                            y2="{10+25}"
                             stroke="black"
                             stroke-width="15"/>
                         <text
-                            x="{$TifaCount   + 10}"
-                            y="{25}"
+                            x="{$TifaCount}"
+                            y="{15+25}"
                             font-family="sans-serif"
                             font-size="12px"
                             fill="gray">{$TifaCount}</text>
                                                             <line
                             x1="0"
-                            y1="{50}"
+                            y1="{10+50}"
                             x2="{$BarretCount}"
-                            y2="{50}"
+                            y2="{10+50}"
                             stroke="grey"
                             stroke-width="15"/>
                         <text
-                            x="{$BarretCount   + 10}"
-                            y="{50}"
+                            x="{$BarretCount  }"
+                            y="{15+50}"
                             font-family="sans-serif"
                             font-size="12px"
                             fill="white">{$BarretCount}</text>
                                                                                         <line
                             x1="0"
-                            y1="{75}"
+                            y1="{10+75}"
                             x2="{$YuffieCount}"
-                            y2="{75}"
+                            y2="{10+75}"
                             stroke="green"
                             stroke-width="15"/>
                         <text
-                            x="{$YuffieCount   + 10}"
-                            y="{75}"
+                            x="{$YuffieCount  }"
+                            y="{15+75}"
                             font-family="sans-serif"
                             font-size="12px"
                             fill="white">{$YuffieCount}</text>                                                            <line
                             x1="0"
-                            y1="{100}"
+                            y1="{10+100}"
                             x2="{$NanakiCount}"
-                            y2="{100}"
+                            y2="{10+100}"
                             stroke="orange"
                             stroke-width="15"/>
                         <text
-                            x="{$NanakiCount   + 10}"
-                            y="{100}"
+                            x="{$NanakiCount }"
+                            y="{15+100}"
                             font-family="sans-serif"
                             font-size="12px"
                             fill="white">{$NanakiCount}</text>
                                                                                         <line
                             x1="0"
-                            y1="{125}"
+                            y1="{10+125}"
                             x2="{$VincentCount}"
-                            y2="{125}"
+                            y2="{10+125}"
                             stroke="red"
                             stroke-width="15"/>
                         <text
-                            x="{$VincentCount   + 10}"
-                            y="{125}"
+                            x="{$VincentCount }"
+                            y="{15+125}"
                             font-family="sans-serif"
                             font-size="12px"
                             fill="white">{$VincentCount}</text>
                                                                                         <line
                             x1="0"
-                            y1="{150}"
+                            y1="{10+150}"
                             x2="{$CidCount}"
-                            y2="{150}"
+                            y2="{10+150}"
                             stroke="yellow"
                             stroke-width="15"/>
                         <text
-                            x="{$CidCount   + 10}"
-                            y="{150}"
+                            x="{$CidCount }"
+                            y="{15+150}"
                             font-family="sans-serif"
                             font-size="12px"
                             fill="white">{$CidCount}</text>
                                                                                         <line
                             x1="0"
-                            y1="{175}"
+                            y1="{10+175}"
                             x2="{$AerithCount}"
-                            y2="{175}"
+                            y2="{10+175}"
                             stroke="pink"
                             stroke-width="15"/>
                         <text
-                            x="{$AerithCount   + 10}"
-                            y="{175}"
+                            x="{$AerithCount}"
+                            y="{15+175}"
                             font-family="sans-serif"
                             font-size="12px"
                             fill="white">{$AerithCount}</text>
                                                                                         <line
                             x1="0"
-                            y1="{200}"
+                            y1="{10+200}"
                             x2="{$CaitSithCount}"
-                            y2="{200}"
+                            y2="{10+200}"
                             stroke="white"
                             stroke-width="15"/>
                         <text
-                            x="{$CaitSithCount   + 10}"
-                            y="{200}"
+                            x="{$CaitSithCount}"
+                            y="{15+200}"
                             font-family="sans-serif"
                             font-size="12px"
                             fill="white">{$CaitSithCount}</text>
