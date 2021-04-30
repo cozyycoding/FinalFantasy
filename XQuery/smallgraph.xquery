@@ -8,7 +8,7 @@ declare variable $scenes := $discs//scene;
 <svg
     xmlns="http://www.w3.org/2000/svg"
     width="2500"
-    height="2200">
+    height="500">
     <g
         transform="translate(250,100)">
 
@@ -148,8 +148,6 @@ declare variable $scenes := $discs//scene;
                             y2="225"
                             stroke="white"
                             />
-                    
-
                     </g>
             }
         </g></g></svg>

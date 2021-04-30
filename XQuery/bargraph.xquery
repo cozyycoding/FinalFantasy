@@ -29,7 +29,7 @@ declare variable $scenes := $discs//scene;
       <svg
             xmlns="http://www.w3.org/2000/svg"
             width="1100"
-            height="2200">
+            height="1350">
             <g
                 transform="translate(250,100)">
                 <g>
