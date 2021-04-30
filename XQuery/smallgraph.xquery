@@ -2,7 +2,7 @@ declare variable $disc1 := collection('../XML/Final/Disc1/?select=*.xml');
 declare variable $disc2 := collection('../XML/Final/Disc2/?select=*.xml');
 declare variable $disc3 := collection('../XML/Final/Disc3/?select=*.xml');
 declare variable $discs := ($disc1, $disc2, $disc3);
-declare variable $xspacer := 20;
+declare variable $xspacer := .5;
 declare variable $yspacer := 25;
 declare variable $scenes := $discs//scene;
 <svg
@@ -30,12 +30,12 @@ declare variable $scenes := $discs//scene;
                         <line
                             x1="0"
                             y1="{10+0}"
-                            x2="{$CloudCount}"
+                            x2="{$xspacer *$CloudCount}"
                             y2="{10+0}"
                             stroke="cyan"
                             stroke-width="15"/>
                         <text
-                            x="{$CloudCount}"
+                            x="{$xspacer *$CloudCount}"
                             y="{15+0}"
                             font-family="sans-serif"
                             font-size="12px"
@@ -43,12 +43,12 @@ declare variable $scenes := $discs//scene;
                                                     <line
                             x1="0"
                             y1="{10+25}"
-                            x2="{$TifaCount}"
+                            x2="{$xspacer *$TifaCount}"
                             y2="{10+25}"
                             stroke="black"
                             stroke-width="15"/>
                         <text
-                            x="{$TifaCount}"
+                            x="{$xspacer *$TifaCount}"
                             y="{15+25}"
                             font-family="sans-serif"
                             font-size="12px"
@@ -56,12 +56,12 @@ declare variable $scenes := $discs//scene;
                                                             <line
                             x1="0"
                             y1="{10+50}"
-                            x2="{$BarretCount}"
+                            x2="{$xspacer *$BarretCount}"
                             y2="{10+50}"
                             stroke="grey"
                             stroke-width="15"/>
                         <text
-                            x="{$BarretCount  }"
+                            x="{$xspacer *$BarretCount  }"
                             y="{15+50}"
                             font-family="sans-serif"
                             font-size="12px"
@@ -69,24 +69,24 @@ declare variable $scenes := $discs//scene;
                                                                                         <line
                             x1="0"
                             y1="{10+75}"
-                            x2="{$YuffieCount}"
+                            x2="{$xspacer *$YuffieCount}"
                             y2="{10+75}"
                             stroke="green"
                             stroke-width="15"/>
                         <text
-                            x="{$YuffieCount  }"
+                            x="{$xspacer *$YuffieCount  }"
                             y="{15+75}"
                             font-family="sans-serif"
                             font-size="12px"
                             fill="white">{$YuffieCount}</text>                                                            <line
                             x1="0"
                             y1="{10+100}"
-                            x2="{$NanakiCount}"
+                            x2="{$xspacer *$NanakiCount}"
                             y2="{10+100}"
                             stroke="orange"
                             stroke-width="15"/>
                         <text
-                            x="{$NanakiCount }"
+                            x="{$xspacer *$NanakiCount }"
                             y="{15+100}"
                             font-family="sans-serif"
                             font-size="12px"
@@ -94,12 +94,12 @@ declare variable $scenes := $discs//scene;
                                                                                         <line
                             x1="0"
                             y1="{10+125}"
-                            x2="{$VincentCount}"
+                            x2="{$xspacer *$VincentCount}"
                             y2="{10+125}"
                             stroke="red"
                             stroke-width="15"/>
                         <text
-                            x="{$VincentCount }"
+                            x="{$xspacer *$VincentCount }"
                             y="{15+125}"
                             font-family="sans-serif"
                             font-size="12px"
@@ -107,12 +107,12 @@ declare variable $scenes := $discs//scene;
                                                                                         <line
                             x1="0"
                             y1="{10+150}"
-                            x2="{$CidCount}"
+                            x2="{$xspacer *$CidCount}"
                             y2="{10+150}"
                             stroke="yellow"
                             stroke-width="15"/>
                         <text
-                            x="{$CidCount }"
+                            x="{$xspacer *$CidCount }"
                             y="{15+150}"
                             font-family="sans-serif"
                             font-size="12px"
@@ -120,12 +120,12 @@ declare variable $scenes := $discs//scene;
                                                                                         <line
                             x1="0"
                             y1="{10+175}"
-                            x2="{$AerithCount}"
+                            x2="{$xspacer *$AerithCount}"
                             y2="{10+175}"
                             stroke="pink"
                             stroke-width="15"/>
                         <text
-                            x="{$AerithCount}"
+                            x="{$xspacer *$AerithCount}"
                             y="{15+175}"
                             font-family="sans-serif"
                             font-size="12px"
@@ -133,12 +133,12 @@ declare variable $scenes := $discs//scene;
                                                                                         <line
                             x1="0"
                             y1="{10+200}"
-                            x2="{$CaitSithCount}"
+                            x2="{$xspacer *$CaitSithCount}"
                             y2="{10+200}"
                             stroke="white"
                             stroke-width="15"/>
                         <text
-                            x="{$CaitSithCount}"
+                            x="{$xspacer *$CaitSithCount}"
                             y="{15+200}"
                             font-family="sans-serif"
                             font-size="12px"
